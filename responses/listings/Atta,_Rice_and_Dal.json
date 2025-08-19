@@ -1,0 +1,4704 @@
+[
+  {
+    "display_name": "Tata Sampann Unpolished Toor/Arhar Dal",
+    "brand": "Tata Sampann",
+    "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+    "product_id": "TVDSXRJGU0",
+    "variations": [
+      {
+        "id": "XYV5DO1646",
+        "display_name": "Tata Sampann Unpolished Toor/Arhar Dal",
+        "price_mrp": 630,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Toor Dal",
+        "sub_category_l4": "Split",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Unpolished Toor/Arhar Dal",
+        "images": [
+          "28e49fc1a3f77d8886972abed0c4cba4",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/8ef154d6-60c3-41bd-aedb-60ee2760769f_2628_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/f7aea799-1b7d-4f71-99f4-8edfdba009a6_2628_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/8fa6e024-1f20-41e8-b98e-ba23246edca8_2628_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/2f0e5999-d7c6-47da-a368-dc506d7c5f3f_2628_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "3",
+        "sku_quantity_with_combo": "1 kg x 3",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 3000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "830U98WZ3F",
+        "display_name": "Tata Sampann Unpolished Toor/Arhar Dal",
+        "price_mrp": 420,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Toor Dal",
+        "sub_category_l4": "Split",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Unpolished Toor/Arhar Dal",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/16/fbdc1bda-a977-4013-891e-7ca1e2873e0e_500427.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/8ef154d6-60c3-41bd-aedb-60ee2760769f_2628_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/f7aea799-1b7d-4f71-99f4-8edfdba009a6_2628_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/8fa6e024-1f20-41e8-b98e-ba23246edca8_2628_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/2f0e5999-d7c6-47da-a368-dc506d7c5f3f_2628_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": "Combos"
+      },
+      {
+        "id": "49RQK0VB65",
+        "display_name": "Tata Sampann Unpolished Toor/Arhar Dal",
+        "price_mrp": 210,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Toor Dal",
+        "sub_category_l4": "Split",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Unpolished Toor/Arhar Dal",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/ee7bda94-246d-4314-b6f2-f00c7f3b4793_2628_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/8ef154d6-60c3-41bd-aedb-60ee2760769f_2628_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/f7aea799-1b7d-4f71-99f4-8edfdba009a6_2628_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/8fa6e024-1f20-41e8-b98e-ba23246edca8_2628_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/2f0e5999-d7c6-47da-a368-dc506d7c5f3f_2628_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Nature Fresh Mp Superior Atta",
+    "brand": "Nature Fresh",
+    "brand_id": "6d23fa97beb62a0ad4326f28bed2f5865673b6a3",
+    "product_id": "9I9ERD1O50",
+    "variations": [
+      {
+        "id": "NCG205VZ8V",
+        "display_name": "Nature Fresh Mp Superior Atta",
+        "price_mrp": 305,
+        "brand": "Nature Fresh",
+        "brand_id": "6d23fa97beb62a0ad4326f28bed2f5865673b6a3",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Wheat Atta",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Mp Superior Atta",
+        "images": [
+          "5e8554243b822642dd20efdd062a0dd1",
+          "1f9e0f39955423f4af0bfa44fcbea0ee",
+          "2261920e8521173b7467b9f2da23a933"
+        ],
+        "images_v2": [],
+        "quantity": "5",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Aashirvaad Superior MP Atta",
+    "brand": "Aashirvaad",
+    "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+    "product_id": "D7RY5RSB1Y",
+    "variations": [
+      {
+        "id": "YOX3SUP0V6",
+        "display_name": "Aashirvaad Superior MP Atta",
+        "price_mrp": 156,
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Wheat Atta",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Superior MP Atta",
+        "images": [
+          "72395cb6f027f52010cc9be08d5b5e40",
+          "ehz7py5ixi7helarikb4",
+          "ddweeekejdasi53xpyie"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "R0V5RX88KA",
+        "display_name": "Aashirvaad Superior MP Atta",
+        "price_mrp": 78,
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Wheat Atta",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Superior MP Atta",
+        "images": [
+          "223be322c29bbe4875f03f03b656b968",
+          "ehz7py5ixi7helarikb4",
+          "ddweeekejdasi53xpyie"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Aashirvaad Organic Whole Wheat Atta",
+    "brand": "Aashirvaad",
+    "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+    "product_id": "RZI90I96P0",
+    "variations": [
+      {
+        "id": "8CAYQ6NUKS",
+        "display_name": "Aashirvaad Organic Whole Wheat Atta",
+        "price_mrp": 411,
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Wheat Atta",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Organic Whole Wheat Atta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/542571a4-ad5d-4999-862e-df077d0ed6c9_20332_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/9474c806-3276-4040-9da6-eab3397bdd82_20332_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/71d9756f-3a84-49ed-810b-7efc35aa3eb6_20332_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/c71631a4-f18c-4c63-ad4b-579fb68df2d5_20332_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/8a3ad622-3007-4047-ad98-c7df410acce1_20332_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "5",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Aashirvaad Superior MP Atta",
+    "brand": "Aashirvaad",
+    "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+    "product_id": "EZVKNQ15A5",
+    "variations": [
+      {
+        "id": "PYVPWAXJFJ",
+        "display_name": "Aashirvaad Superior MP Atta",
+        "price_mrp": 638,
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Wheat Atta",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Superior MP Atta",
+        "images": [
+          "5043bc41be3e942e2fc4b8e8cc122915",
+          "44d214b0147bf3510b2638387966a54a",
+          "0be5a73dc85707073aeea4e0e95d40ba",
+          "dcbebbd66c6da9dca0a528c311742d01",
+          "574791167994f6ea952fa66194dbcb55",
+          "d352b20068b2e7a71d57cb651919e13b"
+        ],
+        "images_v2": [],
+        "quantity": "10",
+        "sku_quantity_with_combo": "10 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Aashirvaad Multigrains Atta",
+    "brand": "Aashirvaad",
+    "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+    "product_id": "AQ2HCFUEI0",
+    "variations": [
+      {
+        "id": "1MZJM5BCG8",
+        "display_name": "Aashirvaad Multigrains Atta",
+        "price_mrp": 802,
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Multigrain Atta",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Multigrains Atta",
+        "images": [
+          "21848c34409bbf6991fce054aada226f",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/bab10352-1552-4129-b91b-2eef26e57104_199_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/32988ab3-16bd-45f0-b049-7cd209473da2_199_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/36ce2d3a-8b72-46f7-88e0-bb3ae9f3c2d3_199_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/464f84be-be84-4953-af0c-3aa7c3f775ea_199_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/4411a2f3-6d5f-46b8-90d8-6a65f962c8a2_199_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "5 kg x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "8XZJ832R33",
+        "display_name": "Aashirvaad Multigrains Atta",
+        "price_mrp": 401,
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Multigrain Atta",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Multigrains Atta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/01e61d83-e6e3-4b1f-8e95-1c6c28a3f610_199_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/bab10352-1552-4129-b91b-2eef26e57104_199_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/32988ab3-16bd-45f0-b049-7cd209473da2_199_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/36ce2d3a-8b72-46f7-88e0-bb3ae9f3c2d3_199_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/464f84be-be84-4953-af0c-3aa7c3f775ea_199_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/4411a2f3-6d5f-46b8-90d8-6a65f962c8a2_199_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "5",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Masoor Dal (Split)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "MIXKAJZ8E3",
+    "variations": [
+      {
+        "id": "HQNF3W2B16",
+        "display_name": "Supreme Harvest Masoor Dal (Split)",
+        "price_mrp": 99,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Masoor Dal",
+        "sub_category_l4": "Split",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Masoor Dal (Split)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/16/aaaa4303-979d-4d15-a7bb-a5e24e9c50bd_15582_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/16/5ffd2ecc-ea30-4183-8c5e-5ef5d5647888_15582_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/16/6d69bcf8-7fa5-4e47-9ace-6394c7639dd9_15582_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Aashirvaad Select Sharbati Atta",
+    "brand": "Aashirvaad",
+    "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+    "product_id": "7KTP75QZHA",
+    "variations": [
+      {
+        "id": "GIT0Q79ADP",
+        "display_name": "Aashirvaad Select Sharbati Atta",
+        "price_mrp": 166,
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Sharbati Atta",
+        "sub_category_l4": "Premium Wheat",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Select Sharbati Atta",
+        "images": [
+          "5d5d6270421129b2eb16bde113bc6d05",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/46e898c3-d205-4b9c-a242-c152c2db6b38_198_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/035b71af-1d2a-4699-8c34-cecd5c3d478d_198_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/782d69ba-50cf-4eb8-a17f-5c66ad05ea6f_198_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/0251cbc4-d530-46c4-bbc9-e027bd9fda11_198_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/4e04d672-7fb2-4c20-8a00-a0abef4a5a63_198_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "PVT6D1QXF8",
+        "display_name": "Aashirvaad Select Sharbati Atta",
+        "price_mrp": 83,
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Sharbati Atta",
+        "sub_category_l4": "Premium Wheat",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Select Sharbati Atta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/fdb42acf-8897-4b71-b262-af3757e973c7_198_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/46e898c3-d205-4b9c-a242-c152c2db6b38_198_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/035b71af-1d2a-4699-8c34-cecd5c3d478d_198_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/782d69ba-50cf-4eb8-a17f-5c66ad05ea6f_198_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/0251cbc4-d530-46c4-bbc9-e027bd9fda11_198_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/4e04d672-7fb2-4c20-8a00-a0abef4a5a63_198_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Tata Sampann Unpolished Toor Dal (Arhar Dal)",
+    "brand": "Tata Sampann",
+    "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+    "product_id": "CZN16LX6D0",
+    "variations": [
+      {
+        "id": "CX4PW1U7RC",
+        "display_name": "Tata Sampann Unpolished Toor Dal (Arhar Dal)",
+        "price_mrp": 113,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Toor Dal",
+        "sub_category_l4": "Split",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Unpolished Toor Dal (Arhar Dal)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/15569b11-71e5-4f10-8f42-f892cb9c4c0e_1840_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/fc7379ac-e66e-4bb3-95a6-d6ac10870e81_1840_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/c393b178-9e67-435e-934e-0929845eb094_1840_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/df90a45b-815e-4b4f-ad49-d5037f78382a_1840_5.png",
+          "f43e42f0a1fd77d97c93cfaa7eaab862"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Tata Sampann Unpolished Kabuli Chana (Big Size)",
+    "brand": "Tata Sampann",
+    "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+    "product_id": "9PKRF6ETWE",
+    "variations": [
+      {
+        "id": "CTN3IARDGF",
+        "display_name": "Tata Sampann Unpolished Kabuli Chana (Big Size)",
+        "price_mrp": 114,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Kabuli Chana",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Unpolished Kabuli Chana (Big Size)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/5e4b8a71-2d3f-4f42-8c70-4a286cd0f413_2624_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/aaf6949d-215b-4f79-8f7c-c19d52d811c5_2624_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/7191af3c-6909-44c2-a58e-f29f93f82e0a_2624_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/b4ededb8-ae62-4d51-b63e-34a70dbcad9e_2624_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/a4a0b346-5800-4401-a415-4b6e7eaa43d8_2624_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/ff0aeb4a-3cad-4bc6-ab1f-ff9b77529de3_2624_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Aashirvaad Multigrains Atta",
+    "brand": "Aashirvaad",
+    "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+    "product_id": "31J09ROOGV",
+    "variations": [
+      {
+        "id": "7JNVCCC561",
+        "display_name": "Aashirvaad Multigrains Atta",
+        "price_mrp": 166,
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Multigrain Atta",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Multigrains Atta",
+        "images": [
+          "5b9e44878ddf27f4e4a5781869290e17",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/7054ab7b-b539-4211-99ea-71c08d083940_296_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/c45e4a8f-616c-49a1-8a7a-f45284809708_296_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/4fc74ce3-d67c-4f57-b558-cf69a3bc12b2_296_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/2fc362c9-e88b-46af-999f-5b1474e58f14_296_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/d63add01-c72c-4288-9b71-8e3fa52df0d8_296_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "1V1494SKCR",
+        "display_name": "Aashirvaad Multigrains Atta",
+        "price_mrp": 83,
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Multigrain Atta",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Multigrains Atta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/8c774dbc-f353-44e9-968b-84c21d4ef9c8_296_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/7054ab7b-b539-4211-99ea-71c08d083940_296_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/c45e4a8f-616c-49a1-8a7a-f45284809708_296_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/4fc74ce3-d67c-4f57-b558-cf69a3bc12b2_296_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/2fc362c9-e88b-46af-999f-5b1474e58f14_296_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/d63add01-c72c-4288-9b71-8e3fa52df0d8_296_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Aashirvaad Select Sharbati Atta",
+    "brand": "Aashirvaad",
+    "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+    "product_id": "BEOLDFMBIB",
+    "variations": [
+      {
+        "id": "H9VO53J3XR",
+        "display_name": "Aashirvaad Select Sharbati Atta",
+        "price_mrp": 401,
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Sharbati Atta",
+        "sub_category_l4": "Premium Wheat",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Select Sharbati Atta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/5c6ed305-fbe4-4127-a05b-c52f11fb02f0_1771_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/3692dcfa-8ec5-4fdc-999c-fb97ad37946f_1771_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/f3e23367-e794-42a1-9112-1408453e1183_1771_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/39f82395-da65-4cd0-9762-9ae01d924279_1771_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/c9dc45ce-a837-4092-b2f1-d818654c9477_1771_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/8690a277-8808-4bc4-ad79-d7d421ff5650_1771_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "5",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Brown Chana",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "7JX9QN3ULQ",
+    "variations": [
+      {
+        "id": "I4JVPBAYU6",
+        "display_name": "Supreme Harvest Brown Chana",
+        "price_mrp": 154,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Chana",
+        "sub_category_l4": "Black Chana",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Brown Chana",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/0b79a683-28b6-4668-8a20-cae37813a31c_595079_1.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "500 g x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "X2UP4039S4",
+        "display_name": "Supreme Harvest Brown Chana",
+        "price_mrp": 154,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Chana",
+        "sub_category_l4": "Black Chana",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Brown Chana",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/9/252fbd7f-52a7-4dd1-a180-3b366fa29c35_15624.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "d0ea1c898952f277cd12c5bf935dafad",
+          "cdqddtpi9veuhys73gjl"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "5TQCNH2DDQ",
+        "display_name": "Supreme Harvest Brown Chana",
+        "price_mrp": 77,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Chana",
+        "sub_category_l4": "Black Chana",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Brown Chana",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/9/62c794b8-cc84-4dd5-ab88-d7c4986235d1_15623.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Aashirvaad Superior MP Atta",
+    "brand": "Aashirvaad",
+    "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+    "product_id": "NUNK7O88IL",
+    "variations": [
+      {
+        "id": "0KIW4O66NP",
+        "display_name": "Aashirvaad Superior MP Atta",
+        "price_mrp": 710,
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Wheat Atta",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Superior MP Atta",
+        "images": [
+          "007dd3ac8d59d6773b7eedfd7b58327a",
+          "NI_CATALOG/IMAGES/CIW/2024/12/26/0e9399c5-2b64-490b-99f4-596e7e2a3656_491_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/26/07f399d8-5627-4a49-babb-3c30882414bb_491_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/27/de204f4b-3c49-42cb-b600-805f3ac16ea8_491_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/26/6a8f38ad-933d-4004-8208-3591c57005fc_491_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "5 kg x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "VQ47BLO4TT",
+        "display_name": "Aashirvaad Superior MP Atta",
+        "price_mrp": 355,
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Wheat Atta",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Superior MP Atta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/26/fe9ca14d-a31b-469c-9ba1-7a868b8112ec_491_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/26/0e9399c5-2b64-490b-99f4-596e7e2a3656_491_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/26/07f399d8-5627-4a49-babb-3c30882414bb_491_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/27/de204f4b-3c49-42cb-b600-805f3ac16ea8_491_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/26/6a8f38ad-933d-4004-8208-3591c57005fc_491_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "5",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Fortune Chakki Fresh Atta",
+    "brand": "Fortune",
+    "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+    "product_id": "MW5MP8UE57",
+    "variations": [
+      {
+        "id": "QYW4URRAPA",
+        "display_name": "Fortune Chakki Fresh Atta",
+        "price_mrp": 360,
+        "brand": "Fortune",
+        "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Wheat Atta",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chakki Fresh Atta",
+        "images": [
+          "f2728b1b3795b77849a8647d9a778f15",
+          "yqwp5ibm7mpqx6e0lgku",
+          "yssksdd50vl9l9vreep9"
+        ],
+        "images_v2": [],
+        "quantity": "5",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Fortune Rozana Gold Basmati Rice",
+    "brand": "Fortune",
+    "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+    "product_id": "NFG7H3FNN6",
+    "variations": [
+      {
+        "id": "6SNVTDJ9FX",
+        "display_name": "Fortune Rozana Basmati Rice",
+        "price_mrp": 260,
+        "brand": "Fortune",
+        "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Basmati Rice",
+        "sub_category_l4": "Rozana Rice",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Rozana Basmati Rice",
+        "images": [
+          "1654923edc6e56d506d2551b3355b455",
+          "NI_CATALOG/IMAGES/CIW/2025/1/8/391edb8e-971d-47f8-9654-196390d1b548_455_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/8/542d4d31-15ae-4688-addb-ed538e071ca9_455_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/8/cb65b6cc-44ac-48fa-a486-5ba790c99e29_455_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "PQNQAXMSS1",
+        "display_name": "Fortune Rozana Gold Basmati Rice",
+        "price_mrp": 130,
+        "brand": "Fortune",
+        "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Basmati Rice",
+        "sub_category_l4": "Rozana Rice",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Rozana Gold Basmati Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/8/4db8922f-1835-45a9-8764-839532e8e401_455_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/8/391edb8e-971d-47f8-9654-196390d1b548_455_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/8/542d4d31-15ae-4688-addb-ed538e071ca9_455_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/8/cb65b6cc-44ac-48fa-a486-5ba790c99e29_455_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Groundnut (Raw Peanut)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "SLMMKQFN91",
+    "variations": [
+      {
+        "id": "H849KY218C",
+        "display_name": "Supreme Harvest Groundnut (Raw Peanut)",
+        "price_mrp": 132,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Groundnut",
+        "sub_category_l4": "Raw",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Groundnut (Raw Peanut)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/a059f25c-e0b8-4a78-be03-2271fcfaaa9b_15631.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Sona Masoori Raw Rice",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "A2X30W9TEU",
+    "variations": [
+      {
+        "id": "39JOHMXNLO",
+        "display_name": "Supreme Harvest Sona Masoori Raw Rice",
+        "price_mrp": 210,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Sona Masuri Rice",
+        "sub_category_l4": "Raichur Raw",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Sona Masoori Raw Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/9/9fe093c8-ada4-4523-b74f-e35d9d38bed9_ricericeproducts_YZCJ7RCGKF_MN.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "DBHGZIGNMA",
+        "display_name": "Supreme Harvest Sona Masoori Raw Rice",
+        "price_mrp": 105,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Sona Masuri Rice",
+        "sub_category_l4": "Raichur Raw",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Sona Masoori Raw Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/4/6e6f6994-0a8e-42ff-b008-63c9f8c8547c_15549_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/4/db1856b1-8855-4edf-8599-17b60f2819df_15549_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/4/2175c2c1-2a63-4b0e-a131-752b246ed10a_15549_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Tata Sampann Unpolished Moong Dal",
+    "brand": "Tata Sampann",
+    "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+    "product_id": "HPSMBHWP2R",
+    "variations": [
+      {
+        "id": "1D0SJKVIJX",
+        "display_name": "Tata Sampann Unpolished Moong Dal",
+        "price_mrp": 200,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Moong Dal",
+        "sub_category_l4": "Split",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Unpolished Moong Dal",
+        "images": [
+          "ef73cb5c28123270bc8c4362936760bc",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/34cfd9b0-65a7-4c69-838c-d2fec91176ba_2622_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/b8bf737e-3e3f-4ef5-b3df-7c27975878e8_2622_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/66cc8c80-1fba-4058-b3f1-98cd87f6f6a8_2622_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/b2b9d31a-cd9b-4732-a2be-3fecfd5cb6d0_2622_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/5a8b0b01-11f9-40ec-b099-ac614e433be1_2622_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "500 g x 2",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "4YZ1X2DIFZ",
+        "display_name": "Tata Sampann Unpolished Moong Dal",
+        "price_mrp": 100,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Moong Dal",
+        "sub_category_l4": "Split",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Unpolished Moong Dal",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/4c9ab90b-c043-4f88-919c-955ac56fa3a9_2622_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/34cfd9b0-65a7-4c69-838c-d2fec91176ba_2622_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/b8bf737e-3e3f-4ef5-b3df-7c27975878e8_2622_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/66cc8c80-1fba-4058-b3f1-98cd87f6f6a8_2622_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/b2b9d31a-cd9b-4732-a2be-3fecfd5cb6d0_2622_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/5a8b0b01-11f9-40ec-b099-ac614e433be1_2622_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Tata Sampann Unpolished Kala Chana",
+    "brand": "Tata Sampann",
+    "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+    "product_id": "ZC0PRJGRB8",
+    "variations": [
+      {
+        "id": "7SRQVWYFF9",
+        "display_name": "Tata Sampann Unpolished Kala Chana",
+        "price_mrp": 76,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Chana",
+        "sub_category_l4": "Black Chana",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Unpolished Kala Chana",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/3582a617-f39c-463b-8eee-e69b1db3369f_394_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/cf974b87-c7cc-4775-a22c-860c3041b49c_394_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/018703b2-8c9b-4b89-b1dc-edc5a79ac5f6_2393_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/8c7dfc84-a583-4a64-bba5-a930bcf929d8_2393_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/81f7dd6e-e9a5-4629-913a-9e63fb3ba6ea_394_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/6b35139e-241a-435c-a516-c85e4f67afd3_394_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Daawat Basmati Rice - Rozana Super",
+    "brand": "Daawat",
+    "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+    "product_id": "6ALQEHJPGO",
+    "variations": [
+      {
+        "id": "IAIHQ3X4Z6",
+        "display_name": "Daawat Rozana Super Basmati Rice",
+        "price_mrp": 200,
+        "brand": "Daawat",
+        "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Basmati Rice",
+        "sub_category_l4": "Rozana Rice",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Rozana Super Basmati Rice",
+        "images": [
+          "683da6bd4a7a365bf849ca4b09f9d4fe",
+          "NI_CATALOG/IMAGES/CIW/2024/4/5/620cef80-c6c5-4cc7-95d5-eb7b27b75b01_ricericeproducts_M5HYNDCQNX_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/5/0da64497-d87a-4874-80ca-1b8a1c3a8e43_ricericeproducts_M5HYNDCQNX_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "FP2T3XH18W",
+        "display_name": "Daawat Basmati Rice - Rozana Super",
+        "price_mrp": 100,
+        "brand": "Daawat",
+        "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Basmati Rice",
+        "sub_category_l4": "Rozana Rice",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Basmati Rice - Rozana Super",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/a44b7a0f-2db8-4035-a6e8-53d8e5605a98_450_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/5395c637-115d-4277-9e6a-f2daaec1c9ea_450_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/4fdf625a-31ee-4da6-aa64-af5293806685_450_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/f590ca9a-356a-4766-8a40-d6c896a38bd1_450_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/6b2a52fa-fdd2-482d-b693-dff99059cb5d_450_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/4695b491-5a22-4282-8550-97aa65bc5be0_450_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/9211dcd6-620c-440f-aeb9-3cb69c083716_450_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/99ecbd5b-8edc-46ba-aa70-74f691079c3e_450_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "India Gate Basmati Rice Feast Rozzana",
+    "brand": "India Gate",
+    "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+    "product_id": "0251FL54EJ",
+    "variations": [
+      {
+        "id": "UV2HTHMAPZ",
+        "display_name": "India Gate Basmati Rice - Feast Rozzana",
+        "price_mrp": 236,
+        "brand": "India Gate",
+        "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Basmati Rice",
+        "sub_category_l4": "Rozana Rice",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Basmati Rice - Feast Rozzana",
+        "images": [
+          "c5acd1ebd3c345c663637f68f59a3d19",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/d0f7ef69-f412-4614-a477-a376cf53342e_2281_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/8482bb32-fcc0-4dc5-8f2e-55cd71d9b186_2281_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/1157d888-c91a-40df-b319-c0a95882877c_2281_4.png",
+          "681af77591b2454ea4ab4daccee30f7e",
+          "6719ca250f3c455e31bdf48fa94df09b"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "W1DAY2QCN3",
+        "display_name": "India Gate Basmati Rice Feast Rozzana",
+        "price_mrp": 118,
+        "brand": "India Gate",
+        "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Basmati Rice",
+        "sub_category_l4": "Rozana Rice",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Basmati Rice Feast Rozzana",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/802f7502-91d5-44ac-b619-8a232331ec2c_2281_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/d0f7ef69-f412-4614-a477-a376cf53342e_2281_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/8482bb32-fcc0-4dc5-8f2e-55cd71d9b186_2281_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/1157d888-c91a-40df-b319-c0a95882877c_2281_4.png",
+          "681af77591b2454ea4ab4daccee30f7e",
+          "6719ca250f3c455e31bdf48fa94df09b"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Tata Sampann Unpolished Chana Dal",
+    "brand": "Tata Sampann",
+    "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+    "product_id": "9P52FHSTTQ",
+    "variations": [
+      {
+        "id": "DBF3Y3QUI6",
+        "display_name": "Tata Sampann Unpolished Chana Dal",
+        "price_mrp": 75,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Chana Dal",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Unpolished Chana Dal",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/da901f0b-981d-4d6b-a952-70e85aa7dee0_2620_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/ec93f437-9357-4ff0-b7b0-6a0216ee1116_2620_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/50c2dd04-391c-4081-a82a-5445efbc1f79_473_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/0a3c2483-a62c-4103-83e8-34d63b34157f_2620_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/a278f5d1-9804-493f-8578-6e4bd036785f_2620_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/0133a3ea-aec1-4e3e-a169-a4479b2ec972_2620_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Aashirvaad Organic Whole Wheat Atta",
+    "brand": "Aashirvaad",
+    "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+    "product_id": "OVQH55ZH5N",
+    "variations": [
+      {
+        "id": "HZP4YMUD9U",
+        "display_name": "Aashirvaad Organic Whole Wheat Atta",
+        "price_mrp": 84,
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Wheat Atta",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Organic Whole Wheat Atta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/29902570-27cc-4627-997a-4eca0c36bdf2_20331_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/ec425c62-a279-4ecd-8038-eb713ddf5dfe_20331_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/ab9b94e5-3c1e-41b7-b07c-b034b17a12e0_20331_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/9bf3ebca-1440-491f-a190-e8975c5f53dd_20331_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/3ffa81f2-3f01-4402-91f5-e60dc40ceeb6_20331_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/f09db1e0-61fc-4de6-8470-9ed3e24faf1e_20331_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "GTS ORIGINAL Bullet Kolam Raw Rice",
+    "brand": "GTS ORIGINAL",
+    "brand_id": "47573ec03470464794c66c4a75dfb24a4bb3d6b7",
+    "product_id": "GCHNXOK2S0",
+    "variations": [
+      {
+        "id": "W4RGW9UVO6",
+        "display_name": "GTS ORIGINAL Kolam Raw Rice",
+        "price_mrp": 1110,
+        "brand": "GTS ORIGINAL",
+        "brand_id": "47573ec03470464794c66c4a75dfb24a4bb3d6b7",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Kolam Rice",
+        "sub_category_l4": "Kolam raw",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Kolam Raw Rice",
+        "images": [
+          "3da9bbfec8b706d918740e2e59e60693",
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/9cdaf6e7-4abd-4698-a2da-27da808209bb_6S51SU9YIJ_al1.jpg",
+          "ds4xkirbwxdly5aqxvxp"
+        ],
+        "images_v2": [],
+        "quantity": "10",
+        "sku_quantity_with_combo": "5 kg x 2",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "RPG7WS8G5N",
+        "display_name": "GTS ORIGINAL Bullet Kolam Raw Rice",
+        "price_mrp": 555,
+        "brand": "GTS ORIGINAL",
+        "brand_id": "47573ec03470464794c66c4a75dfb24a4bb3d6b7",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Kolam Rice",
+        "sub_category_l4": "Kolam raw",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Bullet Kolam Raw Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/22/92deafcf-49dc-41c4-991b-2e62fea54216_6S51SU9YIJ_mn.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/9cdaf6e7-4abd-4698-a2da-27da808209bb_6S51SU9YIJ_al1.jpg",
+          "ds4xkirbwxdly5aqxvxp"
+        ],
+        "images_v2": [],
+        "quantity": "5",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Groundnut (Raw Peanut)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "K3INEFROY1",
+    "variations": [
+      {
+        "id": "IUP1R3Y7DH",
+        "display_name": "Supreme Harvest Groundnut",
+        "price_mrp": 528,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Groundnut",
+        "sub_category_l4": "Raw",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Groundnut",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/29/92d9c8e1-fa1f-406d-acac-299f1b0c21a4_24719.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "DJ8I7AWS3S",
+        "display_name": "Supreme Harvest Groundnut (Raw Peanut)",
+        "price_mrp": 264,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Groundnut",
+        "sub_category_l4": "Raw",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Groundnut (Raw Peanut)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/5f710f86-0ba3-4b4a-8213-1cc764f877a1_15632.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Pillsbury Chakki Fresh Atta",
+    "brand": "Pillsbury",
+    "brand_id": "8ceca12b71fd6504dc80d4deb1cbd2f617637765",
+    "product_id": "2AR4P43MAU",
+    "variations": [
+      {
+        "id": "7DO8169J54",
+        "display_name": "Pillsbury Chakki Fresh - Atta",
+        "price_mrp": 710,
+        "brand": "Pillsbury",
+        "brand_id": "8ceca12b71fd6504dc80d4deb1cbd2f617637765",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Wheat Atta",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chakki Fresh - Atta",
+        "images": [
+          "031ae05c7224f244d4d2203b9f434575",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/25842407-3cea-4637-b538-87047162b7cd_297_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/0c9b6d6a-e0c0-41c8-97af-899373eed0a2_297_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/4365f434-c005-48d0-a874-6ee5f0c43e07_297_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/361d1781-937a-4ed4-a91d-bfee273e2a8e_2826_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/e7540aa8-09ee-4671-bf94-c1483ebe65ba_297_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "10",
+        "sku_quantity_with_combo": "5 kg x 2",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "89ZB458I5Z",
+        "display_name": "Pillsbury Chakki Fresh Atta",
+        "price_mrp": 355,
+        "brand": "Pillsbury",
+        "brand_id": "8ceca12b71fd6504dc80d4deb1cbd2f617637765",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Wheat Atta",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chakki Fresh Atta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/75ed4efb-945d-4040-a124-84680f834597_297_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/25842407-3cea-4637-b538-87047162b7cd_297_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/0c9b6d6a-e0c0-41c8-97af-899373eed0a2_297_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/4365f434-c005-48d0-a874-6ee5f0c43e07_297_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/361d1781-937a-4ed4-a91d-bfee273e2a8e_2826_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/e7540aa8-09ee-4671-bf94-c1483ebe65ba_297_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "5",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Green Moong Whole",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "OIM6LEJR70",
+    "variations": [
+      {
+        "id": "BQQHKLRQLX",
+        "display_name": "Supreme Harvest Green Moong Whole",
+        "price_mrp": 99,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Moong Dal",
+        "sub_category_l4": "Green Moong",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Green Moong Whole",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/8ec56062-4929-4841-bf12-11513ef9d88d_15609.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Toor Dal (Arhar Dal)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "6465SQ9AMY",
+    "variations": [
+      {
+        "id": "XYPBT24TJS",
+        "display_name": "Supreme Harvest Toor Dal (Arhar Dal)",
+        "price_mrp": 132,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Toor Dal",
+        "sub_category_l4": "Split",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Toor Dal (Arhar Dal)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/23/f96d257f-8795-46a7-b1a7-6c25f572abc0_15591_1.png",
+          "h6yoxs1mzjhyn9z84iro"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Kabuli Chana",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "SH0YBB6PHA",
+    "variations": [
+      {
+        "id": "G3CMXPHZ8T",
+        "display_name": "Supreme Harvest Kabuli Chana",
+        "price_mrp": 154,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Kabuli Chana",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Kabuli Chana",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/bdbfb574-368d-44d6-bcb9-94ab43410c62_pulsesandothergrains_G0RHQSB7DG_MN.png",
+          "akr52zfervvkfaqkofb6",
+          "gutza5crwar7ahmwudzz"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Chana Dal",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "SDCAOG87O0",
+    "variations": [
+      {
+        "id": "WXS1I6ZMT3",
+        "display_name": "Supreme Harvest Chana Dal",
+        "price_mrp": 188,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Chana Dal",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chana Dal",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/29/3ffd8a44-f742-4554-bcd9-a44282c14ab1_45039.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "500 g x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "QFH8XNPTV5",
+        "display_name": "Supreme Harvest Chana Dal",
+        "price_mrp": 94,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Chana Dal",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chana Dal",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/15/6974933a-0d36-4375-8bce-85de7f4c8e17_15580_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/16/2d83a492-532a-4d7e-9d60-23b17b995643_15580_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/16/22ad0264-de85-4dcc-8bf1-4247d3d9fa77_15580_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Sona Masoori Raw Rice",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "OJCJ3RLYK8",
+    "variations": [
+      {
+        "id": "JWWWRS3A82",
+        "display_name": "Supreme Harvest Sona Masoori Raw Rice",
+        "price_mrp": 520,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Sona Masuri Rice",
+        "sub_category_l4": "Raichur Raw",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Sona Masoori Raw Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/4/56d484af-1785-4966-8bf6-619d70fd11d0_15550_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/4/04866aae-ba73-4b85-883d-ebc6404044e5_15550_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/4/8d7a220e-3420-455d-8bff-0aaa7af3887e_15550_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "5",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "DAAWAT Basmati Rice - Rozana Super (Packaging Might Vary)",
+    "brand": "Daawat",
+    "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+    "product_id": "N048U5SNGK",
+    "variations": [
+      {
+        "id": "WUPBDB6XMQ",
+        "display_name": "DAAWAT Basmati Rice - Rozana Super (Packaging Might Vary)",
+        "price_mrp": 495,
+        "brand": "Daawat",
+        "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Basmati Rice",
+        "sub_category_l4": "Rozana Rice",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "DAAWAT Basmati Rice - Rozana Super (Packaging Might Vary)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/de2cc334-b26c-4d96-8e63-948e2ffe93ad_1919_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/c376dfe2-19d3-4890-8a43-8d425c4ef2df_1919_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/62d0391d-7096-45b6-8e0c-17f24977eb5b_1919_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/e570eb7d-8568-46ea-bfcb-92a08dbc58e0_1919_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/d6c082de-ecaa-4737-8bf5-9591011de373_1919_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/ec1de2c4-436a-4e3e-ac4e-a8dfd5ba1a2d_1919_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/ede018f8-55e0-49a6-b4b8-8bed94725dca_1919_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/fd77a175-fc69-4f2a-b14a-50035db02335_1919_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "5",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Toor Dal (Arhar Dal)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "B56Q568P16",
+    "variations": [
+      {
+        "id": "VZ2YOYZ0LY",
+        "display_name": "Supreme Harvest Toor Dal (Arhar Dal)",
+        "price_mrp": 528,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Toor Dal",
+        "sub_category_l4": "Split",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Toor Dal (Arhar Dal)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/29/fa76fdda-70f3-4c4d-a667-a81350107f2e_24712.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "MUDZ6L2PWG",
+        "display_name": "Supreme Harvest Toor Dal (Arhar Dal)",
+        "price_mrp": 264,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Toor Dal",
+        "sub_category_l4": "Split",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Toor Dal (Arhar Dal)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/23/44644c69-5e5d-4f41-94b0-7cf0d5961584_15592_1.png",
+          "h6yoxs1mzjhyn9z84iro",
+          "saibedutdopuykjkl02k"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Urad White Whole (Gota)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "OIA3UC5RG2",
+    "variations": [
+      {
+        "id": "R09YW4GRCH",
+        "display_name": "Supreme Harvest Urad White Whole (Gota)",
+        "price_mrp": 253,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Urad Dal",
+        "sub_category_l4": "Whole",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Urad White Whole (Gota)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/ff68c296-c6f6-4fc5-8007-261d6c584a0c_15600.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      },
+      {
+        "id": "G1PWXIWLM3",
+        "display_name": "Supreme Harvest Urad White Whole (Gota)",
+        "price_mrp": 127,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Urad Dal",
+        "sub_category_l4": "Whole",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Urad White Whole (Gota)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/6ad14888-8041-4674-a74f-832ce7b362fa_15599.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "TATA Sampann Unpolished Moong Dal",
+    "brand": "Tata Sampann",
+    "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+    "product_id": "7QNFXWYLLR",
+    "variations": [
+      {
+        "id": "XFGYUYRCGK",
+        "display_name": "TATA Sampann Unpolished Moong Dal",
+        "price_mrp": 200,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Moong Dal",
+        "sub_category_l4": "Split",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "TATA Sampann Unpolished Moong Dal",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/e56d7a95-9647-45fb-9975-83ffb713003d_3472_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/df1dd320-877d-49bd-af50-842cec878c25_3472_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/f1832907-9997-4d7e-a057-1911a3f1a50b_3472_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/0cfb3580-3f7e-4232-8005-4abcfcb23d34_3472_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/0164fc2d-6fe6-4c9e-bbb7-56396a336e35_3472_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/b54ff283-2d04-4b7f-b8f4-a182f3e117ee_3472_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "KCP Nutri Poshan Sona Masoori / BPT Rice",
+    "brand": "KCP Nutri Poshan",
+    "brand_id": "2afc741e4246b61b32da8569d61f0ec6d5d409be",
+    "product_id": "H13MFLLMKA",
+    "variations": [
+      {
+        "id": "PZAVI3KYA4",
+        "display_name": "KCP Nutri Poshan Sona Masoori / BPT Rice",
+        "price_mrp": 2400,
+        "brand": "KCP Nutri Poshan",
+        "brand_id": "2afc741e4246b61b32da8569d61f0ec6d5d409be",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Sona Masuri Rice",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Sona Masoori / BPT Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/26/76df1271-381b-434c-8ad0-da4f3ef1f54c_823148_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/26/5fa80cbe-9a58-4c39-9eb4-1b8552430e29_823148_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/26/53968c65-9694-48d8-8cec-e5249c4b1953_823148_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "26",
+        "sku_quantity_with_combo": "26 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 26000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "India Gate Basmati Rice - Dubar",
+    "brand": "India Gate",
+    "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+    "product_id": "F8GZYBE2JQ",
+    "variations": [
+      {
+        "id": "666DYJX2W4",
+        "display_name": "India Gate Basmati Rice - Dubar",
+        "price_mrp": 292,
+        "brand": "India Gate",
+        "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Basmati Rice",
+        "sub_category_l4": "Dubar",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Basmati Rice - Dubar",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/7/8e3614e0-cbe0-4696-913e-cdd91b591b7b_ricericeproducts_ZCXYM3MNMT_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/4cb4f51a-f819-4719-a517-45e4d8ee34d8_2453_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/ca0f5c98-7724-42d3-b72d-b4045a28e3dd_2453_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/833c0cf2-f590-433d-8aea-fe625b362ae1_2453_4.png",
+          "e7cf4f8ae9a7995ab4c55f27bdaa4fbe",
+          "0a097133eec1ea022daf62f3b2ff168c"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "KIQUB436QF",
+        "display_name": "India Gate Basmati Rice - Dubar",
+        "price_mrp": 146,
+        "brand": "India Gate",
+        "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Basmati Rice",
+        "sub_category_l4": "Dubar",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Basmati Rice - Dubar",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/ea5275a3-fbea-4f45-ae1f-d9f07368c248_2453_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/4cb4f51a-f819-4719-a517-45e4d8ee34d8_2453_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/ca0f5c98-7724-42d3-b72d-b4045a28e3dd_2453_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/833c0cf2-f590-433d-8aea-fe625b362ae1_2453_4.png",
+          "e7cf4f8ae9a7995ab4c55f27bdaa4fbe",
+          "0a097133eec1ea022daf62f3b2ff168c"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "India Gate Jeera Rice",
+    "brand": "India Gate",
+    "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+    "product_id": "H5VO6XL3WP",
+    "variations": [
+      {
+        "id": "KRB38G7H4G",
+        "display_name": "India Gate Jeera Rice",
+        "price_mrp": 466,
+        "brand": "India Gate",
+        "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Govindbhog Rice",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Jeera Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/30/8ed20a4f-abee-4897-a8a1-13a27ead634e_ricericeproducts_6UDW5SPM8Q_MN.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "8KONS1TV15",
+        "display_name": "India Gate Jeera Rice",
+        "price_mrp": 233,
+        "brand": "India Gate",
+        "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Govindbhog Rice",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Jeera Rice",
+        "images": [
+          "32a9b12b49742e9d4899a083ca0971b1",
+          "5196291bff6432f74630ef73eab0e026",
+          "476d44869346e8f9f659065ae289f97d",
+          "d8b94acc3b3cd8629099d0240e4fc3e8",
+          "28353391ebb382dfe7b5a888ede676b7"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Daawat Basmati Rice - Super",
+    "brand": "Daawat",
+    "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+    "product_id": "HFAKH4ZT6I",
+    "variations": [
+      {
+        "id": "VKICBLX4IF",
+        "display_name": "Daawat Basmati Rice - Super",
+        "price_mrp": 400,
+        "brand": "Daawat",
+        "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Basmati Rice",
+        "sub_category_l4": "Biriyani Rice",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Basmati Rice - Super",
+        "images": [
+          "df9411855fe75989d2b555f857a3ded7",
+          "NI_CATALOG/IMAGES/CIW/2024/9/20/9a6bb503-720e-4a24-9f87-cf377ca20d3d_1759_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/20/dd303dc2-4d5f-4195-b245-fadcc9988500_1759_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "JR32G17VUQ",
+        "display_name": "Daawat Basmati Rice - Super",
+        "price_mrp": 200,
+        "brand": "Daawat",
+        "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": "Basmati Rice",
+        "sub_category_l4": "Biriyani Rice",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Basmati Rice - Super",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/6ae39ff8-b7b2-466c-9713-f572a1ed3a49_1759_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/e1378b6d-c2eb-4ce2-8e79-a2ebdb492e6d_1759_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/f28578b9-f529-4eda-9061-332bf28d2a87_1759_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/e1143b68-cd7b-4a1d-bea9-c77d6e0e4a72_1759_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/ebfd4216-bbe0-43a4-a7f2-74cd0ea4531b_1759_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/6e2fbe56-70f6-4b43-ac11-2139f4aff65a_1759_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Fortune Sona Masoori Rice",
+    "brand": "Fortune",
+    "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+    "product_id": "AILWCCKK7O",
+    "variations": [
+      {
+        "id": "SF8RCT6O9I",
+        "display_name": "Fortune Sona Masoori Rice",
+        "price_mrp": 450,
+        "brand": "Fortune",
+        "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Sona Masoori Rice",
+        "images": [
+          "7061b6637326c7663cb81acfc1438511",
+          "bc1754504aed5c6c99552b1b3fd7b2a9",
+          "1e73e69c269ccc144f758693a4d991af"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "GTS Original Bullet Kolam Rice Bag",
+    "brand": "GTS ORIGINAL",
+    "brand_id": "47573ec03470464794c66c4a75dfb24a4bb3d6b7",
+    "product_id": "V0UEACBAZJ",
+    "variations": [
+      {
+        "id": "Y0KFKANUYY",
+        "display_name": "GTS Original Bullet Kolam Rice Bag",
+        "price_mrp": 1080,
+        "brand": "GTS ORIGINAL",
+        "brand_id": "47573ec03470464794c66c4a75dfb24a4bb3d6b7",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "GTS Original Bullet Kolam Rice Bag",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/22/a8132d3d-5cd3-41e6-9c54-86b3e8ba35cd_1Z89KCW0WT_mn.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/678e830f-bf70-467a-9846-b2fd309c4db9_1Z89KCW0WT_al1.jpg",
+          "np57102mnrqfh9q8etzi"
+        ],
+        "images_v2": null,
+        "quantity": "10 kg",
+        "sku_quantity_with_combo": "10 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "India Gate Basmati Rice - Classic",
+    "brand": "India Gate",
+    "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+    "product_id": "HVTF3RKSGS",
+    "variations": [
+      {
+        "id": "CAJZIWDJBK",
+        "display_name": "India Gate Basmati Rice - Classic",
+        "price_mrp": 504,
+        "brand": "India Gate",
+        "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Basmati Rice - Classic",
+        "images": [
+          "9f124a4ae472569d04f82bfa5e94cb6d",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/20368eef-10f9-4e63-9aba-fc2070c33820_4_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/de3f34b6-1e4f-4df9-9254-3f162775cb4d_4_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/9857aa98-b63c-4e21-9560-b2a991580692_4_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/e810ba6e-0d3f-4b75-a10f-9ef43c82c5b8_4_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "QDYRQYFGYA",
+        "display_name": "India Gate Basmati Rice - Classic",
+        "price_mrp": 252,
+        "brand": "India Gate",
+        "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Basmati Rice - Classic",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/10e2c064-f336-411d-a363-c87a086f9527_4_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/20368eef-10f9-4e63-9aba-fc2070c33820_4_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/de3f34b6-1e4f-4df9-9254-3f162775cb4d_4_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/9857aa98-b63c-4e21-9560-b2a991580692_4_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/e810ba6e-0d3f-4b75-a10f-9ef43c82c5b8_4_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "India Gate Basmati Rice Everyday Basmati",
+    "brand": "India Gate",
+    "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+    "product_id": "YR2XETQJK3",
+    "variations": [
+      {
+        "id": "WTBOWUH44Z",
+        "display_name": "India Gate Basmati Rice Everyday Basmati",
+        "price_mrp": 490,
+        "brand": "India Gate",
+        "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Basmati Rice Everyday Basmati",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/9e826c7b-4705-4eaf-968d-f2020ebf42fd_24496_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/04c6cfcb-ec6d-4d39-8dd1-fc892ddc22f5_24496_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/cdbc3981-bdea-48f5-a339-fe996c86d23b_24496_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/944eb2fd-ab94-4f62-aff2-1dad9e74794f_24496_4.png",
+          "902ee8808a5e39123bf8435d975d23a8",
+          "9ba3d601a347b6cb2b9f7408d6b5221a"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Tata Sampann Unpolished Masoor Dal",
+    "brand": "Tata Sampann",
+    "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+    "product_id": "6STIVRS77K",
+    "variations": [
+      {
+        "id": "0IDP8S8TPC",
+        "display_name": "Tata Sampann Unpolished Masoor Dal",
+        "price_mrp": 164,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Unpolished Masoor Dal",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/87bd6574-6544-4972-a585-f6c739e2c4d5_427_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/7a523d20-dc91-4efc-8eac-d2d099c2993c_427_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/1c425a8e-58f0-43dc-af8b-3b3531b24a36_2394_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/e1611988-e3d0-4285-a190-4051f7c8810a_427_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/1c7ea1f5-151d-4878-bc3a-b6e87558261d_427_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/364d87e7-715e-412f-bb4b-86389de1f56c_427_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Tata Sampann Unpolished Green Moong (Whole)",
+    "brand": "Tata Sampann",
+    "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+    "product_id": "NFS8XH7WCH",
+    "variations": [
+      {
+        "id": "85J7APQIQF",
+        "display_name": "Tata Sampann Unpolished Green Moong (Whole)",
+        "price_mrp": 180,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Unpolished Green Moong (Whole)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/ef712a3e-5ee9-4fa6-a0c1-fe77126eccd4_722924_1.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "500 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "RS0NVMWRJX",
+        "display_name": "Tata Sampann Unpolished Green Moong (Whole)",
+        "price_mrp": 90,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Unpolished Green Moong (Whole)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/2ff40c42-4487-4694-8084-737fcea07ff6_2621_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/ceb31974-9d48-4d04-8fa4-0539c6db136c_2621_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/87601003-c0d1-41fe-8308-a5686078a1d5_2621_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/2c119a03-7106-423b-8091-c6236de50fe5_2621_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/2c513691-fa87-46b8-b892-c65db774e509_2621_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/1e91bec6-a77e-4618-9e8e-546a033b60bc_2621_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "SUPREME HARVEST Rajma Chitra (Capparadavare)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "W3OK3PUQPW",
+    "variations": [
+      {
+        "id": "BA0Y6IDXUY",
+        "display_name": "SUPREME HARVEST Rajma Chitra (Capparadavare)",
+        "price_mrp": 165,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "SUPREME HARVEST Rajma Chitra (Capparadavare)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/4/3/afea9e49-0ae4-48b0-b85c-eddd0c383a6e_pulsesandothergrains_L76JJ4Q8TM_MN.png",
+          "h6yoxs1mzjhyn9z84iro",
+          "saibedutdopuykjkl02k"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Tata Sampann Kabuli Chana",
+    "brand": "Tata Sampann",
+    "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+    "product_id": "IGQ50N2B9K",
+    "variations": [
+      {
+        "id": "68UJ5Z87KT",
+        "display_name": "Tata Sampann Kabuli Chana",
+        "price_mrp": 226,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Kabuli Chana",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/c97c9bb6-04f2-43be-84e9-ff15b69fda84_6793_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/36b68a12-981b-4e9a-aa84-6bbb915431ce_6793_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/de7b5f79-7ce6-425e-bfde-2808f6f63be4_6793_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/f4dc5ce9-f8e2-49cc-8337-30408564b6bf_6793_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/10e58073-bd94-4c0f-9274-b4dcff635c4b_6793_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/cad624be-7f6e-41fe-98e8-bc20f88ba60f_6793_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Daawat Sehat Mini Mogra Basmati Rice (Broken)",
+    "brand": "Daawat",
+    "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+    "product_id": "ZZYRNFZG5P",
+    "variations": [
+      {
+        "id": "ANF5YFX4AC",
+        "display_name": "Daawat Sehat Mini Mogra Basmati Rice (Broken)",
+        "price_mrp": 720,
+        "brand": "Daawat",
+        "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Sehat Mini Mogra Basmati Rice",
+        "images": [
+          "3174927210941c47add1a474fee0281a",
+          "NI_CATALOG/IMAGES/CIW/2024/5/28/851e3e7a-2e8e-4d7b-9fbc-2e5cad96cb82_ricericeproducts_V5KOHTWBJD_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/28/d071e389-8ca9-4aec-9005-bb2f03f3cdbd_ricericeproducts_V5KOHTWBJD_AL2.png"
+        ],
+        "images_v2": null,
+        "quantity": "10 kg",
+        "sku_quantity_with_combo": "5 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "PR3I2P18OQ",
+        "display_name": "Daawat Sehat Mini Mogra Basmati Rice (Broken)",
+        "price_mrp": 360,
+        "brand": "Daawat",
+        "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Sehat Mini Mogra Basmati Rice (Broken)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/28/ea210d66-71ae-4a3c-8921-e4f6482fa58e_ricericeproducts_V5KOHTWBJD_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/28/851e3e7a-2e8e-4d7b-9fbc-2e5cad96cb82_ricericeproducts_V5KOHTWBJD_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/28/d071e389-8ca9-4aec-9005-bb2f03f3cdbd_ricericeproducts_V5KOHTWBJD_AL2.png"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Tata Sampann Unpolished Chana Dal",
+    "brand": "Tata Sampann",
+    "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+    "product_id": "JRRLSOOA8F",
+    "variations": [
+      {
+        "id": "YKXO6AWWUP",
+        "display_name": "Tata Sampann Unpolished Chana Dal",
+        "price_mrp": 148,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Unpolished Chana Dal",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/03ebd0e7-c3eb-4a20-aa6c-e1f22537ff2a_473_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/a1bcc7a5-f92d-43d7-81b4-30a724fe01b9_473_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/1f0fa3be-8bbd-459a-9cee-bf5959c2124a_473_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/2457cf28-040f-4628-ae9d-31ef7d7b8bf5_473_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/c44136ab-6c5c-4a9b-b4e1-05c3cbd4188f_473_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/fa8923d1-4f5f-4bd5-abac-521a69a68f15_473_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Urad Dal (Split)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "TF3NDHNAUP",
+    "variations": [
+      {
+        "id": "N61WHI8BYA",
+        "display_name": "Supreme Harvest Urad Dal (Split)",
+        "price_mrp": 253,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Urad Dal (Split)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/23/ebdc92dc-8b36-4919-8e45-5c60c002ab72_15597_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/25/4340cbba-27c9-48d7-9af1-bfee5f64d68f_pulsesandothergrains_8N93MGVXOL_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/25/6b766ec2-2b35-43a9-80fd-a95f2a96a444_pulsesandothergrains_8N93MGVXOL_AL2.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Fortune Sonamasoori Supreme Rice",
+    "brand": "Fortune",
+    "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+    "product_id": "AMVCWAPU7A",
+    "variations": [
+      {
+        "id": "YGIC2ZWFCX",
+        "display_name": "Fortune Sonamasoori Supreme Rice",
+        "price_mrp": 550,
+        "brand": "Fortune",
+        "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Sonamasoori Supreme Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/23/bc908a72-4c78-4376-ae8f-f7cdad81de04_ricericeproducts_P9NO8D70PM_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/23/826f050c-782a-4e07-894b-a4c4eb491a83_ricericeproducts_P9NO8D70PM_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/23/1e6ffbc0-a306-4d26-9917-9b6c7bcd77c4_ricericeproducts_P9NO8D70PM_AL2.png"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Green Moong Whole",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "H6NW4MW3LF",
+    "variations": [
+      {
+        "id": "0KKFIXD6XR",
+        "display_name": "Supreme Harvest Green Moong Whole",
+        "price_mrp": 198,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Green Moong Whole",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/a7447a48-3608-4358-bebf-27051fea7068_15610.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Daawat Biryani Basmati Rice",
+    "brand": "Daawat",
+    "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+    "product_id": "9EL943UBWP",
+    "variations": [
+      {
+        "id": "DBO60XH78U",
+        "display_name": "Daawat Biryani Basmati Rice",
+        "price_mrp": 500,
+        "brand": "Daawat",
+        "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Biryani Basmati Rice",
+        "images": [
+          "24f6a9a7b963b1835c8701e7d18c8719",
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/a50ea16e-b8bc-4be9-aa6f-872b8ae49d90_N0O44UN1LD_al1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/2/27/124f6ffe-9588-4967-ad51-f027c62f708f_ricericeproducts_N0O44UN1LD_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/2/27/b24fec89-391c-424b-837d-5cc9f18ce9bf_ricericeproducts_N0O44UN1LD_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/2/27/ea23fc0c-3543-45c4-b95c-d72d0787746f_ricericeproducts_N0O44UN1LD_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/2/27/b64b6853-c6d6-448b-bf6d-3a027f15e662_ricericeproducts_N0O44UN1LD_AL5.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "L177CTXYKB",
+        "display_name": "Daawat Biryani Basmati Rice",
+        "price_mrp": 250,
+        "brand": "Daawat",
+        "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Biryani Basmati Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/71c485cb-6b40-48dc-ac90-0c26861a8942_1863_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/2bf07edc-6197-47e7-a02b-db868bfb8740_1863_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/ffaf7719-ce78-40af-b724-0e6e7dc9c516_1863_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/953ae044-2f2d-40b8-aa17-0fb5929f8fc5_1863_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/882edf3a-1e5d-4d11-b56d-17b4c40303be_1863_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/27a4f42b-9824-45d0-be7a-4862d7bbc0aa_1863_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/02346b35-be77-4d2a-a28f-0985de945ac0_1863_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/6e14b9c7-1391-4b81-9018-3d58314bcf85_1863_8.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Tata Sampann Unpolished Kala Chana",
+    "brand": "Tata Sampann",
+    "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+    "product_id": "8CZ7WIVNZA",
+    "variations": [
+      {
+        "id": "P7TUY3UM0R",
+        "display_name": "Tata Sampann Unpolished Kala Chana",
+        "price_mrp": 149,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Unpolished Kala Chana",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/53097362-a363-4ab3-b8a6-f281fdad423c_2393_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/ff83fb3c-0a0a-44e9-965d-2542a929358a_2393_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/018703b2-8c9b-4b89-b1dc-edc5a79ac5f6_2393_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/8c7dfc84-a583-4a64-bba5-a930bcf929d8_2393_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/81f7dd6e-e9a5-4629-913a-9e63fb3ba6ea_394_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/9e1107a0-5fb7-47fc-8803-a74c2474228f_2393_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Tata Sampann Unpolished Urad Dal",
+    "brand": "Tata Sampann",
+    "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+    "product_id": "V7P83NQFKA",
+    "variations": [
+      {
+        "id": "RK8GLUI8JN",
+        "display_name": "Tata Sampann Unpolished Urad Dal",
+        "price_mrp": 115,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Unpolished Urad Dal",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/365c689a-317b-44b4-bb0c-3b168107be52_395_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/61762bc9-41e0-4393-8b6a-0fedb6a59ea2_395_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/5283d3fc-16bc-4639-a5cb-d9a0e20bc676_395_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/a747f361-068d-41d1-a9d4-2c3d9113ed62_395_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/eaacd677-fa7a-44cc-9004-deb98416ded5_395_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/70832d38-0a27-4100-b26a-cd47d389348a_395_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Tata Sampann Unpolished Moong Dal Chilka",
+    "brand": "Tata Sampann",
+    "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+    "product_id": "P6XWXNFI6N",
+    "variations": [
+      {
+        "id": "Z7FX5YLBRX",
+        "display_name": "Tata Sampann Unpolished Moong Dal Chilka",
+        "price_mrp": 94,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Unpolished Moong Dal Chilka",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/eb413d48-fd9a-4c4d-b329-d5659a756efb_43086_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/a57a2fa7-88ce-4305-a86a-f48c73cd4ad0_43086_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/51e08751-3419-480f-b5a3-cc2bd6b1e48e_43086_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/f33cff04-7e16-4404-9b59-297f3278220a_43086_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/5b93bba0-f789-4ec8-a6c0-fc480eeccbe9_43086_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/27dcca56-6036-4a03-92ce-79e7f04f131f_43086_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Tata Sampann Unpolished Urad Dal Whole",
+    "brand": "Tata Sampann",
+    "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+    "product_id": "P28ITZEE02",
+    "variations": [
+      {
+        "id": "0Q7H0GUZSN",
+        "display_name": "Tata Sampann Unpolished Urad Dal Whole",
+        "price_mrp": 222,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Unpolished Urad Dal Whole",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/0e7126df-5d72-4c5f-9d25-5ec4115afd9d_15411_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/37c1e0e4-5434-4654-b6e7-6ffb804f9cae_15411_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/4df09d73-e459-4a0d-8248-11806488f8e8_15411_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/3a77511d-c8f6-4b08-8983-4433ab30ad61_15411_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/a1a5c5be-1bdc-4534-8559-414fd36513bc_15411_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/a5564fcd-4271-4788-bc3c-f50fd98d0d2a_15411_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Basic Toor Dal",
+    "brand": "",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "7DBAVWDSIQ",
+    "variations": [
+      {
+        "id": "Z3J8U9VD9Y",
+        "display_name": "Basic Toor Dal",
+        "price_mrp": 460,
+        "brand": "",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Basic Toor Dal",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/31/61de02ea-3633-499c-a4f7-75b083416e2f_pulsesandothergrains_PTK8USAIHH_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "9SNKHGGA7B",
+        "display_name": "Basic Toor Dal",
+        "price_mrp": 230,
+        "brand": "",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Basic Toor Dal",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/3/7dc690f8-0ee2-48cd-8684-280b1c1512f6_72163_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/3/c8fdc5d1-e669-4e0c-a5ad-92f6b0a875a0_72163_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/3/c83fa601-2a65-400c-9583-3ca1e10d2d29_72163_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/3/5e0651c3-7a12-4ac3-9b64-f11c1c9e140a_72163_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Daawat Basmati Rice - Pulav",
+    "brand": "Daawat",
+    "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+    "product_id": "4VEQEE09DF",
+    "variations": [
+      {
+        "id": "B0RZHL4VIK",
+        "display_name": "Daawat Basmati Rice - Pulav",
+        "price_mrp": 354,
+        "brand": "Daawat",
+        "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Basmati Rice - Pulav",
+        "images": [
+          "1b1c23104a5c3d41c7a4a42e0f9c7fa3",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/45d858e0-dd3a-42c0-aefc-57cefefb22d8_ricericeproducts_XA0PO9Y45W_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/082f8708-cc77-4cab-9559-1f8a64656f0d_ricericeproducts_XA0PO9Y45W_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/bbc57344-ea6c-4612-8bfd-986c52a0e6ba_ricericeproducts_XA0PO9Y45W_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/1b26d7d2-e28c-4f86-9937-fcd00c03292f_rice_rice_products_XA0PO9Y45W_AL4.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "L6XQ1K560P",
+        "display_name": "Daawat Basmati Rice - Pulav",
+        "price_mrp": 177,
+        "brand": "Daawat",
+        "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Basmati Rice - Pulav",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/7d6ff565-d118-4d2c-b521-934abee45cb9_3137_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/6697a3dc-2947-46d3-844e-1cbe857c4812_3137_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/09fc8b5e-f624-445e-8f5e-812b6aa4952f_3137_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/d7a50a6e-4184-499a-9b7a-518d76dad476_3137_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/00a0f5bb-23c7-494d-9b19-b1fd36ea1218_3137_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/e06077ad-7fcb-45ee-84ab-26afa585f79f_3137_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/35550a37-4742-4ccd-aa6f-42949712179a_3137_7.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "KITCHEN GEMS Kurnool Sona Masoori Steam Rice",
+    "brand": "Kitchen Gems",
+    "brand_id": "a1038d6bcb763d3ca84a7b065cabad62a8eec2e3",
+    "product_id": "PMV2F2EFLZ",
+    "variations": [
+      {
+        "id": "YBYK11DLOK",
+        "display_name": "KITCHEN GEMS Kurnool Sona Masoori Steam Rice",
+        "price_mrp": 510,
+        "brand": "Kitchen Gems",
+        "brand_id": "a1038d6bcb763d3ca84a7b065cabad62a8eec2e3",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "KITCHEN GEMS Kurnool Sona Masoori Steam Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/12/cbcb6eae-75d1-4e5a-bb9a-ea6a4daeaa2f_27530_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/12/f9916b9d-7b0c-4a00-9e09-fdb15e6c9799_27530_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/12/4c1e6e47-8a54-4574-a44d-79bb81a65067_27530_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/12/b9856f7f-dda7-4bc3-8641-a52eb58863d7_27541_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Double Horse Vadi Matta Bag",
+    "brand": "Double Horse",
+    "brand_id": "ddab94d53f5bfab607f09ed716c1162c898c713b",
+    "product_id": "WDSXT9DFNG",
+    "variations": [
+      {
+        "id": "ZYVSTYU9OA",
+        "display_name": "Double Horse Vadi Matta Bag",
+        "price_mrp": 910,
+        "brand": "Double Horse",
+        "brand_id": "ddab94d53f5bfab607f09ed716c1162c898c713b",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Vadi Matta Bag",
+        "images": [
+          "9e9a9eed1d4bcc6f450279dab8554523",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/c0db92ba-e151-4c92-95ed-2928643dc37e_ricericeproducts_7RNDVIAWM4_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/4628dfba-9b3e-47ac-9817-0372c8038e63_ricericeproducts_7RNDVIAWM4_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/9df1e4b8-3b50-48e0-a372-1baa7da62d44_ricericeproducts_7RNDVIAWM4_AL3.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "5 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "R8KXMIYBUN",
+        "display_name": "Double Horse Vadi Matta Bag",
+        "price_mrp": 455,
+        "brand": "Double Horse",
+        "brand_id": "ddab94d53f5bfab607f09ed716c1162c898c713b",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Vadi Matta Bag",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/9819039a-783b-4369-86aa-df093883fa5b_ricericeproducts_7RNDVIAWM4_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/c0db92ba-e151-4c92-95ed-2928643dc37e_ricericeproducts_7RNDVIAWM4_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/4628dfba-9b3e-47ac-9817-0372c8038e63_ricericeproducts_7RNDVIAWM4_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/9df1e4b8-3b50-48e0-a372-1baa7da62d44_ricericeproducts_7RNDVIAWM4_AL3.png"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Fortune Chakki Fresh Atta",
+    "brand": "Fortune",
+    "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+    "product_id": "8MU2RANAER",
+    "variations": [
+      {
+        "id": "H9SGN6IMMZ",
+        "display_name": "Fortune Chakki Fresh Atta",
+        "price_mrp": 628,
+        "brand": "Fortune",
+        "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chakki Fresh Atta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/15/956d137b-c72c-4298-b5a4-c36a2ad99546_attaandotherflours_ZYG3M5C66C_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/15/ffa4e070-3525-4525-934a-984b6696f2fd_attaandotherflours_ZYG3M5C66C_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/15/0316cf47-8b27-4362-846b-80fc7b52f39d_attaandotherflours_ZYG3M5C66C_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/15/245199bf-2cb1-457f-95b3-24ca90ad8390_attaandotherflours_ZYG3M5C66C_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/15/d29b3894-fa60-4c35-9161-33e1cf50295e_attaandotherflours_ZYG3M5C66C_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/15/5d9cb8ba-d952-437b-9881-6b8dc4194cfa_attaandotherflours_ZYG3M5C66C_AL5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/15/5755a43a-baab-4d1f-9906-d799a2b6c55b_attaandotherflours_ZYG3M5C66C_AL6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/15/52cfe850-18c0-4c44-a87e-6e5352947123_attaandotherflours_ZYG3M5C66C_AL7.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/15/51382e04-1ecf-4692-a4bd-f941b5d69bf6_attaandotherflours_ZYG3M5C66C_AL8.png"
+        ],
+        "images_v2": null,
+        "quantity": "10 kg",
+        "sku_quantity_with_combo": "10 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "India Gate Rozzana Basmati Rice",
+    "brand": "India Gate",
+    "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+    "product_id": "J9QXAUP3RG",
+    "variations": [
+      {
+        "id": "SPB3SD0058",
+        "display_name": "India Gate Rozzana Basmati Rice",
+        "price_mrp": 1170,
+        "brand": "India Gate",
+        "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Rozzana Basmati Rice",
+        "images": [
+          "002bf8b3ff9db611b33ab44f9e8c018f",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/419175cb-0a6a-47ac-8ddf-ea9514beec7d_3726_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/e50ce04e-22ea-4aca-b69d-e1996852c001_3726_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/b05687a5-b479-4282-b007-be98a0d6b295_3726_4.png",
+          "681af77591b2454ea4ab4daccee30f7e",
+          "b25523089a9591757937ffdf5b1a8b4a"
+        ],
+        "images_v2": null,
+        "quantity": "10 kg",
+        "sku_quantity_with_combo": "5 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "OSQJB2056R",
+        "display_name": "India Gate Rozzana Basmati Rice",
+        "price_mrp": 585,
+        "brand": "India Gate",
+        "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Rozzana Basmati Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/e3009ba7-eaab-4706-8a91-93be4c770bf6_3726_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/419175cb-0a6a-47ac-8ddf-ea9514beec7d_3726_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/e50ce04e-22ea-4aca-b69d-e1996852c001_3726_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/b05687a5-b479-4282-b007-be98a0d6b295_3726_4.png",
+          "681af77591b2454ea4ab4daccee30f7e",
+          "b25523089a9591757937ffdf5b1a8b4a"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Sona Masoori Steam Rice",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "3JOC6UIV5A",
+    "variations": [
+      {
+        "id": "S4TR99LZAO",
+        "display_name": "Supreme Harvest Sona Masoori Steam Rice",
+        "price_mrp": 850,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Sona Masoori Steam Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/24/66657b50-1003-49da-870b-5f19fabd53e9_ricericeproducts_3HQN6WOIH2_MN.png",
+          "ce229428401665bbb03877eb93b26685",
+          "f87097981e99ea973ba7836907485108"
+        ],
+        "images_v2": null,
+        "quantity": "10 kg",
+        "sku_quantity_with_combo": "10 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pillsbury Chakki Fresh Atta",
+    "brand": "Pillsbury",
+    "brand_id": "8ceca12b71fd6504dc80d4deb1cbd2f617637765",
+    "product_id": "5W4WLKPI8Q",
+    "variations": [
+      {
+        "id": "JOZ35Y1QSW",
+        "display_name": "Pillsbury Chakki Fresh Atta",
+        "price_mrp": 1276,
+        "brand": "Pillsbury",
+        "brand_id": "8ceca12b71fd6504dc80d4deb1cbd2f617637765",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chakki Fresh Atta",
+        "images": [
+          "0a7cf25efc3f92e1c58eb4f159bd380a",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/3923f806-2ea4-42dc-ba83-6e9f99f5dc21_22174_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/af89b73a-e241-4bac-bf21-f656beb1563d_22174_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/1e8f5cf8-2aef-41fb-b789-dc56d81a8654_22174_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/df8dceb0-cca7-4b11-8c0d-0e7cb2283946_22174_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/a7cd24c4-a626-4708-ad32-07fedf73a4e2_22174_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "20 kg",
+        "sku_quantity_with_combo": "10 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 20000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "9MCFITBZL8",
+        "display_name": "Pillsbury Chakki Fresh Atta",
+        "price_mrp": 638,
+        "brand": "Pillsbury",
+        "brand_id": "8ceca12b71fd6504dc80d4deb1cbd2f617637765",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chakki Fresh Atta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/794deb4e-19d9-474f-947d-e25e35da1900_22174_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/3923f806-2ea4-42dc-ba83-6e9f99f5dc21_22174_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/af89b73a-e241-4bac-bf21-f656beb1563d_22174_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/1e8f5cf8-2aef-41fb-b789-dc56d81a8654_22174_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/df8dceb0-cca7-4b11-8c0d-0e7cb2283946_22174_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/a7cd24c4-a626-4708-ad32-07fedf73a4e2_22174_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "10 kg",
+        "sku_quantity_with_combo": "10 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "GTS Original Bullet Kolam Rice",
+    "brand": "GTS ORIGINAL",
+    "brand_id": "47573ec03470464794c66c4a75dfb24a4bb3d6b7",
+    "product_id": "279CVX0O0K",
+    "variations": [
+      {
+        "id": "XHBSCMBAUO",
+        "display_name": "GTS Original Bullet Kolam Rice",
+        "price_mrp": 3600,
+        "brand": "GTS ORIGINAL",
+        "brand_id": "47573ec03470464794c66c4a75dfb24a4bb3d6b7",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "GTS Original Bullet Kolam Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/22/c866a597-c23a-457c-879e-ae1bac2740a3_HMMJLK4PCT_mn.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/7e0b6d4a-e82a-42d0-8d01-6696a11fe3cf_HMMJLK4PCT_al1.jpg",
+          "88393167bd569ea7e2436dd07ea2491a"
+        ],
+        "images_v2": null,
+        "quantity": "30 kg",
+        "sku_quantity_with_combo": "30 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 30,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Masoor Dal (Split)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "G8WPWQF7F0",
+    "variations": [
+      {
+        "id": "10NHRO8BZH",
+        "display_name": "Supreme Harvest Masoor Dal (Split)",
+        "price_mrp": 187,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Masoor Dal (Split)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/16/9da6bed8-ac89-434a-9d25-06fa769fcdc7_15583_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/16/320dbea6-1814-43c8-83e8-9cf2674fef2a_15583_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/16/a31c0a2b-f8cc-4d2f-a46e-a7d169f6a762_15583_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Moong Dal",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "7C8O755DBX",
+    "variations": [
+      {
+        "id": "856DDCF92H",
+        "display_name": "Supreme Harvest Moong Dal",
+        "price_mrp": 220,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Moong Dal",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/4/3/52224e46-8f2d-426a-8dab-b2e4a1660ad4_pulsesandothergrains_9702LCASNG_MN.png",
+          "akr52zfervvkfaqkofb6",
+          "gutza5crwar7ahmwudzz"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "3U75M38ZOZ",
+        "display_name": "Supreme Harvest Moong Dal",
+        "price_mrp": 440,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Moong Dal",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/4/16/c4349f72-7baf-4904-a3ed-569dae4d7b30_pulsesandothergrains_G0K2LWOBPM_MN.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Daawat Basmati Rice - Rozana Gold",
+    "brand": "Daawat",
+    "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+    "product_id": "POHEPKR07V",
+    "variations": [
+      {
+        "id": "HYHWZBJJCD",
+        "display_name": "Daawat Basmati Rice - Rozana Gold",
+        "price_mrp": 1200,
+        "brand": "Daawat",
+        "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Rozana Gold Basmati Rice",
+        "images": [
+          "802730491bb3e12f6136989ba7b4e455",
+          "NI_CATALOG/IMAGES/CIW/2024/4/5/2538c441-3149-43bf-99da-661ba2aa87c3_ricericeproducts_QBJK8K0XN9_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/5/e2a818de-65a6-45fe-8306-8ef3f6e9454b_ricericeproducts_QBJK8K0XN9_AL2.png"
+        ],
+        "images_v2": null,
+        "quantity": "10 kg",
+        "sku_quantity_with_combo": "5 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "6MQIU94MX9",
+        "display_name": "Daawat Basmati Rice - Rozana Gold",
+        "price_mrp": 600,
+        "brand": "Daawat",
+        "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Rozana Gold Basmati Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/19dbfb84-998d-429c-b6b2-604efec8dcf6_8453_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/b4ca73f5-311c-486f-b591-5ed1a0425008_8453_2.png"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "J3MYRAQ0NV",
+        "display_name": "Daawat Basmati Rice - Rozana Gold",
+        "price_mrp": 240,
+        "brand": "Daawat",
+        "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Basmati Rice - Rozana Gold",
+        "images": [
+          "5909da639ffd9005114bc225bdb13b5f",
+          "NI_CATALOG/IMAGES/CIW/2024/4/5/474212c1-3d26-4530-8d4f-2ce23b35570b_ricericeproducts_04BBX1QCWN_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/5/e49c2bbf-4404-4484-b7d8-e0fb4e5878fc_ricericeproducts_04BBX1QCWN_AL2.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "0GG75BGS70",
+        "display_name": "Daawat Basmati Rice - Rozana Gold",
+        "price_mrp": 120,
+        "brand": "Daawat",
+        "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Basmati Rice - Rozana Gold",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/8fe99bd0-bdbb-40d8-b12e-82cc2a7f2591_3201_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/34b58a20-5891-4bb6-a77c-d5d9af8d128d_3201_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/f29d5459-36c2-4b44-8b2a-9bb93154d04e_3201_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/a75152be-2751-4bd1-8754-ff78dd0b6b66_3201_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/65927d9e-8c0c-40c7-aa1f-3cf268b5b614_3201_5.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "organic tattva Whole Wheat Flour Chakki Atta",
+    "brand": "organic tattva",
+    "brand_id": "15b82fe72388552584902a5af08262ba7a007ffc",
+    "product_id": "IQUOW4JP9P",
+    "variations": [
+      {
+        "id": "H3HV7G3357",
+        "display_name": "organic tattva Whole Wheat Flour Chakki Atta",
+        "price_mrp": 449,
+        "brand": "organic tattva",
+        "brand_id": "15b82fe72388552584902a5af08262ba7a007ffc",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Whole Wheat Flour Chakki Atta",
+        "images": [
+          "dwdrhtwwrtc5itfkfkga",
+          "pygqmogaydn0ogxuzo17",
+          "hfo2ryqxxqhhnebbkljz"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pillsbury Multigrain Atta - 7 Grain Blend, High Fibre Aata, 6 Hour Softness, High Protein",
+    "brand": "Pillsbury",
+    "brand_id": "8ceca12b71fd6504dc80d4deb1cbd2f617637765",
+    "product_id": "N3EXUDPEJO",
+    "variations": [
+      {
+        "id": "XG9O4SLFRZ",
+        "display_name": "Pillsbury Multigrain Atta - 7 Grain Blend, High Fibre Aata, 6 Hour Softness, High Protein",
+        "price_mrp": 406,
+        "brand": "Pillsbury",
+        "brand_id": "8ceca12b71fd6504dc80d4deb1cbd2f617637765",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Multigrain Atta - 7 Grain Blend, High Fibre Aata, 6 Hour Softness, High Protein",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/65998967-6578-4165-a22a-eb3afdba4cab_11536_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/c1befab3-c8ab-4f08-bf4c-b9a63685bcdb_11536_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/4a150373-2f52-4311-a5c0-7314da2dc688_11536_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/643a136c-30d6-4a0e-9708-25dc5fb3a0d3_11536_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/b76455b0-e944-4b14-bfb4-02e09215e23d_11536_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/7c311f61-ac71-414d-95e8-f411c1bba36c_11536_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "RQOTV980PD",
+        "display_name": "Pillsbury Multigrain Atta - 7 Grain Blend, High Fibre Aata, 6 Hour Softness, High Protein",
+        "price_mrp": 166,
+        "brand": "Pillsbury",
+        "brand_id": "8ceca12b71fd6504dc80d4deb1cbd2f617637765",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Multigrain Atta",
+        "images": [
+          "7d7c873b6cdd64f5fd429360f1510774",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/ee755809-e610-490f-acf2-53591a406bf3_456_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/ee45d3fb-3414-4d5b-ac18-1046699f3cfb_456_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/7e7dba7a-0013-4f60-9171-16bd87be3ee6_456_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/ae98a5bd-18d6-41bf-a9c9-bf94f3ae9ead_456_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/52a2a64e-a73d-4627-afd5-2ffc8d3dcbd2_456_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "DYMWD0PJH7",
+        "display_name": "Pillsbury Multigrain Atta - 7 Grain Blend, High Fibre Aata, 6 Hour Softness, High Protein",
+        "price_mrp": 83,
+        "brand": "Pillsbury",
+        "brand_id": "8ceca12b71fd6504dc80d4deb1cbd2f617637765",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Multigrain Atta - 7 Grain Blend, High Fibre, 6 Hour Softness, High Protein Aata",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/70becb98-1b43-4711-87cf-7f621d83a724_456_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/ee755809-e610-490f-acf2-53591a406bf3_456_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/ee45d3fb-3414-4d5b-ac18-1046699f3cfb_456_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/7e7dba7a-0013-4f60-9171-16bd87be3ee6_456_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/ae98a5bd-18d6-41bf-a9c9-bf94f3ae9ead_456_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/52a2a64e-a73d-4627-afd5-2ffc8d3dcbd2_456_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Kohinoor Super Value Basmati Rice",
+    "brand": "Kohinoor",
+    "brand_id": "351a37e9275d70b463182e0fd93dfda45c26d9e8",
+    "product_id": "8HC9Q1LMDP",
+    "variations": [
+      {
+        "id": "FP826VMJXJ",
+        "display_name": "Kohinoor Super Value Basmati Rice",
+        "price_mrp": 480,
+        "brand": "Kohinoor",
+        "brand_id": "351a37e9275d70b463182e0fd93dfda45c26d9e8",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Super Value Basmati Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/27/283c9932-210f-4a21-abfe-6cfcef9745be_278371.png"
+        ],
+        "images_v2": null,
+        "quantity": "2.5 kg",
+        "sku_quantity_with_combo": "1.25 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "I8SJHO3DH8",
+        "display_name": "Kohinoor Super Value Basmati Rice",
+        "price_mrp": 240,
+        "brand": "Kohinoor",
+        "brand_id": "351a37e9275d70b463182e0fd93dfda45c26d9e8",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Super Value Basmati Rice - (25% Extra)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/23/1e78a93e-d83c-4530-8b1e-966f1ec9b438_ricericeproducts_PYNTWLO5G5_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/23/64ef3f5f-fc51-49a0-90f1-1ef313146383_ricericeproducts_PYNTWLO5G5_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/23/f94d21ad-1149-4af5-a346-95ed71498822_ricericeproducts_PYNTWLO5G5_AL2.png"
+        ],
+        "images_v2": null,
+        "quantity": "1.25 kg",
+        "sku_quantity_with_combo": "1.25 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "India Gate Super Basmati Rice",
+    "brand": "India Gate",
+    "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+    "product_id": "3F1YFGTR11",
+    "variations": [
+      {
+        "id": "LV84QZ7CWU",
+        "display_name": "India Gate Super Basmati Rice",
+        "price_mrp": 2110,
+        "brand": "India Gate",
+        "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Super Basmati Rice",
+        "images": [
+          "6b5228049962c392a69fbc54e7ac5ae9",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/b8763ee1-aad6-45ad-bda5-9310098b1d7b_8557_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/30332e85-8610-4f91-a2eb-824e5e798595_8557_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/e5d5f56e-2b47-4385-8dcb-056d926a92cb_8557_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "5 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "C3T9U7S4BH",
+        "display_name": "India Gate Super Basmati Rice",
+        "price_mrp": 1055,
+        "brand": "India Gate",
+        "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Super Basmati Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/6ea848a8-0443-45d6-a334-904d90784a4c_8557_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/b8763ee1-aad6-45ad-bda5-9310098b1d7b_8557_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/30332e85-8610-4f91-a2eb-824e5e798595_8557_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/e5d5f56e-2b47-4385-8dcb-056d926a92cb_8557_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Tata Sampann Unpolished Toor Dal (Arhar Dal)",
+    "brand": "Tata Sampann",
+    "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+    "product_id": "1J312R9LEE",
+    "variations": [
+      {
+        "id": "PZ5IBGHWHJ",
+        "display_name": "Tata Sampann Unpolished Toor Dal (Arhar Dal)",
+        "price_mrp": 448,
+        "brand": "Tata Sampann",
+        "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Unpolished Toor Dal (Arhar Dal)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/cf2797c5-7c02-4a7d-837a-7df2c1c38592_778338_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/f4bf851b-461a-46af-bd16-b03793859642_778338_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/c03b9325-8142-4296-ac8f-e099748f6aed_778338_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/ad0b4e3e-52ec-4a62-b9e8-46dd2e646304_778338_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/585673ae-2c31-4f01-9d14-97dd133c0382_778338_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 kg",
+        "sku_quantity_with_combo": "2 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Kabuli Chana",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "6WYI7N5CA2",
+    "variations": [
+      {
+        "id": "B6OXAVNVSK",
+        "display_name": "Supreme Harvest Kabuli Chana",
+        "price_mrp": 308,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Kabuli Chana",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/8d26f5ce-9cc4-4c5e-961a-59920a1848d2_pulsesandothergrains_ZANBJF2V1V_MN.png",
+          "akr52zfervvkfaqkofb6",
+          "gutza5crwar7ahmwudzz"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "India Gate Classic Premium Basmati Rice",
+    "brand": "India Gate",
+    "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+    "product_id": "VJ3VIM014M",
+    "variations": [
+      {
+        "id": "O3JI8U9HFC",
+        "display_name": "India Gate Classic Premium Basmati Rice",
+        "price_mrp": 125,
+        "brand": "India Gate",
+        "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Classic Premium Basmati Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/0e2fa5f5-c3b7-48f9-a3c7-bd201b6d2886_63436_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/57648072-8a0a-4347-a81d-b7e0009e8edf_63436_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/c709423d-8d35-413a-8088-bc709f73416f_63436_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/4312588e-5c8e-4aab-a4e3-9c27d3f3874e_63436_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Aashirvaad Select Sharbati Atta",
+    "brand": "Aashirvaad",
+    "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+    "product_id": "U95HG2O57Y",
+    "variations": [
+      {
+        "id": "HIY7LAXWHU",
+        "display_name": "Aashirvaad Select Sharbati Atta",
+        "price_mrp": 1558,
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Select Sharbati Atta",
+        "images": [
+          "d5599d680facbc4b09d98db3ba7feadf",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/65d37d3d-ba99-48ab-a5bd-ed17e8f12738_20382_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/2fa6bd8b-640c-4470-b977-cb3c6de47aea_20382_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/dfa41a82-0428-4d5d-b258-bd697e0da459_20382_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/e386b6db-f170-40ae-86cf-a3d4de8790a4_20382_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/e107efc3-3a9a-4db4-a3de-82997ead68c9_20382_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "20 kg",
+        "sku_quantity_with_combo": "10 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 20000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "RDJ980Y4R8",
+        "display_name": "Aashirvaad Select Sharbati Atta",
+        "price_mrp": 779,
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Select Sharbati Atta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/28d8630e-ceaf-4ef1-a195-5ddefe41266e_20382_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/65d37d3d-ba99-48ab-a5bd-ed17e8f12738_20382_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/2fa6bd8b-640c-4470-b977-cb3c6de47aea_20382_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/dfa41a82-0428-4d5d-b258-bd697e0da459_20382_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/e386b6db-f170-40ae-86cf-a3d4de8790a4_20382_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/e107efc3-3a9a-4db4-a3de-82997ead68c9_20382_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "10 kg",
+        "sku_quantity_with_combo": "10 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Daawat Super Long Grain Basmati Rice",
+    "brand": "Daawat",
+    "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+    "product_id": "EUXRP3RNSK",
+    "variations": [
+      {
+        "id": "2L83PBAPVT",
+        "display_name": "Daawat Super Long Grain Basmati Rice",
+        "price_mrp": 1990,
+        "brand": "Daawat",
+        "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Super Long Grain Basmati Rice",
+        "images": [
+          "294035147c8c31f64a0a8a539d4eb5af",
+          "NI_CATALOG/IMAGES/CIW/2024/4/5/e0d05038-7047-403a-bfae-e454f86f679d_ricericeproducts_IOWJTOPS5Q_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/5/41350dc1-d9e4-42b8-9fba-00d80a6ddc09_ricericeproducts_IOWJTOPS5Q_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/5/5c29d930-7f9c-4eb2-9a61-3549e168cffb_ricericeproducts_IOWJTOPS5Q_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/5/3fd7d49a-bd62-4bf2-bc11-61866a64555f_ricericeproducts_IOWJTOPS5Q_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/5/ec9fce1f-7583-4bc5-b58a-4f06ba2e3436_ricericeproducts_IOWJTOPS5Q_AL5.png"
+        ],
+        "images_v2": null,
+        "quantity": "10 kg",
+        "sku_quantity_with_combo": "5 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "X47H6I6515",
+        "display_name": "Daawat Super Long Grain Basmati Rice",
+        "price_mrp": 995,
+        "brand": "Daawat",
+        "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "DAAWAT Super Long Grain Basmati Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/179b1401-d1bf-4aad-8017-bf43d3e4774f_10763_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/f5a91df1-ff94-4ca0-9642-91fbf0a6a2d9_10763_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/22b1b5da-e79f-4a5e-a1a0-3c5e2d6c4802_10763_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/a1d85878-0862-4ca9-8603-f670dfe50907_10763_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/59694889-77af-41c9-b694-6ed0bf1bd3c1_10763_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/45acb3ed-445b-48dc-9e81-9d34b714c4ca_10763_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/ab0a9225-255f-40cc-b9be-c9a101aa2e2c_10763_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/30443f20-42e4-4452-8d6f-4dd8ce8a5c91_10763_8.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/8e090f36-5fee-4d7b-b382-0576a6d441b0_10763_9.png"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Basic Urad White Whole (Gota/ Gola)",
+    "brand": "",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "T6HEDNXSX1",
+    "variations": [
+      {
+        "id": "72NJ9GGHCX",
+        "display_name": "Basic Urad White Whole (Gota/ Gola)",
+        "price_mrp": 230,
+        "brand": "",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Basic Urad White Whole (Gota/ Gola)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/3/844823a6-2754-47b4-b48a-9e0d5bf9096d_53430_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/3/9c14b3c9-82bc-4b0b-81b7-ca33b6226d19_53430_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/3/1e263610-2400-45d4-952e-9c8d53ce80b7_53430_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/3/ba705580-ab62-44d5-b563-62ac8bf1edce_53430_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Tenali Double Horse Urad Gota",
+    "brand": "Tenali Double Horse",
+    "brand_id": "2eccced48393f37149f574876333742fcfa6a932",
+    "product_id": "YVA7OZ2WQH",
+    "variations": [
+      {
+        "id": "MZRN7K036X",
+        "display_name": "Tenali Double Horse Urad Gota",
+        "price_mrp": 200,
+        "brand": "Tenali Double Horse",
+        "brand_id": "2eccced48393f37149f574876333742fcfa6a932",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Urad Gota",
+        "images": [
+          "c342c5438a88be518dbb544b6ab50f91",
+          "zyclqedyqezxr7loqb5i",
+          "kji1pknjbld69depfkxy"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "KITCHEN GEMS Groundnut (Raw Peanut)",
+    "brand": "Kitchen Gems",
+    "brand_id": "a1038d6bcb763d3ca84a7b065cabad62a8eec2e3",
+    "product_id": "42GBBY84BI",
+    "variations": [
+      {
+        "id": "WLGON0ZTZS",
+        "display_name": "KITCHEN GEMS Groundnut (Raw Peanut)",
+        "price_mrp": 255,
+        "brand": "Kitchen Gems",
+        "brand_id": "a1038d6bcb763d3ca84a7b065cabad62a8eec2e3",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "KITCHEN GEMS Groundnut (Raw Peanut)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/12/5a1ba4d2-92a3-4ed1-b128-0b0141143cbc_27577_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/12/9a80610c-5df1-4136-a46a-7ee01085e96d_27577_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/1/58eb0260-0445-4808-a320-c5c3042fbdb3_27604_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/1/d1e05138-ec4a-42f8-8ccf-b1d19e7c7313_27604_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Chana Dal",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "WTCWCNZEBC",
+    "variations": [
+      {
+        "id": "80DXV3Y1BC",
+        "display_name": "Supreme Harvest Chana Dal",
+        "price_mrp": 386,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chana Dal",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/4/16/cebf98f9-e8d0-4040-b6ed-ed9b70ab47f6_pulsesandothergrains_OCOJ0J38TG_MN.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "R481TM3L0C",
+        "display_name": "Supreme Harvest Chana Dal",
+        "price_mrp": 193,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chana Dal",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/23/3bfd68c7-d489-45c1-9832-d1a878f2e10b_15581_1.png",
+          "3daada2d945c804fde8a573acf101575",
+          "c532a7cb6a821a7b99000cc71b9892d5"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "India Gate Basmati Rice Daily Premium Basmati",
+    "brand": "India Gate",
+    "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+    "product_id": "QGGWA8XSPR",
+    "variations": [
+      {
+        "id": "7LKSJPZM22",
+        "display_name": "India Gate Basmati Rice Daily Premium Basmati",
+        "price_mrp": 630,
+        "brand": "India Gate",
+        "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Basmati Rice Daily Premium Basmati",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/4f9532b9-c9e5-4a72-9461-5a14d8b28e68_24495_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/77454f4a-3517-4980-bd6f-62687550b746_24495_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/35f36854-1a22-4459-a425-c83e73e5d73a_24495_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/24afbd8e-7470-40ee-b209-7ab5b4e252cf_24495_4.png",
+          "f11113f14bf9f5e07f77cdbefe18f81d",
+          "90746fc215d9f32556e55f4841fb78d0"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Fortune Biryani Special Basmati Rice",
+    "brand": "Fortune",
+    "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+    "product_id": "6M75M0W8VK",
+    "variations": [
+      {
+        "id": "GN20VW113C",
+        "display_name": "Fortune Biryani Special Basmati Rice",
+        "price_mrp": 420,
+        "brand": "Fortune",
+        "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Biryani Special Basmati Rice",
+        "images": [
+          "f02f603246f4e06cd02343568aba671e",
+          "uvllv4opbfelklajneap",
+          "nvpmuk4ivmpu0ipjvi1y"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "MMFBYF5F6J",
+        "display_name": "Fortune Biryani Special Basmati Rice",
+        "price_mrp": 210,
+        "brand": "Fortune",
+        "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Biryani Special Basmati Rice",
+        "images": [
+          "ck3ni4c8x48hgrggrrx0",
+          "uvllv4opbfelklajneap",
+          "nvpmuk4ivmpu0ipjvi1y"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Charminar Long Grain Rice Pouch",
+    "brand": "Charminar",
+    "brand_id": "4b9e9b8edb6bd764c75d4568f0dabf892a5cf3bf",
+    "product_id": "OOF0HCMLKY",
+    "variations": [
+      {
+        "id": "42H090DOSV",
+        "display_name": "Charminar Long Grain Rice Pouch",
+        "price_mrp": 599,
+        "brand": "Charminar",
+        "brand_id": "4b9e9b8edb6bd764c75d4568f0dabf892a5cf3bf",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Long Grain Rice Pouch",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/99063488-e43c-4261-a1bd-88d6de640d68_27557_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/cccf2af0-f04e-4a17-aabb-67c7e959333c_27557_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/f370079e-f128-4516-83bb-d75ca75910b8_27557_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "India Gate Basmati Rice Classic Long Grain Basmati",
+    "brand": "India Gate",
+    "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+    "product_id": "D3PHE5R9IO",
+    "variations": [
+      {
+        "id": "U02XYI95MY",
+        "display_name": "India Gate Basmati Rice Classic Long Grain Basmati",
+        "price_mrp": 1255,
+        "brand": "India Gate",
+        "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Basmati Rice Classic Long Grain Basmati",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/6e2270ca-abec-4073-9da0-542d49d65acb_24497_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/2ae586b0-aa5c-4c24-ba61-8cfec98666c9_24497_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/dec66ad1-ca54-4339-91bc-09b70879f6be_24497_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/17/6d2c6155-871b-419d-9dd1-e71eea270b68_24497_4.png",
+          "be9e757c66d78359d3a2b6210928240c",
+          "d3727dc3e7ca4976d03f7b9917d7920e"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Udhaiyam Urad Dal",
+    "brand": "Udhaiyam",
+    "brand_id": "44185206bbb88ff2432d38d88c840103d1a8968e",
+    "product_id": "CIXFZIVSCZ",
+    "variations": [
+      {
+        "id": "NB0PRKKIBI",
+        "display_name": "Udhaiyam Urad Dal",
+        "price_mrp": 178,
+        "brand": "Udhaiyam",
+        "brand_id": "44185206bbb88ff2432d38d88c840103d1a8968e",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Urad Dal",
+        "images": [
+          "japr4ss2zj5u3nfsfgz4",
+          "d0vwc79inqsrk13d5ho4",
+          "bdrpxg90zuyvkjygib6h"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Daawat Devaaya Basmati Rice",
+    "brand": "Daawat",
+    "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+    "product_id": "VHD1F90VGD",
+    "variations": [
+      {
+        "id": "LIO83FQ0KS",
+        "display_name": "Daawat Devaaya Basmati Rice",
+        "price_mrp": 845,
+        "brand": "Daawat",
+        "brand_id": "6621b63b5b8558aea726236403b894d8a7d5bce1",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Devaaya Basmati Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/21/2e806430-347f-4dd6-baab-71ee58281341_87261_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/21/e4f212ab-3f4b-40bc-898d-a3d5c0ada582_87261_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/21/7db4b77e-afd5-4c9a-bfac-bab1728cfd68_87261_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Udhaiyam Idly Rice",
+    "brand": "Udhaiyam",
+    "brand_id": "44185206bbb88ff2432d38d88c840103d1a8968e",
+    "product_id": "KWGG9343DA",
+    "variations": [
+      {
+        "id": "5XG6G2XNLJ",
+        "display_name": "Udhaiyam Idly Rice",
+        "price_mrp": 365,
+        "brand": "Udhaiyam",
+        "brand_id": "44185206bbb88ff2432d38d88c840103d1a8968e",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Idly Rice",
+        "images": [
+          "9db07bc273a3566bd4e4465b39e96d15",
+          "nb1tjbjt3lc4kmzofwy8",
+          "zalyzwcaldfahby2zoj7"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Toor Dal (Arhar Dal)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "YEDZTK801D",
+    "variations": [
+      {
+        "id": "MC437P6KDA",
+        "display_name": "Supreme Harvest Toor Dal (Arhar Dal)",
+        "price_mrp": 484,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Toor Dal (Arhar Dal)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/23/8c1c0981-fc72-40f9-a806-254a2ffa4b9c_15593_1.png",
+          "h6yoxs1mzjhyn9z84iro",
+          "saibedutdopuykjkl02k"
+        ],
+        "images_v2": null,
+        "quantity": "2 kg",
+        "sku_quantity_with_combo": "2 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "India Gate Mogra Basmati Rice",
+    "brand": "India Gate",
+    "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+    "product_id": "LUPN9NMMD9",
+    "variations": [
+      {
+        "id": "I8NAPAKYNI",
+        "display_name": "India Gate Mogra Basmati Rice",
+        "price_mrp": 920,
+        "brand": "India Gate",
+        "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Mogra Basmati Rice",
+        "images": [
+          "98d0316930320ccfdf0fbc69371e3d0d",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/ef5519e2-850e-45a6-9e17-f75c7da4946e_5326_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/8112dc9e-f874-4373-831f-f9131e74a962_5326_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/1eb96cad-6a07-4e5e-a136-ee9752a4924f_5326_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "10 kg",
+        "sku_quantity_with_combo": "5 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "11FTSSKOAG",
+        "display_name": "India Gate Mogra Basmati Rice",
+        "price_mrp": 460,
+        "brand": "India Gate",
+        "brand_id": "3b618a162cbb3de585e2d20e415638fd4c77b766",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Mogra Basmati Rice (Broken)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/331dfd4f-61d7-430d-9643-73c91fe078cf_5326_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/ef5519e2-850e-45a6-9e17-f75c7da4946e_5326_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/8112dc9e-f874-4373-831f-f9131e74a962_5326_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/1eb96cad-6a07-4e5e-a136-ee9752a4924f_5326_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pillsbury Chakki Fresh Atta",
+    "brand": "Pillsbury",
+    "brand_id": "8ceca12b71fd6504dc80d4deb1cbd2f617637765",
+    "product_id": "GCF260JRK0",
+    "variations": [
+      {
+        "id": "JRDOWVRJ86",
+        "display_name": "Pillsbury Chakki Fresh Atta",
+        "price_mrp": 146,
+        "brand": "Pillsbury",
+        "brand_id": "8ceca12b71fd6504dc80d4deb1cbd2f617637765",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chakki Fresh Atta",
+        "images": [
+          "e623b2da8067f395402c9da92aad439d",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/35e42d3f-aa1d-428c-9d4b-8c73bf9b8479_2826_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/0c9b6d6a-e0c0-41c8-97af-899373eed0a2_297_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/3c39f56e-55f3-460c-a700-f6b96fe9be50_2826_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/361d1781-937a-4ed4-a91d-bfee273e2a8e_2826_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/5cb84888-844a-4eeb-9daf-91dbb59be9bb_2826_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "J2QZTUDGZC",
+        "display_name": "Pillsbury Chakki Fresh Atta",
+        "price_mrp": 73,
+        "brand": "Pillsbury",
+        "brand_id": "8ceca12b71fd6504dc80d4deb1cbd2f617637765",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chakki Fresh Atta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/8661bf68-5fcc-483e-936d-65b5af8d9cd6_2826_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/35e42d3f-aa1d-428c-9d4b-8c73bf9b8479_2826_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/0c9b6d6a-e0c0-41c8-97af-899373eed0a2_297_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/3c39f56e-55f3-460c-a700-f6b96fe9be50_2826_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/361d1781-937a-4ed4-a91d-bfee273e2a8e_2826_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/5cb84888-844a-4eeb-9daf-91dbb59be9bb_2826_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "921 Everyday Long Grain Rice",
+    "brand": "921",
+    "brand_id": "7e6957477fc5bd65c39798260519b201833affce",
+    "product_id": "406REZVMIH",
+    "variations": [
+      {
+        "id": "G81V50F16F",
+        "display_name": "921 Everyday Long Grain Rice",
+        "price_mrp": 600,
+        "brand": "921",
+        "brand_id": "7e6957477fc5bd65c39798260519b201833affce",
+        "category": "Rice",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Everyday Long Grain Rice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/18/9a53628e-b95a-4dab-b81f-730010243e65_119695_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/18/3c992f59-7a5a-4191-8e90-010b2e0f6041_119695_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/18/93b016d0-a811-425d-9806-d7458c2ee2ed_119695_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/18/1c4988f6-8507-4340-8ded-1c9304a76f19_119695_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "5 kg",
+        "sku_quantity_with_combo": "5 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Urad Dal (Split)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "G5DE7H2TWZ",
+    "variations": [
+      {
+        "id": "N1LIHBDP2Z",
+        "display_name": "Supreme Harvest Urad Dal (Split)",
+        "price_mrp": 127,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Urad Dal (Split)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/23/b2c709e7-ed73-479c-b86e-7c60a0d81c81_15596_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/25/4340cbba-27c9-48d7-9af1-bfee5f64d68f_pulsesandothergrains_8N93MGVXOL_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/25/6b766ec2-2b35-43a9-80fd-a95f2a96a444_pulsesandothergrains_8N93MGVXOL_AL2.png"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Fortune Unpolished Arhar Dal",
+    "brand": "Fortune",
+    "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+    "product_id": "27CDSXYN5W",
+    "variations": [
+      {
+        "id": "6H4U21CMDJ",
+        "display_name": "Fortune Unpolished Arhar Dal",
+        "price_mrp": 225,
+        "brand": "Fortune",
+        "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Unpolished Arhar Dal",
+        "images": [
+          "6d0170e2299929632f951f533c485297",
+          "67004629599d41e9a06dbfb35c04c1e7",
+          "4fa7c942a83e5228a6ae24332ecec945"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Udhaiyam Toor Dal",
+    "brand": "Udhaiyam",
+    "brand_id": "44185206bbb88ff2432d38d88c840103d1a8968e",
+    "product_id": "LCR5G8CFNZ",
+    "variations": [
+      {
+        "id": "7K7V4XV1RO",
+        "display_name": "Udhaiyam Toor Dal",
+        "price_mrp": 185,
+        "brand": "Udhaiyam",
+        "brand_id": "44185206bbb88ff2432d38d88c840103d1a8968e",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Toor Dal",
+        "images": [
+          "en4lwqlz2zdtihnvpxir",
+          "wdh7xzudkp9d9pe6pyrq",
+          "zi9juwpnbrwlp9exf6sc"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "KITCHEN GEMS Toor dal (Arhar Dal)",
+    "brand": "Kitchen Gems",
+    "brand_id": "a1038d6bcb763d3ca84a7b065cabad62a8eec2e3",
+    "product_id": "S8ZKXXGDYR",
+    "variations": [
+      {
+        "id": "TMMQSR3MXI",
+        "display_name": "KITCHEN GEMS Toor dal (Arhar Dal)",
+        "price_mrp": 500,
+        "brand": "Kitchen Gems",
+        "brand_id": "a1038d6bcb763d3ca84a7b065cabad62a8eec2e3",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "KITCHEN GEMS Toor dal (Arhar Dal)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/e4938d26-5e72-4205-b3e5-0c11b2129fb4_991410_1.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "1231KVLBNT",
+        "display_name": "KITCHEN GEMS Toor dal (Arhar Dal)",
+        "price_mrp": 250,
+        "brand": "Kitchen Gems",
+        "brand_id": "a1038d6bcb763d3ca84a7b065cabad62a8eec2e3",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "KITCHEN GEMS Toor dal (Arhar Dal)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/12/e33a73fd-a762-4a8f-9e0f-d724e82b5170_27591_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/12/71b7ce36-b11d-4dab-80ff-ae3f5bd6fc2c_27591_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/12/1ac0bdc8-074a-40e5-ba50-92cedb8497f2_27541_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/12/b9856f7f-dda7-4bc3-8641-a52eb58863d7_27541_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Supreme Harvest Moong Dal",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "5E87NRHZR9",
+    "variations": [
+      {
+        "id": "1KH0TPJM8V",
+        "display_name": "Supreme Harvest Moong Dal",
+        "price_mrp": 110,
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dal and Pulses",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Moong Dal",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/4/3/2046dea5-0197-4cb5-ab4a-feaf871ad91b_pulsesandothergrains_LUGUZ38FBH_MN.png",
+          "h6yoxs1mzjhyn9z84iro",
+          "saibedutdopuykjkl02k"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Aashirvaad Multigrains Atta",
+    "brand": "Aashirvaad",
+    "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+    "product_id": "124Y5EXF1M",
+    "variations": [
+      {
+        "id": "5B0MPFQTJB",
+        "display_name": "Aashirvaad Multigrains Atta",
+        "price_mrp": 788,
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Multigrains Atta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/7ced7188-079d-4e2b-a70e-649ce7ebe613_20381_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/bab10352-1552-4129-b91b-2eef26e57104_199_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/a3fe3f0d-84e2-4a75-977f-dc8abcc874a0_20381_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/36ce2d3a-8b72-46f7-88e0-bb3ae9f3c2d3_199_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/464f84be-be84-4953-af0c-3aa7c3f775ea_199_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/cfe28cf3-e994-4416-9f6f-dc8f7db86725_20381_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "10 kg",
+        "sku_quantity_with_combo": "10 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Nature Fresh Mp Superior Atta",
+    "brand": "Nature Fresh",
+    "brand_id": "6d23fa97beb62a0ad4326f28bed2f5865673b6a3",
+    "product_id": "R72SU47ZIC",
+    "variations": [
+      {
+        "id": "A0422HAA2Y",
+        "display_name": "Nature Fresh Mp Superior Atta",
+        "price_mrp": 570,
+        "brand": "Nature Fresh",
+        "brand_id": "6d23fa97beb62a0ad4326f28bed2f5865673b6a3",
+        "category": "Atta",
+        "super_category": "Atta, Rice and Dals",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Mp Superior Atta",
+        "images": [
+          "5031f95ab76e21e170c5a8a561e3631c",
+          "6964f61124af54f88bea7e368024e8b8",
+          "4d02bc29ac36c3f2758f5e7759db2413"
+        ],
+        "images_v2": null,
+        "quantity": "10 kg",
+        "sku_quantity_with_combo": "10 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 10000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  }
+]

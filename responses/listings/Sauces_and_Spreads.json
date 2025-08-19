@@ -1,0 +1,3323 @@
+[
+  {
+    "display_name": "Sundrop Peanut Butter With Jelly (Grape)",
+    "brand": "Sundrop",
+    "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+    "product_id": "7HYSGXOZ4T",
+    "variations": [
+      {
+        "id": "9ZJN38VN09",
+        "display_name": "Sundrop Peanut Butter With Jelly (Grape)",
+        "price_mrp": 150,
+        "brand": "Sundrop",
+        "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Protein",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Peanut Butter With Jelly (Grape)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/29/ec0e1aac-ea5b-4c16-8ad5-a4c44d50d373_spreadsdipsanddressings_CQVF8GKTH4_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/29/61e13574-d720-4894-a28d-d6d3eed1267e_spreadsdipsanddressings_CQVF8GKTH4_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/29/cfe201b1-e198-4817-b6e3-69d624962049_spreadsdipsanddressings_CQVF8GKTH4_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "340",
+        "sku_quantity_with_combo": "340 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 340,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pintola Dark Chocolate Peanut Butter Creamy Protein & Dietary Fiber, Gluten Free",
+    "brand": "Pintola",
+    "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+    "product_id": "Y2L48WOM1E",
+    "variations": [
+      {
+        "id": "DMJ3GIPX9W",
+        "display_name": "Pintola Dark Chocolate Peanut Butter Creamy Protein & Dietary Fiber, Gluten Free",
+        "price_mrp": 199,
+        "brand": "Pintola",
+        "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Chocolate",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Dark Chocolate Peanut Butter Creamy Protein & Dietary Fiber, Gluten Free",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/22/d51d7642-3af0-4023-9313-265d1b23eea1_63265_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/22/6855e730-982c-4d99-911d-05b479ce1573_63265_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/22/a765ebfc-8237-4e7b-9169-45dd24506533_63265_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/22/1ec8659f-9441-4dc5-b629-6789b3fdfa7a_63265_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/22/c3c47863-65b3-4372-8ee0-07dee23e9578_63265_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/22/0d4ee089-041a-47d0-83b0-2429021baff4_63265_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/22/8ae29167-f16c-45f5-a159-5842f3357da3_63265_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "350",
+        "sku_quantity_with_combo": "350 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 350,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sundrop Regular Crunchy Peanut Butter 26g Protein per 100g",
+    "brand": "Sundrop",
+    "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+    "product_id": "B5OHB8FEHQ",
+    "variations": [
+      {
+        "id": "FACMYBJY92",
+        "display_name": "Sundrop Peanut Butter Crunchy",
+        "price_mrp": 295,
+        "brand": "Sundrop",
+        "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Unsweetened",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Peanut Butter Crunchy",
+        "images": [
+          "wc8bivkxgf4eh9t32njm",
+          "a3yhkxe6btuqpanr8quj",
+          "qhm6kwg7oipaavg4fv2y"
+        ],
+        "images_v2": [],
+        "quantity": "924",
+        "sku_quantity_with_combo": "924 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 924,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      },
+      {
+        "id": "BCQ3IWVSGU",
+        "display_name": "Sundrop Regular Crunchy Peanut Butter 26g Protein per 100g",
+        "price_mrp": 99,
+        "brand": "Sundrop",
+        "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Unsweetened",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Regular Crunchy Peanut Butter 26g Protein per 100g",
+        "images": [
+          "7ca6120b7b39ee390475c3e32e158942",
+          "db26dd0e5bb44eb61c5f439cb9b9e7ad",
+          "2571f8a17193d87c9a4785dcc1b6d3ce"
+        ],
+        "images_v2": [],
+        "quantity": "300",
+        "sku_quantity_with_combo": "300 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Chocolate Peanut Butter Crunchy Spread (High Protein)",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "0YSSY1LH3L",
+    "variations": [
+      {
+        "id": "DFLTLQ56JY",
+        "display_name": "MyFitness Chocolate Peanut Butter Crunchy Spread (High Protein)",
+        "price_mrp": 339,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Chocolate",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chocolate Peanut Butter Crunchy Spread (High Protein)",
+        "images": [
+          "988f37d8b389eb61f3f1215e84b1f51c",
+          "c2386d466e75aeca3db5815fd701ec38",
+          "b1f2b935053a5fac5d1e031c8ad4dace",
+          "2ef622ae2ad5f0d81fba46ee6c72c3e6"
+        ],
+        "images_v2": [],
+        "quantity": "510",
+        "sku_quantity_with_combo": "510 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 510,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pintola All Natural Peanut Butter Creamy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
+    "brand": "Pintola",
+    "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+    "product_id": "SWGF7VLMGI",
+    "variations": [
+      {
+        "id": "VPZZDOXW7A",
+        "display_name": "Pintola All Natural Peanut Butter Creamy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
+        "price_mrp": 175,
+        "brand": "Pintola",
+        "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Creamy Peanut Butter",
+        "sub_category_l4": "Unsweetened",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "All Natural Peanut Butter Creamy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
+        "images": [
+          "157fb068f3a46a6ea85327a969784342",
+          "348ae768057808d54d6754987892aa38",
+          "4b1d163368386c0aa1da87cc99094604",
+          "dce8b5bcfff75495ea25ba01dca03425",
+          "66cb5faf313ed3ea434a35f36df66abc"
+        ],
+        "images_v2": [],
+        "quantity": "350",
+        "sku_quantity_with_combo": "350 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 350,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Chocolate Peanut Butter Crunchy Spread (High Protein)",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "9956KXSZ5G",
+    "variations": [
+      {
+        "id": "045Z6CLCMQ",
+        "display_name": "MyFitness Chocolate Peanut Butter Crunchy Dark Chocolate | Vegan | Cholesterol Free, Gluten Free",
+        "price_mrp": 358,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Chocolate",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Chocolate Peanut Butter Crunchy Dark Chocolate | Vegan | Cholesterol Free, Gluten Free",
+        "images": [
+          "68139849e2ae44202b753e0685b9939c"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "227 g x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 454,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "ZG52HB3AS8",
+        "display_name": "MyFitness Chocolate Peanut Butter Crunchy Spread (High Protein)",
+        "price_mrp": 179,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Chocolate",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Chocolate Peanut Butter Crunchy Spread (High Protein)",
+        "images": [
+          "22fac180c59e7b0fed0969e11d533978",
+          "412633a86ccbd96d75efc3e092d185c5",
+          "3927006b9083ee1c7b726c6791009fc4",
+          "2a2b3c34cf5ab4a8939b29555d16b703",
+          "028b6c9cdca4c2db4c22eede1655d0a9",
+          "e9eaff12c9770d5e6bc2c882cfbb86cc"
+        ],
+        "images_v2": [],
+        "quantity": "227",
+        "sku_quantity_with_combo": "227 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 227,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sundrop Peanut Butter with Honey crunchy 23g Protein per 100g , Enhanced with Sweetness of Honey",
+    "brand": "Sundrop",
+    "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+    "product_id": "EJ0E98ULUE",
+    "variations": [
+      {
+        "id": "I89YAZQPX7",
+        "display_name": "Sundrop Peanut Butter with Honey crunchy 23g Protein per 100g , Enhanced with Sweetness of Honey",
+        "price_mrp": 99,
+        "brand": "Sundrop",
+        "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Sweetened",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Peanut Butter with Honey crunchy 23g Protein per 100g , Enhanced with Sweetness of Honey",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/16/875d91fa-4913-49cf-a50e-3e124e846432_spreadsdipsanddressings_BHHVAPANZP_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/16/12d523cd-f810-4081-b00b-db2ff61c3771_spreadsdipsanddressings_BHHVAPANZP_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/16/4864aa0e-b252-4f38-a41f-ad5f9c77c183_spreadsdipsanddressings_BHHVAPANZP_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/16/f1f0ab7a-41af-4fe3-a413-55713d50b4a0_spreadsdipsanddressings_BHHVAPANZP_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/16/5bc4caec-914c-4943-bd49-4404abc2dbb9_spreadsdipsanddressings_BHHVAPANZP_AL4.png"
+        ],
+        "images_v2": [],
+        "quantity": "300",
+        "sku_quantity_with_combo": "300 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sundrop All Natural Peanut butter crunchy 28g Protein per 100g , Unsweetened, No Preservatives",
+    "brand": "Sundrop",
+    "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+    "product_id": "7AX2L1ZF81",
+    "variations": [
+      {
+        "id": "QLC35ULFQ1",
+        "display_name": "Sundrop All Natural Peanut butter crunchy 28g Protein per 100g , Unsweetened, No Preservatives",
+        "price_mrp": 325,
+        "brand": "Sundrop",
+        "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Unsweetened",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "All Natural Peanut butter crunchy 28g Protein per 100g , Unsweetened, No Preservatives",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/38277916-3d1a-45d3-9845-8e472fddf4f0_spreadsdipsanddressings_VG393BYMQR_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/298baa22-8a14-43a7-977b-d51b7db00f90_spreadsdipsanddressings_VG393BYMQR_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/cfa8e27b-c941-4d5c-be2e-91d6edc40e48_spreadsdipsanddressings_VG393BYMQR_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "924",
+        "sku_quantity_with_combo": "924 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 924,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Pintola All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
+    "brand": "Pintola",
+    "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+    "product_id": "E5KAGC5EBU",
+    "variations": [
+      {
+        "id": "OVK29VU9P4",
+        "display_name": "Pintola All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
+        "price_mrp": 175,
+        "brand": "Pintola",
+        "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Unsweetened",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
+        "images": [
+          "7c223b7f13e7079641e67c3f023bcf0d",
+          "680c3854be9977a3e94942ed18f38d7c",
+          "ce3fa009554f325e0b42bf22489ec182",
+          "8ad0ec07be3f95720e2ae70cf34744b1",
+          "3e6ec1a0c8e5cabe8615f910f116ec00"
+        ],
+        "images_v2": [],
+        "quantity": "350",
+        "sku_quantity_with_combo": "350 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 350,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "1D7ROLK91B",
+        "display_name": "Pintola All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
+        "price_mrp": 350,
+        "brand": "Pintola",
+        "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Unsweetened",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
+        "images": [
+          "11aeb08107e4a9f4aa33aa21298b2b10",
+          "680c3854be9977a3e94942ed18f38d7c",
+          "ce3fa009554f325e0b42bf22489ec182",
+          "8ad0ec07be3f95720e2ae70cf34744b1",
+          "3e6ec1a0c8e5cabe8615f910f116ec00"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "350 g x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 700,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Chocolate Peanut Butter Smooth Spread (High Protein)",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "0P05XCZ20H",
+    "variations": [
+      {
+        "id": "3THIDP0VVB",
+        "display_name": "MyFitness Chocolate Peanut Butter Smooth Spread (High Protein)",
+        "price_mrp": 179,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Creamy Peanut Butter",
+        "sub_category_l4": "Chocolate",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chocolate Peanut Butter Smooth Spread (High Protein)",
+        "images": [
+          "e4c44e5bd4599c7b2ce68c5217ffc86f",
+          "16deaf8c2b174adb66db89ba50ef8277",
+          "f5400d2ad85ba996cf5c60d5a099118f",
+          "fe3ec19c56b0b9ea21e10311d67d1036",
+          "baa75e9289d71fab72b5c1fb17dbaee5",
+          "d926b750f8040f21d446b41902a4ba75"
+        ],
+        "images_v2": [],
+        "quantity": "227",
+        "sku_quantity_with_combo": "227 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 227,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sundrop Regular Creamy Peanut Butter 26g Protein per 100g",
+    "brand": "Sundrop",
+    "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+    "product_id": "ZHUWDV31Y7",
+    "variations": [
+      {
+        "id": "OO3T70FGSC",
+        "display_name": "Sundrop Regular Creamy Peanut Butter 26g Protein per 100g",
+        "price_mrp": 99,
+        "brand": "Sundrop",
+        "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Creamy Peanut Butter",
+        "sub_category_l4": "Unsweetened",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Regular Creamy Peanut Butter 26g Protein per 100g",
+        "images": [
+          "1f243ef8d7088be848083764aaa4a183",
+          "d047827b9bca47789d92c1e777c638ce",
+          "bd4d9736ce164d323bec00e0021a973c"
+        ],
+        "images_v2": [],
+        "quantity": "300",
+        "sku_quantity_with_combo": "300 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "NBW49SK7C2",
+        "display_name": "Sundrop Peanut Butter Creamy",
+        "price_mrp": 295,
+        "brand": "Sundrop",
+        "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Creamy Peanut Butter",
+        "sub_category_l4": "Unsweetened",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Peanut Butter Creamy",
+        "images": [
+          "fqusifibvcvafzlf1lgj",
+          "rzkugzxxshtgku3ufjby",
+          "syz78tebgguy0dupa7ng"
+        ],
+        "images_v2": [],
+        "quantity": "924",
+        "sku_quantity_with_combo": "924 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 924,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Chocolate Peanut Butter Smooth Spread (High Protein)",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "7MVKN2CXJD",
+    "variations": [
+      {
+        "id": "YVJCTA4GQ4",
+        "display_name": "MyFitness Chocolate Peanut Butter Smooth Spread (High Protein)",
+        "price_mrp": 339,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Creamy Peanut Butter",
+        "sub_category_l4": "Chocolate",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chocolate Peanut Butter Smooth Spread (High Protein)",
+        "images": [
+          "b6437ba16b54fec8edd685af81f4c2f5",
+          "6bdec09f9f580e3ea39a97908ad391eb",
+          "bb2580ad07262fd213068b7a1c228539",
+          "2a2b3c34cf5ab4a8939b29555d16b703",
+          "3927006b9083ee1c7b726c6791009fc4",
+          "00214759cd87abad7c01330a6dbfe033"
+        ],
+        "images_v2": [],
+        "quantity": "510",
+        "sku_quantity_with_combo": "510 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 510,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "The Whole Truth Crunchy Peanut Spread (Date Sweetned)",
+    "brand": "The Whole Truth",
+    "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+    "product_id": "AWHVPFPKHD",
+    "variations": [
+      {
+        "id": "MMX2D7BVFJ",
+        "display_name": "The Whole Truth Crunchy Peanut Butter (Date Sweetned)",
+        "price_mrp": 747,
+        "brand": "The Whole Truth",
+        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Sweetened",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Crunchy Peanut Butter (Date Sweetned)",
+        "images": [
+          "6accea7c7f63c876bc203d6a81bdc496",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/3db2739e-37a4-448d-bb73-823c429a8824_12207_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/c14a52f4-59d9-4e71-a7a3-8878879d8356_12207_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/a186417f-e7cb-4680-998e-61dc6c80ffa5_12207_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "3",
+        "sku_quantity_with_combo": "325 g x 3",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 975,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "2AW1LYNYRC",
+        "display_name": "The Whole Truth Crunchy Peanut Butter (Date Sweetned)",
+        "price_mrp": 498,
+        "brand": "The Whole Truth",
+        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Sweetened",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Crunchy Peanut Butter (Date Sweetned)",
+        "images": [
+          "0c641f5d5e1a3fb1b1e0e71f2933a032",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/3db2739e-37a4-448d-bb73-823c429a8824_12207_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/c14a52f4-59d9-4e71-a7a3-8878879d8356_12207_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/a186417f-e7cb-4680-998e-61dc6c80ffa5_12207_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "325 g x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 650,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "Q3IQB6YK0W",
+        "display_name": "The Whole Truth Crunchy Peanut Spread (Date Sweetned)",
+        "price_mrp": 249,
+        "brand": "The Whole Truth",
+        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Sweetened",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Crunchy Peanut Spread (Date Sweetned)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/96dcde0a-427f-4650-8fa6-e575ca605d96_12207_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/3db2739e-37a4-448d-bb73-823c429a8824_12207_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/c14a52f4-59d9-4e71-a7a3-8878879d8356_12207_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/a186417f-e7cb-4680-998e-61dc6c80ffa5_12207_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "325",
+        "sku_quantity_with_combo": "325 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 325,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pintola Dark Chocolate Peanut Butter Creamy",
+    "brand": "Pintola",
+    "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+    "product_id": "H5ECWS31PU",
+    "variations": [
+      {
+        "id": "28JN7OMQ9S",
+        "display_name": "Pintola Dark Chocolate Peanut Butter Creamy",
+        "price_mrp": 499,
+        "brand": "Pintola",
+        "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Creamy Peanut Butter",
+        "sub_category_l4": "Chocolate",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Dark Chocolate Peanut Butter Creamy",
+        "images": [
+          "e7e03572a6701e181943634ef37c6c5d",
+          "b99973dfa224f14daeef26d0925097fd",
+          "8c8c94123b628846171c5af22d8ad333",
+          "1596e6e4c54048b57e47bd8471f49046",
+          "7337c0da3741d960aea612b0c0bfccbb",
+          "7c885986341213f05825fa5d96fb8184"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Pintola All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
+    "brand": "Pintola",
+    "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+    "product_id": "S6VMJEQ69G",
+    "variations": [
+      {
+        "id": "30XH6RGA0G",
+        "display_name": "Pintola All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
+        "price_mrp": 449,
+        "brand": "Pintola",
+        "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Unsweetened",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
+        "images": [
+          "a5fb64d374fca0c7000c0787073c8845",
+          "9f6c906ad38bb2c9e6f1704d4a5c3b5c",
+          "13700ec77f587651400242105f050a98",
+          "5e0ac2ff09c0a24b8bd7829c1a460578",
+          "39cb4cfd00f309a401c34e75e22f5024",
+          "0ec28a4ef7b85aa94442efba9e1cb9a8"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "The Whole Truth Creamy Dark Chocolate Peanut Spread (0 Sugar)",
+    "brand": "The Whole Truth",
+    "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+    "product_id": "14OLR74LOF",
+    "variations": [
+      {
+        "id": "O8XDKJSS23",
+        "display_name": "The Whole Truth Creamy Dark Chocolate Peanut Butter (No Added Sugar)",
+        "price_mrp": 1047,
+        "brand": "The Whole Truth",
+        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Creamy Peanut Butter",
+        "sub_category_l4": "Chocolate",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Creamy Dark Chocolate Peanut Butter (No Added Sugar)",
+        "images": [
+          "2cfeb23bc67a7e0bc651b5a74a77bab9",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/9d3945c9-f3a3-46d9-bdb3-3d5ecc5c081a_12206_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/e0c6e013-8cc5-48b4-8fe3-d8354a318e43_12206_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/c5c230d5-84e0-4cfc-b536-187a592d5dc3_12206_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "3",
+        "sku_quantity_with_combo": "325 g x 3",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 975,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "ZUBTL63SLZ",
+        "display_name": "The Whole Truth Creamy Dark Chocolate Peanut Butter (No Added Sugar)",
+        "price_mrp": 698,
+        "brand": "The Whole Truth",
+        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Creamy Peanut Butter",
+        "sub_category_l4": "Chocolate",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Creamy Dark Chocolate Peanut Butter (No Added Sugar)",
+        "images": [
+          "61cc50ca2877b28ec6edc498662cfae5",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/9d3945c9-f3a3-46d9-bdb3-3d5ecc5c081a_12206_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/e0c6e013-8cc5-48b4-8fe3-d8354a318e43_12206_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/c5c230d5-84e0-4cfc-b536-187a592d5dc3_12206_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "325 g x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 650,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "OPSDZTADHA",
+        "display_name": "The Whole Truth Creamy Dark Chocolate Peanut Spread (0 Sugar)",
+        "price_mrp": 349,
+        "brand": "The Whole Truth",
+        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Creamy Peanut Butter",
+        "sub_category_l4": "Chocolate",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Creamy Dark Chocolate Peanut Spread (0 Sugar)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/a6c23ab1-198f-4866-a430-153464667aef_12206_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/9d3945c9-f3a3-46d9-bdb3-3d5ecc5c081a_12206_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/e0c6e013-8cc5-48b4-8fe3-d8354a318e43_12206_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/c5c230d5-84e0-4cfc-b536-187a592d5dc3_12206_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "325",
+        "sku_quantity_with_combo": "325 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 325,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "The Whole Truth Crunchy Peanut Butter (Unsweetened)",
+    "brand": "The Whole Truth",
+    "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+    "product_id": "ZGAQOR1Y4M",
+    "variations": [
+      {
+        "id": "38GBHY9142",
+        "display_name": "The Whole Truth Crunchy Peanut Butter (Unsweetened)",
+        "price_mrp": 675,
+        "brand": "The Whole Truth",
+        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Unsweetened",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Crunchy Peanut Butter (Unsweetened)",
+        "images": [
+          "f17acb19724472befde5816ee4bcb60a",
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/9e2fc0e9-cafb-49b0-b38d-d4b5f6b07176_12208_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/332795de-5d43-406b-a6b9-a567860d20ed_12208_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/f467576f-3e45-4e97-b04b-6b5a33d632d1_12208_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/303ac824-f315-4d29-8421-9afc2c560402_12208_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "3",
+        "sku_quantity_with_combo": "325 g x 3",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 975,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "2GX04NCA9S",
+        "display_name": "The Whole Truth Crunchy Peanut Butter (Unsweetened)",
+        "price_mrp": 450,
+        "brand": "The Whole Truth",
+        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Unsweetened",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Crunchy Peanut Butter (Unsweetened)",
+        "images": [
+          "dc844ba47c863d18048e063e304f13ed",
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/9e2fc0e9-cafb-49b0-b38d-d4b5f6b07176_12208_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/332795de-5d43-406b-a6b9-a567860d20ed_12208_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/f467576f-3e45-4e97-b04b-6b5a33d632d1_12208_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/303ac824-f315-4d29-8421-9afc2c560402_12208_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "325 g x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 650,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "62NHKAF847",
+        "display_name": "The Whole Truth Crunchy Peanut Butter (Unsweetened)",
+        "price_mrp": 225,
+        "brand": "The Whole Truth",
+        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Unsweetened",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Crunchy Peanut Butter (Unsweetened)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/32fe3948-a6e4-45ea-9bec-5898dd037164_12208_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/9e2fc0e9-cafb-49b0-b38d-d4b5f6b07176_12208_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/332795de-5d43-406b-a6b9-a567860d20ed_12208_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/f467576f-3e45-4e97-b04b-6b5a33d632d1_12208_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/303ac824-f315-4d29-8421-9afc2c560402_12208_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "325",
+        "sku_quantity_with_combo": "325 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 325,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Original Peanut Butter Crunchy Spread (High Protein)",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "6JTI43RCFM",
+    "variations": [
+      {
+        "id": "4Y324YR6QD",
+        "display_name": "MyFitness Original Peanut Butter Crunchy Spread (High Protein)",
+        "price_mrp": 320,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Crunchy",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Original Peanut Butter Crunchy Spread (High Protein)",
+        "images": [
+          "462ee7e581209e251a7044abe35a99a9",
+          "4029d550afc92136c30505c4b0082029",
+          "c575c236bcd4ffe166313805290bfb8c",
+          "d7d2586a2eae2091ab4ca0e4ecf22d88",
+          "9dbde8c33af22fbdd37b3cf60c967526",
+          "ed6d32bc5ab6c16b6dbb6925f6e382fb"
+        ],
+        "images_v2": [],
+        "quantity": "510",
+        "sku_quantity_with_combo": "510 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 510,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pintola Classic Peanut Butter Crunchy, Roasted Peanuts, Non Gmo, High In Protein, High In Fiber",
+    "brand": "Pintola",
+    "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+    "product_id": "G87AQ1MFZK",
+    "variations": [
+      {
+        "id": "9VS1T46X62",
+        "display_name": "Pintola Classic Peanut Butter Crunchy, Roasted Peanuts, Non Gmo, High In Protein, High In Fiber",
+        "price_mrp": 399,
+        "brand": "Pintola",
+        "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Roasted Peanuts",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Classic Peanut Butter Crunchy, Roasted Peanuts, Non Gmo, High In Protein, High In Fiber",
+        "images": [
+          "15d6b706785e996d7c0f79923f2fe21a",
+          "7d38757d8d0f6906451b7f5bfcb79973",
+          "fa59e42cfe6d6df89744e61c0c4cfd3c",
+          "213f7a279050513d4610f3884daece4b",
+          "9a65f69b298ce1f98502a001b1edc90b",
+          "a8b6b429d66ae9980a5e6a9b47c64f73"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "ALPINO Natural Peanut Butter Crunch - 30% Protein,No Added Sugar & Salt",
+    "brand": "Alpino",
+    "brand_id": "ac252f7992dbce86fe9fe01f84d99c2751b2f2b7",
+    "product_id": "D6LKTZ3PQ8",
+    "variations": [
+      {
+        "id": "B9H9MBX01X",
+        "display_name": "ALPINO Natural Peanut Butter Crunch - 30% Protein,No Added Sugar & Salt",
+        "price_mrp": 449,
+        "brand": "Alpino",
+        "brand_id": "ac252f7992dbce86fe9fe01f84d99c2751b2f2b7",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Unsweetened",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "ALPINO Natural Peanut Butter Crunch - 30% Protein,No Added Sugar & Salt",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/5/91a0157d-de78-4ae7-9aba-8d9267b47e86_YU6VJZ9MV5_MN.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/5/ab9c1c72-a1fb-47b8-b0a7-a3d322bd5e8f_YU6VJZ9MV5_AL1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/5/94a77122-d181-44f1-bc52-f7d9740fcb6e_YU6VJZ9MV5_AL2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/5/d0d26943-0ab5-4a63-8a6a-5e66c99fd399_YU6VJZ9MV5_AL3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/5/cf25c109-71b2-4bfe-88d6-0cce6b8f5ae9_YU6VJZ9MV5_AL4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/97748a7a-6dd0-4461-883c-211b8a21b561_spreadsdipsanddressings_YU6VJZ9MV5_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Pintola High Protein Dark Chocolate Peanut Butter Creamy, Added Whey, 30% Protein, High In Fiber",
+    "brand": "Pintola",
+    "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+    "product_id": "IVHKGYJN35",
+    "variations": [
+      {
+        "id": "MM7U8ZI3DU",
+        "display_name": "Pintola High Protein Dark Chocolate Peanut Butter Creamy, Added Whey, 30% Protein, High In Fiber",
+        "price_mrp": 399,
+        "brand": "Pintola",
+        "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Creamy Peanut Butter",
+        "sub_category_l4": "Chocolate",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "High Protein Dark Chocolate Peanut Butter Creamy, Added Whey, 30% Protein, High In Fiber",
+        "images": [
+          "580782c7496baef76c401b270460fb3d",
+          "33d3eaef8766aa02126d493192e1320e",
+          "ab17b3fc4d31a5fb8eeb7de38804b80d",
+          "8abee1439670e19edb47e88a886e6114",
+          "7337c0da3741d960aea612b0c0bfccbb",
+          "195d7ea4d1721c34522789d8e0db5065"
+        ],
+        "images_v2": [],
+        "quantity": "510",
+        "sku_quantity_with_combo": "510 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 510,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Kissan Crunchy Peanut Butter",
+    "brand": "Kissan",
+    "brand_id": "801a186564da123fc7f52be23dcb18af142bc302",
+    "product_id": "CXRU47PN52",
+    "variations": [
+      {
+        "id": "YZI8UC3CUA",
+        "display_name": "Kissan Crunchy Peanut Butter",
+        "price_mrp": 175,
+        "brand": "Kissan",
+        "brand_id": "801a186564da123fc7f52be23dcb18af142bc302",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Crunchy",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Crunchy Peanut Butter",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/2/b880ce0a-ce00-468d-b645-e86f5acc8dfe_spreadsdipsanddressings_QX4HN4CXYH_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/2/aab38fa3-617a-41ff-9983-815154860d3f_spreadsdipsanddressings_QX4HN4CXYH_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/2/7e1c3aa0-6e04-4cfe-a6dd-8e30efe433fe_spreadsdipsanddressings_QX4HN4CXYH_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "350",
+        "sku_quantity_with_combo": "350 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 350,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pintola High Protein Dark Chocolate Creamy Peanut Butter",
+    "brand": "Pintola",
+    "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+    "product_id": "32PLYF81DL",
+    "variations": [
+      {
+        "id": "Y2RQOZ7I5G",
+        "display_name": "Pintola High Protein Dark Chocolate Creamy Peanut Butter",
+        "price_mrp": 749,
+        "brand": "Pintola",
+        "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Creamy Peanut Butter",
+        "sub_category_l4": "Protein",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "High Protein Dark Chocolate Creamy Peanut Butter",
+        "images": [
+          "580782c7496baef76c401b270460fb3d",
+          "33d3eaef8766aa02126d493192e1320e",
+          "ab17b3fc4d31a5fb8eeb7de38804b80d",
+          "8abee1439670e19edb47e88a886e6114",
+          "3909764ba1cb27ddace9653ab2e5712a",
+          "195d7ea4d1721c34522789d8e0db5065"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Sundrop Peanut Butter 100% Natural - Creamy , High Protein, Unsweetened",
+    "brand": "Sundrop",
+    "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+    "product_id": "3JNRBFM1WC",
+    "variations": [
+      {
+        "id": "JL4TVLGBMF",
+        "display_name": "Sundrop Peanut Butter 100% Natural - Creamy , High Protein, Unsweetened",
+        "price_mrp": 325,
+        "brand": "Sundrop",
+        "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Creamy Peanut Butter",
+        "sub_category_l4": "Unsweetened",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Peanut Butter 100% Natural - Creamy , High Protein, Unsweetened",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/4f4dff38-d29f-444f-a641-2fe5cf0e7688_spreadsdipsanddressings_S72YA674QO_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/8ef4d434-5246-449a-a1b3-16aa9629fc0d_spreadsdipsanddressings_S72YA674QO_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/bed482cc-fa47-485b-b9b7-ca1c33929e17_spreadsdipsanddressings_S72YA674QO_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "924",
+        "sku_quantity_with_combo": "924 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 924,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Saffola Peanut Butter with Jaggery, Crunchy High Protein Peanut Butter No Refined Sugar",
+    "brand": "Saffola",
+    "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+    "product_id": "G6JA4PS6T9",
+    "variations": [
+      {
+        "id": "424C2OKHT9",
+        "display_name": "Saffola Peanut Butter with Jaggery, Crunchy High Protein Peanut Butter No Refined Sugar",
+        "price_mrp": 149,
+        "brand": "Saffola",
+        "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Crunchy Peanut Butter",
+        "sub_category_l4": "Unsweetened",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Peanut Butter with Jaggery, Crunchy High Protein Peanut Butter No Refined Sugar",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/95c66035-2313-4d90-aa86-7e29fe90ccc3_18103_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/efe091ec-8a15-4df4-ba12-6f21dead932f_18103_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/b2f6c9a4-d63d-4aba-b92e-b817e1fe1a1f_18103_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/c5f7d0e4-7130-4d6c-9866-7fb8242b7a59_18103_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/7b0bca64-d949-48ef-b328-ad3839672c01_18103_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/e7af78ea-11e2-4e33-b56b-061cba695e70_18103_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "350",
+        "sku_quantity_with_combo": "350 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 350,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sundrop Peanut Butter with Honey creamy 23g Protein per 100g, Enhanced with the Sweetness of Honey",
+    "brand": "Sundrop",
+    "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+    "product_id": "OFHNXJOJBD",
+    "variations": [
+      {
+        "id": "XN4T67T57X",
+        "display_name": "Sundrop Peanut Butter with Honey creamy 23g Protein per 100g, Enhanced with the Sweetness of Honey",
+        "price_mrp": 99,
+        "brand": "Sundrop",
+        "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Creamy Peanut Butter",
+        "sub_category_l4": "Sweetened",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Peanut Butter with Honey creamy 23g Protein per 100g, Enhanced with the Sweetness of Honey",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/16/7c27f80d-9610-4a08-8a28-991baaf94542_spreadsdipsanddressings_50R16JIWTS_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/16/a66cf339-7b72-4ae0-8f76-b0495d550069_spreadsdipsanddressings_50R16JIWTS_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/16/162505f4-9ecb-478d-bc72-8c6fd42744e2_spreadsdipsanddressings_50R16JIWTS_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/16/f61e8b52-60fe-4ed9-8938-87e17ed3a889_spreadsdipsanddressings_50R16JIWTS_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/16/08aed363-8764-4c2b-a743-60de61c815e4_spreadsdipsanddressings_50R16JIWTS_AL4.png"
+        ],
+        "images_v2": [],
+        "quantity": "300",
+        "sku_quantity_with_combo": "300 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Jus Amazin Creamy Almond Butter",
+    "brand": "Jus Amazin",
+    "brand_id": "2100c2172f3973789821a8d470aa742271d4a19d",
+    "product_id": "9S6CFNVI8E",
+    "variations": [
+      {
+        "id": "2680ATX87Z",
+        "display_name": "Jus Amazin Creamy Almond Butter",
+        "price_mrp": 450,
+        "brand": "Jus Amazin",
+        "brand_id": "2100c2172f3973789821a8d470aa742271d4a19d",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Creamy Almond Butter",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/19/93fcdffe-218f-43e9-86f4-b9c45889c8e8_727429_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/19/4807e24a-a589-4717-abdd-92a05c02564d_727429_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/19/cc333c29-2ff8-4065-82c1-a465a88e8355_727429_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "200 g",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Saffola Peanut Butter with Jaggery, Creamy High Protein Peanut Butter No Refined Sugar",
+    "brand": "Saffola",
+    "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+    "product_id": "X21JNUKYQ6",
+    "variations": [
+      {
+        "id": "HOS94TR8PZ",
+        "display_name": "Saffola Peanut Butter with Jaggery, Creamy High Protein Peanut Butter No Refined Sugar",
+        "price_mrp": 149,
+        "brand": "Saffola",
+        "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Peanut Butter with Jaggery, Creamy High Protein Peanut Butter No Refined Sugar",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/e86be7d7-1b29-47d2-943c-ce4953480c46_18104_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/6b1d4ac2-a81d-4e81-9d58-840cb35b856e_18104_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/85d81d14-7801-4b95-ab4c-1c542418bbc6_18104_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/53482262-bf91-4c54-a8b9-2d3392ca4445_18104_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/ce851115-c925-4ca4-be36-6713a36faf35_18104_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/5232a86b-ad45-406f-8462-853f60bdd066_18104_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "350 g",
+        "sku_quantity_with_combo": "350 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 350,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Disano Peanut Butter Crunchy",
+    "brand": "Disano",
+    "brand_id": "025e169323d039ea588c3aee505b37dadfbd9c2d",
+    "product_id": "620L6REVJ2",
+    "variations": [
+      {
+        "id": "2L3WMTY8VV",
+        "display_name": "Disano Peanut Butter Crunchy",
+        "price_mrp": 399,
+        "brand": "Disano",
+        "brand_id": "025e169323d039ea588c3aee505b37dadfbd9c2d",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Peanut Butter Crunchy",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/28/7abbe8b3-e95c-4f5d-a16f-085a4b2755a7_775889_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/28/053696ea-9c9f-42f9-a237-c47e82a698b6_775889_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/28/d8e9e372-6109-4168-ba7c-81f5939d3d2e_775889_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/28/a9bbcffa-f4d8-47f1-9734-0be765399e9b_775889_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/28/ff6da4db-a97b-46d8-9b52-20b034dc37ad_775889_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/28/0d3ca0b2-15f7-4818-8202-d448bf82904c_775889_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "924 g",
+        "sku_quantity_with_combo": "924 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 924,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness High Protein Dark Chocolate Peanut Butter Smooth Spread | Gluten Free",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "K0D81W05OY",
+    "variations": [
+      {
+        "id": "XZWNS2GS49",
+        "display_name": "MyFitness High Protein Dark Chocolate Peanut Butter Smooth Spread | Gluten Free",
+        "price_mrp": 689,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "High Protein Dark Chocolate Peanut Butter Smooth Spread | Gluten Free",
+        "images": [
+          "f5a55493f5523039c9f2c435716de2c5",
+          "1cbc77bb07db4be23ad7a4047461e4a3",
+          "355a54171482893fa9231646288fee5f",
+          "298d8bc1ce272d292e5a135f1ffef942",
+          "7c402f6d8483c6b680dd72f8b14e8e46",
+          "b6fd65ba9853b8762a39e950b7abad70"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Kissan Creamy Peanut Butter",
+    "brand": "Kissan",
+    "brand_id": "801a186564da123fc7f52be23dcb18af142bc302",
+    "product_id": "VESFFTI78D",
+    "variations": [
+      {
+        "id": "AQ8BHZH0N9",
+        "display_name": "Kissan Creamy Peanut Butter",
+        "price_mrp": 175,
+        "brand": "Kissan",
+        "brand_id": "801a186564da123fc7f52be23dcb18af142bc302",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Creamy Peanut Butter",
+        "images": [
+          "yvqqtzf7zze5vrzduehl",
+          "iy1lg29cjwcpjnsib8po",
+          "h6kidokjhvekq3ug1usa"
+        ],
+        "images_v2": null,
+        "quantity": "350 g",
+        "sku_quantity_with_combo": "350 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 350,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Kissan Hazelnut Choco Peanut Spread",
+    "brand": "Kissan",
+    "brand_id": "801a186564da123fc7f52be23dcb18af142bc302",
+    "product_id": "LE2L19N4ND",
+    "variations": [
+      {
+        "id": "32X7KWHUBG",
+        "display_name": "Kissan Hazelnut Choco Peanut Spread",
+        "price_mrp": 239,
+        "brand": "Kissan",
+        "brand_id": "801a186564da123fc7f52be23dcb18af142bc302",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Hazelnut Choco Peanut Spread",
+        "images": [
+          "93443028162e4cd648746e2f46d2a46a",
+          "1fe211ce7f1bc835142fc636229d56bb",
+          "b4f388ff150f6ec3742b4ad2e2f9870f"
+        ],
+        "images_v2": null,
+        "quantity": "350 g",
+        "sku_quantity_with_combo": "350 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 350,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Saffola Peanut Butter with Jaggery, Crunchy High Protein Peanut Butter No Refined Sugar",
+    "brand": "Saffola",
+    "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+    "product_id": "HWUJMBMWIY",
+    "variations": [
+      {
+        "id": "MO81UKSXUR",
+        "display_name": "Saffola Peanut Butter with Jaggery, Crunchy High Protein Peanut Butter No Refined Sugar",
+        "price_mrp": 400,
+        "brand": "Saffola",
+        "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Peanut Butter with Jaggery, Crunchy High Protein Peanut Butter No Refined Sugar",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/37c592fa-89c0-4e08-96f0-84cfef591fdb_30909_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/11328dd9-f87f-4a5e-b346-18d0a2a5b375_30909_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/0e6295f6-e2bb-434b-b0c9-56e58fa432d1_30909_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/6952742a-7647-4694-b4a3-f3a5909ab558_30909_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/ea61bc1f-ebf5-4cd3-b771-189b59869cd4_30909_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/77d1177a-3b8a-47a0-a427-74b0fd94d9f0_30909_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "850 gm",
+        "sku_quantity_with_combo": "850 gm",
+        "unit_of_measure": null,
+        "weight_in_grams": 850,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness High Protein Dark Chocolate Peanut Butter Crispy Spread - 31% Protein",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "SP3N22IA2S",
+    "variations": [
+      {
+        "id": "DUA73ZY254",
+        "display_name": "MyFitness High Protein Dark Chocolate Peanut Butter Crispy Spread - 31% Protein",
+        "price_mrp": 399,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "High Protein Dark Chocolate Peanut Butter Crispy Spread - 31% Protein",
+        "images": [
+          "880178b4af423e4699bd8d30b7579f70",
+          "6724c89eff30fcbda58bd7edee0854d0",
+          "8c4db50098231ba783ae315fb5938efc",
+          "26f6f1dc6605ec16923e21ba9ceed675",
+          "78c1353ad3ab63907322ef3fe46fc459",
+          "c47b03bd20d3b52e5fecf1dddd593cce"
+        ],
+        "images_v2": null,
+        "quantity": "510 g",
+        "sku_quantity_with_combo": "510 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 510,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "TPH6XKNIR6",
+        "display_name": "MyFitness High Protein Dark Chocolate Peanut Butter Crispy Spread - 31% Protein",
+        "price_mrp": 798,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Olympia Edition Dark Chocolate Peanut Butter With Added Whey Crispy Jar",
+        "images": [
+          "8ea1e4f2a69b95a8e506b3906a73e315"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "510 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1020,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Funfoods Dr. Oetker Peanut Butter Creamy",
+    "brand": "Funfoods",
+    "brand_id": "a512fa9fb74f604c79dbd0ebd35745a716b460a4",
+    "product_id": "HBYT4XM7CA",
+    "variations": [
+      {
+        "id": "DBCYP6J1J4",
+        "display_name": "Funfoods Dr. Oetker Peanut Butter Creamy",
+        "price_mrp": 139,
+        "brand": "Funfoods",
+        "brand_id": "a512fa9fb74f604c79dbd0ebd35745a716b460a4",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Dr. Oetker Peanut Butter Creamy",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/4/e47d845a-a397-425c-847d-0641aba9fada_spreadsdipsanddressings_LA79G062KD_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/4/5f09a9b8-a3fe-4b9a-80e3-7233f9cb76c0_spreadsdipsanddressings_LA79G062KD_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/4/d73fab49-3c95-4404-80f3-13363a8ea98a_spreadsdipsanddressings_LA79G062KD_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/4/c4124261-6f9e-4ebb-8658-ee0a2c9fab83_spreadsdipsanddressings_LA79G062KD_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/4/01adffeb-27d5-452c-ac8e-a0ed59af4efe_spreadsdipsanddressings_LA79G062KD_AL4.png"
+        ],
+        "images_v2": null,
+        "quantity": "375 g",
+        "sku_quantity_with_combo": "375 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 375,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "YogaBar Dark Chocolate Peanut Butter Slow Roasted Non-GMO Premium Peanuts",
+    "brand": "Yogabar",
+    "brand_id": "46680527a027ac751937f329a312efcb9110da20",
+    "product_id": "4U7R1H1VLI",
+    "variations": [
+      {
+        "id": "17SD0CARGS",
+        "display_name": "YogaBar Dark Chocolate Peanut Butter Slow Roasted Non-GMO Premium Peanuts",
+        "price_mrp": 330,
+        "brand": "Yogabar",
+        "brand_id": "46680527a027ac751937f329a312efcb9110da20",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "YogaBar Dark Chocolate Peanut Butter Slow Roasted Non-GMO Premium Peanuts",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/31/fd4f15cb-1a8f-42c3-8133-2e252cf834a8_6721_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/31/825c1b32-e9af-45d1-b98d-dc41eec62dd1_6721_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/31/9af8d495-b6a2-4699-ba85-5a1a23c19f7f_6721_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "400 g",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Disano Natural Peanut Butter Creamy 1Kg, Unsweetened, 100% Roasted Peanut Butter, 30 gm Protein",
+    "brand": "Disano",
+    "brand_id": "025e169323d039ea588c3aee505b37dadfbd9c2d",
+    "product_id": "5FAJX50EWP",
+    "variations": [
+      {
+        "id": "CGUX46M2L9",
+        "display_name": "Disano Natural Peanut Butter Creamy 1Kg, Unsweetened, 100% Roasted Peanut Butter, 30 gm Protein",
+        "price_mrp": 500,
+        "brand": "Disano",
+        "brand_id": "025e169323d039ea588c3aee505b37dadfbd9c2d",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Natural Peanut Butter Creamy 1Kg, Unsweetened, 100% Roasted Peanut Butter, 30 gm Protein",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/95573355-7702-4efa-acbf-4c0b377fab0b_477240_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/fa9a9ca0-532c-47b5-a216-235bed52cd6f_477240_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/ee963c0c-9189-42a6-a1a4-65a26092387e_477240_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/2ac8ba2b-6849-488b-b98b-d50bb2ef432c_477240_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Disano Natural Peanut Butter Crunchy 1Kg, Unsweetened, 100% Roasted Peanut Butter, 30 gm Protein",
+    "brand": "Disano",
+    "brand_id": "025e169323d039ea588c3aee505b37dadfbd9c2d",
+    "product_id": "061U2Y7RU4",
+    "variations": [
+      {
+        "id": "X7YVDMNK6W",
+        "display_name": "Disano Natural Peanut Butter Crunchy 1Kg, Unsweetened, 100% Roasted Peanut Butter, 30 gm Protein",
+        "price_mrp": 500,
+        "brand": "Disano",
+        "brand_id": "025e169323d039ea588c3aee505b37dadfbd9c2d",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Natural Peanut Butter Crunchy 1Kg, Unsweetened, 100% Roasted Peanut Butter, 30 gm Protein",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/9/fc3df35d-ebeb-494c-a2ea-74c99b3b23cb_116864_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/9/a81829a2-f0a5-46de-a19b-e0e654efd045_116864_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/9/afaa5e93-8287-4c24-a4bc-59c9d2e06414_116864_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/9/57081c80-85a7-4df3-a699-5ba537a5f31e_116864_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Peanut Butter Chocolate Smooth & The Health Factory Zero Maidamultigrain Bread",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "ZTTV23RL2Z",
+    "variations": [
+      {
+        "id": "67VW2OI4X2",
+        "display_name": "MyFitness Peanut Butter Chocolate Smooth & The Health Factory Zero Maidamultigrain Bread",
+        "price_mrp": 409,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Peanut Butter Chocolate Smooth & The Health Factory Zero Maidamultigrain Bread",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/23/efcf6e59-27c4-4f59-b3ca-64602a96c038_84612.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 760,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Kissan Creamy Peanut Butter High Protein With Perfectly Roasted Peanuts & Kissan Mixed Fruit Jam",
+    "brand": "Kissan",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "VNM3XV96GB",
+    "variations": [
+      {
+        "id": "WHRI6CFGJ7",
+        "display_name": "Kissan Creamy Peanut Butter High Protein With Perfectly Roasted Peanuts & Kissan Mixed Fruit Jam",
+        "price_mrp": 445,
+        "brand": "Kissan",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Creamy Peanut Butter High Protein With Perfectly Roasted Peanuts & Kissan Mixed Fruit Jam",
+        "images": [
+          "ro2d73hbo4ycnxnpunr2"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1050,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "The Whole Truth Creamy Dark Chocolate Peanut Spread (With Date)",
+    "brand": "The Whole Truth",
+    "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+    "product_id": "3VMKYXJ3DD",
+    "variations": [
+      {
+        "id": "0QYCVXLRRV",
+        "display_name": "The Whole Truth Creamy Dark Chocolate Peanut Spread (With Date)",
+        "price_mrp": 899,
+        "brand": "The Whole Truth",
+        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Creamy Dark Chocolate Peanut Spread (With Date)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/16d28102-c6bf-46c4-b1b8-cc4e2be723db_86089_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/1ce55810-1f67-41d3-871a-ccc2390d0e66_86089_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/e0c6e013-8cc5-48b4-8fe3-d8354a318e43_12206_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/dfef1611-081e-40ef-a05b-4b0437498640_86089_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "925 g",
+        "sku_quantity_with_combo": "925 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 925,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "The Whole Truth Dark Chocolate Peanut Buttercreamy & 71% Dark Chocolate No Added Sugar Combo",
+    "brand": "The Whole Truth",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "31C54ZPU7U",
+    "variations": [
+      {
+        "id": "IGMW7YHUTO",
+        "display_name": "The Whole Truth Dark Chocolate Peanut Buttercreamy & 71% Dark Chocolate No Added Sugar Combo",
+        "price_mrp": 698,
+        "brand": "The Whole Truth",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Dark Chocolate Peanut Buttercreamy & 71% Dark Chocolate No Added Sugar Combo",
+        "images": [
+          "286f5655be357842876200afee1795bc"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 405,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Chocolate Peanut Butter Crunchy Dark Chocolate & Kissan Mixed Fruit Jam",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "CJOMWEXF1L",
+    "variations": [
+      {
+        "id": "VF3DQXHRGB",
+        "display_name": "MyFitness Chocolate Peanut Butter Crunchy Dark Chocolate & Kissan Mixed Fruit Jam",
+        "price_mrp": 379,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chocolate Peanut Butter Crunchy Dark Chocolate & Kissan Mixed Fruit Jam",
+        "images": [
+          "67ba69f57ec79e6e651cde96036b8eb5"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 727,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Peanut Butter Chocolate Smooth & Quaker Oats",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "89D1MUUOVS",
+    "variations": [
+      {
+        "id": "9NI13M74LF",
+        "display_name": "MyFitness Peanut Butter Chocolate Smooth & Quaker Oats",
+        "price_mrp": 549,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Peanut Butter Chocolate Smooth & Quaker Oats",
+        "images": [
+          "d9ffe5a264a855628e5c7e772967d7a2"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1510,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pintola All Natural Peanut Butter Creamy & Quaker Oats Pouch Combo",
+    "brand": "Pintola",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "UOTIQVOYPQ",
+    "variations": [
+      {
+        "id": "HPU9RURP4Q",
+        "display_name": "Pintola All Natural Peanut Butter Creamy & Quaker Oats Pouch Combo",
+        "price_mrp": 385,
+        "brand": "Pintola",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "All Natural Peanut Butter Creamy & Quaker Oats Pouch Combo",
+        "images": [
+          "5133e50fe3db275411a58839bf9d39f1"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1350,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Chocolate Peanut Butter Crunchy & Chocolate Smooth Peanut Butter",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "EC0OCSYHD7",
+    "variations": [
+      {
+        "id": "H3VWVM7CBI",
+        "display_name": "MyFitness Chocolate Peanut Butter Crunchy & Chocolate Smooth Peanut Butter",
+        "price_mrp": 358,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chocolate Peanut Butter Crunchy & Chocolate Smooth Peanut Butter",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/2/22/172e99ff-5b66-4e38-9fe9-ccbe8b7151ae_spreadsdipsanddressings_MDAHU2TMNY_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 454,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Skippy Creamy Peanut Butter",
+    "brand": "Skippy",
+    "brand_id": "99958305e12038e0aad8f4506162a8d2b54d92c1",
+    "product_id": "QTV8338QHS",
+    "variations": [
+      {
+        "id": "YGIKAZMB1Y",
+        "display_name": "Skippy Creamy Peanut Butter",
+        "price_mrp": 672,
+        "brand": "Skippy",
+        "brand_id": "99958305e12038e0aad8f4506162a8d2b54d92c1",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Creamy Peanut Butter",
+        "images": [
+          "a3c7898f07c0839e49f1fa53339a5a03",
+          "a43677e90c9b233b52a10fa6bbbf19e6",
+          "13d6d94d4bd8dc43565747169ab10274",
+          "43c8f72fa15abcab2621a586c58f8957"
+        ],
+        "images_v2": null,
+        "quantity": "462 g",
+        "sku_quantity_with_combo": "462 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 462,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pintola All Natural Peanut Butter Creamy & Bagrrys 100% Jumbo Rolled Oats Combo",
+    "brand": "Pintola",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "L4B7R6S7BL",
+    "variations": [
+      {
+        "id": "G31GH0SQ8P",
+        "display_name": "Pintola All Natural Peanut Butter Creamy & Bagrrys 100% Jumbo Rolled Oats Combo",
+        "price_mrp": 665,
+        "brand": "Pintola",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "All Natural Peanut Butter Creamy & Bagrrys 100% Jumbo Rolled Oats Combo",
+        "images": [
+          "8f2ca9fe9c98801a0ebdd2c742bfd441"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 351,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pintola Classic Peanut Butter Crunchy & Quaker Oats Pouch Combo",
+    "brand": "Pintola",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "5ZOVR094QW",
+    "variations": [
+      {
+        "id": "5P4MTDJX2Z",
+        "display_name": "Pintola Classic Peanut Butter Crunchy & Quaker Oats Pouch Combo",
+        "price_mrp": 609,
+        "brand": "Pintola",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Classic Peanut Butter Crunchy & Quaker Oats Pouch Combo",
+        "images": [
+          "095362fb424d327053bcebeb0e822c5e"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Peanut Butter Chocolate Smooth & Butter Crunchy Mix",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "NW06Y6VP1C",
+    "variations": [
+      {
+        "id": "WLW5N198A9",
+        "display_name": "MyFitness Peanut Butter Chocolate Smooth & Butter Crunchy Mix",
+        "price_mrp": 659,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Peanut Butter Chocolate Smooth & Butter Crunchy Mix",
+        "images": [
+          "657a62a82f898502364801ec57c3355e"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1020,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Saffola Peanut Butter Creamy & True Elements Quinoa",
+    "brand": "Saffola",
+    "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+    "product_id": "W2BJIV9MVY",
+    "variations": [
+      {
+        "id": "L9COT5WG28",
+        "display_name": "Saffola Peanut Butter Creamy & True Elements Quinoa",
+        "price_mrp": 799,
+        "brand": "Saffola",
+        "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Peanut Butter Creamy & True Elements Quinoa",
+        "images": [
+          "491852e34dc3646bf7d3f845832d87f7"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1350,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pintola All Natural Peanut Butter & Quaker Oats Combo",
+    "brand": "Pintola",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "PLR6LM04CD",
+    "variations": [
+      {
+        "id": "0IX52YLW91",
+        "display_name": "Pintola All Natural Peanut Butter & Quaker Oats Combo",
+        "price_mrp": 659,
+        "brand": "Pintola",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "All Natural Peanut Butter & Quaker Oats Combo",
+        "images": [
+          "5b5709f3b60e79a21c2da426584d52c4"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Myfitness Chocolate Smooth 510Gmraw Pressery Choco Mint Protein Milkshake200Ml",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "3QDRIUEN4I",
+    "variations": [
+      {
+        "id": "YG0I1QL5IJ",
+        "display_name": "Myfitness Chocolate Smooth 510Gmraw Pressery Choco Mint Protein Milkshake200Ml",
+        "price_mrp": 449,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Myfitness Chocolate Smooth 510Gmraw Pressery Choco Mint Protein Milkshake200Ml",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/6/2/4c4c4b54-0854-41d5-84c9-22f8210b952e_spreadsdipsanddressings_LIRS7Q70J0_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 710,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pintola All Natural Peanut Butter Crunchy & Quaker Oats Pouch Combo",
+    "brand": "Pintola",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "ZUXHML7AVE",
+    "variations": [
+      {
+        "id": "SNB7S25O8B",
+        "display_name": "Pintola All Natural Peanut Butter Crunchy & Quaker Oats Pouch Combo",
+        "price_mrp": 385,
+        "brand": "Pintola",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "All Natural Peanut Butter Crunchy & Quaker Oats Pouch Combo",
+        "images": [
+          "96ea9b65efa32717e6faa7fee8207bbd"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1350,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Saffola Peanut Butter Creamy & True Elements Dark Chocolate Muesli Combo",
+    "brand": "Saffola",
+    "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+    "product_id": "IXSQ29JNG5",
+    "variations": [
+      {
+        "id": "S27ACGV0TV",
+        "display_name": "Saffola Peanut Butter Creamy & True Elements Dark Chocolate Muesli Combo",
+        "price_mrp": 644,
+        "brand": "Saffola",
+        "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Peanut Butter Creamy & True Elements Dark Chocolate Muesli Combo",
+        "images": [
+          "9755be29a64552c969fa6502cc347c96"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1050,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "The Butternut Co. Chocolate Peanut Butter Crunchy",
+    "brand": "The Butternut Co.",
+    "brand_id": "c4c04dfc26eb1276303a06fc7acc13f5ad7e0952",
+    "product_id": "GIJESRO2RC",
+    "variations": [
+      {
+        "id": "WTRH26FVH7",
+        "display_name": "The Butternut Co. Chocolate Peanut Butter Crunchy",
+        "price_mrp": 185,
+        "brand": "The Butternut Co.",
+        "brand_id": "c4c04dfc26eb1276303a06fc7acc13f5ad7e0952",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chocolate Peanut Butter Crunchy",
+        "images": [
+          "xfdwco3jnrjsw5ux6qnf",
+          "ywottwyehdm1fjdkdldl",
+          "aumjxcfxqy3nsbxssw3u"
+        ],
+        "images_v2": null,
+        "quantity": "340 g",
+        "sku_quantity_with_combo": "340 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 340,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Original Peanut Butter Crunchy Mix",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "UZ8BP591PZ",
+    "variations": [
+      {
+        "id": "2HYNQJXUYR",
+        "display_name": "MyFitness Original Peanut Butter Crunchy Mix",
+        "price_mrp": 499,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Original Peanut Butter Crunchy Mix",
+        "images": [
+          "592f3bce9729dc902325f7bbac8f3e5a"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 737,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Peanut Butter Chocolate Smooth & Chocolate Peanut Butter Crunchy",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "0593Y4FHDV",
+    "variations": [
+      {
+        "id": "NVTTZH768U",
+        "display_name": "MyFitness Peanut Butter Chocolate Smooth & Chocolate Peanut Butter Crunchy",
+        "price_mrp": 678,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Peanut Butter Chocolate Smooth & Chocolate Peanut Butter Crunchy",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/2/22/c8aca614-0b76-4a1e-9379-d3f001bbab4b_spreadsdipsanddressings_9IL30MRU07_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1020,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Myfitness Chocolate Smooth 510Gm& Raw Pressery Valencia Orange Juice 1L",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "8OLJXX9JA6",
+    "variations": [
+      {
+        "id": "767338XO77",
+        "display_name": "Myfitness Chocolate Smooth 510Gm& Raw Pressery Valencia Orange Juice 1L",
+        "price_mrp": 738,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Myfitness Chocolate Smooth 510Gm& Raw Pressery Valencia Orange Juice 1L",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/6/2/4d652df9-0a16-45ac-a02f-dc468c078a2e_spreadsdipsanddressings_BW0XL5GJT6_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1600,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Kissan Creamy Peanut Butter Bottle & Good Life Milk Combo",
+    "brand": "Kissan",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "9IESDQD4UU",
+    "variations": [
+      {
+        "id": "T7OPV8SI5W",
+        "display_name": "Kissan Creamy Peanut Butter Bottle & Good Life Milk Combo",
+        "price_mrp": 245,
+        "brand": "Kissan",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Creamy Peanut Butter Bottle & Good Life Milk Combo",
+        "images": [
+          "1ce300b63a402c05ac43c27df9d14efa"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1350,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pintola All Natural Peanut Butter Crunchy & Bagrrys 100% Jumbo Rolled Oats Combo",
+    "brand": "Pintola",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "XQK4990BWY",
+    "variations": [
+      {
+        "id": "7KLACIX04U",
+        "display_name": "Pintola All Natural Peanut Butter Crunchy & Bagrrys 100% Jumbo Rolled Oats Combo",
+        "price_mrp": 665,
+        "brand": "Pintola",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "All Natural Peanut Butter Crunchy & Bagrrys 100% Jumbo Rolled Oats Combo",
+        "images": [
+          "d7992950d5bd4693646cf67b5d2b43bd"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 351,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Saffola Peanut Butter Creamy & True Elements Fruit, Nut Muesli Combo",
+    "brand": "Saffola",
+    "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+    "product_id": "3TUGJYSNJL",
+    "variations": [
+      {
+        "id": "KIQD2AWIN3",
+        "display_name": "Saffola Peanut Butter Creamy & True Elements Fruit, Nut Muesli Combo",
+        "price_mrp": 844,
+        "brand": "Saffola",
+        "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Peanut Butter Creamy & True Elements Fruit, Nut Muesli Combo",
+        "images": [
+          "11cd7f937f70f138e1155ca33394a4c2"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1350,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pintola All Natural Peanut Butter Crunchy Jar & Bagrry'S 100% Jumbo Rolled Oats Jar Combo",
+    "brand": "Pintola",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "RWV5NSUBYT",
+    "variations": [
+      {
+        "id": "SXTLTGH5F2",
+        "display_name": "Pintola All Natural Peanut Butter Crunchy Jar & Bagrry'S 100% Jumbo Rolled Oats Jar Combo",
+        "price_mrp": 939,
+        "brand": "Pintola",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "All Natural Peanut Butter Crunchy Jar & Bagrry'S 100% Jumbo Rolled Oats Jar Combo",
+        "images": [
+          "28bc364ab13b29756e035e1ff9dbe850"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1001,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Kissan Crunchy Peanut Butter Bottle & Good Life Milk Combo",
+    "brand": "Kissan",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "PF1OM994IF",
+    "variations": [
+      {
+        "id": "M59ZQS1II4",
+        "display_name": "Kissan Crunchy Peanut Butter Bottle & Good Life Milk Combo",
+        "price_mrp": 245,
+        "brand": "Kissan",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Crunchy Peanut Butter Bottle & Good Life Milk Combo",
+        "images": [
+          "1ce300b63a402c05ac43c27df9d14efa"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1350,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Peanut Butter Chocolate Smooth & Bagrry's 100% Jumbo Rolled Oats",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "SC6D1XQ8LV",
+    "variations": [
+      {
+        "id": "XTYL99F16U",
+        "display_name": "MyFitness Peanut Butter Chocolate Smooth & Bagrry's 100% Jumbo Rolled Oats",
+        "price_mrp": 829,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Peanut Butter Chocolate Smooth & Bagrry's 100% Jumbo Rolled Oats",
+        "images": [
+          "43610f37836fbbe00c06be7eb813958f"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 511,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Chocolate smooth & Nandini Toned Milk",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "PU36FZOIYN",
+    "variations": [
+      {
+        "id": "739DJ6TIWT",
+        "display_name": "MyFitness Chocolate smooth & Nandini Toned Milk",
+        "price_mrp": 409,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chocolate smooth & Nandini Toned Milk",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/7/887639b7-85cf-4157-a0cf-05bf5433f13e_spreadsdipsanddressings_9Y1ZZDS4MD_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1510,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Saffola Peanut Butter Creamy & True Elements Rolled Oats Combo",
+    "brand": "Saffola",
+    "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+    "product_id": "MIWWI9VNV3",
+    "variations": [
+      {
+        "id": "GDQ12NRZD8",
+        "display_name": "Saffola Peanut Butter Creamy & True Elements Rolled Oats Combo",
+        "price_mrp": 629,
+        "brand": "Saffola",
+        "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Peanut Butter Creamy & True Elements Rolled Oats Combo",
+        "images": [
+          "66ca2014b653b95b72e1422346403e0d"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1550,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Peanut Butter Chocolate Smooth Crunchy Mix",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "AEIKVTSFI2",
+    "variations": [
+      {
+        "id": "0Z4IVOCL9J",
+        "display_name": "MyFitness Peanut Butter Chocolate Smooth Crunchy Mix",
+        "price_mrp": 518,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Peanut Butter Chocolate Smooth Crunchy Mix",
+        "images": [
+          "d197a59ab252c04dfa3d70f7e559eaee"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 737,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Myfitness Dark Chocolate Crispy 510Gmraw Pressery Banana Honey Protein Milkshake200Ml",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "E9QYS2OLUJ",
+    "variations": [
+      {
+        "id": "K19DY2GGC6",
+        "display_name": "Myfitness Dark Chocolate Crispy 510Gmraw Pressery Banana Honey Protein Milkshake200Ml",
+        "price_mrp": 509,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Myfitness Dark Chocolate Crispy 510Gmraw Pressery Banana Honey Protein Milkshake200Ml",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/6/2/21627c71-5965-48e0-8be5-8d8cbbc3590f_spreadsdipsanddressings_H353PXJ804_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 710,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Myfitness Dark Chocolate Crunchy 510Gmraw Pressery Cold Coffee Protein Milkshake 200Ml",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "956PUQJDBN",
+    "variations": [
+      {
+        "id": "GGB7KT29XP",
+        "display_name": "Myfitness Dark Chocolate Crunchy 510Gmraw Pressery Cold Coffee Protein Milkshake 200Ml",
+        "price_mrp": 509,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Myfitness Dark Chocolate Crunchy 510Gmraw Pressery Cold Coffee Protein Milkshake 200Ml",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/6/2/af6a8b48-4636-45ab-b982-eb4cc93ba8c0_spreadsdipsanddressings_R1H305931B_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 710,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Olympia Edition Dark Chocolate Peanut butter with Whey Crunchy and crispy Mix",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "XARICMDRB1",
+    "variations": [
+      {
+        "id": "RHDN1KQ79I",
+        "display_name": "MyFitness Olympia Edition Dark Chocolate Peanut butter with Whey Crunchy and crispy Mix",
+        "price_mrp": 798,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Olympia Edition Dark Chocolate Peanut butter with Whey Crunchy and crispy Mix",
+        "images": [
+          "3cc38fd134df74109903daf7358628a2"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1020,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Chocolate Peanut Butter Crunchy& MyFitness Protein Bar with Added Whey - Chocolate Peanut Butter Flavor",
+    "brand": "",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "IMMYNR7K12",
+    "variations": [
+      {
+        "id": "HH7A7ZP8UT",
+        "display_name": "MyFitness Chocolate Peanut Butter Crunchy& MyFitness Protein Bar with Added Whey - Chocolate Peanut Butter Flavor",
+        "price_mrp": 449,
+        "brand": "",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "MyFitness Chocolate Peanut Butter Crunchy& MyFitness Protein Bar with Added Whey - Chocolate Peanut Butter Flavor",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/2/6583d28a-7385-4824-9e9a-efd3d5d74c29_922050_1.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 577,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Yogabar Dark Chocolate Peanut Butter & Modern Sandwich Supreme Combo",
+    "brand": "Yogabar",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "JF67RBTT28",
+    "variations": [
+      {
+        "id": "JWN10H5ZXI",
+        "display_name": "Yogabar Dark Chocolate Peanut Butter & Modern Sandwich Supreme Combo",
+        "price_mrp": 385,
+        "brand": "Yogabar",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Dark Chocolate Peanut Butter & Modern Sandwich Supreme Combo",
+        "images": [
+          "10dec9e077693d45acccdb0197a6e8f9"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 800,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "The Whole Truth Dark Chocolate Peanut Butter Creamy & Choco Fruit Crunch Muesli Combo",
+    "brand": "The Whole Truth",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "URG59CUO4B",
+    "variations": [
+      {
+        "id": "357CP9ZD0Q",
+        "display_name": "The Whole Truth Dark Chocolate Peanut Butter Creamy & Choco Fruit Crunch Muesli Combo",
+        "price_mrp": 674,
+        "brand": "The Whole Truth",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Dark Chocolate Peanut Butter Creamy & Choco Fruit Crunch Muesli Combo",
+        "images": [
+          "84dd79953c208d344dfc96d5dbd87c24"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 675,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Myfitness Chocolate Peanut Butter With Almond Crunch And Myfitness Peanut Butter Original Crunchy",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "3GINUN9ZT7",
+    "variations": [
+      {
+        "id": "FYIW70W62U",
+        "display_name": "Myfitness Chocolate Peanut Butter With Almond Crunch And Myfitness Peanut Butter Original Crunchy",
+        "price_mrp": 739,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Myfitness Chocolate Peanut Butter With Almond Crunch And Myfitness Peanut Butter Original Crunchy",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/e11624e4-9252-45da-a223-fda3c667b4a5_862801.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1020,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Myfitness Chocolate Peanut Butter With Almond Crunch And Myfitness Peanut Butter Chocolate Smooth",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "0982IZKT7T",
+    "variations": [
+      {
+        "id": "OCH9YAZYAG",
+        "display_name": "Myfitness Chocolate Peanut Butter With Almond Crunch And Myfitness Peanut Butter Chocolate Smooth",
+        "price_mrp": 758,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Myfitness Chocolate Peanut Butter With Almond Crunch And Myfitness Peanut Butter Chocolate Smooth",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/55eab69e-a7be-4728-9dfb-82ddee841ab7_226817.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1020,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness All Natural Peanut Butter Smooth Spread (No Sugar, High Protein)",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "AAD0OM5GLH",
+    "variations": [
+      {
+        "id": "PF7VT366OV",
+        "display_name": "MyFitness All Natural Peanut Butter Smooth Spread (No Sugar, High Protein)",
+        "price_mrp": 320,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "All Natural Peanut Butter Smooth Spread (No Sugar, High Protein)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/14e9e643-7acb-4108-8707-e11fb00de236_90W6JAR96B_mn.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/25766c91-9bda-4d21-bf92-9d91940f3360_90W6JAR96B_al1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/359a6e30-6c91-4c55-80e5-7562949498aa_90W6JAR96B_al2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/fea97de8-4b5f-401a-bbd2-7e2a1343f7be_90W6JAR96B_al3.png",
+          "171b3fe41651cc07065c8f2a8589508d",
+          "7ade3e523d93324835f8663aa2e94f85"
+        ],
+        "images_v2": null,
+        "quantity": "510 g",
+        "sku_quantity_with_combo": "510 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 510,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness All Natural Unsweetened Peanut Butter Smooth & Whey Crispy Mix",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "QRY2UGVU6E",
+    "variations": [
+      {
+        "id": "PPQIXCP3LZ",
+        "display_name": "MyFitness All Natural Unsweetened Peanut Butter Smooth & Whey Crispy Mix",
+        "price_mrp": 719,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "All Natural Unsweetened Peanut Butter Smooth & Whey Crispy Mix",
+        "images": [
+          "7b2ea363d26bf5e7332891677ca0e16a"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1020,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MYFITNESS Chocolate Peanut Butter with Almond Crunch",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "KNRNWKA66J",
+    "variations": [
+      {
+        "id": "HAY581LRSK",
+        "display_name": "MYFITNESS Chocolate Peanut Butter with Almond Crunch",
+        "price_mrp": 838,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "MYFITNESS Chocolate Peanut Butter with Almond Crunch",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/29/eb83f2ab-ab6b-4ab0-af90-ac6877fc3b9f_spreadsdipsanddressings_TN5T7753LQ_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "510 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1020,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Myfitness Chocolate Peanut Butter With Almond Crunch And Myfitness Chocolate Smooth Peanut Butter",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "T33FZIFHU5",
+    "variations": [
+      {
+        "id": "A7N2FTSWQA",
+        "display_name": "Myfitness Chocolate Peanut Butter With Almond Crunch And Myfitness Chocolate Smooth Peanut Butter",
+        "price_mrp": 598,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Myfitness Chocolate Peanut Butter With Almond Crunch And Myfitness Chocolate Smooth Peanut Butter",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/28566c4d-d66a-4c2e-b177-9c278906c5da_970897.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 737,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Olympia Edition Dark Chocolate Peanut Butter With Added Whey Crispy Jar & MyFitness Protein Bar with Added Whey - Chocolate Peanut Butter Flavor",
+    "brand": "",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "WQSOCHHZ91",
+    "variations": [
+      {
+        "id": "RQ3R04O3RV",
+        "display_name": "MyFitness Olympia Edition Dark Chocolate Peanut Butter With Added Whey Crispy Jar & MyFitness Protein Bar with Added Whey - Chocolate Peanut Butter Flavor",
+        "price_mrp": 509,
+        "brand": "",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "MyFitness Olympia Edition Dark Chocolate Peanut Butter With Added Whey Crispy Jar & MyFitness Protein Bar with Added Whey - Chocolate Peanut Butter Flavor",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/2/fbb3a669-f559-4f1c-859f-e9a93aec3aba_288229_1.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 577,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Peanut Butter Chocolate Smooth & Original Peanut Butter Smooth",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "GJKZRA3GBJ",
+    "variations": [
+      {
+        "id": "Y4NK0WXT1A",
+        "display_name": "MyFitness Peanut Butter Chocolate Smooth & Original Peanut Butter Smooth",
+        "price_mrp": 688,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Peanut Butter Chocolate Smooth & Original Peanut Butter Smooth",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/2/22/67c75f88-260d-49d3-95fc-e3ded03abd9d_spreadsdipsanddressings_AMOYFMY75V_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 1020,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Myfitness Chocolate Peanut Butter With Almond Crunch510Gmepigamia Turbo Protein Milkshake 250Ml",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "WVNOXPNRL6",
+    "variations": [
+      {
+        "id": "5G01W4KM0Y",
+        "display_name": "Myfitness Chocolate Peanut Butter With Almond Crunch510Gmepigamia Turbo Protein Milkshake 250Ml",
+        "price_mrp": 569,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Myfitness Chocolate Peanut Butter With Almond Crunch510Gmepigamia Turbo Protein Milkshake 250Ml",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/6/2/a407655c-acfe-4e15-8684-9eb5ace7aa53_spreadsdipsanddressings_GM5B1XDCJB_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 760,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Original Peanut Butter Smooth & Kissan Mixed Fruit Jam",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "GBV86AWM0N",
+    "variations": [
+      {
+        "id": "ML5T2NDJ8A",
+        "display_name": "MyFitness Original Peanut Butter Smooth & Kissan Mixed Fruit Jam",
+        "price_mrp": 374,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Original Peanut Butter Smooth & Kissan Mixed Fruit Jam",
+        "images": [
+          "81cd453f4db58891ae27a6a7622baa85"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 600,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Peanut Butter Chocolate Smooth & MyFitness Protein Bar with Added Whey - Chocolate Peanut Butter Flavor",
+    "brand": "",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "RL20RD2QKM",
+    "variations": [
+      {
+        "id": "OJ1ANRY5VW",
+        "display_name": "MyFitness Peanut Butter Chocolate Smooth & MyFitness Protein Bar with Added Whey - Chocolate Peanut Butter Flavor",
+        "price_mrp": 449,
+        "brand": "",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "MyFitness Peanut Butter Chocolate Smooth & MyFitness Protein Bar with Added Whey - Chocolate Peanut Butter Flavor",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/27/844cac72-57ea-40c8-8122-bf464416436e_378645.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 577,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Olympia Edition Dark Chocolate Peanut Butter With Added Whey Crunchy Jar & MyFitness Protein Bar with Added Whey - Chocolate Peanut Butter Flavor",
+    "brand": "",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "GCCETIYLUS",
+    "variations": [
+      {
+        "id": "G5ABCJ57YT",
+        "display_name": "MyFitness Olympia Edition Dark Chocolate Peanut Butter With Added Whey Crunchy Jar & MyFitness Protein Bar with Added Whey - Chocolate Peanut Butter Flavor",
+        "price_mrp": 509,
+        "brand": "",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "MyFitness Olympia Edition Dark Chocolate Peanut Butter With Added Whey Crunchy Jar & MyFitness Protein Bar with Added Whey - Chocolate Peanut Butter Flavor",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/27/94d5b2f6-5dbc-4ded-9ba1-d9e1f9bab655_110201.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 577,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Kissan Creamy Peanut Butter High Protein With Perfectly Roasted Peanuts & Britannia Brown Bread",
+    "brand": "Kissan",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "T8ILAMA349",
+    "variations": [
+      {
+        "id": "Y3SY2FN1HB",
+        "display_name": "Kissan Creamy Peanut Butter High Protein With Perfectly Roasted Peanuts & Britannia Brown Bread",
+        "price_mrp": 235,
+        "brand": "Kissan",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Creamy Peanut Butter High Protein With Perfectly Roasted Peanuts & Britannia Brown Bread",
+        "images": [
+          "yqjscgpuhu4p1zsuuvy4"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 750,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Original Peanut Butter Smooth",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "7JNY31RR6T",
+    "variations": [
+      {
+        "id": "ZMIMKTGNN5",
+        "display_name": "MyFitness Original Peanut Butter Smooth",
+        "price_mrp": 698,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Original Peanut Butter Smooth",
+        "images": [
+          "f167cfd676797b0a2d3de66c2183984a"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "510 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1020,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness High Protein Dark Chocolate Peanut Butter Crunchy Spread | Gluten Free",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "EBRS86ALQX",
+    "variations": [
+      {
+        "id": "YXI8S3MHXO",
+        "display_name": "MyFitness High Protein Dark Chocolate Peanut Butter Crunchy Spread | Gluten Free",
+        "price_mrp": 798,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Dark Chocolate Peanut Butter With Added Whey Crunchy Jar",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/6bde7149-1ffe-464e-b379-90406957945d_52855_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/c88f628f-e670-454a-8f02-36fdbdeeae98_52855_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/df4d6f0c-5252-41b9-b7eb-4ef660bc81cd_52855_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/3d89ef77-bcd6-4262-9954-103b1de2e8f6_52855_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/0288fc4e-fcd3-4a97-b476-b2d06696cfcc_52855_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/6df1c247-d7f5-43ee-b0fc-5d9fb91b34a7_52855_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "510 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1020,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "F0VOVXKMOI",
+        "display_name": "MyFitness High Protein Dark Chocolate Peanut Butter Crunchy Spread | Gluten Free",
+        "price_mrp": 399,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "High Protein Dark Chocolate Peanut Butter Crunchy Spread | Gluten Free",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/21/3a43663e-96cd-4b76-9045-e561a5a49670_26515_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/21/9a02e6c6-0d40-42d9-8638-a31ef7829934_26515_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/21/55c4cb61-c3c2-4e69-96e2-2582742988cb_26515_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/21/67622325-ba9d-42c4-b5d4-1ea864f0e245_26515_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/21/37466420-1e19-4333-abbf-b0724f991319_26515_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/21/2e9413a1-7365-4b47-9f60-9f498e4aa762_26515_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "510 g",
+        "sku_quantity_with_combo": "510 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 510,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MYFITNESS Chocolate Peanut Butter Crispy",
+    "brand": "MyFitness",
+    "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+    "product_id": "Z048HOTF6H",
+    "variations": [
+      {
+        "id": "VXK0L2DS6W",
+        "display_name": "MYFITNESS Chocolate Peanut Butter Crispy",
+        "price_mrp": 678,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "MYFITNESS Chocolate Peanut Butter Crispy",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/29/de08b2c6-f210-4371-bdaf-bccde46a4ae4_spreadsdipsanddressings_L96X5H59SV_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "510 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1020,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "1ITYO8W8MH",
+        "display_name": "MYFITNESS Chocolate Peanut Butter Crispy",
+        "price_mrp": 339,
+        "brand": "MyFitness",
+        "brand_id": "3e2a66d752b0ae08bc37f4652da07898f8a913e6",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chocolate Peanut Butter Crispy Spread (High Protein)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/4/25/ef41ef4b-b81b-4f90-bb9a-707101f50cc0_spreadsdipsanddressings_UNU8M09M8U_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/25/672b5711-b6d4-4b99-8def-35d8677c6e57_spreadsdipsanddressings_UNU8M09M8U_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/3/d30235a5-41cf-407d-9b5b-7baa6f3580e8_spreadsdipsanddressings_UNU8M09M8U_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/25/e570f41a-739a-44e6-938d-222da70bfdd7_spreadsdipsanddressings_UNU8M09M8U_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/3/5d5a1bb6-d3a4-4b43-b4ee-e0a5cf9cf84d_spreadsdipsanddressings_UNU8M09M8U_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/25/88a538f4-4ec0-401c-aec4-97069dc9b1ed_spreadsdipsanddressings_UNU8M09M8U_AL4.png"
+        ],
+        "images_v2": null,
+        "quantity": "510 g",
+        "sku_quantity_with_combo": "510 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 510,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MyFitness Chocolate Peanut Butter Crunchy Dark Chocolate | Vegan | Cholesterol Free, Gluten Free & MyFitness Protein Bar with Added Whey - Chocolate Peanut Butter Flavor",
+    "brand": "",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "7MH2K6OUF2",
+    "variations": [
+      {
+        "id": "CR3V6I4INR",
+        "display_name": "MyFitness Chocolate Peanut Butter Crunchy Dark Chocolate | Vegan | Cholesterol Free, Gluten Free & MyFitness Protein Bar with Added Whey - Chocolate Peanut Butter Flavor",
+        "price_mrp": 289,
+        "brand": "",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "MyFitness Chocolate Peanut Butter Crunchy Dark Chocolate | Vegan | Cholesterol Free, Gluten Free & MyFitness Protein Bar with Added Whey - Chocolate Peanut Butter Flavor",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/2/79ec6430-5ee6-4b7e-9ad5-5f23c3e527a0_703768_1.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 294,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  }
+]

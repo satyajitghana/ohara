@@ -1,0 +1,3888 @@
+[
+  {
+    "display_name": "Sunfeast Dark Fantasy Yumfills Pie",
+    "brand": "Sunfeast Dark Fantasy",
+    "brand_id": "730e693d47ce7d0f72b2f33d49ae3983fc7ef39e",
+    "product_id": "A9XW5T66CV",
+    "variations": [
+      {
+        "id": "0PBXFHJ0WA",
+        "display_name": "Sunfeast Dark Fantasy Yumfills Pie",
+        "price_mrp": 180,
+        "brand": "Sunfeast Dark Fantasy",
+        "brand_id": "730e693d47ce7d0f72b2f33d49ae3983fc7ef39e",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Pies",
+        "sub_category_l4": "Chocolate Pie",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Yumfills Pie",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/018e9bc6-4c01-4f2d-a17e-4f2c9de66351_8643_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/d859a902-0ea3-423d-9e31-e81ff12a4766_8643_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/53bf89ff-8129-44ff-8187-d9591d041faf_8643_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/f16f1161-52c1-4e05-9dcf-09bb6b18e967_8643_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/718a9227-bdf4-4c7c-acaa-0c40ad075cdb_8643_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "242",
+        "sku_quantity_with_combo": "242 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 242,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sunfeast Dark Fantasy Chocolate Cream",
+    "brand": "Sunfeast Dark Fantasy",
+    "brand_id": "730e693d47ce7d0f72b2f33d49ae3983fc7ef39e",
+    "product_id": "DXAX3TYAGA",
+    "variations": [
+      {
+        "id": "ILMYGIA9Q0",
+        "display_name": "Sunfeast Dark Fantasy Chocolate Cream",
+        "price_mrp": 300,
+        "brand": "Sunfeast Dark Fantasy",
+        "brand_id": "730e693d47ce7d0f72b2f33d49ae3983fc7ef39e",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Sandwich Cream Biscuits",
+        "sub_category_l4": "Chocolate Cream Sandwich",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chocolate Cream",
+        "images": [
+          "5c5af13588038a882201d978531eeeb4"
+        ],
+        "images_v2": [],
+        "quantity": "3",
+        "sku_quantity_with_combo": "237 g x 3",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 711,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "67S75HLCMG",
+        "display_name": "Sunfeast Dark Fantasy Chocolate Cream",
+        "price_mrp": 200,
+        "brand": "Sunfeast Dark Fantasy",
+        "brand_id": "730e693d47ce7d0f72b2f33d49ae3983fc7ef39e",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Sandwich Cream Biscuits",
+        "sub_category_l4": "Chocolate Cream Sandwich",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chocolate Cream",
+        "images": [
+          "253e977a258afa51db877a45376b15fa"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "237 g x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 474,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "2B04QQGNRB",
+        "display_name": "Sunfeast Dark Fantasy Chocolate Cream",
+        "price_mrp": 100,
+        "brand": "Sunfeast Dark Fantasy",
+        "brand_id": "730e693d47ce7d0f72b2f33d49ae3983fc7ef39e",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Sandwich Cream Biscuits",
+        "sub_category_l4": "Chocolate Cream Sandwich",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chocolate Cream",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/19/4a1c51cb-b16c-4212-af61-caeb243b6f90_15431_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/19/d6645438-56c8-497a-820c-72f832df850d_15431_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/19/686a362e-9418-46d6-80f4-6a3b8890399d_15431_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/19/0bbfdd46-1889-42ce-b9f4-daac8b714fe0_15431_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/19/8c957012-0ebe-4088-9a81-0468ec47edb1_15431_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/19/485d790f-7330-4f9b-b94f-65fbd891679a_15431_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/19/bdf5a6cc-5456-4978-8601-fe6c7e558b0d_484216_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/19/10196d86-8a1d-40e4-bcd8-8fb2255424b6_15431_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "237",
+        "sku_quantity_with_combo": "237 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 237,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Malkist Cheese Flavoured Cracker Biscuits",
+    "brand": "Malkist",
+    "brand_id": "5e130f72848345435c11e911ddbc1393a289c111",
+    "product_id": "UCBAOIX0XJ",
+    "variations": [
+      {
+        "id": "7VRAONLSCW",
+        "display_name": "Malkist Cheese Flavoured Cracker Biscuits",
+        "price_mrp": 120,
+        "brand": "Malkist",
+        "brand_id": "5e130f72848345435c11e911ddbc1393a289c111",
+        "category": "Wafer,Rusk and Cracker",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Crackers",
+        "sub_category_l4": "Cheese Crackers",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Cheese Flavoured Cracker Biscuits",
+        "images": [
+          "6218686133a42f0dc8ac39547f7cf903",
+          "hfbzpvqepa9uvp9lv9pz",
+          "chvhp0wem0obzq7oajbr"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "138 g x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 276,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "ISV3ZSTTOK",
+        "display_name": "Malkist Cheese Flavoured Cracker Biscuits",
+        "price_mrp": 60,
+        "brand": "Malkist",
+        "brand_id": "5e130f72848345435c11e911ddbc1393a289c111",
+        "category": "Wafer,Rusk and Cracker",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Crackers",
+        "sub_category_l4": "Cheese Crackers",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Cheese Flavoured Cracker Biscuits",
+        "images": [
+          "hxietczadxfcbhlyc06m",
+          "hfbzpvqepa9uvp9lv9pz",
+          "chvhp0wem0obzq7oajbr"
+        ],
+        "images_v2": [],
+        "quantity": "138",
+        "sku_quantity_with_combo": "138 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 138,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sunfeast Dark Fantasy Choco Fills",
+    "brand": "Sunfeast Dark Fantasy",
+    "brand_id": "730e693d47ce7d0f72b2f33d49ae3983fc7ef39e",
+    "product_id": "7TC6WK6358",
+    "variations": [
+      {
+        "id": "3QUU77ZWZ7",
+        "display_name": "Sunfeast Dark Fantasy Choco Fills",
+        "price_mrp": 170,
+        "brand": "Sunfeast Dark Fantasy",
+        "brand_id": "730e693d47ce7d0f72b2f33d49ae3983fc7ef39e",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Filled Cream Biscuits",
+        "sub_category_l4": "Chocolate Filled Cream",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Choco Fills",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/a013a995-04e1-4d44-a682-31449a7574a1_408962_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/cabaa1de-0b3f-4529-921e-4c081c523371_408962_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/3c4cc266-33c7-4d35-aea7-c65bb4e8b3b1_408962_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/eeb102c3-7eaa-4c89-bf52-422d7e0ca76f_408962_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/44c0d3f2-3892-4fe4-b5a2-2d4b9c7124f4_408962_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/72dbf21b-ba90-40c7-bacc-fbd3e6d39f9d_408962_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "230",
+        "sku_quantity_with_combo": "230 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 230,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "NOICE Chewy New York Cookies (Zero Palm Oil Biscuits)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "V4NE981Q7N",
+    "variations": [
+      {
+        "id": "1F7D5AI0UU",
+        "display_name": "NOICE Chewy New York Cookies (Zero Palm Oil Biscuits)",
+        "price_mrp": 150,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Cookies",
+        "sub_category_l4": null,
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chewy New York Cookies (Zero Palm Oil Biscuits)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/2d4a0dc7-897e-46ad-ba95-ac5dd3e59625_TUG0SDQOL7_mn.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/1d9d3aa9-b9f3-419b-aa4f-347c9acc6f28_TUG0SDQOL7_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/3520159c-58db-4ab2-b6d9-28b33a8c49f6_TUG0SDQOL7_al2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/d4e6a037-d7ff-4bcd-bda7-6040df88b228_TUG0SDQOL7_al3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/b6a66deb-f016-4c24-a1c7-25480a8770f2_7-NOICEChewyNewYorkCookies(ZeroPalmOilBiscuits).png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/698646c1-f11f-44c4-b422-35e00745e52f_8-NOICEChewyNewYorkCookies(ZeroPalmOilBiscuits).png"
+        ],
+        "images_v2": [],
+        "quantity": "80",
+        "sku_quantity_with_combo": "80 gm",
+        "unit_of_measure": "gm",
+        "weight_in_grams": 80,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "PNOZ7YU4Z9",
+        "display_name": "NOICE Chewy New York Cookies (Zero Palm Oil Biscuits)",
+        "price_mrp": 600,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Cookies",
+        "sub_category_l4": null,
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chewy New York Cookies (Zero Palm Oil Biscuits)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/2d4a0dc7-897e-46ad-ba95-ac5dd3e59625_TUG0SDQOL7_mn.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/1d9d3aa9-b9f3-419b-aa4f-347c9acc6f28_TUG0SDQOL7_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/3520159c-58db-4ab2-b6d9-28b33a8c49f6_TUG0SDQOL7_al2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/d4e6a037-d7ff-4bcd-bda7-6040df88b228_TUG0SDQOL7_al3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/b6a66deb-f016-4c24-a1c7-25480a8770f2_7-NOICEChewyNewYorkCookies(ZeroPalmOilBiscuits).png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/698646c1-f11f-44c4-b422-35e00745e52f_8-NOICEChewyNewYorkCookies(ZeroPalmOilBiscuits).png"
+        ],
+        "images_v2": [],
+        "quantity": "4",
+        "sku_quantity_with_combo": "80 gm x 4",
+        "unit_of_measure": "combo",
+        "weight_in_grams": 320,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "SUA12TJLQS",
+        "display_name": "NOICE Chewy New York Cookies (Zero Palm Oil Biscuits)",
+        "price_mrp": 300,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Cookies",
+        "sub_category_l4": null,
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chewy New York Cookies (Zero Palm Oil Biscuits)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/2d4a0dc7-897e-46ad-ba95-ac5dd3e59625_TUG0SDQOL7_mn.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/1d9d3aa9-b9f3-419b-aa4f-347c9acc6f28_TUG0SDQOL7_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/3520159c-58db-4ab2-b6d9-28b33a8c49f6_TUG0SDQOL7_al2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/d4e6a037-d7ff-4bcd-bda7-6040df88b228_TUG0SDQOL7_al3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/b6a66deb-f016-4c24-a1c7-25480a8770f2_7-NOICEChewyNewYorkCookies(ZeroPalmOilBiscuits).png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/698646c1-f11f-44c4-b422-35e00745e52f_8-NOICEChewyNewYorkCookies(ZeroPalmOilBiscuits).png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "80 gm x 2",
+        "unit_of_measure": "combo",
+        "weight_in_grams": 160,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "NOICE Hyderabadi Osmania Biscuits (Zero Palm Oil Cookies)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "RF6T602LBY",
+    "variations": [
+      {
+        "id": "4I2YM729HM",
+        "display_name": "NOICE Hyderabadi Osmania Biscuits (Zero Palm Oil Cookies)",
+        "price_mrp": 160,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Premium Cookies",
+        "sub_category_l4": "Fruit and Nut Cookies",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Hyderabadi Osmania Biscuits (Zero Palm Oil Cookies)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/bdf04fa0-1540-48a8-87e9-cc5527f5620b_2WCJXWWRDO_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/a3519297-2133-4618-8ec4-6c8e5e9dd52e_2WCJXWWRDO_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/ba48ab4e-da6f-4e0f-a423-090053263435_2WCJXWWRDO_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "80 g x 2",
+        "unit_of_measure": "combo",
+        "weight_in_grams": 160,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "IW8XX4IMY8",
+        "display_name": "NOICE Hyderabadi Osmania Biscuits (Zero Palm Oil Cookies)",
+        "price_mrp": 80,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Premium Cookies",
+        "sub_category_l4": "Fruit and Nut Cookies",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Hyderabadi Osmania Biscuits (Zero Palm Oil Cookies)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/25/b6570a8a-5511-4ccd-ae91-0e3463a664a8_2WCJXWWRDO_mn.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/ddf54b47-0365-4673-8439-ed3e6c8cd859_2WCJXWWRDO_al2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/2d43a07d-d8cd-4b93-ac1b-1843488ef6c7_2WCJXWWRDO_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/5e8d2a1c-982b-49e9-bca3-474bd3d2ef22_2WCJXWWRDO_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/a3519297-2133-4618-8ec4-6c8e5e9dd52e_2WCJXWWRDO_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/ba48ab4e-da6f-4e0f-a423-090053263435_2WCJXWWRDO_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "80",
+        "sku_quantity_with_combo": "80 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 80,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "9MVQG8BHNF",
+        "display_name": "NOICE Hyderabadi Osmania Biscuits (Zero Palm Oil Cookies)",
+        "price_mrp": 320,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Premium Cookies",
+        "sub_category_l4": "Fruit and Nut Cookies",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Hyderabadi Osmania Biscuits (Zero Palm Oil Cookies)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/25/b6570a8a-5511-4ccd-ae91-0e3463a664a8_2WCJXWWRDO_mn.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/ddf54b47-0365-4673-8439-ed3e6c8cd859_2WCJXWWRDO_al2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/2d43a07d-d8cd-4b93-ac1b-1843488ef6c7_2WCJXWWRDO_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/5e8d2a1c-982b-49e9-bca3-474bd3d2ef22_2WCJXWWRDO_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/a3519297-2133-4618-8ec4-6c8e5e9dd52e_2WCJXWWRDO_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/ba48ab4e-da6f-4e0f-a423-090053263435_2WCJXWWRDO_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "4",
+        "sku_quantity_with_combo": "80 g x 4",
+        "unit_of_measure": "combo",
+        "weight_in_grams": 320,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Parle Hide & Seek Milano Cookies",
+    "brand": "Parle",
+    "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+    "product_id": "GMYDUMBYM3",
+    "variations": [
+      {
+        "id": "6FG44RD7SU",
+        "display_name": "Parle Hide & Seek Milano Cookies",
+        "price_mrp": 120,
+        "brand": "Parle",
+        "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Regular Cookies",
+        "sub_category_l4": "Choco Chip Cookies",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Hide & Seek Milano Cookies",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/6/bf855f91-dcce-4c1b-818d-a12fa1c11133_24371_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/6/6fcd0c46-c801-4402-8612-6b1317e77da8_24371_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/6/65ebf533-1467-4fcd-8d22-2bfe3c66e311_24371_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "120",
+        "sku_quantity_with_combo": "120 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "NOICE Fresh Mawa Cake (Contains Egg) (Zero Palm oil)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "47RRAMYBL3",
+    "variations": [
+      {
+        "id": "T3N2JWN0B0",
+        "display_name": "NOICE Fresh Mawa Cake (Contains Egg) (Zero Palm oil)",
+        "price_mrp": 320,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Cakes",
+        "sub_category_l4": "Sponge Cake",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Fresh Mawa Cake (Contains Egg) (Zero Palm oil)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/992212d2-df31-4530-b775-06a0ec7cd35a_Z4ULYTKHX7_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/31/41bfc95e-6114-44f3-80aa-1732b269c434_Z4ULYTKHX7_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/7966476a-3753-4de1-868a-86b92c0adcf5_Z4ULYTKHX7_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/def8918a-5929-46f7-815f-a8e40987e816_Z4ULYTKHX7_4.jpg"
+        ],
+        "images_v2": [],
+        "quantity": "4",
+        "sku_quantity_with_combo": "90 g x 4",
+        "unit_of_measure": "combo",
+        "weight_in_grams": 360,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "FJTIC8QVNR",
+        "display_name": "NOICE Fresh Mawa Cake (Contains Egg) (Zero Palm oil)",
+        "price_mrp": 160,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Cakes",
+        "sub_category_l4": "Sponge Cake",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Fresh Mawa Cake (Contains Egg) (Zero Palm oil)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/992212d2-df31-4530-b775-06a0ec7cd35a_Z4ULYTKHX7_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/31/41bfc95e-6114-44f3-80aa-1732b269c434_Z4ULYTKHX7_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/7966476a-3753-4de1-868a-86b92c0adcf5_Z4ULYTKHX7_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/def8918a-5929-46f7-815f-a8e40987e816_Z4ULYTKHX7_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/49522140-d55b-4e2f-a885-f4e01bc4f98a_Z4ULYTKHX7_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/ed6147d4-fea7-49d3-8dcf-3000e25dda01_Z4ULYTKHX7_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "90 g x 2",
+        "unit_of_measure": "combo",
+        "weight_in_grams": 180,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "OGOBBRG8WG",
+        "display_name": "NOICE Fresh Mawa Cake (Contains Egg) (Zero Palm oil)",
+        "price_mrp": 80,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Cakes",
+        "sub_category_l4": "Sponge Cake",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Fresh Mawa Cake (Contains Egg) (Zero Palm oil)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/992212d2-df31-4530-b775-06a0ec7cd35a_Z4ULYTKHX7_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/31/41bfc95e-6114-44f3-80aa-1732b269c434_Z4ULYTKHX7_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/7966476a-3753-4de1-868a-86b92c0adcf5_Z4ULYTKHX7_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/def8918a-5929-46f7-815f-a8e40987e816_Z4ULYTKHX7_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/49522140-d55b-4e2f-a885-f4e01bc4f98a_Z4ULYTKHX7_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/ed6147d4-fea7-49d3-8dcf-3000e25dda01_Z4ULYTKHX7_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "90",
+        "sku_quantity_with_combo": "90 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 90,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sunfeast Dark Fantasy Choco Fills, Original Filled Cookies with Choco Crème | Perfect Snack",
+    "brand": "Sunfeast Dark Fantasy",
+    "brand_id": "730e693d47ce7d0f72b2f33d49ae3983fc7ef39e",
+    "product_id": "ZR1VFICWDW",
+    "variations": [
+      {
+        "id": "JTK8D14PYP",
+        "display_name": "Sunfeast Dark Fantasy Choco Fills, Original Filled Cookies with Choco Crème | Perfect Snack",
+        "price_mrp": 350,
+        "brand": "Sunfeast Dark Fantasy",
+        "brand_id": "730e693d47ce7d0f72b2f33d49ae3983fc7ef39e",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Filled Cream Biscuits",
+        "sub_category_l4": "Chocolate Filled Cream",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Choco Fills, Original Filled Cookies with Choco Crème | Perfect Snack",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/f2a3ef19-466b-485a-9244-6aca7ba288e8_678524_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/9ff7272f-7f2a-4620-8a5f-defb640a0f76_678524_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/1be168e2-37b4-4854-a2be-3988fee4fcb5_678524_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/cade1dfb-78b9-49d4-8374-ab1cb08369b8_678524_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/5972070c-8800-4237-a88b-779d14d79143_678524_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/f2828239-5135-4160-955e-a514629bf5e3_15427_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "471.5",
+        "sku_quantity_with_combo": "471.5 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 0,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "NOICE Ganache Chocolate Cookies (Zero Palm Oil Biscuits)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "Z0H3WCQT3U",
+    "variations": [
+      {
+        "id": "MR6OAUAXXC",
+        "display_name": "NOICE Ganache Chocolate Cookies (Zero Palm Oil Biscuits)",
+        "price_mrp": 300,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Cookies",
+        "sub_category_l4": null,
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Ganache Chocolate Cookies (Zero Palm Oil Biscuits)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/c3753178-dc03-49d2-a6fa-85cbc2132289_HKWK87FBS3_mn.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/a33790c0-0579-4452-8089-b58e8447305b_HKWK87FBS3_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/d17aac7e-9d74-499e-84dc-08f87abf0388_HKWK87FBS3_al2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/e9e52516-b258-4fa6-aef3-eab3faf61744_HKWK87FBS3_al3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/b7173b7f-c8c6-411c-a035-6c6a842c9790_7-NOICEGanacheChocolateCookies(ZeroPalmOilBiscuits).png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/a1d5f1f9-77e7-4001-9cf1-28316943998e_8-NOICEGanacheChocolateCookies(ZeroPalmOilBiscuits).png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "80 gm x 2",
+        "unit_of_measure": "combo",
+        "weight_in_grams": 160,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "RMNW7J8BWZ",
+        "display_name": "NOICE Ganache Chocolate Cookies (Zero Palm Oil Biscuits)",
+        "price_mrp": 150,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Cookies",
+        "sub_category_l4": null,
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Ganache Chocolate Cookies (Zero Palm Oil Biscuits)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/c3753178-dc03-49d2-a6fa-85cbc2132289_HKWK87FBS3_mn.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/a33790c0-0579-4452-8089-b58e8447305b_HKWK87FBS3_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/d17aac7e-9d74-499e-84dc-08f87abf0388_HKWK87FBS3_al2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/e9e52516-b258-4fa6-aef3-eab3faf61744_HKWK87FBS3_al3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/b7173b7f-c8c6-411c-a035-6c6a842c9790_7-NOICEGanacheChocolateCookies(ZeroPalmOilBiscuits).png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/a1d5f1f9-77e7-4001-9cf1-28316943998e_8-NOICEGanacheChocolateCookies(ZeroPalmOilBiscuits).png"
+        ],
+        "images_v2": [],
+        "quantity": "80",
+        "sku_quantity_with_combo": "80 gm",
+        "unit_of_measure": "gm",
+        "weight_in_grams": 80,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "AIPX8TIQ5B",
+        "display_name": "NOICE Ganache Chocolate Cookies (Zero Palm Oil Biscuits)",
+        "price_mrp": 600,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Cookies",
+        "sub_category_l4": null,
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Ganache Chocolate Cookies (Zero Palm Oil Biscuits)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/c3753178-dc03-49d2-a6fa-85cbc2132289_HKWK87FBS3_mn.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/a33790c0-0579-4452-8089-b58e8447305b_HKWK87FBS3_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/d17aac7e-9d74-499e-84dc-08f87abf0388_HKWK87FBS3_al2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/e9e52516-b258-4fa6-aef3-eab3faf61744_HKWK87FBS3_al3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/b7173b7f-c8c6-411c-a035-6c6a842c9790_7-NOICEGanacheChocolateCookies(ZeroPalmOilBiscuits).png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/a1d5f1f9-77e7-4001-9cf1-28316943998e_8-NOICEGanacheChocolateCookies(ZeroPalmOilBiscuits).png"
+        ],
+        "images_v2": [],
+        "quantity": "4",
+        "sku_quantity_with_combo": "80 gm x 4",
+        "unit_of_measure": "combo",
+        "weight_in_grams": 320,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Britannia Pure Magic Choco Frames Harry Potter Biscuit",
+    "brand": "Britannia",
+    "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+    "product_id": "QWQS31QWUZ",
+    "variations": [
+      {
+        "id": "H0TSR1UTAU",
+        "display_name": "Britannia Pure Magic Choco Frames Harry Potter Biscuit",
+        "price_mrp": 180,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Filled Cream Biscuits",
+        "sub_category_l4": "Chocolate Filled Cream",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Pure Magic Choco Frames Harry Potter Biscuit",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/36a03d47-a665-424a-89f4-4cd80e236c8e_235828.png"
+        ],
+        "images_v2": [],
+        "quantity": "3",
+        "sku_quantity_with_combo": "50 g x 3",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "UNZBSWBOKW",
+        "display_name": "Britannia Pure Magic Choco Frames Harry Potter Biscuit",
+        "price_mrp": 120,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Filled Cream Biscuits",
+        "sub_category_l4": "Chocolate Filled Cream",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Pure Magic Choco Frames Harry Potter Biscuit",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/a128effe-b824-43f2-bd63-d7fdb6bc2ce0_576876.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "50 g x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "Q95PRATLYH",
+        "display_name": "Britannia Pure Magic Choco Frames Harry Potter Biscuit",
+        "price_mrp": 60,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Filled Cream Biscuits",
+        "sub_category_l4": "Chocolate Filled Cream",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Pure Magic Choco Frames Harry Potter Biscuit",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/19/d85f7e82-0050-4684-a999-af42ce33a621_957503_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/27/52d3c83f-d3ff-4029-8c3e-758101ab4120_957503_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/27/458c9b5f-b548-4705-830f-e104f2d3eb28_957503_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/27/ececac9d-c175-418a-8bb8-c3e999d657ef_957503_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/27/a071d4e5-2e90-4923-bf64-8313a6cd531e_957503_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/27/85a06f2f-98ca-4edf-adc5-784d9f093db0_957503_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "50",
+        "sku_quantity_with_combo": "50 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 50,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "3DGDYDUDJR",
+        "display_name": "Britannia Pure Magic Choco Frames Harry Potter Biscuit",
+        "price_mrp": 240,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Filled Cream Biscuits",
+        "sub_category_l4": "Chocolate Filled Cream",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Pure Magic Choco Frames Harry Potter Biscuit",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/1b4ce3c0-3531-496d-93de-5386fb9041cb_686949.png"
+        ],
+        "images_v2": [],
+        "quantity": "4",
+        "sku_quantity_with_combo": "50 g x 4",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sunfeast Dark Fantasy Bourbon",
+    "brand": "Sunfeast Dark Fantasy",
+    "brand_id": "730e693d47ce7d0f72b2f33d49ae3983fc7ef39e",
+    "product_id": "PMGJIMTTYM",
+    "variations": [
+      {
+        "id": "2S1IALA0T8",
+        "display_name": "Sunfeast Dark Fantasy Bourbon",
+        "price_mrp": 160,
+        "brand": "Sunfeast Dark Fantasy",
+        "brand_id": "730e693d47ce7d0f72b2f33d49ae3983fc7ef39e",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Sandwich Cream Biscuits",
+        "sub_category_l4": "Choco Chip Cookies",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Bourbon",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/0680db92-d60c-41d0-814c-0e8d6c3126fa_95782_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/87de9476-68ca-48b5-8cac-64293e40c741_95782_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/f722ce22-029c-46f2-b2ab-8ad02c92597b_95782_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/161c5651-ddc9-4dbb-a859-599219c9c650_95782_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/9785a1fb-e8c4-4f76-a446-d9d4aeee2931_95782_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "465",
+        "sku_quantity_with_combo": "465 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Unibic Cashew Badam Cookies",
+    "brand": "Unibic",
+    "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+    "product_id": "ZGGLR94OSF",
+    "variations": [
+      {
+        "id": "P3BXU0WGHZ",
+        "display_name": "Unibic Cashew Badam Cookies",
+        "price_mrp": 135,
+        "brand": "Unibic",
+        "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Regular Cookies",
+        "sub_category_l4": "Fruit and Nut Cookies",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Cashew Badam Cookies",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/0427e032-b349-4eff-ba0f-92e3dfa06e90_25431_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/d226cbdb-144a-4e6a-9183-78ac9ccf2c32_25431_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/9d080f5b-f61a-4ed5-8ee4-dfe5e9baf113_25431_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/f79ac65f-5590-4a34-ac8f-1a468e2abde3_25431_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/149cfca0-8c9a-415b-b615-a15a523a1e24_25431_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/6f449cbf-ad76-479a-98db-a6f00a15fe89_25431_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "270",
+        "sku_quantity_with_combo": "270 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Open Secret Zero Maida Chocolate Almond Cookies | Pack of 2",
+    "brand": "OPEN SECRET",
+    "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+    "product_id": "IKD5RU7AUD",
+    "variations": [
+      {
+        "id": "TT1NA5GSBW",
+        "display_name": "OPEN SECRET Chocolate Almonds Cookies",
+        "price_mrp": 70,
+        "brand": "OPEN SECRET",
+        "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Premium Cookies",
+        "sub_category_l4": "Chocolate Cookies",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Chocolate Almonds Cookies",
+        "images": [
+          "b277ee4b19fb267ded257be350ac7301",
+          "bkfb3lsathb09diqezux",
+          "z52lhd14vookurj5h0u0",
+          "oywcaoxbs3txadkbypju"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "25 g x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 50,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "ZFO2BN8FTQ",
+        "display_name": "Open Secret Zero Maida Chocolate Almond Cookies | Pack of 2",
+        "price_mrp": 35,
+        "brand": "OPEN SECRET",
+        "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Premium Cookies",
+        "sub_category_l4": "Chocolate Cookies",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Open Secret Zero Maida Chocolate Almond Cookies | Pack of 2",
+        "images": [
+          "tbzmu9zs0ryhzrebo3yu",
+          "bkfb3lsathb09diqezux",
+          "z52lhd14vookurj5h0u0",
+          "oywcaoxbs3txadkbypju"
+        ],
+        "images_v2": [],
+        "quantity": "25",
+        "sku_quantity_with_combo": "25 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 25,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sunfeast Dark Fantasy Vanilla Cream",
+    "brand": "Sunfeast Dark Fantasy",
+    "brand_id": "730e693d47ce7d0f72b2f33d49ae3983fc7ef39e",
+    "product_id": "W1GNGMT1ZS",
+    "variations": [
+      {
+        "id": "OAT94V8OY1",
+        "display_name": "Sunfeast Dark Fantasy Vanilla Cream",
+        "price_mrp": 300,
+        "brand": "Sunfeast Dark Fantasy",
+        "brand_id": "730e693d47ce7d0f72b2f33d49ae3983fc7ef39e",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Sandwich Cream Biscuits",
+        "sub_category_l4": "Vanilla Cream Sandwich",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Vanilla Cream",
+        "images": [
+          "08b45ad418acc8a50e05f7898e4fd2f0"
+        ],
+        "images_v2": [],
+        "quantity": "3",
+        "sku_quantity_with_combo": "237 gm x 3",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 711,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "09I8NADLC9",
+        "display_name": "Sunfeast Dark Fantasy Vanilla Cream",
+        "price_mrp": 200,
+        "brand": "Sunfeast Dark Fantasy",
+        "brand_id": "730e693d47ce7d0f72b2f33d49ae3983fc7ef39e",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Sandwich Cream Biscuits",
+        "sub_category_l4": "Vanilla Cream Sandwich",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Vanilla Cream",
+        "images": [
+          "779569001091469e7a6917836a0ca0fd"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "237 gm x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 474,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "LAR0VNHOU9",
+        "display_name": "Sunfeast Dark Fantasy Vanilla Cream",
+        "price_mrp": 100,
+        "brand": "Sunfeast Dark Fantasy",
+        "brand_id": "730e693d47ce7d0f72b2f33d49ae3983fc7ef39e",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Sandwich Cream Biscuits",
+        "sub_category_l4": "Vanilla Cream Sandwich",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Vanilla Cream",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/19/0c4af807-1e86-4c5f-b0ed-33a0874f9a2e_15430_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/19/3489b68b-2204-4b26-9c78-0d52703885fd_15430_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/19/50005811-fabc-4e1c-afcb-687350f62872_484216_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/19/7f4a8edc-8071-45e5-bf10-6cfd4bdebb52_484216_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/19/1ff5e682-eef3-433a-ad8a-aa4f5cf7689f_15430_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "237",
+        "sku_quantity_with_combo": "237 gm",
+        "unit_of_measure": "gm",
+        "weight_in_grams": 237,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Britannia Treat Croissant Share Pack,",
+    "brand": "Britannia",
+    "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+    "product_id": "YB73HAPESS",
+    "variations": [
+      {
+        "id": "UVXLSF8AKN",
+        "display_name": "Britannia Treat Croissant Share Pack,",
+        "price_mrp": 125,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Cakes",
+        "sub_category_l4": "Chocolate Croissant",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Treat Croissant Share Pack,",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/13/1373abd9-617b-40a2-a0db-0962e2530057_92118_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/13/c6ee2cab-937c-4e50-941e-ea96fc1fa96d_92118_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/13/27582edb-1d07-48a8-b238-034ecafba8cc_92118_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "225",
+        "sku_quantity_with_combo": "225 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 225,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Orion Choco Pie Chocolate Coated Soft Biscuits",
+    "brand": "Orion",
+    "brand_id": "eb2c3c1d3d898f845f8727b6ef0b048826ad766a",
+    "product_id": "KG9XWOO7BD",
+    "variations": [
+      {
+        "id": "5573KS20YY",
+        "display_name": "Orion Choco Pie Chocolate Coated Soft Biscuits",
+        "price_mrp": 170,
+        "brand": "Orion",
+        "brand_id": "eb2c3c1d3d898f845f8727b6ef0b048826ad766a",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Pies",
+        "sub_category_l4": "Chocolate Pie",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Choco Pie Chocolate Coated Soft Biscuits",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/26/1b27e87f-a140-432b-adc6-4ce092b365a7_5840_1.png",
+          "pmtyjrcx1m7dezixd3mp",
+          "nlfudmxvdlcpwsplvhgv"
+        ],
+        "images_v2": [],
+        "quantity": "12",
+        "sku_quantity_with_combo": "12 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 120,
+        "volumetric_weight": 0,
+        "filters_tag": "Chocolate Flavour"
+      }
+    ]
+  },
+  {
+    "display_name": "Britannia Nutrichoice Digestive High-Fibre Biscuits",
+    "brand": "Britannia",
+    "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+    "product_id": "8JHF5YKXHD",
+    "variations": [
+      {
+        "id": "VWTSOT1NQ5",
+        "display_name": "Britannia Nutrichoice Digestive Biscuits",
+        "price_mrp": 440,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Marie and Digestive Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Digestive Biscuits",
+        "sub_category_l4": "Regular Digestive Biscuit",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Nutrichoice Digestive Biscuits",
+        "images": [
+          "029c204b9b246301462aeda4bfccf838",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/ee460829-d37b-43f2-b258-0e66039472d2_6676_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/8b7746bb-489d-49e9-8aca-fd35b71d9666_6676_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "960 g x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 1920,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "51TLCGO137",
+        "display_name": "Britannia Nutrichoice Digestive High-Fibre Biscuits",
+        "price_mrp": 220,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Marie and Digestive Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Digestive Biscuits",
+        "sub_category_l4": "Regular Digestive Biscuit",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Nutrichoice Digestive High-Fibre Biscuits",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/fa8d00f9-3be0-4c2c-9cfc-6a074ef7745e_6676_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/ee460829-d37b-43f2-b258-0e66039472d2_6676_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/8b7746bb-489d-49e9-8aca-fd35b71d9666_6676_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "960",
+        "sku_quantity_with_combo": "960 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 960,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Parle Milk Shakti Pouch",
+    "brand": "Parle",
+    "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+    "product_id": "9P2GQLCG9X",
+    "variations": [
+      {
+        "id": "4BKBK6ZSAB",
+        "display_name": "Parle Milk Shakti Pouch",
+        "price_mrp": 200,
+        "brand": "Parle",
+        "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+        "category": "Glucose and Regular Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Glucose Biscuits",
+        "sub_category_l4": "Milk Biscuits",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Milk Shakti Pouch",
+        "images": [
+          "d7d1967ef2612a90415570af0f56d4e5",
+          "NI_CATALOG/IMAGES/CIW/2025/2/9/12301081-2549-4371-a137-c1a67dbefd52_19878_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/9/ced25043-6d9b-4b2b-9702-92277abeac48_19878_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "350 g x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 700,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "P5VGONAM1Y",
+        "display_name": "Parle Milk Shakti Pouch",
+        "price_mrp": 100,
+        "brand": "Parle",
+        "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+        "category": "Glucose and Regular Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Glucose Biscuits",
+        "sub_category_l4": "Milk Biscuits",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Milk Shakti Pouch",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/9/e55bf6f6-58c3-48a0-8073-4aadb21835a2_19878_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/9/12301081-2549-4371-a137-c1a67dbefd52_19878_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/9/ced25043-6d9b-4b2b-9702-92277abeac48_19878_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "350",
+        "sku_quantity_with_combo": "350 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 350,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sunfeast Mom's Magic Cashew & Almond Biscuits",
+    "brand": "Sunfeast",
+    "brand_id": "67c0ffa4323e826110693d1ffc51440be1bd8f27",
+    "product_id": "QGWG3V6FFY",
+    "variations": [
+      {
+        "id": "APVDNOQZD5",
+        "display_name": "Sunfeast Mom's Magic Cashew & Almond Biscuits",
+        "price_mrp": 480,
+        "brand": "Sunfeast",
+        "brand_id": "67c0ffa4323e826110693d1ffc51440be1bd8f27",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Regular Cookies",
+        "sub_category_l4": "Fruit and Nut Cookies",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Mom's Magic Cashew & Almond Biscuits",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/26/59e7e7f9-41ea-493c-8785-cf9ad20c9cb6_45053.png"
+        ],
+        "images_v2": [],
+        "quantity": "3",
+        "sku_quantity_with_combo": "560 g x 3",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 1752,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "UCJNC3R7IN",
+        "display_name": "Sunfeast Mom's Magic Cashew & Almond Biscuits",
+        "price_mrp": 160,
+        "brand": "Sunfeast",
+        "brand_id": "67c0ffa4323e826110693d1ffc51440be1bd8f27",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Regular Cookies",
+        "sub_category_l4": "Fruit and Nut Cookies",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Mom's Magic Cashew & Almond Biscuits",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/26/66246a99-eea5-4dfa-9250-cc5ec84654a2_3759_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/26/7590a972-734f-4f51-8884-724a01aea7b5_3759_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/26/e863b061-01e2-4985-988e-1a4ef5d65c42_3759_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/26/1086359d-9ed2-4b8d-b5ba-808b6428fa4f_3759_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/26/520135da-d4c1-4ba1-99e1-9f479f888a84_3759_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/26/3da1ef02-76e4-402f-84db-af6ae98491fc_3759_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "560",
+        "sku_quantity_with_combo": "560 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 584,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Parle Milano Center Filled Regular Chocolate",
+    "brand": "Parle",
+    "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+    "product_id": "PSX7Q27ER1",
+    "variations": [
+      {
+        "id": "T0KWRP8TVQ",
+        "display_name": "Parle Milano Center Filled Regular Chocolate",
+        "price_mrp": 170,
+        "brand": "Parle",
+        "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Filled Cream Biscuits",
+        "sub_category_l4": "Chocolate Filled Cream",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Milano Center Filled Regular Chocolate",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/6/e7630e6a-3825-4802-a60f-ada95d78151a_79629_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/6/f4304c90-0788-4625-8380-7f939e32b408_79629_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/6/ea7972f3-e52a-46ed-858e-93d08449d785_79629_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "NOICE Fresh Chocolate Tea Cake (Zero Palm oil)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "MWF3HTSMDX",
+    "variations": [
+      {
+        "id": "PV5DQP469V",
+        "display_name": "NOICE Fresh Chocolate Tea Cake (Zero Palm oil)",
+        "price_mrp": 360,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Cakes",
+        "sub_category_l4": "Chocolate",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Fresh Chocolate Tea Cake (Zero Palm oil)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/9273cd89-e2fc-40ae-b476-fb934a180252_0KM16LZPTV_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/31/314e38f9-29f6-429e-aa03-84b68252fec5_0KM16LZPTV_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/574490f9-6a54-4d3e-946f-c5d68fc809b0_0KM16LZPTV_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/4a83a120-0a21-4f19-9006-1d5973958d09_0KM16LZPTV_4.jpg"
+        ],
+        "images_v2": [],
+        "quantity": "4",
+        "sku_quantity_with_combo": "90 g x 4",
+        "unit_of_measure": "combo",
+        "weight_in_grams": 360,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "4LLRLDAAQ8",
+        "display_name": "NOICE Fresh Chocolate Tea Cake (Zero Palm oil)",
+        "price_mrp": 180,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Cakes",
+        "sub_category_l4": "Chocolate",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Fresh Chocolate Tea Cake (Zero Palm oil)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/9273cd89-e2fc-40ae-b476-fb934a180252_0KM16LZPTV_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/31/314e38f9-29f6-429e-aa03-84b68252fec5_0KM16LZPTV_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/574490f9-6a54-4d3e-946f-c5d68fc809b0_0KM16LZPTV_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/4a83a120-0a21-4f19-9006-1d5973958d09_0KM16LZPTV_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/8d8fc3e5-1034-4040-abc4-e97944f44491_0KM16LZPTV_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/e5587579-0c69-4ef7-9573-1d9d8cb86def_0KM16LZPTV_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "90 g x 2",
+        "unit_of_measure": "combo",
+        "weight_in_grams": 180,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "47ZY103TU9",
+        "display_name": "NOICE Fresh Chocolate Tea Cake (Zero Palm oil)",
+        "price_mrp": 90,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Cakes",
+        "sub_category_l4": "Chocolate",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Fresh Chocolate Tea Cake (Zero Palm oil)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/9273cd89-e2fc-40ae-b476-fb934a180252_0KM16LZPTV_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/31/314e38f9-29f6-429e-aa03-84b68252fec5_0KM16LZPTV_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/574490f9-6a54-4d3e-946f-c5d68fc809b0_0KM16LZPTV_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/4a83a120-0a21-4f19-9006-1d5973958d09_0KM16LZPTV_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/8d8fc3e5-1034-4040-abc4-e97944f44491_0KM16LZPTV_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/e5587579-0c69-4ef7-9573-1d9d8cb86def_0KM16LZPTV_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "90",
+        "sku_quantity_with_combo": "90 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 90,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Unibic Qubz Belgian Chocolate Wafer- 0 % Maida",
+    "brand": "Unibic",
+    "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+    "product_id": "LZWDKXDYOS",
+    "variations": [
+      {
+        "id": "24C5G1D6PN",
+        "display_name": "Unibic Qubz Belgian Chocolate Wafer- 0 % Maida",
+        "price_mrp": 150,
+        "brand": "Unibic",
+        "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+        "category": "Wafer,Rusk and Cracker",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Wafers",
+        "sub_category_l4": "Chocolate Wafers",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Qubz Belgian Chocolate Wafer- 0 % Maida",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/90b554d8-f328-4bc9-890d-53f88851b9d1_25392_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/57596212-10bb-4e09-87ec-af1868382dba_25392_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/793e933b-f361-4f1a-8f8d-8516833a67cb_25392_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/d328b663-4a37-4e53-88e5-5cf2f9e0d2fe_25392_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/aa471cf0-1e75-4058-8107-4a75c9b07060_25392_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/52886e0d-886f-47d9-be32-eae74ae97f2f_25392_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "120",
+        "sku_quantity_with_combo": "120 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Unibic Oatmeal Digestive Cookies",
+    "brand": "Unibic",
+    "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+    "product_id": "SY56OHW833",
+    "variations": [
+      {
+        "id": "IPTBPDGA7Y",
+        "display_name": "Unibic Oatmeal Digestive Cookies",
+        "price_mrp": 300,
+        "brand": "Unibic",
+        "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+        "category": "Marie and Digestive Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Digestive Biscuits",
+        "sub_category_l4": "Oats, Ragi, Millets Digestive Biscuit",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Oatmeal Digestive Cookies",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/f2b7d5ec-9a76-4336-8fce-5b958e10fb1a_87718_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/3d7e88b4-0984-4db1-9b3f-758708638759_87718_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/8ef4bda7-e053-4a5b-84a5-0376efa78978_87718_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/1de695cf-9faa-4a26-8d63-84ed30d944f3_87718_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/553f567e-47a3-4acd-81a8-4b0075ee2e2b_87718_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/5663bf01-7d1a-4d60-995f-a861590f80f3_87718_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Unibic Choco Chip Cookies",
+    "brand": "Unibic",
+    "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+    "product_id": "13BKP2KOIU",
+    "variations": [
+      {
+        "id": "WIC4F7HD5A",
+        "display_name": "Unibic Choco Chip Cookies",
+        "price_mrp": 165,
+        "brand": "Unibic",
+        "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Regular Cookies",
+        "sub_category_l4": "Choco Chip Cookies",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Choco Chip Cookies",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/dfb8ba24-04f1-40d2-8bce-3dabbf8040cf_25391_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/2466bbb2-86d4-4af0-9d86-8e2a4c117f8b_25391_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/38af809b-7ead-47d9-9dec-9b22ee6b8997_25391_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/d117a062-c557-4891-bf7d-7b4209d087e9_25391_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/6158e772-92ea-4a9e-ab8f-6a99b17157b7_25391_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/7b65d239-0ab9-4fab-a060-375106e3d494_25391_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "270",
+        "sku_quantity_with_combo": "270 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Parle Marie",
+    "brand": "Parle",
+    "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+    "product_id": "D63LL9QEC8",
+    "variations": [
+      {
+        "id": "LQL17X96Y9",
+        "display_name": "Parle Marie",
+        "price_mrp": 460,
+        "brand": "Parle",
+        "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+        "category": "Marie and Digestive Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Marie Biscuits",
+        "sub_category_l4": "Marie Regular Biscuits",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Marie",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/15/6e62f282-878c-4e94-a260-955939c1c530_368144.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "800 g x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 1600,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "TMJMZB3HIR",
+        "display_name": "Parle Marie",
+        "price_mrp": 230,
+        "brand": "Parle",
+        "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+        "category": "Marie and Digestive Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": "Marie Biscuits",
+        "sub_category_l4": "Marie Regular Biscuits",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Marie",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/21/9335cf90-3778-4b71-a32c-148b2b261e3c_93009_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/21/4be92aa5-5b0f-4c6f-ad43-a1157006bf06_93009_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/21/baddc0d5-9d0b-46ad-ae5c-59500e3d75cb_93009_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "800",
+        "sku_quantity_with_combo": "800 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 800,
+        "volumetric_weight": 0,
+        "filters_tag": "Best Value"
+      }
+    ]
+  },
+  {
+    "display_name": "Unibic Danish Coconut Cookies",
+    "brand": "Unibic",
+    "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+    "product_id": "1Z1XHMSV6Y",
+    "variations": [
+      {
+        "id": "ZQY3KBZFM8",
+        "display_name": "Unibic Danish Coconut Cookies",
+        "price_mrp": 165,
+        "brand": "Unibic",
+        "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Danish Coconut Cookies",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/3d8502a7-30f1-4f1b-a248-f39390d25372_36342_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/2873d3c9-b426-4d1c-bf77-e832872fd9db_36342_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/db68c314-5bc9-40ca-bacd-852be76b9e97_36342_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/f491dcc1-ebce-4d89-9d6f-cec1c96f48d1_36342_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/b6cecc19-a2bc-4293-8b96-29584999eb11_36342_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/3fd355ea-f2e0-4cf8-9934-8b2657a45aa3_36342_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "270 g",
+        "sku_quantity_with_combo": "270 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Open Secret Zero Maida Chocolate Almond Cookies | Pack of 6 ",
+    "brand": "OPEN SECRET",
+    "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+    "product_id": "NXFTLMG2AD",
+    "variations": [
+      {
+        "id": "3GJSVRT6FM",
+        "display_name": "Open Secret Zero Maida Chocolate Almond Cookies | Pack of 6 ",
+        "price_mrp": 210,
+        "brand": "OPEN SECRET",
+        "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chocolate Almonds Cookies (6pcs)",
+        "images": [
+          "032e19a5063e409e5927d48e5edc11f0",
+          "yvjc69aqsdtm4cm010yz",
+          "pkqqlh5wguokdwabycoc"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "75 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "ZTUD3T8VS1",
+        "display_name": "Open Secret Zero Maida Chocolate Almond Cookies | Pack of 6 ",
+        "price_mrp": 105,
+        "brand": "OPEN SECRET",
+        "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Open Secret Zero Maida Chocolate Almond Cookies | Pack of 6 ",
+        "images": [
+          "fwym07bflnpegndpdbez",
+          "yvjc69aqsdtm4cm010yz",
+          "pkqqlh5wguokdwabycoc"
+        ],
+        "images_v2": null,
+        "quantity": "75 g",
+        "sku_quantity_with_combo": "75 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 75,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Unibic Snappers Indi Spice",
+    "brand": "Unibic",
+    "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+    "product_id": "Y6V2OOVM94",
+    "variations": [
+      {
+        "id": "BAR5924KHQ",
+        "display_name": "Unibic Snappers Indi Spice",
+        "price_mrp": 160,
+        "brand": "Unibic",
+        "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+        "category": "Wafer,Rusk and Cracker",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Snappers Indi Spice",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/afda77b9-8c43-4256-a468-c0be38324f13_25432_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/bcb2993d-abf9-4022-9fef-5ae422827b9e_25432_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/a9efc4c9-3a0a-4548-b419-1f09c6ea6b80_25432_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/7e2344f5-1b5b-4ea6-bcc9-dda2e3215afc_25432_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/2c913ffe-5703-47a0-8f75-ed119b7c502d_25432_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/f13de2b3-71bc-449d-9d60-a179a4111243_25432_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "280 g",
+        "sku_quantity_with_combo": "280 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Parle Hide & Seek Choco Rolls",
+    "brand": "Hide & Seek",
+    "brand_id": "c8bb0a6bb2dd29b2a580524bc0a83ad5419c4f44",
+    "product_id": "Y9HO3SX3J5",
+    "variations": [
+      {
+        "id": "65YRM7ATLP",
+        "display_name": "Parle Hide & Seek Choco Rolls",
+        "price_mrp": 170,
+        "brand": "Hide & Seek",
+        "brand_id": "c8bb0a6bb2dd29b2a580524bc0a83ad5419c4f44",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Parle  Choco Rolls",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/7/1ab71fcb-4d1e-46ed-9732-5a9a4e46da9d_95293_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/7/7df86ed4-f977-4271-9fd7-cd0f0a0736b1_95293_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/7/af48fbb2-d750-4b2c-af8f-1960d1707298_95293_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "200 g",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Unibic Fruit And Nut Cookies",
+    "brand": "Unibic",
+    "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+    "product_id": "HZ8VI3AKDP",
+    "variations": [
+      {
+        "id": "7H7G5TD5AN",
+        "display_name": "Unibic Fruit And Nut Cookies",
+        "price_mrp": 200,
+        "brand": "Unibic",
+        "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Fruit And Nut Cookies",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/12/098f14ec-8da0-49ec-9a5b-b33a28370f8b_87416_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/12/9fbcfc07-f199-41c5-9d84-9c483305313b_87416_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/12/ac55383c-f853-4ba7-81fa-963d6a9fe7f4_87416_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/12/f2c52404-f79a-431f-ad7d-329d1dc25bdc_87416_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/12/e3d6ff66-c67f-4b90-b664-68532eef8e4c_87416_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/12/6a38bba2-f3b1-4aee-91bf-9e0fb5bfc997_87416_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "450 g",
+        "sku_quantity_with_combo": "450 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Open Secret choco almond brownie cake, eggless, zero refined sugar, no maida, no palm oil",
+    "brand": "OPEN SECRET",
+    "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+    "product_id": "IPNGR8BOGL",
+    "variations": [
+      {
+        "id": "19QLL6G41U",
+        "display_name": "Open Secret choco almond brownie cake, eggless, zero refined sugar, no maida, no palm oil",
+        "price_mrp": 165,
+        "brand": "OPEN SECRET",
+        "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Open Secret choco almond brownie cake, eggless, zero refined sugar, no maida, no palm oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/4/b2f71fb8-8ff7-4992-92bf-e00edc7cb869_packagedcakes_49QV9XRAKC_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "3 pieces",
+        "sku_quantity_with_combo": "25 g x 3",
+        "unit_of_measure": null,
+        "weight_in_grams": 90,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "VB12W9I2JP",
+        "display_name": "Open Secret choco almond brownie cake, eggless, zero refined sugar, no maida, no palm oil",
+        "price_mrp": 110,
+        "brand": "OPEN SECRET",
+        "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chocolate Heart Shaped Brownie",
+        "images": [
+          "8b05a771da66c8ae96d74af95cdcb398"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "25 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 60,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "9P2L786L7I",
+        "display_name": "Open Secret choco almond brownie cake, eggless, zero refined sugar, no maida, no palm oil",
+        "price_mrp": 55,
+        "brand": "OPEN SECRET",
+        "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Open Secret Choco Almond Brownie (Eggless) | No Maida No refined sugar",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/26/ccd597bd-fbdd-40af-a33e-7e74fdd58a4b_17764_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/26/6824d82d-2793-458a-b5e9-dcf853695e18_17764_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/26/cf170aa8-13be-43fb-8956-fd11dde4b98b_17764_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "25 g",
+        "sku_quantity_with_combo": "25 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 30,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Parle Hide & Seek Creme",
+    "brand": "Parle",
+    "brand_id": "c8bb0a6bb2dd29b2a580524bc0a83ad5419c4f44",
+    "product_id": "GLM4F7C4XF",
+    "variations": [
+      {
+        "id": "0J6DNXF44J",
+        "display_name": "Parle Hide & Seek Creme",
+        "price_mrp": 360,
+        "brand": "Parle",
+        "brand_id": "c8bb0a6bb2dd29b2a580524bc0a83ad5419c4f44",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Hide & Seek Creme",
+        "images": [
+          "3fe71b784273a7e7aa96fda292f7c9cc",
+          "NI_CATALOG/IMAGES/CIW/2025/6/15/7b99865c-cf36-449e-b78d-2bb51ae78327_19879_2.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "400 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 800,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "98BGUSUOZI",
+        "display_name": "Parle Hide & Seek Creme",
+        "price_mrp": 180,
+        "brand": "Hide & Seek",
+        "brand_id": "c8bb0a6bb2dd29b2a580524bc0a83ad5419c4f44",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Parle  Creme",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/15/85021a1e-539b-40e3-82dd-36a4b7f52963_19879_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/15/7b99865c-cf36-449e-b78d-2bb51ae78327_19879_2.png"
+        ],
+        "images_v2": null,
+        "quantity": "400 g",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Cadbury Oreo Original Chocolatey Sandwich Biscuits",
+    "brand": "Cadbury",
+    "brand_id": "bb020c5e7d3d447f48a999c9d3750c27eb57bf78",
+    "product_id": "U0ZBMIABLJ",
+    "variations": [
+      {
+        "id": "60G2UD2Y03",
+        "display_name": "Cadbury Oreo Original Chocolatey Sandwich Biscuits",
+        "price_mrp": 326,
+        "brand": "Cadbury",
+        "brand_id": "bb020c5e7d3d447f48a999c9d3750c27eb57bf78",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Oreo Original Chocolatey Sandwich Biscuits",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/9/b0cfde0a-2e54-4074-9a7f-010f7552c8ef_22029_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/9/8072ba67-5e11-4a98-8b67-2db27d1e2222_22029.png",
+          "f05f86235b386657f1dc030701a2472e",
+          "15d84b5d9e3051e71f16d64cd756874b",
+          "2740d211dbefa413fdc8fb8ae7f090b7",
+          "10fb59781b8caae36d5855cf5ee921f6",
+          "2e4a4e5fdb99d05efa3cb88a1e5e76b8"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "459.25 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 0,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "XPTQZG56C3",
+        "display_name": "Cadbury Oreo Original Chocolatey Sandwich Biscuits",
+        "price_mrp": 163,
+        "brand": "Cadbury Oreo",
+        "brand_id": "bb020c5e7d3d447f48a999c9d3750c27eb57bf78",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Vanilla Flavour Crème Sandwich Biscuit Jumbo Pack",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/21/935cccc4-5148-473f-8002-e9867a1df766_10596_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/21/13888f63-b854-4224-9e90-065928a0dbc1_10596_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/21/e4844bf8-b6dd-4901-a65c-1b6b221b344d_10596_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/21/05d8ec2c-8385-4636-a14c-e2bb78f9b6b3_10596_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/21/2e1a6ec7-66f9-4310-973c-e60248deff6b_10596_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/25/15e85f49-bd03-4600-82f6-547000877784_10596_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "459.25 g",
+        "sku_quantity_with_combo": "459.25 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 0,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Unibic Cashew Badam Cookies",
+    "brand": "Unibic",
+    "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+    "product_id": "CPZKMBEAXV",
+    "variations": [
+      {
+        "id": "UW85RJHHYZ",
+        "display_name": "Unibic Cashew Badam Cookies",
+        "price_mrp": 160,
+        "brand": "Unibic",
+        "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cashew Badam Cookies",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/837d34dc-77fa-48c6-99bf-c346a99a5230_84545_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/c1f15329-27d0-46e4-9b85-3f7aead74ff6_84545_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/89e689ef-e47c-4735-8f2b-2e80b7e39ced_84545_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/1a472106-0f7e-44b0-a3b7-a8c375ba38ec_84545_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/b3722136-209a-42a3-bba6-78ff02a24e74_84545_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/10/ae5fce55-7395-4c79-b36a-ea76bc5e7b9e_84545_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "450 gm",
+        "sku_quantity_with_combo": "450 gm",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Britannia Jimjam Pops Crunchy Open Cookie With Vanilla Crème And Jammy Center",
+    "brand": "Britannia",
+    "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+    "product_id": "NETKBD69G2",
+    "variations": [
+      {
+        "id": "RG0GLYT22H",
+        "display_name": "Britannia Jimjam Pops Crunchy Open Cookie With Vanilla Crème And Jammy Center",
+        "price_mrp": 120,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Jimjam Pops Crunchy Open Cookie With Vanilla Crème And Jammy Center",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/40f006b4-24a6-46bd-8356-daf52a25c715_73899_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/f9d87d28-fc9e-417b-ba54-f556f93e5a3a_73899_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/723833ab-951e-4fbb-b17f-128577cd12db_73899_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/ea976175-fc2b-4ba0-a611-0988aafb282a_73899_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/632a3f6b-54ac-4695-9be6-456c5e25e50a_73899_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/4609acdf-6494-4c05-93ff-043d5f6d7c98_73899_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "350 g",
+        "sku_quantity_with_combo": "350 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 350,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Parle Fab Bourbon",
+    "brand": "Parle",
+    "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+    "product_id": "1IH3VM6WIN",
+    "variations": [
+      {
+        "id": "ZK18Q5CRXO",
+        "display_name": "Parle Fab Bourbon",
+        "price_mrp": 160,
+        "brand": "Parle",
+        "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Fab Bourbon",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/7/b7af42df-06be-48f9-9986-9e8539114805_19880_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/7/a37a7f73-69a4-4281-a2ee-84f65ab19af6_19880_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/7/e0f148f1-3d95-4bf5-a10c-ed1debc3839f_19880_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "450 g",
+        "sku_quantity_with_combo": "450 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "D7Y23QIILC",
+        "display_name": "Parle Fab Bourbon",
+        "price_mrp": 320,
+        "brand": "Parle",
+        "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Fab Bourbon",
+        "images": [
+          "d356e19642ce4c33bfd4ee8b4b187669",
+          "NI_CATALOG/IMAGES/CIW/2025/6/7/a37a7f73-69a4-4281-a2ee-84f65ab19af6_19880_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/7/e0f148f1-3d95-4bf5-a10c-ed1debc3839f_19880_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "450 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Open Secret Zero Maida Assorted Chocolate Cookies | Pack of 6 ",
+    "brand": "OPEN SECRET",
+    "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+    "product_id": "9KZFY6LIAR",
+    "variations": [
+      {
+        "id": "DHVMUVNMCR",
+        "display_name": "Open Secret Zero Maida Assorted Chocolate Cookies | Pack of 6 ",
+        "price_mrp": 210,
+        "brand": "OPEN SECRET",
+        "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Assorted Chocolate Cookies - Choco Almonds, White Choco Cashews & Peanuts Butter",
+        "images": [
+          "6108bd7d7399d1ff9f01cb20c31fae3f",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/69573a1c-38a2-40ad-83b4-4d9515c76901_4719_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/3b2ed48f-185f-4e6e-863a-aa06b475f225_4719_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "75 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "URC5I1S7TN",
+        "display_name": "Open Secret Zero Maida Assorted Chocolate Cookies | Pack of 6 ",
+        "price_mrp": 105,
+        "brand": "OPEN SECRET",
+        "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Open Secret Zero Maida Assorted Chocolate Cookies | Pack of 6 ",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/6bcbc526-f086-4503-b3bd-3b06043d796c_4719_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/69573a1c-38a2-40ad-83b4-4d9515c76901_4719_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/3b2ed48f-185f-4e6e-863a-aa06b475f225_4719_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "75 g",
+        "sku_quantity_with_combo": "75 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 75,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "McVitie's Tasties Cashew Almond Biscuits",
+    "brand": "McVitie's",
+    "brand_id": "07f7e3d7f583ffd9b5166be5d025b1758e18031f",
+    "product_id": "9AM3BM126R",
+    "variations": [
+      {
+        "id": "MLSOOO50KW",
+        "display_name": "McVitie's Tasties Cashew Almond Biscuits",
+        "price_mrp": 190,
+        "brand": "McVitie's",
+        "brand_id": "07f7e3d7f583ffd9b5166be5d025b1758e18031f",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Tasties Cashew Almond Biscuits",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/10/30da2dec-c478-483f-990e-b88d27955db9_972981_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/10/952cad61-f2ee-4e81-a4e7-df23916a33a1_972981_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/10/9389c447-e444-4c7d-8f9b-3b3c9dcf8ca8_972981_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "560 g",
+        "sku_quantity_with_combo": "560 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 560,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Unibic Cake - Royal Vanilla",
+    "brand": "Unibic",
+    "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+    "product_id": "EM6V951MYC",
+    "variations": [
+      {
+        "id": "VX5ZUONYMP",
+        "display_name": "Unibic Cake - Royal Vanilla",
+        "price_mrp": 250,
+        "brand": "Unibic",
+        "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cake - Royal Vanilla",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/22/9853358c-0053-431d-86a5-c2725ad6e984_58084_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/22/7613930f-18f3-4eda-b270-02048dab2a55_58084_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/22/684e25d2-0067-4838-ba5e-68c81bd4b403_58084_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/22/ff2df285-1a75-4a6f-a5d3-83d1bae6c08b_58084_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "220 g",
+        "sku_quantity_with_combo": "220 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 220,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Parle Happy Happy Pouch",
+    "brand": "Parle",
+    "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+    "product_id": "LUHKPTTQZM",
+    "variations": [
+      {
+        "id": "7ZLZHSKM53",
+        "display_name": "Parle Happy Happy Pouch",
+        "price_mrp": 150,
+        "brand": "Parle",
+        "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Happy Happy Pouch",
+        "images": [
+          "uwqoiphd0hu5gel82pqe",
+          "ewqyyjqhbeabkv1pzt4d",
+          "mjrylayno4nc8chkc7od"
+        ],
+        "images_v2": null,
+        "quantity": "396 g",
+        "sku_quantity_with_combo": "396 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 396,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "6V6P6A8FSG",
+        "display_name": "Parle Happy Happy Pouch",
+        "price_mrp": 300,
+        "brand": "Parle",
+        "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Happy Happy Pouch",
+        "images": [
+          "baa26b2184aa5e6d5a48fe1be5087ad4",
+          "ewqyyjqhbeabkv1pzt4d",
+          "mjrylayno4nc8chkc7od"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "396 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 792,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sunfeast Farmlite High Fiber Digestive Pouch",
+    "brand": "Sunfeast Farmlite",
+    "brand_id": "daf2bdeef4cfabbf91924b5c4761e619c91694b5",
+    "product_id": "F5AD74N2S0",
+    "variations": [
+      {
+        "id": "URIB6Y7BPH",
+        "display_name": "Sunfeast Farmlite High Fiber Digestive Pouch",
+        "price_mrp": 720,
+        "brand": "Sunfeast Farmlite",
+        "brand_id": "daf2bdeef4cfabbf91924b5c4761e619c91694b5",
+        "category": "Marie and Digestive Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "High Fiber Digestive Pouch",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/26/6db404f4-7651-4611-965e-e1737d53d89c_45061.png"
+        ],
+        "images_v2": null,
+        "quantity": "3 pieces",
+        "sku_quantity_with_combo": "800 g x 3",
+        "unit_of_measure": null,
+        "weight_in_grams": 2400,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "D8YR7B6M6O",
+        "display_name": "Sunfeast Farmlite High Fiber Digestive Pouch",
+        "price_mrp": 480,
+        "brand": "Sunfeast Farmlite",
+        "brand_id": "daf2bdeef4cfabbf91924b5c4761e619c91694b5",
+        "category": "Marie and Digestive Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "High Fiber Digestive Pouch",
+        "images": [
+          "cdb70449144ff55a88968ef9afb5893e",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/a1effdc5-3a50-4d85-ab04-ecbc113b2717_21281_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/5f5247f3-020a-43bf-a833-c685554d5c7d_21281_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/ad1bb288-8b0f-49ff-b625-ae1096f373c0_21281_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/fa533914-522f-4c85-95af-59216a497289_21281_5.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "800 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1600,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "7K3LODF37T",
+        "display_name": "Sunfeast Farmlite High Fiber Digestive Pouch",
+        "price_mrp": 240,
+        "brand": "Sunfeast Farmlite",
+        "brand_id": "daf2bdeef4cfabbf91924b5c4761e619c91694b5",
+        "category": "Marie and Digestive Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "High Fiber Digestive Pouch",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/1b853064-6acd-411c-949f-fefc9140e724_21281_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/a1effdc5-3a50-4d85-ab04-ecbc113b2717_21281_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/5f5247f3-020a-43bf-a833-c685554d5c7d_21281_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/ad1bb288-8b0f-49ff-b625-ae1096f373c0_21281_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/fa533914-522f-4c85-95af-59216a497289_21281_5.png"
+        ],
+        "images_v2": null,
+        "quantity": "800 g",
+        "sku_quantity_with_combo": "800 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 800,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sunfeast Mom's Magic Cashew Almond",
+    "brand": "Sunfeast",
+    "brand_id": "67c0ffa4323e826110693d1ffc51440be1bd8f27",
+    "product_id": "LYQ7B13VEB",
+    "variations": [
+      {
+        "id": "J86MOX805V",
+        "display_name": "Sunfeast Mom's Magic Cashew Almond",
+        "price_mrp": 290,
+        "brand": "Sunfeast",
+        "brand_id": "67c0ffa4323e826110693d1ffc51440be1bd8f27",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Mom's Magic Cashew Almond",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/4/1/2d5a2f3b-d233-47eb-a905-7bdb4e2481ee_biscuits_6TOHOH6ZJM_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/1/722506ee-67d7-4614-97cd-bffa206a1d96_biscuits_6TOHOH6ZJM_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/1/7918b0e0-6562-46cf-ad58-1111b3ab3440_biscuits_6TOHOH6ZJM_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/1/85c3a0c3-93a4-4cc5-928a-d6ff4fe8af48_biscuits_6TOHOH6ZJM_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/1/5a646a6b-8e09-4735-ae68-ef4de7a9be23_biscuits_6TOHOH6ZJM_AL4.png"
+        ],
+        "images_v2": null,
+        "quantity": "934 g",
+        "sku_quantity_with_combo": "934 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 934,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Britannia Tiger Krunch Chocochip Biscuits",
+    "brand": "Britannia",
+    "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+    "product_id": "2E3D203PN0",
+    "variations": [
+      {
+        "id": "B0B5AHZWNY",
+        "display_name": "Britannia Tiger Krunch Chocochip Biscuits",
+        "price_mrp": 300,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Tiger Krunch Chocochip Biscuits",
+        "images": [
+          "1a025998949e81ccaf5ad2eb519ac358",
+          "NI_CATALOG/IMAGES/CIW/2024/4/12/ef373887-324b-4134-88c9-6733648ff9a1_biscuits_PK97C07FVJ_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/12/569e946e-6166-4cfa-aae3-b3000e8397e9_biscuits_PK97C07FVJ_AL2.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "400 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 800,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "C8RLM9D2V9",
+        "display_name": "Britannia Tiger Krunch Chocochip Biscuits",
+        "price_mrp": 150,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Tiger Krunch Chocochip Biscuits",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/4/12/224b834a-5403-416e-8975-8208847e21b0_biscuits_PK97C07FVJ_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/12/ef373887-324b-4134-88c9-6733648ff9a1_biscuits_PK97C07FVJ_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/12/569e946e-6166-4cfa-aae3-b3000e8397e9_biscuits_PK97C07FVJ_AL2.png"
+        ],
+        "images_v2": null,
+        "quantity": "400 g",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Parle 20 20 Gold Cashew Cookies",
+    "brand": "Parle",
+    "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+    "product_id": "F8ONSJQCIH",
+    "variations": [
+      {
+        "id": "0D7PK18FYC",
+        "display_name": "Parle 20 20 Gold Cashew Cookies",
+        "price_mrp": 190,
+        "brand": "Parle",
+        "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "20 20 Gold Cashew Cookies",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/21/1a91e100-398f-4593-b558-3c4a85d84e0c_19874_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/21/4d7e6994-5feb-4a5b-aa5e-d774317bbb31_19874_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/21/b5f9f080-79de-40c3-bf94-ab08b5d687c7_19874_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "604.8 g",
+        "sku_quantity_with_combo": "604.8 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 600,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "NDL6X0YC0D",
+        "display_name": "Parle 20 20 Gold Cashew Cookies",
+        "price_mrp": 380,
+        "brand": "Parle",
+        "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "20 20 Gold Cashew Almond",
+        "images": [
+          "94542a0526f7b9a27eddde6de408d7a4",
+          "NI_CATALOG/IMAGES/CIW/2025/2/21/4d7e6994-5feb-4a5b-aa5e-d774317bbb31_19874_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/21/b5f9f080-79de-40c3-bf94-ab08b5d687c7_19874_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "604.8 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1200,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Britannia Vita Marie Gold Chai Time",
+    "brand": "Britannia",
+    "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+    "product_id": "L14RDRH0QO",
+    "variations": [
+      {
+        "id": "GV2WIIA93H",
+        "display_name": "Britannia Vita Marie Gold Chai Time",
+        "price_mrp": 320,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Marie and Digestive Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Vita Marie Gold Chai Time",
+        "images": [
+          "58676beb948c7855ea750f1ac07f04c5",
+          "exzlq2luccrn6c1xfcvr",
+          "ppct9nn4nnumt7ci26dx"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "900 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1800,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "YWLZB4HLX1",
+        "display_name": "Britannia Vita Marie Gold Chai Time",
+        "price_mrp": 160,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Marie and Digestive Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Vita Marie Gold Chai Time",
+        "images": [
+          "mr1awg3pihq66dyajscg",
+          "exzlq2luccrn6c1xfcvr",
+          "ppct9nn4nnumt7ci26dx"
+        ],
+        "images_v2": null,
+        "quantity": "900 g",
+        "sku_quantity_with_combo": "900 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 900,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Unibic Cake - Fruit N Nut",
+    "brand": "Unibic",
+    "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+    "product_id": "O2V3FSMG14",
+    "variations": [
+      {
+        "id": "J2VX6PWKGW",
+        "display_name": "Unibic Cake - Fruit N Nut",
+        "price_mrp": 250,
+        "brand": "Unibic",
+        "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cake - Fruit N Nut",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/22/4e08d023-312f-4d96-a79e-a2d33aa311c4_90139_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/22/3cfe3b21-d84d-48a8-b2f0-fcd91310f687_90139_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/22/b1cc20f6-25a1-40ff-bc40-c137d70cc9cb_90139_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/22/84c14f52-277c-4533-a0d3-5dc53f5289f1_90139_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "220 g",
+        "sku_quantity_with_combo": "220 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 220,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Unibic Fruit & Nut Cookies",
+    "brand": "Unibic",
+    "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+    "product_id": "ZLBUZNTIFY",
+    "variations": [
+      {
+        "id": "JTOMWTAJFS",
+        "display_name": "Unibic Fruit & Nut Cookies",
+        "price_mrp": 165,
+        "brand": "Unibic",
+        "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Fruit & Nut Cookies",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/f13d77e6-e391-48b5-b0a8-0741a389972a_55789_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/6b649d02-cda7-4968-ae31-7599d843cdd2_55789_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/7373c956-5062-4164-8471-682b59ef8a11_55789_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/3392e9f0-1f4f-4b07-8423-f6ca0471320a_55789_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/1a4fd2cb-99c9-46a7-9603-c196901f5746_55789_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/d91b5812-2cf9-479a-b914-02dd1887ecbb_55789_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "270 g",
+        "sku_quantity_with_combo": "270 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Britannia Good Day Cashew Cookies",
+    "brand": "Britannia",
+    "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+    "product_id": "79TOVF770U",
+    "variations": [
+      {
+        "id": "AFVNVHNV1F",
+        "display_name": "Britannia Good Day Cashew Cookies",
+        "price_mrp": 320,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Good Day Cashew Cookies",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/5/203b244c-ecef-4bc4-a379-1264d198143b_14006_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/5/f294770a-8ebc-496c-bfaf-72eda72cbdad_14006_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/5/405043e7-3976-4288-b09b-b049eab0a4b8_14006_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "905 g",
+        "sku_quantity_with_combo": "905 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 905,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Unibic Choco Chip Cookies",
+    "brand": "Unibic",
+    "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+    "product_id": "T8KJUX7J2H",
+    "variations": [
+      {
+        "id": "IXGGLLHKHD",
+        "display_name": "Unibic Choco Chip Cookies",
+        "price_mrp": 200,
+        "brand": "Unibic",
+        "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Choco Chip Cookies",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/12/87a1a340-5f68-4223-a349-6743ceec4bea_417_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/12/8a37eba0-9bf4-40ac-83df-f9c74eab15bf_417_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/12/e45e8071-a921-40ea-b6f7-4fd95043fe48_417_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/12/da36d113-8712-440d-8196-4f0db2a4cea8_417_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/12/364d7106-8ed8-4d60-97fb-5c225bc901b3_417_5.png"
+        ],
+        "images_v2": null,
+        "quantity": "450 g",
+        "sku_quantity_with_combo": "450 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 450,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Open Secret Unjunked Jeera Biscuit (No Maida, No Refined Sugar, No Palm Oil)",
+    "brand": "OPEN SECRET",
+    "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+    "product_id": "02HFHLSD89",
+    "variations": [
+      {
+        "id": "QXPA5KULJS",
+        "display_name": "Open Secret Unjunked Jeera Biscuit (No Maida, No Refined Sugar, No Palm Oil)",
+        "price_mrp": 135,
+        "brand": "OPEN SECRET",
+        "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+        "category": "Glucose and Regular Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Open Secret Unjunked Jeera Biscuit (No Maida, No Refined Sugar, No Palm Oil)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/4/3937da6a-c600-41c1-90bd-27c6d183c162_biscuits_CPN4LINMQB_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "3 pieces",
+        "sku_quantity_with_combo": "40 g x 3",
+        "unit_of_measure": null,
+        "weight_in_grams": 120,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "08Q8YQOPSP",
+        "display_name": "Open Secret Unjunked Jeera Biscuit (No Maida, No Refined Sugar, No Palm Oil)",
+        "price_mrp": 90,
+        "brand": "OPEN SECRET",
+        "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+        "category": "Glucose and Regular Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Open Secret Unjunked Jeera Biscuit (No Maida, No Refined Sugar, No Palm Oil)",
+        "images": [
+          "fa728009cd626572213c48fc82ee0487"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "40 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 80,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "4YFJ97H1LT",
+        "display_name": "Open Secret Unjunked Jeera Biscuit (No Maida, No Refined Sugar, No Palm Oil)",
+        "price_mrp": 45,
+        "brand": "OPEN SECRET",
+        "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+        "category": "Glucose and Regular Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Open Secret Special Jeera Biscuits | No Maida, No Palm Oil",
+        "images": [
+          "5101014bc166eb4ee652bda42c78469a",
+          "38b3338df3a8bcc99b30140562712fc0",
+          "0007b428c24f3e7e5344f700e3356aed"
+        ],
+        "images_v2": null,
+        "quantity": "40 g",
+        "sku_quantity_with_combo": "40 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 40,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Parle Monaco Pizza",
+    "brand": "Parle",
+    "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+    "product_id": "HCR8B9MCG4",
+    "variations": [
+      {
+        "id": "4BBL5376U8",
+        "display_name": "Parle Monaco Pizza",
+        "price_mrp": 150,
+        "brand": "Parle",
+        "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+        "category": "Marie and Digestive Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Monaco Pizza",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/2959ed80-9d9b-48e1-b06a-85de665638a6_94194_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/9567dd6e-85ed-4dda-9414-dbb8dcfe243d_94194_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/1cb68749-241b-45a2-9d7c-ef841fc9a1c4_94194_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "311 g",
+        "sku_quantity_with_combo": "311 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 311,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sunfeast Dark Fantasy Choco Chip, Chocolate Cookies Loaded with Choco Chips",
+    "brand": "Sunfeast Dark Fantasy",
+    "brand_id": "730e693d47ce7d0f72b2f33d49ae3983fc7ef39e",
+    "product_id": "NJZP884L1D",
+    "variations": [
+      {
+        "id": "PV5LYZHNWW",
+        "display_name": "Sunfeast Dark Fantasy Choco Chip, Chocolate Cookies Loaded with Choco Chips",
+        "price_mrp": 160,
+        "brand": "Sunfeast Dark Fantasy",
+        "brand_id": "730e693d47ce7d0f72b2f33d49ae3983fc7ef39e",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Choco Chip, Chocolate Cookies Loaded with Choco Chips",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/10/c227a181-80e4-4aca-9142-1923dbf8e5a5_biscuits_O6XQIX2VMT_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/10/ffff28b0-82b1-4293-9ab4-eea949dd81c8_biscuits_O6XQIX2VMT_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/10/bfcf41f7-8fe6-4ed1-a635-6fb375b78be4_biscuits_O6XQIX2VMT_AL2.png"
+        ],
+        "images_v2": null,
+        "quantity": "357.5 g",
+        "sku_quantity_with_combo": "357.5 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Britannia Good Day Butter Jeera",
+    "brand": "Britannia",
+    "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+    "product_id": "4JZULKKTAG",
+    "variations": [
+      {
+        "id": "XQZUN9I74Q",
+        "display_name": "Britannia Good Day Butter Jeera",
+        "price_mrp": 400,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Good Day Butter Jeera",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/15/1a83f599-4890-47be-870e-77874144f16d_997880.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "450 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 900,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "T01AV2JLYV",
+        "display_name": "Britannia Good Day Butter Jeera",
+        "price_mrp": 200,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Good Day Butter Jeera Cookies | Zero Trans Fat",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/649d48e3-6b65-4e14-af19-60b7a330bdca_49208_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/95b1add6-7df1-42d0-a1d7-2e96af369db3_49208_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/9023775c-a25b-4f7f-9494-4a6ae4aab7c6_49208_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/43bd6796-ad79-416e-897c-cc68dc0243ea_49208_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/574a0e64-4dab-42b8-8e21-107604d00c9f_49208_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/3fd7e3d6-a33f-49ff-b959-ee8757724776_49208_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/30/586c7e8f-0332-4a88-9375-bbd97d286976_49208_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "450 g",
+        "sku_quantity_with_combo": "450 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 450,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Open Secret Chocolate, Brownie & Dry Fruit Gift Hamper | 5 Delightful Treats",
+    "brand": "OPEN SECRET",
+    "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+    "product_id": "WK2XGGVEDE",
+    "variations": [
+      {
+        "id": "QMBTB4S8V7",
+        "display_name": "Open Secret Chocolate, Brownie & Dry Fruit Gift Hamper | 5 Delightful Treats",
+        "price_mrp": 350,
+        "brand": "OPEN SECRET",
+        "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+        "category": "Biscuits Gift Box Packs",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Open Secret Chocolate, Brownie & Dry Fruit Gift Hamper | 5 Delightful Treats",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/842c91a1-53f6-4883-9617-6706f2f93cc0_F5ONQRT9NN.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/14/e2153e95-f918-4f87-9990-0c5915d60997_91455_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/14/5bf5b948-9be2-47a7-bff7-e00954f4635e_91455_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "151 g",
+        "sku_quantity_with_combo": "151 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 151,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Open Secret Butter Millet Biscuits | Zero Maida Healthy Snacks",
+    "brand": "OPEN SECRET",
+    "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+    "product_id": "YZ6S8CE8LC",
+    "variations": [
+      {
+        "id": "LLOFBHCZRT",
+        "display_name": "Open Secret Butter Millet Biscuits | Zero Maida Healthy Snacks",
+        "price_mrp": 45,
+        "brand": "OPEN SECRET",
+        "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+        "category": "Glucose and Regular Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Open Secret Butter Millet Biscuits | Zero Maida Healthy Snacks",
+        "images": [
+          "8eb6b08302768ef4b6184468210eb1cf",
+          "4c84d802cfdd181d8ff289c36108b99f",
+          "e320648914157680d5df7083ed94e930",
+          "780948d1c0b67aad5d6a773227ecc7ff"
+        ],
+        "images_v2": null,
+        "quantity": "40 g",
+        "sku_quantity_with_combo": "40 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 40,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Parle Nutricrunch Digestive Cookies Pouch",
+    "brand": "Parle",
+    "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+    "product_id": "5APPLKT6E7",
+    "variations": [
+      {
+        "id": "9W7XBLNLAN",
+        "display_name": "Parle Nutricrunch Digestive Cookies Pouch",
+        "price_mrp": 320,
+        "brand": "Parle",
+        "brand_id": "b83236086e1ef4322e037cfc06b6c7f9e7af598b",
+        "category": "Marie and Digestive Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Nutricrunch Digestive Cookies Pouch",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/26/eae7a245-3425-47f0-9ada-2425b2cb710d_19873_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/26/1235648b-2969-4215-94a6-0e5ee57c3a7f_19873_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/26/bb43d73a-b49b-48db-ae7a-1cdcfcfd8482_19873_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Britannia Toastea Premium Bake Rusk Crispy Baked Toast With Real Elaichi",
+    "brand": "Britannia",
+    "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+    "product_id": "6RQTJG0E7H",
+    "variations": [
+      {
+        "id": "USNF3YLKD7",
+        "display_name": "Britannia Toastea Premium Bake Rusk Crispy Baked Toast With Real Elaichi",
+        "price_mrp": 240,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Wafer,Rusk and Cracker",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Toastea Premium Bake Rusk Crispy Baked Toast With Real Elaichi",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/17/b00db995-23a7-4c5d-b865-5e6a0ce59c34_68402_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/17/26cd292b-9993-4c32-bbf1-fb5f498337b5_68402_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/17/2f1efeec-9d24-470d-a185-f0bc762b8dfb_68402_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Unibic Cake - Dates & Carrot",
+    "brand": "Unibic",
+    "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+    "product_id": "YZVRUT8UZA",
+    "variations": [
+      {
+        "id": "94V7VWARGF",
+        "display_name": "Unibic Cake - Dates & Carrot",
+        "price_mrp": 250,
+        "brand": "Unibic",
+        "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cake - Dates & Carrot",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/22/a1a0d185-14a2-4939-be08-3737f7fa5e50_88441_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/22/a70bc33a-5a1a-4a1c-b3a2-5160df3cee7e_88441_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/22/d1735402-1628-4a7e-8c52-f106881ade58_88441_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/22/a1954061-d619-472e-b8bd-18b30ed94e75_88441_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/27/19a4a7f7-9acb-432e-a0c5-7e82189b3806_Cakes_6586UUW6NN_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/27/8f556409-8ba5-4389-8683-f87c7c57b05d_Cakes_6586UUW6NN_AL5.png"
+        ],
+        "images_v2": null,
+        "quantity": "220 g",
+        "sku_quantity_with_combo": "220 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 220,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Britannia Good Day Fruit & Nut Cookies | Zero Trans Fat",
+    "brand": "Britannia",
+    "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+    "product_id": "EA8DRTRDNE",
+    "variations": [
+      {
+        "id": "TDMI1BINIB",
+        "display_name": "Britannia Good Day Fruit & Nut Cookies | Zero Trans Fat",
+        "price_mrp": 200,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Good Day Fruit & Nut Cookies | Zero Trans Fat",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/3cff418d-df19-4d89-aae6-623e477cd28b_86450_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/5427194a-784d-4d40-b089-51e89b690349_86450_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/11a3d8ef-d3f8-43bb-8519-2472c6a2aa89_86450_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/e82b5e54-ac10-4ac7-a651-7ddc985ad351_86450_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/3115d5d9-9064-478b-add4-0ba73847cba5_86450_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/ba294829-1775-4924-8002-8f1bb013cfbb_86450_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/17304f3c-3ac3-44e2-8261-703fb6255702_86450_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "450 g",
+        "sku_quantity_with_combo": "450 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 450,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "McVitie's Tasties Coconut Biscuits",
+    "brand": "McVitie's",
+    "brand_id": "07f7e3d7f583ffd9b5166be5d025b1758e18031f",
+    "product_id": "1MGY0W0FJ6",
+    "variations": [
+      {
+        "id": "7FBIXATOV9",
+        "display_name": "McVitie's Tasties Coconut Biscuits",
+        "price_mrp": 180,
+        "brand": "McVitie's",
+        "brand_id": "07f7e3d7f583ffd9b5166be5d025b1758e18031f",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Tasties Coconut Biscuits",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/23/726817ab-1483-4c17-ae66-7bc610ffa6b5_167196_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/23/cc915bf4-b32a-43b3-ba73-0a24f5cde2a5_167196_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/23/3282d470-b2f4-4102-8b87-bed9c8b255d4_167196_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "572 g",
+        "sku_quantity_with_combo": "572 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 572,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Britannia Treat Choco Creme Sandwich Biscuits",
+    "brand": "Britannia",
+    "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+    "product_id": "Z9BQ2NXGLO",
+    "variations": [
+      {
+        "id": "SKL3WDIYSZ",
+        "display_name": "Britannia Treat Choco Creme Sandwich Biscuits",
+        "price_mrp": 180,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Treat Choco Creme Sandwich Biscuits",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/7/cf85c7f8-c07a-41f1-b575-4946b5925400_63127_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/7/c92be9ef-73e2-4aab-9cdc-00b58902707e_63127_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/7/5fc3d2a7-6380-47a8-8934-92f0f10cac86_63127_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "515 gm",
+        "sku_quantity_with_combo": "515 gm",
+        "unit_of_measure": null,
+        "weight_in_grams": 515,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Unibic Choco Kiss",
+    "brand": "Unibic",
+    "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+    "product_id": "ENMWXQXK7R",
+    "variations": [
+      {
+        "id": "LQPBQQ7VXK",
+        "display_name": "Unibic Choco Kiss",
+        "price_mrp": 170,
+        "brand": "Unibic",
+        "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Choco Kiss",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/6ed07954-3855-4dd2-9fab-3a7e6b6b28d0_25393_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/aef48f17-9631-4ac5-9ae5-c543e78fe31c_25393_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/5a70eaa6-f1a3-48b8-97eb-f90cec661a7e_25393_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/f477ccb1-d125-4e69-8a01-7f55bbfa8cf8_25393_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/9cf2d7bc-3097-4cbd-ab89-9f1ac6c86762_25393_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/981a252c-02dd-48bb-8f41-e8246f6e9327_25393_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/dc91fc75-b302-492f-89ad-e50587796123_25393_7.png"
+        ],
+        "images_v2": null,
+        "quantity": "250 g",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Britannia Treat Vanilla Creme Sandwich Biscuits",
+    "brand": "Britannia",
+    "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+    "product_id": "R6L0X3AZCY",
+    "variations": [
+      {
+        "id": "1ZJPIUDVIM",
+        "display_name": "Britannia Treat Vanilla Creme Sandwich Biscuits",
+        "price_mrp": 180,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Treat Vanilla Creme Sandwich Biscuits",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/17/7dd19faf-43cf-4c71-870f-85dc4fccf4b0_96081_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/24/13c742f9-fbd1-43e6-87cf-94e2bd617601_96081_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/24/52ea70f2-ef44-426c-ae61-6a77ce55c470_96081_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "515 g",
+        "sku_quantity_with_combo": "515 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 515,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Unibic Cookie Magic | Premium Gift Pack",
+    "brand": "Unibic",
+    "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+    "product_id": "JLZ73ISIF7",
+    "variations": [
+      {
+        "id": "D474SWOUX3",
+        "display_name": "Unibic Cookie Magic | Premium Gift Pack",
+        "price_mrp": 379,
+        "brand": "Unibic",
+        "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cookie Magic | Premium Gift Pack",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/28/5e30a562-a562-4f5b-bf59-3af6f2c528cc_11060_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/26/97917e55-23ab-40ab-bc3c-f994494ad1a1_11060_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/28/6c6d38e5-ca7a-43ce-ae95-e96960a90f89_11060_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/26/15d0b7bb-b1d3-473b-ac58-055236cfdf64_11060_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/26/1ba9ab0c-f202-4928-a9ad-c17ab64713a2_11060_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/26/14e50256-5ebd-4f2c-8937-f819774ba6d0_11060_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "300 g",
+        "sku_quantity_with_combo": "300 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Unibic Cookie Celebrations | Premium Gift Pack",
+    "brand": "Unibic",
+    "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+    "product_id": "I87WAR2Y39",
+    "variations": [
+      {
+        "id": "7RJBFGVTSZ",
+        "display_name": "Unibic Cookie Celebrations | Premium Gift Pack",
+        "price_mrp": 789,
+        "brand": "Unibic",
+        "brand_id": "8bd00dc61af67a137222dec9b75dce23cbe515dc",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cookie Celebrations | Premium Gift Pack",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/28/f964f0c3-604a-43cf-ac85-aebaed00bd17_45980_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/2/46e233f3-aee8-4948-81ab-a65cbdc08f72_45980_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/2/b1e36fc5-211a-4997-8f43-4b84cf794846_45980_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/28/435bbbe3-e0df-4fa4-bb76-07620741558e_45980_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/2/bb05ce66-a7bf-4795-a3fe-fb4b169a96f0_45980_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/2/8746a98f-afa4-4ac8-bc52-4142e72381e0_45980_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "700 g",
+        "sku_quantity_with_combo": "700 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 700,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Open Secret Assorted Cookies Celebration Gift Box (12 Cookies) - Almond, Cashew and Peanut Butter",
+    "brand": "OPEN SECRET",
+    "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+    "product_id": "VMX1OQLKAT",
+    "variations": [
+      {
+        "id": "D76IHM57DZ",
+        "display_name": "Open Secret Assorted Cookies Celebration Gift Box (12 Cookies) - Almond, Cashew and Peanut Butter",
+        "price_mrp": 350,
+        "brand": "OPEN SECRET",
+        "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Open Secret Assorted Cookies Celebration Gift Box (12 Cookies) - Almond, Cashew and Peanut Butter",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/25/68e4a8e8-1fdb-48bf-9859-dc356ebd6b82_8218_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/25/00f9ef00-dd3f-4fca-87ca-d01d7b836c33_8218_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/25/2c9ded28-83bf-4d67-9180-c1fdec11d531_8218_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "150 g",
+        "sku_quantity_with_combo": "150 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "NOICE Oat & Chocochip Cookies (Zero Palm Oil Biscuits)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "4URUZ3QFEJ",
+    "variations": [
+      {
+        "id": "5QCUJG2CPS",
+        "display_name": "NOICE Oat & Chocochip Cookies (Zero Palm Oil Biscuits)",
+        "price_mrp": 89,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Oat & Chocochip Cookies (Zero Palm Oil Biscuits)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/84369e9a-d7d8-49ef-a594-40b8b0467a35_0BDV6EYUEB_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/b400793c-0d45-47a7-abe0-cb91fc05e42d_0BDV6EYUEB_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/9ff2b72c-e346-45a6-885b-1bfcc096fb60_0BDV6EYUEB_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/3/f38498c5-e8fc-4e53-acf9-18bdc394b215_0BDV6EYUEB_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/3/698b517d-bd02-4782-b809-29b767e264f2_0BDV6EYUEB_8.png"
+        ],
+        "images_v2": null,
+        "quantity": "80 gm",
+        "sku_quantity_with_combo": "80 gm",
+        "unit_of_measure": null,
+        "weight_in_grams": 80,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "NOICE Rich Butter Cookies (Zero Palm Oil Biscuits)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "6UK5YL138Q",
+    "variations": [
+      {
+        "id": "0W7AMUPQ32",
+        "display_name": "NOICE Rich Butter Cookies (Zero Palm Oil Biscuits)",
+        "price_mrp": 240,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Rich Butter Cookies (Zero Palm Oil Biscuits)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/25/0f256cb2-d900-428f-be40-45256856fdb3_GCQ2UW20W6_mn.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/30/52a764ce-607a-411b-aa62-da95d3ef1e3d_GCQ2UW20W6_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/30/1a7da2e8-9ad8-45d5-95bf-0736b0b33456_GCQ2UW20W6_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/16121761-8364-4904-a9fd-1a68325de5ae_GCQ2UW20W6_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/d5b37240-dec1-40b5-b4b0-8c8b04a05b44_GCQ2UW20W6_8.png"
+        ],
+        "images_v2": null,
+        "quantity": "4 combo",
+        "sku_quantity_with_combo": "80 g x 4",
+        "unit_of_measure": null,
+        "weight_in_grams": 320,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "5D2A4GJ29Z",
+        "display_name": "NOICE Rich Butter Cookies (Zero Palm Oil Biscuits)",
+        "price_mrp": 120,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Rich Butter Cookies (Zero Palm Oil Biscuits)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/30/75e75492-81cf-4890-92fe-56b5e1f37241_GCQ2UW20W6_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/16121761-8364-4904-a9fd-1a68325de5ae_GCQ2UW20W6_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/d5b37240-dec1-40b5-b4b0-8c8b04a05b44_GCQ2UW20W6_8.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 combo",
+        "sku_quantity_with_combo": "80 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 160,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "29GJVTFA00",
+        "display_name": "NOICE Rich Butter Cookies (Zero Palm Oil Biscuits)",
+        "price_mrp": 60,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Rich Butter Cookies (Zero Palm Oil Biscuits)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/25/0f256cb2-d900-428f-be40-45256856fdb3_GCQ2UW20W6_mn.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/30/52a764ce-607a-411b-aa62-da95d3ef1e3d_GCQ2UW20W6_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/30/1a7da2e8-9ad8-45d5-95bf-0736b0b33456_GCQ2UW20W6_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/16121761-8364-4904-a9fd-1a68325de5ae_GCQ2UW20W6_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/d5b37240-dec1-40b5-b4b0-8c8b04a05b44_GCQ2UW20W6_8.png"
+        ],
+        "images_v2": null,
+        "quantity": "80 g",
+        "sku_quantity_with_combo": "80 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 80,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "NOICE Fresh Banana Walnut Cake (Zero Palm oil)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "G3PLZMIPZA",
+    "variations": [
+      {
+        "id": "QD63S58GOY",
+        "display_name": "NOICE Fresh Banana Walnut Cake (Zero Palm oil)",
+        "price_mrp": 396,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Fresh Banana Walnut Cake (Zero Palm oil)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/cc042217-824e-4968-8f88-2f01054b0c1a_N94MRZZ14Y_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/31/3526a318-93f7-4d25-a743-594c5fe338bf_N94MRZZ14Y_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/ca092f2d-9368-4cf1-9a16-2b13c3d3a9b8_N94MRZZ14Y_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/5297a8eb-3a19-467e-88c9-09ee78825089_N94MRZZ14Y_4.jpg"
+        ],
+        "images_v2": null,
+        "quantity": "4 combo",
+        "sku_quantity_with_combo": "90 g x 4",
+        "unit_of_measure": null,
+        "weight_in_grams": 360,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "5TVTQNC6Z4",
+        "display_name": "NOICE Fresh Banana Walnut Cake (Zero Palm oil)",
+        "price_mrp": 198,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Fresh Banana Walnut Cake (Zero Palm oil)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/cc042217-824e-4968-8f88-2f01054b0c1a_N94MRZZ14Y_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/31/3526a318-93f7-4d25-a743-594c5fe338bf_N94MRZZ14Y_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/ca092f2d-9368-4cf1-9a16-2b13c3d3a9b8_N94MRZZ14Y_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/5297a8eb-3a19-467e-88c9-09ee78825089_N94MRZZ14Y_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/346ae9f5-ba89-4cb1-ba27-c3316219571d_N94MRZZ14Y_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/94780eab-e128-4aea-b911-cea6185e7ae3_N94MRZZ14Y_8.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 combo",
+        "sku_quantity_with_combo": "90 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 180,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "MCSBZGT4H3",
+        "display_name": "NOICE Fresh Banana Walnut Cake (Zero Palm oil)",
+        "price_mrp": 99,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Fresh Banana Walnut Cake (Zero Palm oil)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/cc042217-824e-4968-8f88-2f01054b0c1a_N94MRZZ14Y_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/31/3526a318-93f7-4d25-a743-594c5fe338bf_N94MRZZ14Y_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/ca092f2d-9368-4cf1-9a16-2b13c3d3a9b8_N94MRZZ14Y_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/5297a8eb-3a19-467e-88c9-09ee78825089_N94MRZZ14Y_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/346ae9f5-ba89-4cb1-ba27-c3316219571d_N94MRZZ14Y_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/94780eab-e128-4aea-b911-cea6185e7ae3_N94MRZZ14Y_8.png"
+        ],
+        "images_v2": null,
+        "quantity": "90 g",
+        "sku_quantity_with_combo": "90 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 90,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "NOICE Handmade Coconut Cookies (Zero Palm Oil Biscuits)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "GFJ23OWDLG",
+    "variations": [
+      {
+        "id": "9YV7GUS78C",
+        "display_name": "NOICE Handmade Coconut Cookies (Zero Palm Oil Biscuits)",
+        "price_mrp": 160,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Handmade Coconut Cookies (Zero Palm Oil Biscuits)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/30/de2cc2d5-b531-45b2-b138-c9d59bf71998_PCE99GJ2E5_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/8d47899a-9d00-4664-ad56-104fe5293955_PCE99GJ2E5_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/db188f89-f022-4271-baf0-c27d50e189b4_PCE99GJ2E5_8.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 combo",
+        "sku_quantity_with_combo": "80 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 160,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "KA4JV8X6ZS",
+        "display_name": "NOICE Handmade Coconut Cookies (Zero Palm Oil Biscuits)",
+        "price_mrp": 80,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Handmade Coconut Cookies (Zero Palm Oil Biscuits)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/25/5f6b5c5a-9c38-4a39-987f-707b39ebe481_PCE99GJ2E5_mn.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/df8b9678-87f4-417f-a306-c4e8e24e0eff_PCE99GJ2E5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/30/049ceeb6-1a45-4667-b446-42d7d2857657_PCE99GJ2E5_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/30/7794f9e2-6e1c-4bc8-aafa-e437d2e028a4_PCE99GJ2E5_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/8d47899a-9d00-4664-ad56-104fe5293955_PCE99GJ2E5_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/db188f89-f022-4271-baf0-c27d50e189b4_PCE99GJ2E5_8.png"
+        ],
+        "images_v2": null,
+        "quantity": "80 g",
+        "sku_quantity_with_combo": "80 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 80,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "NOICE Premium Millet Cookies (Zero Palm Oil Biscuits)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "L1JJ7FHWKN",
+    "variations": [
+      {
+        "id": "H9PIXBD3SO",
+        "display_name": "NOICE Premium Millet Cookies (Zero Palm Oil Biscuits)",
+        "price_mrp": 69,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Premium Millet Cookies (Zero Palm Oil Biscuits)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/25/417f789d-9284-472b-8d0f-6bed6942e786_ZLM2A1QEOO_mn.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/1/99eec917-29b0-45de-bf92-d27944e47180_ZLM2A1QEOO.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/de6106a6-4413-481b-a889-60ed225108c1_ZLM2A1QEOO_al2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/13f7b7d2-d3cc-4d48-b37f-30be8a980010_ZLM2A1QEOO_al3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/3/8d234d65-886c-4ffe-89bd-c2319c518151_ZLM2A1QEOO_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/3/bade60e6-0ad7-42cd-8b17-80d254193f32_ZLM2A1QEOO_8.png"
+        ],
+        "images_v2": null,
+        "quantity": "100 g",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Britannia Little Hearts Classic Crunch Pack Of 4",
+    "brand": "Britannia",
+    "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+    "product_id": "U9WFETJR4M",
+    "variations": [
+      {
+        "id": "IAN9KA78TX",
+        "display_name": "Britannia Little Hearts Classic Crunch Pack Of 4",
+        "price_mrp": 120,
+        "brand": "Britannia",
+        "brand_id": "a76f7011b0d2768a7be0dfd50350cf824b06abfa",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Little Hearts Classic Crunch Pack Of 4",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/25/88f07386-7e80-48ef-a504-a373d58c2fe2_131921_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/25/cef35b4c-fe74-4c8d-8e5a-fd143dd385a0_131921_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/25/be0fbab7-f8e5-4352-99eb-d1c3c46a6123_131921_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/25/d1c2c9c9-179e-4a9f-b143-1ac39db67f90_131921_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/25/e914dc86-6a3d-4750-8e97-39ca8bb03d7f_131921_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/25/37f5c876-34e4-44a2-b763-5ee38a840b8d_131921_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "280 gm",
+        "sku_quantity_with_combo": "280 gm",
+        "unit_of_measure": null,
+        "weight_in_grams": 280,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "NOICE Oat & Raisin Cookies (Zero Palm Oil Biscuits)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "JDU5RLRUP2",
+    "variations": [
+      {
+        "id": "50AJW1N4W0",
+        "display_name": "NOICE Oat & Raisin Cookies (Zero Palm Oil Biscuits)",
+        "price_mrp": 89,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Oat & Raisin Cookies (Zero Palm Oil Biscuits)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/25/74893fcc-d893-4883-a2ad-c22a4efbe113_XLIF7315GQ_mn.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/e7be35bb-1482-4378-a2d1-23f21a3402c6_XLIF7315GQ.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/7fe24937-1859-49f0-8cf3-42bad13f44b8_XLIF7315GQ_al2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/aff9e7f3-4487-4f95-959f-2520e758f6ce_XLIF7315GQ_al3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/3/2d8db04c-507b-4c3b-a46c-cd7f67ef36ec_XLIF7315GQ_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/3/a1e609e0-5a0a-4e67-aabf-044489aa431e_XLIF7315GQ_8.png"
+        ],
+        "images_v2": null,
+        "quantity": "80 gm",
+        "sku_quantity_with_combo": "80 gm",
+        "unit_of_measure": null,
+        "weight_in_grams": 80,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "NOICE Jeera Tea Biscuits (Zero Palm Oil Cookies)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "ZNWD2A9HLY",
+    "variations": [
+      {
+        "id": "BSJ1HGX3MM",
+        "display_name": "NOICE Jeera Tea Biscuits (Zero Palm Oil Cookies)",
+        "price_mrp": 60,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cookies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Jeera Tea Biscuits (Zero Palm Oil Cookies)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/30/0da1e9ef-e03d-4d2e-a988-5a4022a2d0b9_A39MPS92I6_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/a8247642-e307-4f25-a975-8132acb441f4_A39MPS92I6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/30/36fad396-3aca-4ebd-bfa6-e2a86c4e542a_A39MPS92I6_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/30/306519a3-868b-4573-ba11-adeb0072fc2b_A39MPS92I6_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/39a16115-c0bb-408c-8443-858de21c5280_A39MPS92I6_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/e8030c51-194f-4c23-a580-33d4e5183335_A39MPS92I6_8.png"
+        ],
+        "images_v2": null,
+        "quantity": "70 g",
+        "sku_quantity_with_combo": "70 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 70,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Open Secret Unjunked Chocolate Biscuit (No Maida, No Refined Sugar, No Palm Oil)",
+    "brand": "OPEN SECRET",
+    "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+    "product_id": "A6LG9EVLAP",
+    "variations": [
+      {
+        "id": "UI47AZNK09",
+        "display_name": "Open Secret Unjunked Chocolate Biscuit (No Maida, No Refined Sugar, No Palm Oil)",
+        "price_mrp": 90,
+        "brand": "OPEN SECRET",
+        "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+        "category": "Glucose and Regular Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Open Secret Unjunked Chocolate Biscuit (No Maida, No Refined Sugar, No Palm Oil)",
+        "images": [
+          "c81d1f855befa99a914185aa9e43c7c4"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "40 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 80,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "RLRQGY2HFC",
+        "display_name": "Open Secret Unjunked Chocolate Biscuit (No Maida, No Refined Sugar, No Palm Oil)",
+        "price_mrp": 45,
+        "brand": "OPEN SECRET",
+        "brand_id": "f4397b2761bb94049f9beeb98d318e549c76f85c",
+        "category": "Glucose and Regular Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Open Secret Chocolate Millet Biscuits | Zero Maida Heathy Snacks",
+        "images": [
+          "5f0db3a849b179b212f693f6d3c84160",
+          "d824b7f996f2069ce2721148f5726fae",
+          "dfda71fcdcf0be9ab27da128f63f9b7a",
+          "d0debd5841184c8c801ddaf42bf2b4e9"
+        ],
+        "images_v2": null,
+        "quantity": "40 g",
+        "sku_quantity_with_combo": "40 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 40,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "NOICE Jam Filled Biscuits (Zero Palm Oil Cookies)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "1N8N3MA262",
+    "variations": [
+      {
+        "id": "F3GXYKOJZZ",
+        "display_name": "NOICE Jam Filled Biscuits (Zero Palm Oil Cookies)",
+        "price_mrp": 99,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cream Biscuits",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Jam Filled Biscuits (Zero Palm Oil Cookies)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/25/0608e312-04f8-468b-9ad6-3cae9518950c_0VTYKL3RTX_mn.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/745704eb-4df4-4991-ab3f-8c81c87ebd04_0VTYKL3RTX.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/a4e862f9-97c5-489e-b945-d73d50e9c9cf_0VTYKL3RTX_al2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/7/23/f9d86824-3f27-4f34-9cf4-b0e20a9676be_0VTYKL3RTX_al3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/3/ec1cc2b2-cb90-4969-801f-9f35edff2ca0_0VTYKL3RTX_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/3/0791c485-6771-4456-acdd-354e21e4537e_0VTYKL3RTX_8.png"
+        ],
+        "images_v2": null,
+        "quantity": "100 g",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "NOICE Fresh Sponge Cake (Zero Palm oil)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "Y3RQYOMZLF",
+    "variations": [
+      {
+        "id": "64TCFDODY0",
+        "display_name": "NOICE Fresh Sponge Cake (Zero Palm oil)",
+        "price_mrp": 280,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Fresh Sponge Cake (Zero Palm oil)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/acf77a13-8cf8-4111-bd12-6d8324f5569d_4LI3LJFVAK_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/31/7514084a-7fcf-4fbf-9da8-755ac37ccbc7_4LI3LJFVAK_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/d6f8a51d-79cf-4638-8c48-4172ab150c78_4LI3LJFVAK_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/b4a3cabf-b665-4113-94d3-b032dab8ab89_4LI3LJFVAK_4.jpg"
+        ],
+        "images_v2": null,
+        "quantity": "4 combo",
+        "sku_quantity_with_combo": "90 g x 4",
+        "unit_of_measure": null,
+        "weight_in_grams": 360,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "BUCSAF1T57",
+        "display_name": "NOICE Fresh Sponge Cake (Zero Palm oil)",
+        "price_mrp": 140,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Fresh Sponge Cake (Zero Palm oil)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/acf77a13-8cf8-4111-bd12-6d8324f5569d_4LI3LJFVAK_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/31/7514084a-7fcf-4fbf-9da8-755ac37ccbc7_4LI3LJFVAK_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/d6f8a51d-79cf-4638-8c48-4172ab150c78_4LI3LJFVAK_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/b4a3cabf-b665-4113-94d3-b032dab8ab89_4LI3LJFVAK_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/8ce98f36-fdcd-4ead-a78a-e7f160d4b2ae_4LI3LJFVAK_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/080b91d3-7047-45cd-af2f-7faccb220691_4LI3LJFVAK_8.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 combo",
+        "sku_quantity_with_combo": "90 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 180,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "MAVM8I9I1T",
+        "display_name": "NOICE Fresh Sponge Cake (Zero Palm oil)",
+        "price_mrp": 70,
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Cakes and Pies",
+        "super_category": "Biscuits and Cakes",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Fresh Sponge Cake (Zero Palm oil)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/acf77a13-8cf8-4111-bd12-6d8324f5569d_4LI3LJFVAK_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/31/7514084a-7fcf-4fbf-9da8-755ac37ccbc7_4LI3LJFVAK_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/d6f8a51d-79cf-4638-8c48-4172ab150c78_4LI3LJFVAK_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/b4a3cabf-b665-4113-94d3-b032dab8ab89_4LI3LJFVAK_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/8ce98f36-fdcd-4ead-a78a-e7f160d4b2ae_4LI3LJFVAK_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/080b91d3-7047-45cd-af2f-7faccb220691_4LI3LJFVAK_8.png"
+        ],
+        "images_v2": null,
+        "quantity": "90 g",
+        "sku_quantity_with_combo": "90 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 90,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  }
+]

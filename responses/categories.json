@@ -1,0 +1,530 @@
+[
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/e9395c2f-a316-4899-8a05-c08afa34de5a_9ada60fa-2794-45d7-b780-50015de09230",
+    "description": "Fresh Vegetables",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Fresh Vegetables&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 1&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Fresh Vegetables",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 1"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/7e47a6e7-f40d-457f-9b46-fa23e3e015d6_3954cc97-e485-4725-b595-3a6e7029211f",
+    "description": "Fresh Fruits",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Fresh Fruits&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 1&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Fresh Fruits",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 1"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/a8042459-6e03-40b7-88e6-5d7acb437880_1f641338-2306-4841-97aa-cb65b497d132",
+    "description": "Dairy, Bread and Eggs",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Dairy, Bread and Eggs&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 1&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Dairy, Bread and Eggs",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 1"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/1f081643-e392-4585-a8e7-04ace4ace1ef_2e314d6c-ed11-49af-8927-e3eadde4dbad",
+    "description": "Cereals and Breakfast",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Cereals and Breakfast&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 1&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Cereals and Breakfast",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 1"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/fe25fe8b-a26f-49dc-af50-c748fff09475_165b10b8-00b7-4837-a27e-6399a3c99c29",
+    "description": "Atta, Rice and Dal",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Atta, Rice and Dal&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 1&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Atta, Rice and Dal",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 1"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/b5e07c24-ed2b-4101-a87d-aeed35b4e2e7_30d06ae8-5347-4961-8d68-02b189159321",
+    "description": "Oils and Ghee",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Oils and Ghee&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 1&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Oils and Ghee",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 1"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/5fb9f911-93e8-47d2-afd3-a9c876bbffe2_f00a60a1-de42-4132-808e-dc1136c27bac",
+    "description": "Masalas",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Masalas&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 1&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Masalas",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 1"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/49c9852b-967f-40ef-8ff1-6c28a4282c65_9dcb6679-51f7-45ae-a367-eb056a8713e2",
+    "description": "Dry Fruits and Seeds Mix",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Dry Fruits and Seeds Mix&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 1&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Dry Fruits and Seeds Mix",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 1"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/93e396cf-71df-4ed3-9015-af13fa3c9081_ccdcba8a-aa86-4ff9-9229-ed8f6c53cac0",
+    "description": "Biscuits and Cakes",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Biscuits and Cakes&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 1&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Biscuits and Cakes",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 1"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/c54610b9-868e-4fdd-83d5-4d723ee93261_d0ee1b6c-dd6a-45fc-8f99-929a56764014",
+    "description": "Tea, Coffee and Milk drinks",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Tea, Coffee and Milk drinks&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 1&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Tea, Coffee and Milk drinks",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 1"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/49f512f4-5613-45af-bbd4-2eaa13906240_a026b538-95c9-4060-8cd0-0f44e0c2742f",
+    "description": "Sauces and Spreads",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Sauces and Spreads&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 1&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Sauces and Spreads",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 1"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/774ad667-efe6-4145-ad58-3362632508fd_b8600286-4ff0-45bf-bfc6-45f4098cec35",
+    "description": "Meat and Seafood",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Meat and Seafood&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 1&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Meat and Seafood",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 1"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/ba386d44-a570-47cb-9b7d-9c02554b06ef_3977c023-7f0f-45f0-aea5-11bc873a5546",
+    "description": "Cold Drinks and Juices",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Cold Drinks and Juices&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 3&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Cold Drinks and Juices",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 3"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/4fe55f10-32b9-4762-8d41-be76ea7f67a8_cc703675-e18b-4331-9617-db8a881f0ab2",
+    "description": "Ice Creams and Frozen Desserts",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Ice Creams and Frozen Desserts&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 3&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Ice Creams and Frozen Desserts",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 3"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/70be19a4-dc51-4ab3-969b-65736cd2cdf6_c0031c9c-5f6e-422c-a84b-1428e1787d28",
+    "description": "Chips and Namkeens",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Chips and Namkeens&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 3&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Chips and Namkeens",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 3"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/a5c36315-21b0-4dd9-8afc-80210e95df0c_77305056-9bb7-47a4-822d-6ee188bd00f6",
+    "description": "Chocolates",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Chocolates&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 3&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Chocolates",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 3"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/da9542e9-0c6b-4fc3-bd65-422ab537a4aa_ac5adc39-bf55-492f-94d4-1c0ac65dea46",
+    "description": "Noodles, Pasta, Vermicelli",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Noodles, Pasta, Vermicelli&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 3&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Noodles, Pasta, Vermicelli",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 3"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/7e355480-0793-4ac0-a0d7-ca7236109bf7_6bf77c55-7d76-4a96-ab88-9d0690dbd822",
+    "description": "Frozen Food",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Frozen Food&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 3&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Frozen Food",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 3"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/f028cb2e-9593-48c0-95c5-86af909d7198_5ef3e945-a61d-4487-a50f-f5e341b1eee4",
+    "description": "Sweets",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Sweets&storeId=1313712&offset=0&filterName=&taxonomyType=Speciality taxonomy 3&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Sweets",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Speciality taxonomy 3"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/9cd93ba2-f843-4b57-9c08-56b9a78bcd50_b45772ad-2905-4b44-9c02-fbcbe43bc67a",
+    "description": "Paan Corner",
+    "link": "swiggy://ageConsent?url=swiggy%3A%2F%2Fstores%2Finstamart%2Fcategory-listing%3FcategoryName%3DPaan+Corner%26storeId%3D1313712%26offset%3D0%26filterName%3D%26taxonomyType%3DSpeciality+taxonomy+3%26showAgeConsent%3Dtrue",
+    "link_params": {
+      "categoryName": null,
+      "storeId": null,
+      "offset": null,
+      "filterName": null,
+      "taxonomyType": null
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/062ce6fe-c90e-4017-831b-c931f11b2c24_c5520d03-1113-4832-a1ed-a119cdfa2902",
+    "description": "Bath and Body",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Bath and Body&storeId=1313712&offset=0&filterName=&taxonomyType=Supermarket&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Bath and Body",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Supermarket"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/7dd2200a-cb1c-41d9-b1e8-46f38473553c_159a7f53-ba98-4d60-850a-4c6190902c57",
+    "description": "Hair Care",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Hair Care&storeId=1313712&offset=0&filterName=&taxonomyType=Supermarket&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Hair Care",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Supermarket"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/742eda61-6595-416f-9053-a22333a0ff94_2bbb3337-9f69-4f9d-ae1b-b306e3e53e86",
+    "description": "Skincare",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Skincare&storeId=1313712&offset=0&filterName=&taxonomyType=Supermarket&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Skincare",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Supermarket"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/693e91dc-ce1a-4dee-9646-ee3b90eabff7_5faab24b-46ab-41f7-ae12-4d29c6dedb76",
+    "description": "Makeup",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Makeup&storeId=1313712&offset=0&filterName=&taxonomyType=Supermarket&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Makeup",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Supermarket"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/9fcdb58a-f84e-4a63-94dd-2d85dc0288c2_a326cf61-577b-44c5-a296-1c9f4898df40",
+    "description": "Oral Care",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Oral Care&storeId=1313712&offset=0&filterName=&taxonomyType=Supermarket&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Oral Care",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Supermarket"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/ac9c2e1b-1791-40ec-bd2f-b0036a737f34_9a79e7e7-799e-4d9b-b043-c6a2e8fe76cb",
+    "description": "Grooming",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Grooming&storeId=1313712&offset=0&filterName=&taxonomyType=Supermarket&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Grooming",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Supermarket"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/ed3380cf-9912-4eb9-9127-3745d77973eb_a6944c2b-75b9-44f2-9697-517615d7af62",
+    "description": "Baby Care",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Baby Care&storeId=1313712&offset=0&filterName=&taxonomyType=Supermarket&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Baby Care",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Supermarket"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/2840ac14-2e8d-4424-841b-0a3625359b29_ce126c72-564e-40b2-9ee3-925f7ad0d037",
+    "description": "Fragrances",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Fragrances&storeId=1313712&offset=0&filterName=&taxonomyType=Supermarket&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Fragrances",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Supermarket"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/b86a895c-e4e8-4653-bda9-633e953e64fc_34e3a030-9ae0-4be4-bf29-664dbe9416a7",
+    "description": "Protein and Supplements",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Protein and Supplements&storeId=1313712&offset=0&filterName=&taxonomyType=Supermarket&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Protein and Supplements",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Supermarket"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/408f229e-01c6-4afd-929b-0ace3ccd8bc4_70ce3354-bfd7-4b03-9972-238d77503f24",
+    "description": "Feminine Hygiene",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Feminine Hygiene&storeId=1313712&offset=0&filterName=&taxonomyType=Supermarket&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Feminine Hygiene",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Supermarket"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/dd818ead-6ea9-4c81-a133-2e1a446a98a3_9c80e128-d615-42a0-b7d7-70ac0687408e",
+    "description": "Sexual Wellness",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Sexual Wellness&storeId=1313712&offset=0&filterName=&taxonomyType=Supermarket&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Sexual Wellness",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Supermarket"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/a234c550-ec96-4130-a7ed-ae067ac82e33_d7161c27-69fd-405a-a691-8d01d9ddb375",
+    "description": "Health and Pharma",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Health and Pharma&storeId=1313712&offset=0&filterName=&taxonomyType=Supermarket&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Health and Pharma",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Supermarket"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/c34ad44b-5b83-4b51-a254-f472c175fd4e_4a8b97f3-6a60-4404-a0ec-93eb72db73e1",
+    "description": "Home and Furnishing",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Home and Furnishing&storeId=1313712&offset=0&filterName=&taxonomyType=Health and Wellness Stores&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Home and Furnishing",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Health and Wellness Stores"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/c416dbf8-210d-480e-94ca-805ddb720a77_925991fe-2da3-49b0-b0d1-3d29a07174d2",
+    "description": "Kitchen and Dining",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Kitchen and Dining&storeId=1313712&offset=0&filterName=&taxonomyType=Health and Wellness Stores&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Kitchen and Dining",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Health and Wellness Stores"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/6976d426-ca5f-4071-8ae2-ab684888645a_e83f0668-cdd1-40f7-950c-11f51b43f351",
+    "description": "Cleaning Essentials",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Cleaning Essentials&storeId=1313712&offset=0&filterName=&taxonomyType=Health and Wellness Stores&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Cleaning Essentials",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Health and Wellness Stores"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/11bdd409-0389-4572-9d4b-06d3235c7aaf_7434539d-4963-49d6-8234-3a85d1d7ec76",
+    "description": "Clothing",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Clothing&storeId=1313712&offset=0&filterName=&taxonomyType=Health and Wellness Stores&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Clothing",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Health and Wellness Stores"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/dd815b3d-ce43-454a-aef0-846a8fca399c_4ce8b093-a81e-484b-a35c-6ca079145ac8",
+    "description": "Mobiles and Electronics ",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Mobiles and Electronics &storeId=1313712&offset=0&filterName=&taxonomyType=Health and Wellness Stores&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Mobiles and Electronics ",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Health and Wellness Stores"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/ae055b85-221c-42dc-87cb-efae5e048e9a_8f020cc6-fea1-4a9c-9235-7cec4b0206b2",
+    "description": "Appliances",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Appliances&storeId=1313712&offset=0&filterName=&taxonomyType=Health and Wellness Stores&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Appliances",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Health and Wellness Stores"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/fa971c1e-4344-41a4-85e5-10d921df0818_13beb56f-0d66-403d-839f-eb63fdf25a83",
+    "description": "Books and Stationery",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Books and Stationery&storeId=1313712&offset=0&filterName=&taxonomyType=Health and Wellness Stores&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Books and Stationery",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Health and Wellness Stores"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/1e2fd208-7180-46bc-954f-db70777eba12_556f0a21-db31-41f3-bcc0-c48a33e1afd6",
+    "description": "Jewellery and Accessories",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Jewellery and Accessories&storeId=1313712&offset=0&filterName=&taxonomyType=Health and Wellness Stores&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Jewellery and Accessories",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Health and Wellness Stores"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/3accc5d4-38b2-4487-b3b5-5891bf4806ea_a9c87ee0-3dbb-4cb3-9ee2-a4b421823f45",
+    "description": "Puja",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Puja&storeId=1313712&offset=0&filterName=&taxonomyType=Health and Wellness Stores&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Puja",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Health and Wellness Stores"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/26e9ad5c-4299-42a1-8536-c72dfdf419c0_be8dbebf-8cff-4118-9e81-6085959c39b0",
+    "description": "Toys and Games",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Toys and Games&storeId=1313712&offset=0&filterName=&taxonomyType=Health and Wellness Stores&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Toys and Games",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Health and Wellness Stores"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/65126402-7605-4caf-974e-4acc8514fb41_6660a2f1-7912-4432-b9dd-90a23fa99b6b",
+    "description": "Sports and Fitness",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Sports and Fitness&storeId=1313712&offset=0&filterName=&taxonomyType=Health and Wellness Stores&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Sports and Fitness",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Health and Wellness Stores"
+    }
+  },
+  {
+    "imageId": "NI_CATALOG/IMAGES/CIW/2025/7/15/f00fffd7-11da-402f-bf95-17b07b8c0fda_5745df60-e848-427e-af64-abb9a91d6949",
+    "description": "Pet Supplies",
+    "link": "swiggy://stores/instamart/category-listing?categoryName=Pet Supplies&storeId=1313712&offset=0&filterName=&taxonomyType=Health and Wellness Stores&showAgeConsent=false",
+    "link_params": {
+      "categoryName": "Pet Supplies",
+      "storeId": "1313712",
+      "offset": "0",
+      "filterName": null,
+      "taxonomyType": "Health and Wellness Stores"
+    }
+  }
+]

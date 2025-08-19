@@ -1,0 +1,3284 @@
+[
+  {
+    "display_name": "Sweet Lime (Mosambi)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "H7XVS3WSFO",
+    "variations": [
+      {
+        "id": "C4V2UVAZFS",
+        "display_name": "Sweet Lime (Mosambi)",
+        "price_mrp": 31,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Sweet Lime",
+        "sub_category_l4": "Mosambi",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Sweet Lime (Mosambi)",
+        "images": [
+          "d97d16a1814f90ef92f6cb814bc8a330",
+          "ca9124aa344fdc269ae13d8aa56158d5",
+          "31d47e98292ac1235367f9d449276612"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "UFRS6GIJDN",
+        "display_name": "Sweet Lime (Mosambi)",
+        "price_mrp": 62,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Sweet Lime",
+        "sub_category_l4": "Mosambi",
+        "sub_category_l5": "Virtual Combo",
+        "product_name_without_brand": "Sweet Lime (Mosambi)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/d77c4270-71e4-41f3-9cdf-b462372d7015_297567.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "500 g x 2",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Premium Sweet Lime (Mosambi)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "5ZHRF1MPZ1",
+    "variations": [
+      {
+        "id": "UGAD2GBZBF",
+        "display_name": "Premium Sweet Lime (Mosambi)",
+        "price_mrp": 36,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Sweet Lime",
+        "sub_category_l4": "Mosambi",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Premium Sweet Lime (Mosambi)",
+        "images": [
+          "a2394b5d4842415d27230ceee6dc5d04",
+          "2f71d4386d97fcfdb4c50c2c7449f5cb",
+          "e73bf59dda3b79b2f6080ecf50eb84a8"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Banana Hill",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "Y3OZ76EN14",
+    "variations": [
+      {
+        "id": "I804SZBV5U",
+        "display_name": "Banana Hill",
+        "price_mrp": 36,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Banana",
+        "sub_category_l4": "Banana Hill",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Banana Hill",
+        "images": [
+          "6601f3ba32c461af924da15da20cc557"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Guava (Seebe Hannu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "NIRO6Q3U17",
+    "variations": [
+      {
+        "id": "58GIKC0L5P",
+        "display_name": "Guava (Seebe Hannu)",
+        "price_mrp": 61,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Guava",
+        "sub_category_l4": "Indian Guava",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Guava (Seebe Hannu)",
+        "images": [
+          "2f96b7c02a4e8ed3062e6287992d01d4",
+          "e25752e7da31b3040e8815a5ad7f2df5"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Custard Apple (Sitaphal)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "S61AWRYUQX",
+    "variations": [
+      {
+        "id": "GWRJ8BZHD0",
+        "display_name": "Custard Apple (Sitaphal)",
+        "price_mrp": 111,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Custard Apple",
+        "sub_category_l4": "Fruit",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Custard Apple (Sitaphal)",
+        "images": [
+          "10ff81231eb8cc7fdcaf982e7b8bf075",
+          "3c668ff72f51b1201e5ab132893852c7"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "2 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Rambhutan",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "BWSF8ZKK3Y",
+    "variations": [
+      {
+        "id": "QAHCDYC3S8",
+        "display_name": "Rambhutan",
+        "price_mrp": 148,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Rambhutan",
+        "sub_category_l4": "Exotics",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Rambhutan",
+        "images": [
+          "4d16a73d09298c34d08c6df59b2d309d"
+        ],
+        "images_v2": [],
+        "quantity": "300",
+        "sku_quantity_with_combo": "150 g x 2",
+        "unit_of_measure": "g",
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "QO2NKM7O9Q",
+        "display_name": "Rambhutan",
+        "price_mrp": 74,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Rambhutan",
+        "sub_category_l4": "Exotics",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Rambhutan",
+        "images": [
+          "4d16a73d09298c34d08c6df59b2d309d",
+          "e61497d78ce68e67f027773b65827a9a",
+          "0fdb8bed4651516e39a5a1e42d460cfc",
+          "5d6d8ad512f20468eeb3699c0e422409"
+        ],
+        "images_v2": [],
+        "quantity": "150",
+        "sku_quantity_with_combo": "150 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Kiran Watermelon (Kallangadi)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "LBYG20V3WS",
+    "variations": [
+      {
+        "id": "QFZ9L73JPB",
+        "display_name": "Kiran Watermelon (Kallangadi)",
+        "price_mrp": 111,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Watermelon",
+        "sub_category_l4": "Kiran Watermelon",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Kiran Watermelon (Kallangadi)",
+        "images": [
+          "6c508995bf8266ef8c46237ec2f61832",
+          "2948b09569d1b65ad0c6f087ff767fa6"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Medium",
+        "unit_of_measure": "Medium",
+        "weight_in_grams": 2500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "SXVC4XMWWQ",
+        "display_name": "Kiran Watermelon (Kallangadi)",
+        "price_mrp": 136,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Watermelon",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Kiran Watermelon (Kallangadi)",
+        "images": [
+          "6eefe4d7e61e17860c9a23e836ee63ac",
+          "6866b8631d513b178788c166b0bf45ad"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Large",
+        "unit_of_measure": "Large",
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Beauty Green Pear (Mara Sebu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "3TA5QPWH1O",
+    "variations": [
+      {
+        "id": "1OJ7LKA411",
+        "display_name": "Beauty Green Pear (Mara Sebu)",
+        "price_mrp": 174,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Pear",
+        "sub_category_l4": "Green Pear",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Beauty Green Pear (Mara Sebu)",
+        "images": [
+          "3bceaf914162272c494255dcbd65ed83",
+          "e7e744f358a44d79feae7614d5d3f944",
+          "1d3417db2a91b410fa84acc681bd7806"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "2 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 20,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Royal Gala Apple (Sebu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "X7L4VSY9CN",
+    "variations": [
+      {
+        "id": "9QWR5JO54N",
+        "display_name": "Royal Gala Apple (Sebu)",
+        "price_mrp": 348,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Apple",
+        "sub_category_l4": "Royal Gala Apple",
+        "sub_category_l5": "Virtual Combo",
+        "product_name_without_brand": "Royal Gala Apple (Sebu)",
+        "images": [
+          "de78801d2d93be1f3f2c90f51c151121",
+          "d25d71759c96efbd8c9410e3fb04b241",
+          "79ed64f83c336bb7b7c78f7e2a5dd374"
+        ],
+        "images_v2": [],
+        "quantity": "4",
+        "sku_quantity_with_combo": "2 pieces x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 640,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "3P97JKW76H",
+        "display_name": "Royal Gala Apple (Sebu)",
+        "price_mrp": 174,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Apple",
+        "sub_category_l4": "Royal Gala Apple",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Royal Gala Apple (Sebu)",
+        "images": [
+          "53abc4b79446572e9c7a0eb090890cb6",
+          "4509a82675818a7fbf4331456fe78cc4",
+          "fc0521206ea0ed3c550f4d9a729644ec"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "2 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 320,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Washington Apple (Sebu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "ZPTR2AKYGC",
+    "variations": [
+      {
+        "id": "PO8FMN5I02",
+        "display_name": "Washington Apple (Sebu)",
+        "price_mrp": 174,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Apple",
+        "sub_category_l4": "Washington Apple",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Washington Apple (Sebu)",
+        "images": [
+          "31c424f34cd612916b3049c29b9cf1ab",
+          "dd92afcef6905b518a39d86bbac643a0",
+          "4135acfa39ea4a80e86d7695c672b925"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "2 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 360,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Red Globe Grapes (Dhraakshi)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "APUBQEYX8M",
+    "variations": [
+      {
+        "id": "FQDD8PWZ5Q",
+        "display_name": "Red Globe Grapes (Dhraakshi)",
+        "price_mrp": 86,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Grapes",
+        "sub_category_l4": "Exotics",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Red Globe Grapes (Dhraakshi)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/b05e45cc-c58f-43b6-8b05-c86f16fe133a_10663_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/3d8adde4-da49-494f-97cb-91f17f00f523_10663_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/40a9c47f-ee22-4fe2-ad94-20c6b7d67c5a_10663_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/0d8d68db-62e1-4286-ad29-5c8c3671acd7_10663_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Imported Red Globe Grapes (Dhraakshi)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "OHLFU8GV7P",
+    "variations": [
+      {
+        "id": "TYIFRJ5J79",
+        "display_name": "Imported Red Globe Grapes (Dhraakshi)",
+        "price_mrp": 124,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Grapes",
+        "sub_category_l4": "Exotics",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Imported Red Globe Grapes (Dhraakshi)",
+        "images": [
+          "b18f21a82a3fea0279c1b7f2692c9b32",
+          "e7b183391a0cdcad81c016f751b82f05",
+          "9a9e6b32defd150c44634accaaebc0cb"
+        ],
+        "images_v2": [],
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "filters_tag": "Exotics"
+      }
+    ]
+  },
+  {
+    "display_name": "Papaya (Parangi Hannu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "X6SSJHKVRS",
+    "variations": [
+      {
+        "id": "FAQPLPP911",
+        "display_name": "Papaya",
+        "price_mrp": 86,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Papaya",
+        "sub_category_l4": "Lady Red Papaya",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Papaya",
+        "images": [
+          "ecfd9c641fce9ed4d1f765e3e92439a1",
+          "7adb63cdc32d32fa8fff9aae12c9b397"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Large",
+        "unit_of_measure": "Large",
+        "weight_in_grams": 1800,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "253T39K1AV",
+        "display_name": "Papaya (Parangi Hannu)",
+        "price_mrp": 74,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Papaya",
+        "sub_category_l4": "Lady Red Papaya",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Papaya (Parangi Hannu)",
+        "images": [
+          "6df726d012d112bf79fbe258cf0550be",
+          "f2809b3126086a83c90962bbf70efb0c"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Medium",
+        "unit_of_measure": "Medium",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "G5MSDZZ8AR",
+        "display_name": "Papaya (Parangi Hannu)",
+        "price_mrp": 64,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Papaya",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Papaya (Parangi Hannu)",
+        "images": [
+          "e81f1fcdbb341f1cb0747b82593eb5f0",
+          "2cb3db9edc1ab2eb5c03c49bfe363382",
+          "9a79dd460b87328e5329370d5873e586"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Small",
+        "unit_of_measure": "Small",
+        "weight_in_grams": 600,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Superplum Premium Plum",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "X20VGKKZCV",
+    "variations": [
+      {
+        "id": "0F324Z48XU",
+        "display_name": "Superplum Premium Plum",
+        "price_mrp": 89,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Plum",
+        "sub_category_l4": "Exotics",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Superplum Premium Plum",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/bf1ded7a-32cd-4ab9-a523-f70c9ca78388_859313_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/bf76000c-71e0-44b4-bb4a-28dce2d79e56_859313_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/3f20e1f6-ef9f-4e14-9ae3-319be75a8af8_859313_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/33efd291-3c84-475d-847b-083f1bc7e065_859313_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Imported Plum",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "4VIWA2UA00",
+    "variations": [
+      {
+        "id": "YQBW262T1K",
+        "display_name": "Imported Plum",
+        "price_mrp": 111,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Plum",
+        "sub_category_l4": "Exotics",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Imported Plum",
+        "images": [
+          "f3e722b48e4f698ca5235c56a1a0ee81",
+          "9a50f4d7fb617eb0a1d7ea05bb4650d2",
+          "17f025ccc707f2e21ea0e24a530a5d1e"
+        ],
+        "images_v2": [],
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "filters_tag": "Exotics"
+      }
+    ]
+  },
+  {
+    "display_name": "Baby Green Kiwi",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "NZA3JK1I74",
+    "variations": [
+      {
+        "id": "O9NQTGAQC7",
+        "display_name": "Baby Green Kiwi",
+        "price_mrp": 124,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Kiwi",
+        "sub_category_l4": "Exotics",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Baby Green Kiwi",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/88eefe18-107b-4200-8d4b-1178c3a446b6_11559_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/fc783d5e-8960-4828-bfd5-5dda1711e16a_11559_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/65fd8365-5ccc-4734-b3a7-547a76bf0e97_11559_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/305deece-2321-4ff5-9eb6-0569ec50ef96_11559_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "4",
+        "sku_quantity_with_combo": "4 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 4,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Green Kiwi",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "4CIAR6GSG0",
+    "variations": [
+      {
+        "id": "86NCOHBPXJ",
+        "display_name": "Green Kiwi",
+        "price_mrp": 156,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Kiwi",
+        "sub_category_l4": "Exotics",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Green Kiwi",
+        "images": [
+          "e22a43ef919527925bb20ab08a9e56f1",
+          "961904c19b2d85708c234827402ade30",
+          "93f040a3d5601537c7d1da690d33fa83"
+        ],
+        "images_v2": [],
+        "quantity": "3",
+        "sku_quantity_with_combo": "3 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 360,
+        "volumetric_weight": 0,
+        "filters_tag": "Exotics"
+      }
+    ]
+  },
+  {
+    "display_name": "Zespri Kiwi Sun Gold",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "EWC0CC46AQ",
+    "variations": [
+      {
+        "id": "AOJDDY0QOV",
+        "display_name": "Zespri Kiwi Sun Gold",
+        "price_mrp": 149,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Kiwi",
+        "sub_category_l4": "Exotics",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Zespri Kiwi Sun Gold",
+        "images": [
+          "08e000bcbee5c93aa3c341c8dfccfb76",
+          "0621a278ae93c218e204201d0b5c11b8",
+          "09fbd83db995881c6f906aced89db06c"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "2 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 20,
+        "volumetric_weight": 0,
+        "filters_tag": "Exotics"
+      }
+    ]
+  },
+  {
+    "display_name": "Tender Coconut (Elaneer)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "4RL2JFCWQG",
+    "variations": [
+      {
+        "id": "4LU7D2ITYP",
+        "display_name": "Tender coconut",
+        "price_mrp": 270,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Tender Coconut",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Virtual Combo",
+        "product_name_without_brand": "Tender coconut",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/10/eafdfc16-c064-41bb-95c6-10606b6fca4f_357325_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/10/02aba20a-0d19-4053-988a-f5ddc33fac7d_357325_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/10/6b299fa5-8f3d-4a32-862f-fe2be4f5359d_357325_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "3",
+        "sku_quantity_with_combo": "1 Piece x 3",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 6600,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "ARYG4G2BUB",
+        "display_name": "Tender Coconut (Elaneer)",
+        "price_mrp": 90,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Tender Coconut",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Tender Coconut (Elaneer)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/10/eafdfc16-c064-41bb-95c6-10606b6fca4f_357325_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/10/02aba20a-0d19-4053-988a-f5ddc33fac7d_357325_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/10/6b299fa5-8f3d-4a32-862f-fe2be4f5359d_357325_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 2200,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Red Tender Coconut (Unchopped)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "825VR91BW8",
+    "variations": [
+      {
+        "id": "IA9DVTAS2Y",
+        "display_name": "Red Tender Coconut",
+        "price_mrp": 297,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Tender Coconut",
+        "sub_category_l4": "Red Tender Coconut",
+        "sub_category_l5": "Virtual Combo",
+        "product_name_without_brand": "Red Tender Coconut",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/19/116f097a-25db-480b-bce6-4b1c09a69f51_416755.png"
+        ],
+        "images_v2": [],
+        "quantity": "3",
+        "sku_quantity_with_combo": "1 Piece x 3",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 6600,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "NU9X66CHKA",
+        "display_name": "Red Tender Coconut (Unchopped)",
+        "price_mrp": 99,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Tender Coconut",
+        "sub_category_l4": "Red Tender Coconut",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Red Tender Coconut (Unchopped)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/0b9236b9-ef39-44d8-bb03-0a85ffd5c834_28362_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/50a3f86d-3f97-41db-8138-c84cb9032bc7_28362_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/7b9a00d1-a804-46c8-8b3e-0d3baca6e259_28362_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/bcb6bc16-9738-4e3e-a64a-db08f4367c08_28362_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 2200,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Imported Avocado - Tanzania",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "DL60HRDWIA",
+    "variations": [
+      {
+        "id": "HDI0PZN3KQ",
+        "display_name": "Imported Avocado - Tanzania",
+        "price_mrp": 318,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Avocado",
+        "sub_category_l4": "Exotics",
+        "sub_category_l5": "Virtual Combo",
+        "product_name_without_brand": "Imported Avocado - Tanzania",
+        "images": [
+          "a3ef06754fdcc3dc002f6898a06498c5",
+          "f48c8d6614fe498f275125b5d1b7c5e9",
+          "52a2fde325d0f29ab75c747d5e3c1e59"
+        ],
+        "images_v2": [],
+        "quantity": "3",
+        "sku_quantity_with_combo": "1 Piece x 3",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 540,
+        "volumetric_weight": 0,
+        "filters_tag": "Exotics"
+      },
+      {
+        "id": "4LNJM398OP",
+        "display_name": "Imported Avocado - Tanzania",
+        "price_mrp": 212,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Avocado",
+        "sub_category_l4": "Exotics",
+        "sub_category_l5": "Virtual Combo",
+        "product_name_without_brand": "Imported Avocado - Tanzania",
+        "images": [
+          "a3ef06754fdcc3dc002f6898a06498c5",
+          "f48c8d6614fe498f275125b5d1b7c5e9",
+          "52a2fde325d0f29ab75c747d5e3c1e59"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "1 Piece x 2",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 360,
+        "volumetric_weight": 0,
+        "filters_tag": "Exotics"
+      },
+      {
+        "id": "370GMJ80PF",
+        "display_name": "Imported Avocado - Tanzania",
+        "price_mrp": 106,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Avocado",
+        "sub_category_l4": "Exotics",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Imported Avocado - Tanzania",
+        "images": [
+          "a3ef06754fdcc3dc002f6898a06498c5",
+          "f48c8d6614fe498f275125b5d1b7c5e9",
+          "52a2fde325d0f29ab75c747d5e3c1e59"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 180,
+        "volumetric_weight": 0,
+        "filters_tag": "Exotics"
+      }
+    ]
+  },
+  {
+    "display_name": "Indian Avocado",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "2PCB4JVUEN",
+    "variations": [
+      {
+        "id": "V304NQ1L33",
+        "display_name": "Indian Avocado",
+        "price_mrp": 86,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Avocado",
+        "sub_category_l4": "Exotics",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Indian Avocado",
+        "images": [
+          "412ce66a17a2a59e07e701b4b1d984f4",
+          "e6d2d06bf2446601d46a659f91afe720",
+          "99ad7d41835d83da5724400aac3b2bdd"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "filters_tag": "Exotics"
+      }
+    ]
+  },
+  {
+    "display_name": "Fresh Figs",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "LUCUWKB4L7",
+    "variations": [
+      {
+        "id": "3RLLNRYVPM",
+        "display_name": "Fresh Figs",
+        "price_mrp": 86,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Figs",
+        "sub_category_l4": "Exotics",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Fresh Figs",
+        "images": [
+          "684bda682c55821b492eb1fa1f55f5f7",
+          "75101918613bc945b5968a7e556d9d49",
+          "78f073d921ba6366afc722d8068613f4"
+        ],
+        "images_v2": [],
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "filters_tag": "Exotics"
+      }
+    ]
+  },
+  {
+    "display_name": "Semi ripe Chikoo",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "QM6TKWBHJ9",
+    "variations": [
+      {
+        "id": "RLVNKCSUZP",
+        "display_name": "Semi ripe Chikoo",
+        "price_mrp": 111,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Chikoo",
+        "sub_category_l4": "Sapota",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Semi ripe Chikoo",
+        "images": [
+          "640a2b2e5d2b553d4c94336f6e802154",
+          "f23d2b70cd0009cd8a23daff99775c9e"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Ooty Strawberry",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "NZR66BLE4M",
+    "variations": [
+      {
+        "id": "9CF22W3YIA",
+        "display_name": "Ooty Strawberry",
+        "price_mrp": 249,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Strawberry",
+        "sub_category_l4": "Exotics",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Ooty Strawberry",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/b5a4ccb3-435d-442d-b301-67568dc23149_515988_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/381f8dcb-5f95-483b-a489-b44a6b769689_515988_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/13989fe8-fc1c-4376-9b10-761d022eabfe_515988_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/65589cd2-ab33-44a9-a707-a4610aaef639_515988_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Gooseberry (Nellikaayi)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "CLNT4XC1NX",
+    "variations": [
+      {
+        "id": "5MZ8KN1ZH1",
+        "display_name": "Gooseberry (Nellikaayi)",
+        "price_mrp": 92,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Gooseberry",
+        "sub_category_l4": "Amla",
+        "sub_category_l5": "Virtual Combo",
+        "product_name_without_brand": "Gooseberry (Nellikaayi)",
+        "images": [
+          "3def22e04c8a0d9374f1cd2d716e4768",
+          "48bbd4c7b4e12d61d512e31b8958e2e0",
+          "d4c0d72d9af95d49164d5466d85d8cf8"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "250 g x 2",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "JPAKZ4HNX2",
+        "display_name": "Gooseberry (Nellikaayi)",
+        "price_mrp": 46,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Gooseberry",
+        "sub_category_l4": "Amla",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Gooseberry (Nellikaayi)",
+        "images": [
+          "95f15521bbaad2d632a40f8f5d8120cb",
+          "48bbd4c7b4e12d61d512e31b8958e2e0",
+          "d4c0d72d9af95d49164d5466d85d8cf8"
+        ],
+        "images_v2": [],
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Snacky Indian Apples",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "XU3WG7463P",
+    "variations": [
+      {
+        "id": "R6VSML00L6",
+        "display_name": "Snacky Indian Apples",
+        "price_mrp": 447,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Snacky Indian Apples",
+        "images": [
+          "73c0fb40ec34e13611f312c80f5da1c7",
+          "aa738defa19e2147c3fcb11f473ac752"
+        ],
+        "images_v2": null,
+        "quantity": "1.5 kg",
+        "sku_quantity_with_combo": "500 g x 3",
+        "unit_of_measure": null,
+        "weight_in_grams": 1500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "KQ17S750BM",
+        "display_name": "Snacky Indian Apples",
+        "price_mrp": 298,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Snacky Indian Apples (Sebu)",
+        "images": [
+          "73c0fb40ec34e13611f312c80f5da1c7",
+          "aa738defa19e2147c3fcb11f473ac752",
+          "1877969e2c373e75b022bdcf1ea5e4ac"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "500 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "2XPKT5364A",
+        "display_name": "Snacky Indian Apples",
+        "price_mrp": 149,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Snacky Indian Apples",
+        "images": [
+          "664a61817cca53acc3beaeef3dac941e",
+          "aa738defa19e2147c3fcb11f473ac752",
+          "1877969e2c373e75b022bdcf1ea5e4ac"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Baby Banana (Baalehannu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "IU4NHXNSDS",
+    "variations": [
+      {
+        "id": "KIXTWJRCCS",
+        "display_name": "Baby Banana (Baalehannu)",
+        "price_mrp": 31,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Baby Banana (Baalehannu)",
+        "images": [
+          "959f3368e153e4cf3475e41318b33f8b",
+          "3e4e1c9d5477e13f7e0d30fb2ee9104e"
+        ],
+        "images_v2": null,
+        "quantity": "4 pieces",
+        "sku_quantity_with_combo": "4 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 4,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Crunchy Shimla Apple",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "XC3J58DTKQ",
+    "variations": [
+      {
+        "id": "69WZHPTBSO",
+        "display_name": "Crunchy Shimla Apple",
+        "price_mrp": 198,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Crunchy Shimla Apple (Sebu)",
+        "images": [
+          "5aef105ccb28ea0a37ac01cc0c6db21b",
+          "1547cb6c2f07aadeb45aed388f5dfd92"
+        ],
+        "images_v2": null,
+        "quantity": "4 pieces",
+        "sku_quantity_with_combo": "2 pieces x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 40,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "K7MKB85IGS",
+        "display_name": "Crunchy Shimla Apple",
+        "price_mrp": 99,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Crunchy Shimla Apple",
+        "images": [
+          "375d95d5a658b14866e1c586a22f3e6b",
+          "1547cb6c2f07aadeb45aed388f5dfd92"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "2 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 20,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "PL0H91FMX6",
+        "display_name": "Crunchy Shimla Apple",
+        "price_mrp": 161,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Crunchy Shimla Apple (Sebu)",
+        "images": [
+          "9af0e8fa2228ac089af0818f18d37071"
+        ],
+        "images_v2": null,
+        "quantity": "4 pieces",
+        "sku_quantity_with_combo": "4 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 4,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Tender Coconut with Malai",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "3OUICG35IE",
+    "variations": [
+      {
+        "id": "HDS0WWN4MQ",
+        "display_name": "Tender Coconut with Malai",
+        "price_mrp": 123,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Tender Coconut with Malai",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/10/025d6833-676b-4d2e-9e20-706501435065_63280_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/10/d7e9bc33-6cb5-4738-8347-a84c78df76e4_63280_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/10/9ce30d8b-ab8b-4b28-ae79-eaf469d5560d_63280_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Red Banana (Kempu Baalehannu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "NPG2OOUDD4",
+    "variations": [
+      {
+        "id": "F1A6H1AN7S",
+        "display_name": "Red Banana (Kempu Baalehannu)",
+        "price_mrp": 61,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Red Banana (Kempu Baalehannu)",
+        "images": [
+          "cc9d26d328e7fd064ac6f79beb5bb75f",
+          "60994d5b3895bb0142bc5e95d7b37acd",
+          "e51cec27500b91bdccec16535db43e29"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Imported Daily Apple",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "S10HQYDTR6",
+    "variations": [
+      {
+        "id": "7IIPJQBLFH",
+        "display_name": "Imported Daily Apple",
+        "price_mrp": 228,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Imported Daily Apple",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/21/a9c3a8fc-884b-4a11-b166-38c1f6ac7929_35103.png",
+          "490dbe43fe4df38bb39ce60e39985d41",
+          "56acdbd10e5c0b1fa9f9ce8e36fa602a"
+        ],
+        "images_v2": null,
+        "quantity": "8 pieces",
+        "sku_quantity_with_combo": "2 pieces x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 40,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "SS6U0OAAPJ",
+        "display_name": "Imported Daily Apple",
+        "price_mrp": 114,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Imported Daily Apple (Sebu)",
+        "images": [
+          "8631423fdda91d968a3889a37cc1fc8c",
+          "490dbe43fe4df38bb39ce60e39985d41",
+          "56acdbd10e5c0b1fa9f9ce8e36fa602a"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "2 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 20,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Daily Pomegranate",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "P45DGM8MTR",
+    "variations": [
+      {
+        "id": "D39C0BY2ZF",
+        "display_name": "Daily Pomegranate",
+        "price_mrp": 348,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Pomegranate",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/27512bfc-250b-49cf-8b2a-880b48c82eca_500963.png"
+        ],
+        "images_v2": null,
+        "quantity": "6 pieces",
+        "sku_quantity_with_combo": "3 pieces x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 6,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "U4NOML44Q4",
+        "display_name": "Daily Pomegranate",
+        "price_mrp": 174,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Daily Pomegranate",
+        "images": [
+          "c26dd7511c8e388fa03f4d41d491417c",
+          "c97471c526966fa1cc92bbdad625e24c",
+          "d47a5a80184aaef3af0fc1d4188f4483"
+        ],
+        "images_v2": null,
+        "quantity": "3 pieces",
+        "sku_quantity_with_combo": "3 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 3,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Diced Muskmelon (Kharbooja)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "PNGV6SIWRA",
+    "variations": [
+      {
+        "id": "IJIL5RLUYF",
+        "display_name": "Diced Muskmelon (Kharbooja)",
+        "price_mrp": 64,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Diced Muskmelon (Kharbooja)",
+        "images": [
+          "2e40f8dcf0a652c1d529e2392c7ce66a",
+          "4bf2bd5fb145d6301f6dcc2d795c8149",
+          "1a1c4dea42ccb47d128bcc2e907d33a0"
+        ],
+        "images_v2": null,
+        "quantity": "175 g",
+        "sku_quantity_with_combo": "175 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 175,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Banganapalli Mango (Mavina Hannu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "7EJ39HTS5V",
+    "variations": [
+      {
+        "id": "WZMDKKWCS4",
+        "display_name": "Banganapalli Mango (Mavina Hannu)",
+        "price_mrp": 181,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Banganapalli Mango (Mavina Hannu)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/c0af2d62-7489-4237-a54b-bcd23f32d9bd_3505.jpg"
+        ],
+        "images_v2": null,
+        "quantity": "2 Medium",
+        "sku_quantity_with_combo": "2 Medium",
+        "unit_of_measure": null,
+        "weight_in_grams": 2,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Imported Jumbo Blueberry (From Peru)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "YJ823FG5FO",
+    "variations": [
+      {
+        "id": "K923N7XB2Z",
+        "display_name": "Imported Jumbo Blueberry (From Peru)",
+        "price_mrp": 261,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Imported Jumbo Blueberry (From Peru)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/16/2f0f85cf-b3aa-461d-a0e3-c9208ed1c9d8_18885.png"
+        ],
+        "images_v2": null,
+        "quantity": "120 g",
+        "sku_quantity_with_combo": "120 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 120,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Malabar Tamarind",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "GK98PR7PQC",
+    "variations": [
+      {
+        "id": "TRJLGZLIIV",
+        "display_name": "Malabar Tamarind",
+        "price_mrp": 120,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Exotic Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Malabar Tamarind",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/27/09a40868-7cea-4dd9-877a-f6c059f24f18_662899.png"
+        ],
+        "images_v2": null,
+        "quantity": "250 g",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Apple Fuji",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "LM5GQQVUSN",
+    "variations": [
+      {
+        "id": "C1G6Y1K3RR",
+        "display_name": "Apple Fuji",
+        "price_mrp": 175,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Apple Fuji",
+        "images": [
+          "f32f42403e31a21e73268b65c23e321f",
+          "2c355c127048b5a21990aaf2c25452f4",
+          "63b5240e2875246dc2bd5639a96b3cbf"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "2 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 360,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pluckk Pomegranate Arils",
+    "brand": "Pluckk",
+    "brand_id": "b496e9c6c2a2a87d55dda23d0f0766fbd97ce9a1",
+    "product_id": "OIT1F0K02I",
+    "variations": [
+      {
+        "id": "BBWQDM7JXA",
+        "display_name": "Pluckk Pomegranate Arils",
+        "price_mrp": 189,
+        "brand": "Pluckk",
+        "brand_id": "b496e9c6c2a2a87d55dda23d0f0766fbd97ce9a1",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Pomegranate Arils",
+        "images": [
+          "fc3fa13e6bdd34779cd9f1e8711d47b1",
+          "bc21bd94d2ecbcc77b1f741a197434b8",
+          "d2a431654cf636b86b590d56a02f0cf7"
+        ],
+        "images_v2": null,
+        "quantity": "200 g",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pluckk Pineapple Chunks",
+    "brand": "Pluckk",
+    "brand_id": "b496e9c6c2a2a87d55dda23d0f0766fbd97ce9a1",
+    "product_id": "L411C28BJR",
+    "variations": [
+      {
+        "id": "76Q9BTTJXW",
+        "display_name": "Pluckk Pineapple Chunks",
+        "price_mrp": 95,
+        "brand": "Pluckk",
+        "brand_id": "b496e9c6c2a2a87d55dda23d0f0766fbd97ce9a1",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Pineapple Chunks",
+        "images": [
+          "881c0a93d80f349e2f1821c5150cbaa3",
+          "ffe1ab4891212f1d0cc2cf8d28ada5a1",
+          "72c5e1bdf5019af1386ac1abe376bd05"
+        ],
+        "images_v2": null,
+        "quantity": "250 g",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Red Watermelon Slice",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "KYF0HMTHOC",
+    "variations": [
+      {
+        "id": "V2IT40PZ5C",
+        "display_name": "Red Watermelon Slice",
+        "price_mrp": 56,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Red Watermelon Slice",
+        "images": [
+          "a31729784fafb0e97e66e7dc95e69051"
+        ],
+        "images_v2": null,
+        "quantity": "200 g",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pineapple (Vazhakulam)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "8BB9HM9FUS",
+    "variations": [
+      {
+        "id": "KU1BA1CDC4",
+        "display_name": "Pineapple (Vazhakulam)",
+        "price_mrp": 99,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Pineapple (Vazhakulam)",
+        "images": [
+          "969ddc1cdb5dc643fa74dab393686934",
+          "07c67b604b23002dadbfa85f453472b7",
+          "9435a7f9ad9237a693f218e1c6ba5e57"
+        ],
+        "images_v2": null,
+        "quantity": "1 Medium",
+        "sku_quantity_with_combo": "1 Medium",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "53PXMFA38M",
+        "display_name": "Pineapple (Vazhakulam)",
+        "price_mrp": 69,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Pineapple (Ananas)",
+        "images": [
+          "35911a33377d580d71157e5adff80e8d",
+          "924381a1e1207deaf963f032358fc52c",
+          "1c1747462440912779ea3349c7f356c0",
+          "8a597c284c9a58126f8771fec7d918d7"
+        ],
+        "images_v2": null,
+        "quantity": "1 Small",
+        "sku_quantity_with_combo": "1 Small",
+        "unit_of_measure": null,
+        "weight_in_grams": 600,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Muscat Green Grapes",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "GYM0AVLB4G",
+    "variations": [
+      {
+        "id": "QTT4SK6T2O",
+        "display_name": "Muscat Green Grapes",
+        "price_mrp": 199,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Muscat Green Grapes",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/3/f793fdee-c3fd-4cee-bda0-cf86a4bc0e6b_26727.png"
+        ],
+        "images_v2": null,
+        "quantity": "200 g",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Yellaki Banana (Baalehannu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "D6R498H232",
+    "variations": [
+      {
+        "id": "M8L1XPQWVB",
+        "display_name": "Yellaki Banana (Baalehannu)",
+        "price_mrp": 84,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Yellaki Banana (Baalehannu)",
+        "images": [
+          "4d999e3642d3c3497b8de1de9cce0de7",
+          "a1d3e226560fc6048f65ab45b3452853",
+          "a137cae1fd9d492c4c01ab47835ad55f",
+          "022a51498ffaf85214bdb63db3dfb63a",
+          "756d9fad91b90c2053c860a49aaef6b8",
+          "2c322f5c977ab0368f1d79d50bc3166a"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Robusta Banana (Pachha Baalehannu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "HFIDROW4TG",
+    "variations": [
+      {
+        "id": "QR9KC3HC2F",
+        "display_name": "Robusta Banana (Pachha Baalehannu)",
+        "price_mrp": 72,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Robusta Banana (Pachha Baalehannu)",
+        "images": [
+          "7d16044af1d3c5612089e0e8e5364f29",
+          "24f0dc04efae5b291dc90379b443d4c7"
+        ],
+        "images_v2": null,
+        "quantity": "8 pieces",
+        "sku_quantity_with_combo": "4 pieces x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "VI6NBL2FFY",
+        "display_name": "Robusta Banana (Pachha Baalehannu)",
+        "price_mrp": 36,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Robusta Banana (Pachha Baalehannu)",
+        "images": [
+          "e14f5d679f7ac81a64b7ae831afcfe9a",
+          "24f0dc04efae5b291dc90379b443d4c7"
+        ],
+        "images_v2": null,
+        "quantity": "4 pieces",
+        "sku_quantity_with_combo": "4 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Premium Guava",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "43QXHQN6EW",
+    "variations": [
+      {
+        "id": "UVXBBKAFI8",
+        "display_name": "Premium Guava",
+        "price_mrp": 44,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Premium Guava",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/04758e1f-ec7f-4180-86fd-9d62234c9d12_5733.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Zespri Kiwi Green",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "XG89MU9Z04",
+    "variations": [
+      {
+        "id": "V5H4D3J9MH",
+        "display_name": "Zespri Kiwi Green",
+        "price_mrp": 124,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Zespri Kiwi Green",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/6ffe3fdc-a3f0-4b55-904f-286e4b7a44f7_11567_1.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "2 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 2,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pluckk Pineapple Peeled",
+    "brand": "Pluckk",
+    "brand_id": "b496e9c6c2a2a87d55dda23d0f0766fbd97ce9a1",
+    "product_id": "0V2YCQG9LF",
+    "variations": [
+      {
+        "id": "KN6JYY2QIN",
+        "display_name": "Pluckk Pineapple Peeled",
+        "price_mrp": 143,
+        "brand": "Pluckk",
+        "brand_id": "b496e9c6c2a2a87d55dda23d0f0766fbd97ce9a1",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Pineapple Peeled",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/26/4481c8f8-f63a-499a-9815-bd64a7f5662e_725510_1.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pluckk Pineapple Cuts",
+    "brand": "Pluckk",
+    "brand_id": "b496e9c6c2a2a87d55dda23d0f0766fbd97ce9a1",
+    "product_id": "ZSQ1T8V5OE",
+    "variations": [
+      {
+        "id": "8W81BXADMT",
+        "display_name": "Pluckk Pineapple Cuts",
+        "price_mrp": 92,
+        "brand": "Pluckk",
+        "brand_id": "b496e9c6c2a2a87d55dda23d0f0766fbd97ce9a1",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Pineapple Cuts",
+        "images": [
+          "120dece4497987ecffbd151aae112d02",
+          "0924f74f55f80af5bb30c81144683161",
+          "014e0d8a266bdf37275a143af9b0d20f"
+        ],
+        "images_v2": null,
+        "quantity": "200 g",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Unripe Imported Avocado",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "YN81VKMJIW",
+    "variations": [
+      {
+        "id": "B44J8DFP27",
+        "display_name": "Unripe Imported Avocado",
+        "price_mrp": 99,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Unripe Imported Avocado",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/4/a5ee5ba0-4fb4-461e-956c-8689320f9656_255541.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Indian Blueberries (From Ooty)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "QWOXHLKW9R",
+    "variations": [
+      {
+        "id": "3AFCQIR9R7",
+        "display_name": "Indian Blueberries (From Ooty)",
+        "price_mrp": 236,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Indian Blueberries (From Ooty)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/30/1db2b635-7105-4014-bede-0b252f2524ce_11558_1.png"
+        ],
+        "images_v2": null,
+        "quantity": "120 g",
+        "sku_quantity_with_combo": "120 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 120,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pomegranate (Dalimbe)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "HI7JIHO538",
+    "variations": [
+      {
+        "id": "5ZSAP90JVO",
+        "display_name": "Pomegranate (Dalimbe)",
+        "price_mrp": 161,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Pomegranate (Dalimbe)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/55053954-ef66-407a-a260-9261714f22da_1106_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/22d1d081-7b72-4920-8266-1b073e61469d_1106_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/bd1322be-4b72-4926-9ae4-824f2a0d062e_1106_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/e3c5bf50-8bdf-46ba-a411-f3f4e1e7371c_1106_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "2 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 450,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Dried Apricots (Khubani)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "KB3ZX88Z2H",
+    "variations": [
+      {
+        "id": "GMLPN0F9LZ",
+        "display_name": "Dried Apricots (Khubani)",
+        "price_mrp": 333,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Dried Apricots (Khubani)",
+        "images": [
+          "09f2e97277ed53f94006c41ff15f3084",
+          "e19da8ef8e022507ec337421339c9d23",
+          "0d9a991fb855d42b715a7e9af0ff9758"
+        ],
+        "images_v2": null,
+        "quantity": "200 g",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pink Lady Apple (Sebu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "TT3ITP2XM0",
+    "variations": [
+      {
+        "id": "4UX3XJ6XAX",
+        "display_name": "Pink Lady Apple (Sebu)",
+        "price_mrp": 150,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Pink Lady Apple (Sebu)",
+        "images": [
+          "87a820afee00a7b5ceba2dbefbdc5faf",
+          "121cf8c673dc4abd39eed5e269f0f839",
+          "79022ef83ef6d55c96bae7a7b8698d3e"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "2 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 20,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Passion Fruit",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "VQ5GT697US",
+    "variations": [
+      {
+        "id": "Q5VLUBTOL0",
+        "display_name": "Passion Fruit",
+        "price_mrp": 130,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Passion Fruit",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/a031bfb1-7397-402a-9d96-66c105da1c51_7472.png"
+        ],
+        "images_v2": null,
+        "quantity": "250 g",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Wood Apple (Belada Hannu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "WFJ48TK6RW",
+    "variations": [
+      {
+        "id": "GZ7SYD1QQH",
+        "display_name": "Wood Apple (Belada Hannu)",
+        "price_mrp": 56,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Wood Apple (Belada Hannu)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/10/5bf4c969-8e2f-416a-b3f0-7a0797fe8f07_5b0018081fe87207bcbd8845ca2a80ca.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Poovan Banana (Baalehannu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "QQBE1KM73J",
+    "variations": [
+      {
+        "id": "LGGNXAHWT1",
+        "display_name": "Poovan Banana (Baalehannu)",
+        "price_mrp": 49,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Poovan Banana (Baalehannu)",
+        "images": [
+          "29a6f1e50752dc33e6bb4fa48dbda897",
+          "bd5bc3c94d98207181cfbd13df6a69d4"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pineapple Slice by Urban Harvest",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "ISEZHYU95P",
+    "variations": [
+      {
+        "id": "5DR6DCIU7C",
+        "display_name": "Pineapple Slice by Urban Harvest",
+        "price_mrp": 128,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Pineapple Slice by Urban Harvest",
+        "images": [
+          "c568a3828f2713b803c9da13993cb1a5",
+          "0924f74f55f80af5bb30c81144683161",
+          "014e0d8a266bdf37275a143af9b0d20f"
+        ],
+        "images_v2": null,
+        "quantity": "175 g",
+        "sku_quantity_with_combo": "175 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 175,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Bangalore Blue Grapes (Dhraakshi)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "K9YDGHRYZM",
+    "variations": [
+      {
+        "id": "L25ZIR9U8Z",
+        "display_name": "Bangalore Blue Grapes (Dhraakshi)",
+        "price_mrp": 33,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Bangalore Blue Grapes (Dhraakshi)",
+        "images": [
+          "c0ad31bd14ac85f59f53852ee20185e5",
+          "5cfb54c48483e59d5de6d5efc94d38ad",
+          "deb4281278b28b47f8a2c8fe2802f3e7"
+        ],
+        "images_v2": null,
+        "quantity": "200 g",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Indian Raspberry",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "ALIQ55CX0O",
+    "variations": [
+      {
+        "id": "PDN8O0R47F",
+        "display_name": "Indian Raspberry",
+        "price_mrp": 286,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Indian Raspberry",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/094fa5f0-aecf-4e8f-bf27-99cf85e2f902_67188.png"
+        ],
+        "images_v2": null,
+        "quantity": "80 g",
+        "sku_quantity_with_combo": "80 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 80,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Diced Papaya by Urban Harvest",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "H90E0B89D0",
+    "variations": [
+      {
+        "id": "0PPOIBZ025",
+        "display_name": "Diced Papaya by Urban Harvest",
+        "price_mrp": 61,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Diced Papaya by Urban Harvest",
+        "images": [
+          "35de9c4317d28caab5f3d3975e3d5fe5",
+          "12d31740988e3f5e98f0c8d03cda6014",
+          "3e5658ecd3bb3eacefeb12c1957254f1"
+        ],
+        "images_v2": null,
+        "quantity": "175 g",
+        "sku_quantity_with_combo": "175 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 175,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Premium Select Pomegranate (Dalimbe Hannu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "77PKO1H86M",
+    "variations": [
+      {
+        "id": "6BV9KLVB7W",
+        "display_name": "Premium Select Pomegranate (Dalimbe Hannu)",
+        "price_mrp": 224,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Premium Select Pomegranate (Dalimbe Hannu)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/627ee413-5d5d-49bc-aada-9c0081a20661_11554_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/fc3e0467-f259-48cf-affe-40ab0a8079a1_11554_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/9484a5e5-be42-455f-9489-ce0cfba5f8da_11554_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/c1df5826-25da-47c8-9701-cae2cd4c5c98_11554_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "2 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 2,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pear Nashpati",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "XWIDGWPV2Z",
+    "variations": [
+      {
+        "id": "N3KM6OP49J",
+        "display_name": "Pear Nashpati",
+        "price_mrp": 94,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Pear Nashpati",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/ef5dc462-c9c4-4e7f-a1f8-93bfaf276338_918705_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/9e19b970-e488-4a6d-9745-c68d01c55285_918705_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/93ed35c5-866c-4a99-891f-090ba47957a3_918705_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/0f845b5c-51b8-40c9-94a3-c8e73788a466_918705_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Nendran Banana (Baale Hannu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "DLUYFBFCVI",
+    "variations": [
+      {
+        "id": "K8V4DWDJLC",
+        "display_name": "Nendran Banana (Baale Hannu)",
+        "price_mrp": 64,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Nendran Banana (Baale Hannu)",
+        "images": [
+          "fec4e5284d994324d799903e693c72a8",
+          "7b70138ebbfb904090d8f05210a76213"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sugarcane Diced by Urban Harvest",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "EPW03WU0RF",
+    "variations": [
+      {
+        "id": "5D8NNFHLMA",
+        "display_name": "Sugarcane Diced by Urban Harvest",
+        "price_mrp": 59,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Sugarcane Diced by Urban Harvest",
+        "images": [
+          "83ffab4e7777ed7ac77c556ac49e0cf8",
+          "5c061424886668acb5f5b2aed953832c"
+        ],
+        "images_v2": null,
+        "quantity": "175 g",
+        "sku_quantity_with_combo": "175 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 175,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Banana Karpooravalli (Baalehannu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "54HFZLBZ3A",
+    "variations": [
+      {
+        "id": "Z75P6STO2C",
+        "display_name": "Banana Karpooravalli (Baalehannu)",
+        "price_mrp": 44,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Banana Karpooravalli (Baalehannu)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/8/50da13ec-6af7-4292-9c2e-9ef5215a7e74_197437.png"
+        ],
+        "images_v2": null,
+        "quantity": "4 pieces",
+        "sku_quantity_with_combo": "4 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 4,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Totapuri Ripe Mango (Mavinahannu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "ADT4NQFRKL",
+    "variations": [
+      {
+        "id": "VAXRVOL50Y",
+        "display_name": "Totapuri Ripe Mango (Mavinahannu)",
+        "price_mrp": 24,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Totapuri Ripe Mango (Mavinahannu)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/ac800a20-263b-4c73-bc44-147520773d96_114528.png",
+          "b34e57ee6b3cce6cbbb0f5c5c41bb998",
+          "522849ca72b77d706a87e9a8848b7c5d"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Ooty Pineberry (White Strawberry)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "J5EYDYC2OU",
+    "variations": [
+      {
+        "id": "TM4JNV9WZY",
+        "display_name": "Ooty Pineberry (White Strawberry)",
+        "price_mrp": 249,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Ooty Pineberry (White Strawberry)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/66327469-2564-43c5-9e7b-4bf0701eb080_398567_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/b53beb93-ea7c-48e0-8721-dcd77603c37c_398567_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/018033f0-29c8-4fae-8e04-237d26d3cf31_398567_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/11/da7e1290-d574-4822-8155-4e8a277c0f6e_398567_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "200 g",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Imported Blueberry",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "R16TUIDXGD",
+    "variations": [
+      {
+        "id": "NM99HSKTRN",
+        "display_name": "Imported Blueberry",
+        "price_mrp": 540,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Imported Blueberry",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/f27f973c-a7b9-44eb-9d4b-af4b6311bde3_955454.png"
+        ],
+        "images_v2": null,
+        "quantity": "240 g",
+        "sku_quantity_with_combo": "120 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 240,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "DVTL5L9XL1",
+        "display_name": "Imported Blueberry",
+        "price_mrp": 270,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Imported Blueberry",
+        "images": [
+          "a96f0fe557a37d608d8dc0856f639374",
+          "ce1f3dbca8400f118a737fcb06bd715f",
+          "365339b92ef09acdeaef232228582f4a"
+        ],
+        "images_v2": null,
+        "quantity": "120 g",
+        "sku_quantity_with_combo": "120 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 120,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Imported Litchi (Longan)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "T1TCCZMFBH",
+    "variations": [
+      {
+        "id": "1M97N8JIC8",
+        "display_name": "Imported Litchi (Longan)",
+        "price_mrp": 74,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Imported Litchi (Longan)",
+        "images": [
+          "e426036d99d42d07d88b3f7f95df1258",
+          "869e657b956f65dbe0edd27c1ddcc520",
+          "6c5dd725b7c78b0516c5f8e2b07862cf"
+        ],
+        "images_v2": null,
+        "quantity": "100 g",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Indian Plum",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "A5YVJ7O232",
+    "variations": [
+      {
+        "id": "2T7VSL99MN",
+        "display_name": "Indian Plum",
+        "price_mrp": 74,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Indian Plum",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/6/17/9de73b6a-2a87-40b7-bdaf-67a1b7b454d4_freshfruits_GXYZ2QAIJT_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "250 g",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Premium Indian Blueberry (From Ooty)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "O304DAK5GE",
+    "variations": [
+      {
+        "id": "B2ZFHCD0JW",
+        "display_name": "Premium Indian Blueberry (From Ooty)",
+        "price_mrp": 229,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Premium Indian Blueberry (From Ooty)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/31/bbfd4f4a-73e0-42b0-9052-3b40557be637_816696_1.png"
+        ],
+        "images_v2": null,
+        "quantity": "120 g",
+        "sku_quantity_with_combo": "120 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 120,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Muskmelon (Kharbooja)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "I0UKZ781P5",
+    "variations": [
+      {
+        "id": "519ZW4IVMX",
+        "display_name": "Muskmelon (Kharbooja)",
+        "price_mrp": 122,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Muskmelon (Kharbooja)",
+        "images": [
+          "5b0c9c5ce426f989cb75df8feaa4ced7",
+          "fea1e9721c3a9211062a98dd409c3730"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "1 Piece x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1600,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "67XW6O6OJX",
+        "display_name": "Muskmelon (Kharbooja)",
+        "price_mrp": 61,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Muskmelon (Kharbooja)",
+        "images": [
+          "5b0c9c5ce426f989cb75df8feaa4ced7",
+          "fea1e9721c3a9211062a98dd409c3730"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 800,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Robusta Banana Singles (Baalehannu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "8VKB2LMCNV",
+    "variations": [
+      {
+        "id": "LZT17DJG5Q",
+        "display_name": "Robusta Banana Singles (Baalehannu)",
+        "price_mrp": 39,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Robusta Banana Singles (Baalehannu)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/4/827f3de3-3d45-48e1-987d-a7336c1348e9_8962.png"
+        ],
+        "images_v2": null,
+        "quantity": "4 pieces",
+        "sku_quantity_with_combo": "4 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Indian Blueberry Minis (From Ooty)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "B27Z9EYR9T",
+    "variations": [
+      {
+        "id": "QQOH36KGVF",
+        "display_name": "Indian Blueberry Minis (From Ooty)",
+        "price_mrp": 199,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Indian Blueberry Minis (From Ooty)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/30/6d762029-e245-4a65-9041-b4bbe48569ba_480338_1.png"
+        ],
+        "images_v2": null,
+        "quantity": "120 g",
+        "sku_quantity_with_combo": "120 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 120,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Apple Ber (Bore Hannu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "05H4RYTJ9Y",
+    "variations": [
+      {
+        "id": "Q41R4T0B8D",
+        "display_name": "Apple Ber (Bore Hannu)",
+        "price_mrp": 86,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Apple Ber (Bore Hannu)",
+        "images": [
+          "0c6cdaac2f149811c7b776086b48410d",
+          "25b9fb3ce43ca560d622a15b6cc814a7",
+          "498160e59a68b7a37fdb19fdf2fa0df0"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Green Apple (Sebu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "IHT9YBM83Q",
+    "variations": [
+      {
+        "id": "C1CKFS7336",
+        "display_name": "Green Apple (Sebu)",
+        "price_mrp": 322,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Green Apple (Sebu)",
+        "images": [
+          "7195579a5e7d77338118d509370d9d59",
+          "89910bfd624a2f01e1dfe946e5e2133e",
+          "1d03d46c90582c08054a9589e34ff558"
+        ],
+        "images_v2": null,
+        "quantity": "4 pieces",
+        "sku_quantity_with_combo": "2 pieces x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 320,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "N2L2D0LB2N",
+        "display_name": "Green Apple (Sebu)",
+        "price_mrp": 161,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Green Apple (Sebu)",
+        "images": [
+          "21b51bc797e5be6e8ee6c4dbbbed860d",
+          "89910bfd624a2f01e1dfe946e5e2133e",
+          "1d03d46c90582c08054a9589e34ff558"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "2 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 160,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Premium Semi ripe Chikoo",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "PA6Y0UEKYU",
+    "variations": [
+      {
+        "id": "VZU0555OLN",
+        "display_name": "Premium Semi ripe Chikoo",
+        "price_mrp": 148,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Premium Semi ripe Chikoo",
+        "images": [
+          "4d6bafea4ef76eb9abcfb1cf00cbe776",
+          "42e443f2516b066c7e3cba74db9b84ef",
+          "69efaf81ca263efd5540ddc8035fd0e1"
+        ],
+        "images_v2": null,
+        "quantity": "6 pieces",
+        "sku_quantity_with_combo": "3 pieces x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 600,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "609TP19JT6",
+        "display_name": "Premium Semi ripe Chikoo",
+        "price_mrp": 74,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Premium Semi ripe Chikoo",
+        "images": [
+          "728d8a8a632a115016142145a6c8c728",
+          "42e443f2516b066c7e3cba74db9b84ef",
+          "69efaf81ca263efd5540ddc8035fd0e1"
+        ],
+        "images_v2": null,
+        "quantity": "3 pieces",
+        "sku_quantity_with_combo": "3 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Apple Red Delicious (Sebu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "JUJTP22IXN",
+    "variations": [
+      {
+        "id": "PBZIH6DY7B",
+        "display_name": "Apple Red Delicious (Sebu)",
+        "price_mrp": 312,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Apple Red Delicious (Sebu)",
+        "images": [
+          "3fc1d8dabe6ae068c70fffafd6170009",
+          "0fa7376996c254e5ad998bc8ea09afe6",
+          "36d427ef2fd885d158d9cd734b115d02"
+        ],
+        "images_v2": null,
+        "quantity": "4 pieces",
+        "sku_quantity_with_combo": "2 pieces x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 720,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      },
+      {
+        "id": "MPVSIL7GJX",
+        "display_name": "Apple Red Delicious (Sebu)",
+        "price_mrp": 156,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Red Delicious Apple (Sebu)",
+        "images": [
+          "96cb0cacbd19101e54538e3c86edb514",
+          "0fa7376996c254e5ad998bc8ea09afe6",
+          "36d427ef2fd885d158d9cd734b115d02"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "2 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 360,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sweet Beauty Red Pear",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "8Y6KJSLYSY",
+    "variations": [
+      {
+        "id": "8WFHYDRUJ1",
+        "display_name": "Sweet Beauty Red Pear",
+        "price_mrp": 199,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Sweet Beauty Red Pear",
+        "images": [
+          "b74339e3e35ad3cbd83808d6429ff51f",
+          "4a307dc8b6d06349d07c5502680984e6",
+          "f67c1c22d7db48e75f033a75b89ee7c2"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "2 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 140,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Dates Fresh Yellow",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "4H4S6XP0V5",
+    "variations": [
+      {
+        "id": "YA07YVYQMX",
+        "display_name": "Dates Fresh Yellow",
+        "price_mrp": 86,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Dates Fresh Yellow",
+        "images": [
+          "35d71703c615dbcc2b041a13a22847c8",
+          "190e872269dea5439b30c1b491db3010",
+          "c333a22998b37be92fad42b672221f47"
+        ],
+        "images_v2": null,
+        "quantity": "250 g",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Peeled Pomegranate by Urban Harvest",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "I2L4MBI0MH",
+    "variations": [
+      {
+        "id": "L20BMXV4A2",
+        "display_name": "Peeled Pomegranate by Urban Harvest",
+        "price_mrp": 186,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Peeled Pomegranate by Urban Harvest",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/6/7/eab0bc60-8ba1-48a5-96c9-01e922406235_freshvegetables_AHH0F7IKBG_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/7/6dcbd5a0-1ea4-4f00-b0af-09f318e1c603_freshvegetables_AHH0F7IKBG_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "175 g",
+        "sku_quantity_with_combo": "175 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 175,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Baby Yelakki Banana (Baalehannu)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "YE1AR4N6DH",
+    "variations": [
+      {
+        "id": "VARPPMAXG9",
+        "display_name": "Baby Yelakki Banana (Baalehannu)",
+        "price_mrp": 71,
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Fruits",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Baby Yelakki Banana (Baalehannu)",
+        "images": [
+          "8126d918ee2b0e43196646df9406a528"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "filters_tag": null
+      }
+    ]
+  }
+]
