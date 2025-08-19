@@ -1,0 +1,112 @@
+{
+  "product_name": "Too Yumm K-Bomb Ramen Mi Goreng Instant Noodles | Sweet n Spicy Flavour | Korean Veg",
+  "brand": "Too Yumm!",
+  "barcode": "8906090575553",
+  "nutrition_info_table": [
+    {
+      "nutrient": "energy",
+      "value": 452.0,
+      "unit": "kcal"
+    },
+    {
+      "nutrient": "protein",
+      "value": 8.2,
+      "unit": "g"
+    },
+    {
+      "nutrient": "total_carbohydrates",
+      "value": 65.0,
+      "unit": "g"
+    },
+    {
+      "nutrient": "total_sugars",
+      "value": 6.5,
+      "unit": "g"
+    },
+    {
+      "nutrient": "added_sugars",
+      "value": 5.1,
+      "unit": "g"
+    },
+    {
+      "nutrient": "total_fat",
+      "value": 17.5,
+      "unit": "g"
+    },
+    {
+      "nutrient": "saturated_fat",
+      "value": 7.3,
+      "unit": "g"
+    },
+    {
+      "nutrient": "trans_fat",
+      "value": 0.0,
+      "unit": "g"
+    },
+    {
+      "nutrient": "sodium",
+      "value": 1270.0,
+      "unit": "mg"
+    }
+  ],
+  "nutrition_serving_value": 100.0,
+  "nutrition_serving_unit": "g",
+  "ingredients": [
+    "Refined Wheat Flour",
+    "Edible Vegetable Oil (Rice Bran Oil)",
+    "Iodized Salt",
+    "Wheat Gluten",
+    "Starch",
+    "Gelling Agent (INS 508)",
+    "Sequestrant (INS 451(i))",
+    "Thickener (INS 412)",
+    "Acidity Regulators (INS 501(i), INS 500(i))",
+    "Sugar",
+    "Spices and Condiments (Contains Onion & Garlic (6%))",
+    "Soya Sauce Powder (6%)",
+    "Hydrolysed Vegetable Protein",
+    "Yeast Extract Powder",
+    "Dextrose",
+    "Natural and Nature Identical Flavouring Substances",
+    "Colour (INS 150d)",
+    "Anticaking Agent (INS 551)",
+    "Edible Vegetable Oil (Refined Sunflower Oil)"
+  ],
+  "additives": [
+    "Gelling Agent (INS 508)",
+    "Sequestrant (INS 451(i))",
+    "Thickener (INS 412)",
+    "Acidity Regulators (INS 501(i))",
+    "Acidity Regulators (INS 500(i))",
+    "Colour (INS 150d)",
+    "Anticaking Agent (INS 551)",
+    "Natural and Nature Identical Flavouring Substances"
+  ],
+  "allergens": [
+    "Wheat",
+    "Soya",
+    "Sulphite",
+    "Milk"
+  ],
+  "health_rating": 40,
+  "processing_level": "Ultra-processed",
+  "positive_health_aspects": [
+    "No added preservatives",
+    "No palm oil",
+    "100% vegetarian product"
+  ],
+  "negative_health_aspects": [
+    "High in calories",
+    "High in total fat",
+    "High in saturated fat",
+    "High in sodium",
+    "Contains refined grains",
+    "Contains added sugars"
+  ],
+  "storage_instructions": "Store in a cool, dry and hygienic place.",
+  "cooking_instructions": "1. Boil 275ml water in a pan. 2. Add K-Bomb noodles and cook for 4 mins. 3. Turn off the gas and add K-Bomb mixes. Stir well. Top it up with your desired garnishing!",
+  "country_of_origin": "India",
+  "certifications": [
+    "FSSAI"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "8WYLPPAIRH",
+  "display_name": "Nandus Chicken Breast Boneless",
+  "price_mrp": 249,
+  "brand": "Nandus",
+  "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
+  "category": "Chicken",
+  "super_category": "Meat and Sea Food",
+  "sub_category_l3": "Fresh Chicken",
+  "sub_category_l4": "Boneless",
+  "sub_category_l5": "Family Pack",
+  "product_name_without_brand": "Chicken Breast Boneless",
+  "images": [
+    "NI_CATALOG/IMAGES/CIW/2025/3/21/1db03c5e-7f69-40ef-975b-57ba31b55280_93490.png",
+    "NI_CATALOG/IMAGES/CIW/2024/5/30/aeb3f7ac-f60c-44fb-9b17-43b86a3c2ab1_chicken_J36RH2AR9H_AL1.png",
+    "NI_CATALOG/IMAGES/CIW/2024/5/30/8c20a57c-4243-4a50-a4a3-cafc6d1a4e76_chicken_TK7MQCCJD7_AL2.png"
+  ],
+  "images_v2": [],
+  "quantity": "450",
+  "sku_quantity_with_combo": "450 g",
+  "unit_of_measure": "g",
+  "weight_in_grams": 450,
+  "volumetric_weight": 0,
+  "filters_tag": null
+}

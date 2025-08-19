@@ -1,0 +1,111 @@
+{
+  "product_name": "MTR Schezwan Idli Mix",
+  "brand": "MTR",
+  "barcode": "8901042971889",
+  "nutrition_info_table": [
+    {
+      "nutrient": "energy",
+      "value": 382.0,
+      "unit": "kcal"
+    },
+    {
+      "nutrient": "protein",
+      "value": 9.0,
+      "unit": "g"
+    },
+    {
+      "nutrient": "carbohydrate",
+      "value": 69.4,
+      "unit": "g"
+    },
+    {
+      "nutrient": "total_sugars",
+      "value": 2.2,
+      "unit": "g"
+    },
+    {
+      "nutrient": "added_sugars",
+      "value": 0.0,
+      "unit": "g"
+    },
+    {
+      "nutrient": "dietary_fiber",
+      "value": 5.4,
+      "unit": "g"
+    },
+    {
+      "nutrient": "total_fat",
+      "value": 7.6,
+      "unit": "g"
+    },
+    {
+      "nutrient": "saturated_fat",
+      "value": 3.7,
+      "unit": "g"
+    },
+    {
+      "nutrient": "trans_fat",
+      "value": 0.0,
+      "unit": "g"
+    },
+    {
+      "nutrient": "cholesterol",
+      "value": 0.0,
+      "unit": "mg"
+    },
+    {
+      "nutrient": "sodium",
+      "value": 1006.0,
+      "unit": "mg"
+    }
+  ],
+  "nutrition_serving_value": 100.0,
+  "nutrition_serving_unit": "g",
+  "ingredients": [
+    "Wheat semolina (82%)",
+    "Interesterified vegetable fat",
+    "Low sodium salt iodised",
+    "Red chilli powder",
+    "Cashew nuts (2%)",
+    "Dehydrated garlic bits",
+    "Ginger powder",
+    "Dehydrated onion flakes",
+    "Dried curry leaves",
+    "Raising agent",
+    "Anticaking agent",
+    "Green chilli",
+    "Ginger",
+    "Flavour enhancer",
+    "Nature identical flavour"
+  ],
+  "additives": [
+    "Raising agent (INS 500(ii))",
+    "Anticaking agent (INS 551)",
+    "Flavour enhancer (INS 635)",
+    "Nature identical flavour"
+  ],
+  "allergens": [
+    "Wheat gluten",
+    "Nut",
+    "Milk",
+    "Soy"
+  ],
+  "health_rating": 55,
+  "processing_level": "Ultra-processed",
+  "positive_health_aspects": [
+    "Low in added sugars",
+    "Zero trans fat",
+    "Zero cholesterol",
+    "Contains dietary fiber"
+  ],
+  "negative_health_aspects": [
+    "Very high in sodium",
+    "Contains interesterified vegetable fat",
+    "Contains flavor enhancer (INS 635)",
+    "Based on refined wheat semolina"
+  ],
+  "storage_instructions": "Store in a cool, dry & hygienic place. Once opened, transfer the content to an airtight container. Use a dry spoon.",
+  "cooking_instructions": "Add one measure mix (200 g) to 2 measures sour curd (420 ml), mix thoroughly. Set aside for 2 minutes. Steam the batter in an idli cooker/ idli vessel for 10-12 minutes on medium flame. Serve hot.",
+  "country_of_origin": "India",
+  "certifications": []
+}

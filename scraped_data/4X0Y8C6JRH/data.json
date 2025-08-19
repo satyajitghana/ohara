@@ -1,0 +1,35 @@
+{
+  "display_name": "Too Yumm K-Bomb Ramen Mi Goreng Instant Noodles | Sweet n Spicy Flavour | Korean Veg",
+  "brand": "Too Yumm!",
+  "brand_id": "44ddfb01b699eccd134166df759ba299349a230e",
+  "product_id": "4X0Y8C6JRH",
+  "variations": [
+    {
+      "id": "S5XWYQ0MQY",
+      "display_name": "Too Yumm K-Bomb Ramen Mi Goreng Instant Noodles | Sweet n Spicy Flavour | Korean Veg",
+      "price_mrp": 50,
+      "brand": "Too Yumm!",
+      "brand_id": "44ddfb01b699eccd134166df759ba299349a230e",
+      "category": "Noodles and Vermicelli",
+      "super_category": "Instant Food and Frozen Food",
+      "sub_category_l3": null,
+      "sub_category_l4": null,
+      "sub_category_l5": null,
+      "product_name_without_brand": "Too Yumm K-Bomb Ramen Mi Goreng Instant Noodles | Sweet n Spicy Flavour | Korean Veg",
+      "images": [
+        "NI_CATALOG/IMAGES/CIW/2025/3/8/405b6ecc-83ec-447c-a85a-3f7662de238e_829899_1.png",
+        "NI_CATALOG/IMAGES/CIW/2025/3/8/8be04f1c-332b-4e13-9895-991a637f15ec_829899_2.png",
+        "NI_CATALOG/IMAGES/CIW/2025/3/8/93133b3f-8f54-430f-a0b1-4ea7de3030c5_829899_3.png",
+        "NI_CATALOG/IMAGES/CIW/2025/3/8/ef3b56e9-7289-4b55-9fc6-7356f40e4a77_829899_4.png",
+        "NI_CATALOG/IMAGES/CIW/2025/3/8/b41869c1-8ccb-4eb8-9901-05cf5983565a_829899_5.png"
+      ],
+      "images_v2": null,
+      "quantity": "79 g",
+      "sku_quantity_with_combo": "79 g",
+      "unit_of_measure": null,
+      "weight_in_grams": 79,
+      "volumetric_weight": 0,
+      "filters_tag": null
+    }
+  ]
+}
