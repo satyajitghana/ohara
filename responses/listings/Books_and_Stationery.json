@@ -1,37 +1,5 @@
 [
   {
-    "display_name": "Flair Writometer Gel Pen Pack of 3 ( Blue)",
-    "brand": "Flair",
-    "brand_id": "99e39b9c1267b89d95432638ebb3433e0be8b790",
-    "product_id": "0VUM1XHZ52",
-    "variations": [
-      {
-        "id": "0N6118CRJF",
-        "display_name": "Flair Writometer Gel Pen Pack of 3 ( Blue)",
-        "price_mrp": 70,
-        "brand": "Flair",
-        "brand_id": "99e39b9c1267b89d95432638ebb3433e0be8b790",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pens",
-        "sub_category_l4": "Gel pen",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Writometer Gel Pen Pack of 3 ( Blue)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/10/9/42ac69d3-6883-49bb-b281-96a462ad9ff7_48506_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/9/1f5e6507-ae95-461c-96c5-3ba3f819098b_48506_2.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 28,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
     "display_name": "Flair Woody Ball Pen Pack of 5 Blue",
     "brand": "Flair",
     "brand_id": "99e39b9c1267b89d95432638ebb3433e0be8b790",
@@ -40,7 +8,13 @@
       {
         "id": "SLP00B8JO1",
         "display_name": "Flair Woody Ball Pen Pack of 5 Blue",
-        "price_mrp": 50,
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 49,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
         "brand": "Flair",
         "brand_id": "99e39b9c1267b89d95432638ebb3433e0be8b790",
         "category": "Pens Pencils Highlighters",
@@ -61,212 +35,46 @@
         "unit_of_measure": "pack",
         "weight_in_grams": 150,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Reynolds Trimax Roller Pens (Fine Tip, Blue Ink)",
-    "brand": "Reynolds",
-    "brand_id": "bbd20394f6de9d3f6fe2455384a427643f53e7e2",
-    "product_id": "QZ2IM4HIJJ",
+    "display_name": "Flair Writometer Gel Pen Pack of 3 ( Blue)",
+    "brand": "Flair",
+    "brand_id": "99e39b9c1267b89d95432638ebb3433e0be8b790",
+    "product_id": "0VUM1XHZ52",
     "variations": [
       {
-        "id": "F6S4XJCRH1",
-        "display_name": "Reynolds Trimax Roller Pens (Fine Tip, Blue Ink)",
-        "price_mrp": 60,
-        "brand": "Reynolds",
-        "brand_id": "bbd20394f6de9d3f6fe2455384a427643f53e7e2",
+        "id": "0N6118CRJF",
+        "display_name": "Flair Writometer Gel Pen Pack of 3 ( Blue)",
+        "price": {
+          "mrp": 70,
+          "store_price": 70,
+          "offer_price": 69,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Flair",
+        "brand_id": "99e39b9c1267b89d95432638ebb3433e0be8b790",
         "category": "Pens Pencils Highlighters",
         "super_category": "Stationery Art Hobbies",
         "sub_category_l3": "Pens",
-        "sub_category_l4": "Ball pen",
+        "sub_category_l4": "Gel pen",
         "sub_category_l5": null,
-        "product_name_without_brand": "Trimax Roller Pens (Fine Tip, Blue Ink)",
+        "product_name_without_brand": "Writometer Gel Pen Pack of 3 ( Blue)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/30/0a250f53-e17e-4b93-86ad-ec6b004ea89d_12799_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/30/957bd1f0-9ec7-492a-87d5-53724bc1bfb2_12799_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/30/ab2e5e22-7cb1-42a3-a93f-a7ca874a3100_12799_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/30/a93de6f5-a303-486e-8f4f-7c8e827ad5d6_12799_4.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Pentonic Blue Ink Ball Pens (10 Pieces)",
-    "brand": "Pentonic",
-    "brand_id": "64c911399a6c8792527a6591b47f6b80ffd89852",
-    "product_id": "8DNRL8OP63",
-    "variations": [
-      {
-        "id": "HG2VJJXW0I",
-        "display_name": "Pentonic Blue Ink Ball Pens (10 Pieces)",
-        "price_mrp": 100,
-        "brand": "Pentonic",
-        "brand_id": "64c911399a6c8792527a6591b47f6b80ffd89852",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pens",
-        "sub_category_l4": "Ball pen",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Blue Ink Ball Pens (10 Pieces)",
-        "images": [
-          "0c4bf27b85409339a586c69d4c83fdaf",
-          "a9aecfcfa022fac73d4bace77c0133c2",
-          "b13e1426c3269556c665b9bf7abbb128"
+          "NI_CATALOG/IMAGES/CIW/2024/10/9/42ac69d3-6883-49bb-b281-96a462ad9ff7_48506_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/9/1f5e6507-ae95-461c-96c5-3ba3f819098b_48506_2.png"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 pack",
         "unit_of_measure": "pack",
-        "weight_in_grams": 50,
+        "weight_in_grams": 28,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Pilot V7 Roller Pen (Black)",
-    "brand": "Pilot",
-    "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
-    "product_id": "23GEZYVI6J",
-    "variations": [
-      {
-        "id": "XLT24CU12I",
-        "display_name": "Pilot V7 Roller Pen (Black)",
-        "price_mrp": 75,
-        "brand": "Pilot",
-        "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pens",
-        "sub_category_l4": "Ball Pen",
-        "sub_category_l5": "Black",
-        "product_name_without_brand": "V7 Roller Pen (Black)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/e138cf69-eea4-4b89-a12f-d311b1ed62a1_366555_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/4b73b762-7574-4192-9928-b44b293af3f3_366555_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/9cd5a784-e89d-4190-90d8-af851375b717_366555_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/dddd5e14-1476-496f-8992-1591f65b80d2_366555_4.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Pilot V7 Roller Pen (Blue)",
-    "brand": "Pilot",
-    "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
-    "product_id": "1I814KK0EO",
-    "variations": [
-      {
-        "id": "MTYLOB2DLG",
-        "display_name": "Pilot V7 Roller Pen (Blue)",
-        "price_mrp": 75,
-        "brand": "Pilot",
-        "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pens",
-        "sub_category_l4": "Ball pen",
-        "sub_category_l5": null,
-        "product_name_without_brand": "V7 Roller Pen (Blue)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/1325cd55-cfdc-4b87-982d-642f2d930bc8_308506_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/40f8ad25-c92d-4ef9-a382-74e8a5d26b76_308506_6.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/ecd08a80-e467-4fd3-84d0-1c96420f2571_308506_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/dbfcaca1-7307-4be1-ad79-1701af5efdb4_821168_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/837943be-3d85-4fb8-bff3-5fa7180851fa_308506_5.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Reynolds Jetter Classic Blister (Blue)",
-    "brand": "Reynolds",
-    "brand_id": "bbd20394f6de9d3f6fe2455384a427643f53e7e2",
-    "product_id": "Y5OZSCRHMV",
-    "variations": [
-      {
-        "id": "OHXT8TJMPI",
-        "display_name": "Reynolds Jetter Classic Blister (Blue)",
-        "price_mrp": 75,
-        "brand": "Reynolds",
-        "brand_id": "bbd20394f6de9d3f6fe2455384a427643f53e7e2",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pens",
-        "sub_category_l4": "Ball pen",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Jetter Classic Blister (Blue)",
-        "images": [
-          "13a5621be9ed90f1ea913aced0d460b2",
-          "2ec83694d2143102391a67a66be2c257",
-          "b0e147d4930dfaab8b0649d8ee6de3b6",
-          "74378ec15f6aa0fe865b262e161f4984"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 3,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Cello Butterflow Simply Blue Pen",
-    "brand": "Cello",
-    "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
-    "product_id": "1ZC5A5LC6A",
-    "variations": [
-      {
-        "id": "PRXH24U5PH",
-        "display_name": "Cello Butterflow Simply Blue Pen",
-        "price_mrp": 50,
-        "brand": "Cello",
-        "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pens",
-        "sub_category_l4": "Ball pen",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Butterflow Simply Blue Pen",
-        "images": [
-          "00e704297b808feb5d863d84497bc78c",
-          "29e44976e86dcea9425f2572abaa55cf",
-          "3a48ef6418fad45e0f6bf8ef554f11f9",
-          "9e63303efc25198c35fb7405ff4b620a",
-          "b2d8346f5412c259d6067b271a4a1ab1",
-          "3eb3e3352e571ac97f412ad79245d51d"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 0,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -280,7 +88,13 @@
       {
         "id": "22GMCIO4Q9",
         "display_name": "Reynolds Black Aeroslim Pen",
-        "price_mrp": 25,
+        "price": {
+          "mrp": 25,
+          "store_price": 25,
+          "offer_price": 22,
+          "unit_level_price": "",
+          "discount_value": 3
+        },
         "brand": "Reynolds",
         "brand_id": "bbd20394f6de9d3f6fe2455384a427643f53e7e2",
         "category": "Pens Pencils Highlighters",
@@ -301,78 +115,7 @@
         "unit_of_measure": "pack",
         "weight_in_grams": 5,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Reynolds Gel Pen Jiffy Gel Blue",
-    "brand": "Reynolds",
-    "brand_id": "bbd20394f6de9d3f6fe2455384a427643f53e7e2",
-    "product_id": "VS5G9SX0NA",
-    "variations": [
-      {
-        "id": "SF6VPR3LJZ",
-        "display_name": "Reynolds Gel Pen Jiffy Gel Blue",
-        "price_mrp": 35,
-        "brand": "Reynolds",
-        "brand_id": "bbd20394f6de9d3f6fe2455384a427643f53e7e2",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pens",
-        "sub_category_l4": "Gel pen",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Gel Pen Jiffy Gel Blue",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/24/45c6c585-d996-44a4-beed-4c35e9fe3a20_10130_1.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/6/24/42b07d29-a564-44af-ac2d-d07d0a170d86_10130_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/6/24/c9030931-52d6-4ec7-8ca0-eaf8e81a2901_10130_3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/6/24/cef94bde-863f-4315-a266-4c9d8c0a217f_10130_4.jpg"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 50,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Kaco Mechanical Pencil with Lead (Assorted Colour)",
-    "brand": "Kaco",
-    "brand_id": "0c6f08251595298c13d302c3bf90326adaefa02c",
-    "product_id": "KHAUMO7HF6",
-    "variations": [
-      {
-        "id": "RWZWFAI9LY",
-        "display_name": "Kaco Mechanical Pencil with Lead (Assorted Colour)",
-        "price_mrp": 125,
-        "brand": "Kaco",
-        "brand_id": "0c6f08251595298c13d302c3bf90326adaefa02c",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pencils",
-        "sub_category_l4": "Mechanical Pencils",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Mechanical Pencil with Lead (Assorted Colour)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/1/21/118fd458-04e0-4236-9229-6c8480a471c7_606525_1.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/1/21/ede1b32a-3766-48b8-a0d0-97cfe9b49d51_606525_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/8/13/bfd31d0d-7ebc-491f-a15e-72c97fc84c07_606525_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/21/d7fd7c89-b8fc-4c5b-892f-7d53ed99793c_606525_4.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/1/21/d1396d82-3215-485a-8fb0-3711501d939d_606525_5.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/12/4/cfa1a6e3-676c-4dda-9e41-d2945bacc05c_606525_6.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/8/13/31399901-8fbc-4af8-bb51-b796f2c41c41_606525_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/13/6368f082-bc48-4d47-9457-acb418fde408_606525_1.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 15,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -386,7 +129,13 @@
       {
         "id": "QMKU6VCYNQ",
         "display_name": "Classmate Octane Blue Ball Pens",
-        "price_mrp": 50,
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 49,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
         "brand": "Classmate",
         "brand_id": "872d9eca4d09f1354942c175ffac13611c020a43",
         "category": "Pens Pencils Highlighters",
@@ -410,39 +159,7 @@
         "unit_of_measure": "pack",
         "weight_in_grams": 5,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Classmate Octane Blue Gel Pen",
-    "brand": "Classmate",
-    "brand_id": "872d9eca4d09f1354942c175ffac13611c020a43",
-    "product_id": "VW91W2G87C",
-    "variations": [
-      {
-        "id": "IYJCCI0FFD",
-        "display_name": "Classmate Octane Blue Gel Pen",
-        "price_mrp": 50,
-        "brand": "Classmate",
-        "brand_id": "872d9eca4d09f1354942c175ffac13611c020a43",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pens",
-        "sub_category_l4": "Gel pen",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Octane Blue Gel Pen",
-        "images": [
-          "n05sbzijszrnlxnzq18a",
-          "etpv3uc7chi1d2h28pi7",
-          "e4nteslew0uezi7itlvh"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 0,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -456,7 +173,13 @@
       {
         "id": "KZ7IAZ0SU7",
         "display_name": "Doms 10 Pieces Ultimate Dark HB/2 Graphite Pencils (1 Eraser & Sharpener included)",
-        "price_mrp": 60,
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 59,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
         "brand": "Doms",
         "brand_id": "ac22b97514a4bfeae0a2c887081767558bb28628",
         "category": "Pens Pencils Highlighters",
@@ -480,74 +203,91 @@
         "unit_of_measure": "pack",
         "weight_in_grams": 80,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Faber-Castell Multi Marker",
-    "brand": "Faber-Castell",
-    "brand_id": "48e7b664e59d5d4de94c917eea115f4917e4ba85",
-    "product_id": "G94GCFVDI6",
+    "display_name": "Reynolds Gel Pen Jiffy Gel Blue",
+    "brand": "Reynolds",
+    "brand_id": "bbd20394f6de9d3f6fe2455384a427643f53e7e2",
+    "product_id": "VS5G9SX0NA",
     "variations": [
       {
-        "id": "Y6KJGI1L2Y",
-        "display_name": "Faber-Castell Multi Marker",
-        "price_mrp": 80,
-        "brand": "Faber-Castell",
-        "brand_id": "48e7b664e59d5d4de94c917eea115f4917e4ba85",
+        "id": "SF6VPR3LJZ",
+        "display_name": "Reynolds Gel Pen Jiffy Gel Blue",
+        "price": {
+          "mrp": 35,
+          "store_price": 35,
+          "offer_price": 31,
+          "unit_level_price": "",
+          "discount_value": 4
+        },
+        "brand": "Reynolds",
+        "brand_id": "bbd20394f6de9d3f6fe2455384a427643f53e7e2",
         "category": "Pens Pencils Highlighters",
         "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Markers",
-        "sub_category_l4": "Temporary",
-        "sub_category_l5": "Assorted",
-        "product_name_without_brand": "Multi Marker",
+        "sub_category_l3": "Pens",
+        "sub_category_l4": "Gel pen",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Gel Pen Jiffy Gel Blue",
         "images": [
-          "d302987d72d59cb97f6cd45f06bc57e9",
-          "NI_CATALOG/IMAGES/CIW/2024/11/12/46d4f958-3d74-48ac-9d76-b9ddad7c7998_14312_2.png",
-          "8c690ee9ead240473e6b86ee40e5ac67",
-          "NI_CATALOG/IMAGES/CIW/2024/11/12/31b8230f-a85b-46fe-ae04-d1b65bb9f1ef_14312_4.png",
-          "083344b19faa4cb274a77c83261f27a6",
-          "NI_CATALOG/IMAGES/CIW/2024/11/12/85cbeca7-fac4-4270-95db-df4fc350cca5_14312_6.jpg"
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/45c6c585-d996-44a4-beed-4c35e9fe3a20_10130_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/42b07d29-a564-44af-ac2d-d07d0a170d86_10130_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/c9030931-52d6-4ec7-8ca0-eaf8e81a2901_10130_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/cef94bde-863f-4315-a266-4c9d8c0a217f_10130_4.jpg"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 pack",
         "unit_of_measure": "pack",
-        "weight_in_grams": 0,
+        "weight_in_grams": 50,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Hauser XO 20 Pack of 3 ( Blue)",
-    "brand": "Hauser",
-    "brand_id": "2c8ea287b728f612a85564f14bdec093d60a8633",
-    "product_id": "2XW2VE4FQN",
+    "display_name": "Cello Technotip Ball Pen (Blue)",
+    "brand": "Cello",
+    "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
+    "product_id": "ZHUUH4B8VT",
     "variations": [
       {
-        "id": "9676N75TN0",
-        "display_name": "Hauser XO 20 Pack of 3 ( Blue)",
-        "price_mrp": 60,
-        "brand": "Hauser",
-        "brand_id": "2c8ea287b728f612a85564f14bdec093d60a8633",
+        "id": "13HIANA00Z",
+        "display_name": "Cello Technotip Ball Pen (Blue)",
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 99,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Cello",
+        "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
         "category": "Pens Pencils Highlighters",
         "super_category": "Stationery Art Hobbies",
         "sub_category_l3": "Pens",
         "sub_category_l4": "Ball pen",
         "sub_category_l5": null,
-        "product_name_without_brand": "XO 20 Pack of 3 ( Blue)",
+        "product_name_without_brand": "Technotip Ball Pen (Blue)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/12/6/3a5698a3-b6ee-438f-9b95-8a92e1c97c91_805908_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/6/c1faebd5-5292-41b0-9b3d-e416a508d9fd_805908_2.png"
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/a419ad5c-06a2-4293-8914-610b8502174b_35294_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/6003c1d3-3d89-41a1-8c09-ebea6c69b50d_35294_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/de00e7e4-1ea6-4f24-85f9-86e056e12e49_35294_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/903b83ba-71f3-4f37-962c-a240e13eb80d_35294_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/70e99323-6f54-479a-9d47-6dfa5ed38c36_35294_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/b28fed82-1624-4cfa-99b0-8e38a2779373_35294_6.png"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 pack",
         "unit_of_measure": "pack",
-        "weight_in_grams": 150,
+        "weight_in_grams": 10,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -561,7 +301,13 @@
       {
         "id": "G8CW3Y21HN",
         "display_name": "Reynolds Jiffy Black Pen",
-        "price_mrp": 35,
+        "price": {
+          "mrp": 35,
+          "store_price": 35,
+          "offer_price": 31,
+          "unit_level_price": "",
+          "discount_value": 4
+        },
         "brand": "Reynolds",
         "brand_id": "bbd20394f6de9d3f6fe2455384a427643f53e7e2",
         "category": "Pens Pencils Highlighters",
@@ -582,6 +328,88 @@
         "unit_of_measure": "pack",
         "weight_in_grams": 5,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pilot V7 Roller Pen (Black)",
+    "brand": "Pilot",
+    "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
+    "product_id": "23GEZYVI6J",
+    "variations": [
+      {
+        "id": "XLT24CU12I",
+        "display_name": "Pilot V7 Roller Pen (Black)",
+        "price": {
+          "mrp": 75,
+          "store_price": 75,
+          "offer_price": 71,
+          "unit_level_price": "",
+          "discount_value": 4
+        },
+        "brand": "Pilot",
+        "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Pens",
+        "sub_category_l4": "Ball Pen",
+        "sub_category_l5": "Black",
+        "product_name_without_brand": "V7 Roller Pen (Black)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/e138cf69-eea4-4b89-a12f-d311b1ed62a1_366555_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/4b73b762-7574-4192-9928-b44b293af3f3_366555_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/9cd5a784-e89d-4190-90d8-af851375b717_366555_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/dddd5e14-1476-496f-8992-1591f65b80d2_366555_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pierre Cardin Black Beauty Metal Ball Pen",
+    "brand": "Pierre Cardin",
+    "brand_id": "ba8e84e5e343ddb4d2b6ca4caf53cf95bf26de76",
+    "product_id": "LHARRCICRI",
+    "variations": [
+      {
+        "id": "J34V6VDURA",
+        "display_name": "Pierre Cardin Black Beauty Metal Ball Pen",
+        "price": {
+          "mrp": 165,
+          "store_price": 165,
+          "offer_price": 149,
+          "unit_level_price": "",
+          "discount_value": 16
+        },
+        "brand": "Pierre Cardin",
+        "brand_id": "ba8e84e5e343ddb4d2b6ca4caf53cf95bf26de76",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Pens",
+        "sub_category_l4": "Ball Pen",
+        "sub_category_l5": "Black",
+        "product_name_without_brand": "Black Beauty Metal Ball Pen",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/3/ffa2f47a-854f-46f3-857e-6cf70d2991e2_319139_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/3/c81b6d80-fbdb-4bb1-80df-394c0157dadb_319139_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/3/9352f216-4caa-47e7-a2b4-24809a541dfa_319139_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -595,7 +423,13 @@
       {
         "id": "8UDJZ7QS8Q",
         "display_name": "Uniball Shalaku M7-228 Assorted Body Mechanical Pencil",
-        "price_mrp": 60,
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 59,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
         "brand": "Uniball",
         "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
         "category": "Pens Pencils Highlighters",
@@ -616,32 +450,82 @@
         "unit_of_measure": "Piece",
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Faber-Castell 6 Pieces Drawing Pencils (Assorted)",
-    "brand": "Faber-Castell",
-    "brand_id": "48e7b664e59d5d4de94c917eea115f4917e4ba85",
-    "product_id": "03XZCSB6AI",
+    "display_name": "Pilot V7 Roller Pen (Blue)",
+    "brand": "Pilot",
+    "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
+    "product_id": "1I814KK0EO",
     "variations": [
       {
-        "id": "GL06709MCN",
-        "display_name": "Faber-Castell 6 Pieces Drawing Pencils (Assorted)",
-        "price_mrp": 50,
-        "brand": "Faber-Castell",
-        "brand_id": "48e7b664e59d5d4de94c917eea115f4917e4ba85",
+        "id": "MTYLOB2DLG",
+        "display_name": "Pilot V7 Roller Pen (Blue)",
+        "price": {
+          "mrp": 75,
+          "store_price": 75,
+          "offer_price": 71,
+          "unit_level_price": "",
+          "discount_value": 4
+        },
+        "brand": "Pilot",
+        "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
         "category": "Pens Pencils Highlighters",
         "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pencils",
-        "sub_category_l4": "Wooden Pencils",
+        "sub_category_l3": "Pens",
+        "sub_category_l4": "Ball pen",
         "sub_category_l5": null,
-        "product_name_without_brand": "6 Pieces Drawing Pencils (Assorted)",
+        "product_name_without_brand": "V7 Roller Pen (Blue)",
         "images": [
-          "jzzlk6drobw6onmf1x1t",
-          "snpo8xqja86cvfpix7ul",
-          "vwcw6x4gv1duka71nmxe"
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/1325cd55-cfdc-4b87-982d-642f2d930bc8_308506_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/40f8ad25-c92d-4ef9-a382-74e8a5d26b76_308506_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/ecd08a80-e467-4fd3-84d0-1c96420f2571_308506_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/dbfcaca1-7307-4be1-ad79-1701af5efdb4_821168_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/837943be-3d85-4fb8-bff3-5fa7180851fa_308506_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Reynolds Trimax Roller Pens (Fine Tip, Blue Ink)",
+    "brand": "Reynolds",
+    "brand_id": "bbd20394f6de9d3f6fe2455384a427643f53e7e2",
+    "product_id": "QZ2IM4HIJJ",
+    "variations": [
+      {
+        "id": "F6S4XJCRH1",
+        "display_name": "Reynolds Trimax Roller Pens (Fine Tip, Blue Ink)",
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 59,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Reynolds",
+        "brand_id": "bbd20394f6de9d3f6fe2455384a427643f53e7e2",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Pens",
+        "sub_category_l4": "Ball pen",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Trimax Roller Pens (Fine Tip, Blue Ink)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/0a250f53-e17e-4b93-86ad-ec6b004ea89d_12799_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/957bd1f0-9ec7-492a-87d5-53724bc1bfb2_12799_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/ab2e5e22-7cb1-42a3-a93f-a7ca874a3100_12799_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/a93de6f5-a303-486e-8f4f-7c8e827ad5d6_12799_4.png"
         ],
         "images_v2": [],
         "quantity": "1",
@@ -649,75 +533,7 @@
         "unit_of_measure": "Piece",
         "weight_in_grams": 1,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Faber-Castell 154805 Text Liner Pen (Assorted)",
-    "brand": "Faber-Castell",
-    "brand_id": "48e7b664e59d5d4de94c917eea115f4917e4ba85",
-    "product_id": "8RZJUGG1QU",
-    "variations": [
-      {
-        "id": "HL42RKA1UB",
-        "display_name": "Faber-Castell 154805 Text Liner Pen (Assorted)",
-        "price_mrp": 125,
-        "brand": "Faber-Castell",
-        "brand_id": "48e7b664e59d5d4de94c917eea115f4917e4ba85",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Highlighters",
-        "sub_category_l4": "Assorted",
-        "sub_category_l5": null,
-        "product_name_without_brand": "154805 Text Liner Pen (Assorted)",
-        "images": [
-          "435fde0693fee979d4cfd45014bd50d3",
-          "NI_CATALOG/IMAGES/CIW/2024/11/12/8122dae8-67ff-4355-aaf0-38445693ec85_13051_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/12/a8e2fca2-03bd-442f-8306-2a812328f790_13051_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/12/baa662ea-7cdf-4b76-b0c0-462b402d2195_13051_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/12/17368ea6-9b10-49fa-b187-b1aa6c3920a4_13051_5.png",
-          "723741e664a871652ec4be18c28246d7"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 0,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Uniball Air Roller Ball Pen (Black)",
-    "brand": "Uniball",
-    "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
-    "product_id": "9FAINH5T0O",
-    "variations": [
-      {
-        "id": "W3L7T0DOK2",
-        "display_name": "Uniball Air Roller Ball Pen (Black)",
-        "price_mrp": 100,
-        "brand": "Uniball",
-        "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pens",
-        "sub_category_l4": "Ball Pen",
-        "sub_category_l5": "Black",
-        "product_name_without_brand": "Air Roller Ball Pen (Black)",
-        "images": [
-          "0de204f4518c67622e45eb3274c62593",
-          "ec45768b09207fd9a59c478d725dedea",
-          "9a38e210d64e695780de7453ee4f03fd"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 45,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -731,7 +547,13 @@
       {
         "id": "ICH2JMFZ36",
         "display_name": "Hauser XO Gel Pen Pack of 5 ( Blue)",
-        "price_mrp": 50,
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 49,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
         "brand": "Hauser",
         "brand_id": "2c8ea287b728f612a85564f14bdec093d60a8633",
         "category": "Pens Pencils Highlighters",
@@ -752,75 +574,49 @@
         "unit_of_measure": "pack",
         "weight_in_grams": 150,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Uniball Blue Eye Ball Pen",
-    "brand": "Uniball",
-    "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
-    "product_id": "4TACDTLO4U",
+    "display_name": "Doms 10 Pieces Fusion X-Tra Super Dark Pencil (1 Eraser cum sharpner & Scale included)",
+    "brand": "Doms",
+    "brand_id": "ac22b97514a4bfeae0a2c887081767558bb28628",
+    "product_id": "NKXISIO3HF",
     "variations": [
       {
-        "id": "QPN0NY7N4F",
-        "display_name": "Uniball Blue Eye Ball Pen",
-        "price_mrp": 80,
-        "brand": "Uniball",
-        "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
+        "id": "96OR56AVJD",
+        "display_name": "Doms 10 Pieces Fusion X-Tra Super Dark Pencil (1 Eraser cum sharpner & Scale included)",
+        "price": {
+          "mrp": 70,
+          "store_price": 70,
+          "offer_price": 69,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Doms",
+        "brand_id": "ac22b97514a4bfeae0a2c887081767558bb28628",
         "category": "Pens Pencils Highlighters",
         "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pens",
-        "sub_category_l4": "Ball pen",
+        "sub_category_l3": "Pencils",
+        "sub_category_l4": "Wooden Pencils",
         "sub_category_l5": null,
-        "product_name_without_brand": "Blue Eye Ball Pen",
+        "product_name_without_brand": "10 Pieces Fusion X-Tra Super Dark Pencil (1 Eraser cum sharpner & Scale included)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/3/1/404d28f2-613a-488f-b9e8-33e5dc0cc6f1_Stationery_GNYM4U4NYX_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/3/1/f9608ffc-2b6c-4441-af38-76446b9e70c9_Stationery_GNYM4U4NYX_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/3/1/bb136e47-48a2-4d6d-a75f-4a4cc7b92e8e_Stationery_GNYM4U4NYX_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/3/1/9b6589eb-7183-486d-af90-39a9cac047f3_Stationery_GNYM4U4NYX_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/3/1/08a07dcf-7bb7-4ff4-977f-c706a2b56f7f_Stationery_GNYM4U4NYX_AL4.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Pentonic B-Rt Black Ink Ball Pen",
-    "brand": "Pentonic",
-    "brand_id": "64c911399a6c8792527a6591b47f6b80ffd89852",
-    "product_id": "TG442Z2U6E",
-    "variations": [
-      {
-        "id": "NLFTPOZ1L4",
-        "display_name": "Pentonic B-Rt Black Ink Ball Pen",
-        "price_mrp": 60,
-        "brand": "Pentonic",
-        "brand_id": "64c911399a6c8792527a6591b47f6b80ffd89852",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pens",
-        "sub_category_l4": "Ball Pen",
-        "sub_category_l5": "Black",
-        "product_name_without_brand": "B-Rt Black Ink Ball Pen",
-        "images": [
-          "0c50fbe68e537c14dd69a982c433d48e",
-          "3878a59e57800dce619e2589f6e5f3d2",
-          "be8d377cf1eca04108d36b4e56c57ca5",
-          "a85f312b2a696d4cbcad96af9a869595"
+          "2bb31daf6edbf5014339adb9eb9896fa",
+          "a842b8f51e83987dc49d65f087a35fb9",
+          "aecf9b6563b0fd057f02a0d205272f20",
+          "47f8f9f1d716c48afad85c38d3cec8f9",
+          "4ea5462750b187617618bd44e170c4f8"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 pack",
         "unit_of_measure": "pack",
-        "weight_in_grams": 38,
+        "weight_in_grams": 0,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -834,7 +630,13 @@
       {
         "id": "0XTWLYR28B",
         "display_name": "Uniball Click Gel Black Ink Pen",
-        "price_mrp": 100,
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 89,
+          "unit_level_price": "",
+          "discount_value": 11
+        },
         "brand": "Uniball",
         "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
         "category": "Pens Pencils Highlighters",
@@ -856,140 +658,79 @@
         "unit_of_measure": "pack",
         "weight_in_grams": 2,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Pilot Hi-Techpoint 05 Roller Pen (Black)",
-    "brand": "Pilot",
-    "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
-    "product_id": "KPPU741OP0",
+    "display_name": "Classmate Octane Blue Gel Pen",
+    "brand": "Classmate",
+    "brand_id": "872d9eca4d09f1354942c175ffac13611c020a43",
+    "product_id": "VW91W2G87C",
     "variations": [
       {
-        "id": "XILRWTC4B5",
-        "display_name": "Pilot Hi-Techpoint 05 Roller Pen (Black)",
-        "price_mrp": 50,
-        "brand": "Pilot",
-        "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
+        "id": "IYJCCI0FFD",
+        "display_name": "Classmate Octane Blue Gel Pen",
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 49,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Classmate",
+        "brand_id": "872d9eca4d09f1354942c175ffac13611c020a43",
         "category": "Pens Pencils Highlighters",
         "super_category": "Stationery Art Hobbies",
         "sub_category_l3": "Pens",
-        "sub_category_l4": "Ball Pen",
-        "sub_category_l5": "Black",
-        "product_name_without_brand": "Hi-Techpoint 05 Roller Pen (Black)",
+        "sub_category_l4": "Gel pen",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Octane Blue Gel Pen",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/74b6c074-0e38-40c3-9ef5-d41a4c076b21_566071_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/f2af24c7-0dd8-4a79-9107-416276ad40cd_566071_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/f8430c07-bf9e-420e-8be5-6b18cdce4a42_566071_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/b358926d-d05b-425b-8b33-22f91d7344b0_566071_5.png"
+          "n05sbzijszrnlxnzq18a",
+          "etpv3uc7chi1d2h28pi7",
+          "e4nteslew0uezi7itlvh"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 pack",
         "unit_of_measure": "pack",
-        "weight_in_grams": 100,
+        "weight_in_grams": 0,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Doms 10 Pieces A1 HB Graphite Pencils (1 Eraser & Sharpener included)",
-    "brand": "Doms",
-    "brand_id": "ac22b97514a4bfeae0a2c887081767558bb28628",
-    "product_id": "153LO1H1U7",
+    "display_name": "Faber-Castell 6 Pieces Drawing Pencils (Assorted)",
+    "brand": "Faber-Castell",
+    "brand_id": "48e7b664e59d5d4de94c917eea115f4917e4ba85",
+    "product_id": "03XZCSB6AI",
     "variations": [
       {
-        "id": "Q5D10J5VW5",
-        "display_name": "Doms 10 Pieces A1 HB Graphite Pencils (1 Eraser & Sharpener included)",
-        "price_mrp": 50,
-        "brand": "Doms",
-        "brand_id": "ac22b97514a4bfeae0a2c887081767558bb28628",
+        "id": "GL06709MCN",
+        "display_name": "Faber-Castell 6 Pieces Drawing Pencils (Assorted)",
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 49,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Faber-Castell",
+        "brand_id": "48e7b664e59d5d4de94c917eea115f4917e4ba85",
         "category": "Pens Pencils Highlighters",
         "super_category": "Stationery Art Hobbies",
         "sub_category_l3": "Pencils",
         "sub_category_l4": "Wooden Pencils",
         "sub_category_l5": null,
-        "product_name_without_brand": "10 Pieces A1 HB Graphite Pencils (1 Eraser & Sharpener included)",
+        "product_name_without_brand": "6 Pieces Drawing Pencils (Assorted)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/565b4237-9d50-408e-9753-3bbb9cfb39e3_38977_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/1ce7a230-6a18-4479-bd40-0b9243ee9721_38977_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/f4df0e41-b31a-4740-8920-9a42270586b9_38977_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/f2c6b0b4-30bb-4bde-9d50-d29cf8dcf2bc_38977_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/17796c5e-30a6-4293-bc74-452ed81f3957_38977_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/437ef22e-4c7a-48e2-8053-8b7b6e220164_38977_6.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/bd6e3710-2280-4de4-a415-6954e704a0c4_38977_7.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/7bac54e4-eab2-4ada-afd4-7463dba1adeb_38977_8.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 70,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Apsara Aboslute Premium Pencils (Extra Strong, Extra Dark)",
-    "brand": "Apsara",
-    "brand_id": "19d1efaca49349e54fb2406ae9419e770a0b6852",
-    "product_id": "4Y8Q7KT95N",
-    "variations": [
-      {
-        "id": "D43TOPQIGO",
-        "display_name": "Apsara Aboslute Premium Pencils (Extra Strong, Extra Dark)",
-        "price_mrp": 80,
-        "brand": "Apsara",
-        "brand_id": "19d1efaca49349e54fb2406ae9419e770a0b6852",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pencils",
-        "sub_category_l4": "Wooden Pencils",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Aboslute Premium Pencils (Extra Strong, Extra Dark)",
-        "images": [
-          "fsaqzme6jsuklqwsxchz",
-          "mzuchvsbads7ria2lbo5",
-          "c7bq6b1zb12ziscw46y7"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 10,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Uniball Black Eye Ball Pen",
-    "brand": "Uniball",
-    "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
-    "product_id": "40L68SQ4RH",
-    "variations": [
-      {
-        "id": "RM20AZ9DBF",
-        "display_name": "Uniball Black Eye Ball Pen",
-        "price_mrp": 80,
-        "brand": "Uniball",
-        "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pens",
-        "sub_category_l4": "Ball Pen",
-        "sub_category_l5": "Black",
-        "product_name_without_brand": "Black Eye Ball Pen",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/11/12/37aa6032-531e-4680-8208-ff2047a51a2b_35516_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/12/adb2b0cd-4190-4fd0-9ca5-0e6ea806ea09_35516_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/12/1c908fce-bc31-4baa-b84a-56626e0c9ba5_35516_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/12/35ebae15-207a-4f81-b385-6a4cbfaaa892_35516_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/12/8677fcf1-e899-4cf8-9653-e5b60d0e9afe_35516_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/12/7e946f72-e1f2-4b2a-859c-6f281e235d50_35516_6.png"
+          "jzzlk6drobw6onmf1x1t",
+          "snpo8xqja86cvfpix7ul",
+          "vwcw6x4gv1duka71nmxe"
         ],
         "images_v2": [],
         "quantity": "1",
@@ -997,78 +738,49 @@
         "unit_of_measure": "Piece",
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Nataraj Red & Black Pencil (1 Pack 10 Pieces)",
-    "brand": "Nataraj",
-    "brand_id": "2002d0d229e81cb11fd45345cd52adecc5303140",
-    "product_id": "LO6RJ2KU3P",
+    "display_name": "Uniball Blue Eye Ball Pen",
+    "brand": "Uniball",
+    "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
+    "product_id": "4TACDTLO4U",
     "variations": [
       {
-        "id": "ATOTTYD6CD",
-        "display_name": "Nataraj Red & Black Pencil (1 Pack 10 Pieces)",
-        "price_mrp": 50,
-        "brand": "Nataraj",
-        "brand_id": "2002d0d229e81cb11fd45345cd52adecc5303140",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pencils",
-        "sub_category_l4": "Wooden Pencils",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Red & Black Pencil (1 Pack 10 Pieces)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/5/9/185d1be8-0ddb-466b-8ef4-1ed0127f39b1_Stationery_LYTY59HK51_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/9/012ec45d-3a0a-429f-a833-2337ead362a0_Stationery_LYTY59HK51_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/9/36629893-be64-4f77-96e2-89182cf69657_Stationery_LYTY59HK51_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/9/bff3820f-3c86-4be7-af96-1b2cf28bfef9_Stationery_LYTY59HK51_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/9/cc72e302-d023-47d4-98b6-0ab424a43114_Stationery_LYTY59HK51_AL4.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 10,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Pilot Frixion Clicker Fine Point Pen (0.7mm, Blue Ink)",
-    "brand": "Pilot",
-    "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
-    "product_id": "CDTBK3TICX",
-    "variations": [
-      {
-        "id": "2748WXDPVD",
-        "display_name": "Pilot Frixion Clicker Fine Point Pen (0.7mm, Blue Ink)",
-        "price_mrp": 100,
-        "brand": "Pilot",
-        "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
+        "id": "QPN0NY7N4F",
+        "display_name": "Uniball Blue Eye Ball Pen",
+        "price": {
+          "mrp": 80,
+          "store_price": 80,
+          "offer_price": 69,
+          "unit_level_price": "",
+          "discount_value": 11
+        },
+        "brand": "Uniball",
+        "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
         "category": "Pens Pencils Highlighters",
         "super_category": "Stationery Art Hobbies",
         "sub_category_l3": "Pens",
         "sub_category_l4": "Ball pen",
         "sub_category_l5": null,
-        "product_name_without_brand": "Frixion Clicker Fine Point Pen (0.7mm, Blue Ink)",
+        "product_name_without_brand": "Blue Eye Ball Pen",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/35d7407b-ef2a-44ba-8e55-99a73c497112_341109_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/f5d88ab0-0d06-4132-a1df-ee6fbfa5bc51_341109_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/4f8517ac-408e-4b0b-8def-2a46d6587e3e_341109_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/5556f235-9e71-48c3-b0f7-08cc39b9e0ee_341109_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/a369d8d8-0a42-4339-bbdb-9ee7cc1e98e7_341109_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/58e4eca6-8211-48da-b848-57937fa141f7_341109_6.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/62883fe2-0a8b-4c1e-ad53-7a99beb7c3cd_341109_7.png"
+          "NI_CATALOG/IMAGES/CIW/2024/3/1/404d28f2-613a-488f-b9e8-33e5dc0cc6f1_Stationery_GNYM4U4NYX_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/1/f9608ffc-2b6c-4441-af38-76446b9e70c9_Stationery_GNYM4U4NYX_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/1/bb136e47-48a2-4d6d-a75f-4a4cc7b92e8e_Stationery_GNYM4U4NYX_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/1/9b6589eb-7183-486d-af90-39a9cac047f3_Stationery_GNYM4U4NYX_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/1/08a07dcf-7bb7-4ff4-977f-c706a2b56f7f_Stationery_GNYM4U4NYX_AL4.png"
         ],
         "images_v2": [],
         "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 100,
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -1082,7 +794,13 @@
       {
         "id": "3KY7FZ8BT2",
         "display_name": "Pentonic Black Ink Gel Pen",
-        "price_mrp": 120,
+        "price": {
+          "mrp": 120,
+          "store_price": 120,
+          "offer_price": 109,
+          "unit_level_price": "",
+          "discount_value": 11
+        },
         "brand": "Pentonic",
         "brand_id": "64c911399a6c8792527a6591b47f6b80ffd89852",
         "category": "Pens Pencils Highlighters",
@@ -1105,6 +823,173 @@
         "unit_of_measure": "pack",
         "weight_in_grams": 142,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Faber-Castell 154805 Text Liner Pen (Assorted)",
+    "brand": "Faber-Castell",
+    "brand_id": "48e7b664e59d5d4de94c917eea115f4917e4ba85",
+    "product_id": "8RZJUGG1QU",
+    "variations": [
+      {
+        "id": "HL42RKA1UB",
+        "display_name": "Faber-Castell 154805 Text Liner Pen (Assorted)",
+        "price": {
+          "mrp": 125,
+          "store_price": 125,
+          "offer_price": 119,
+          "unit_level_price": "",
+          "discount_value": 6
+        },
+        "brand": "Faber-Castell",
+        "brand_id": "48e7b664e59d5d4de94c917eea115f4917e4ba85",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Highlighters",
+        "sub_category_l4": "Assorted",
+        "sub_category_l5": null,
+        "product_name_without_brand": "154805 Text Liner Pen (Assorted)",
+        "images": [
+          "435fde0693fee979d4cfd45014bd50d3",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/8122dae8-67ff-4355-aaf0-38445693ec85_13051_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/a8e2fca2-03bd-442f-8306-2a812328f790_13051_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/baa662ea-7cdf-4b76-b0c0-462b402d2195_13051_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/17368ea6-9b10-49fa-b187-b1aa6c3920a4_13051_5.png",
+          "723741e664a871652ec4be18c28246d7"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 0,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Hauser Sonic Gel Pen Pack of 5 ( 3 Blue + 2 Black )",
+    "brand": "Hauser",
+    "brand_id": "2c8ea287b728f612a85564f14bdec093d60a8633",
+    "product_id": "3GPSOBXB97",
+    "variations": [
+      {
+        "id": "MGMVQGYB7Y",
+        "display_name": "Hauser Sonic Gel Pen Pack of 5 ( 3 Blue + 2 Black )",
+        "price": {
+          "mrp": 75,
+          "store_price": 75,
+          "offer_price": 69,
+          "unit_level_price": "",
+          "discount_value": 6
+        },
+        "brand": "Hauser",
+        "brand_id": "2c8ea287b728f612a85564f14bdec093d60a8633",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Pens",
+        "sub_category_l4": "Gel pen",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Sonic Gel Pen Pack of 5 ( 3 Blue + 2 Black )",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/6/871a473f-bd99-4f89-9d54-4d9d38c615cd_826606_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/6/45a5004d-7081-43cd-a25e-df4b7a3e4012_826606_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/6/e8782367-d84f-4d05-948d-f6557bf2a3c3_826606_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/6/259a4a79-0a0d-4099-be65-7cc04273f79e_826606_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Hauser XO 20 Pack of 3 ( Blue)",
+    "brand": "Hauser",
+    "brand_id": "2c8ea287b728f612a85564f14bdec093d60a8633",
+    "product_id": "2XW2VE4FQN",
+    "variations": [
+      {
+        "id": "9676N75TN0",
+        "display_name": "Hauser XO 20 Pack of 3 ( Blue)",
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 59,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Hauser",
+        "brand_id": "2c8ea287b728f612a85564f14bdec093d60a8633",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Pens",
+        "sub_category_l4": "Ball pen",
+        "sub_category_l5": null,
+        "product_name_without_brand": "XO 20 Pack of 3 ( Blue)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/6/3a5698a3-b6ee-438f-9b95-8a92e1c97c91_805908_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/6/c1faebd5-5292-41b0-9b3d-e416a508d9fd_805908_2.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Cello Butterflow Simply Blue Pen",
+    "brand": "Cello",
+    "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
+    "product_id": "1ZC5A5LC6A",
+    "variations": [
+      {
+        "id": "PRXH24U5PH",
+        "display_name": "Cello Butterflow Simply Blue Pen",
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 49,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Cello",
+        "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Pens",
+        "sub_category_l4": "Ball pen",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Butterflow Simply Blue Pen",
+        "images": [
+          "00e704297b808feb5d863d84497bc78c",
+          "29e44976e86dcea9425f2572abaa55cf",
+          "3a48ef6418fad45e0f6bf8ef554f11f9",
+          "9e63303efc25198c35fb7405ff4b620a",
+          "b2d8346f5412c259d6067b271a4a1ab1",
+          "3eb3e3352e571ac97f412ad79245d51d"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 0,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -1118,7 +1003,13 @@
       {
         "id": "8NXKVQQSFJ",
         "display_name": "Cello Whitemate Assorted Markers With Duster",
-        "price_mrp": 225,
+        "price": {
+          "mrp": 225,
+          "store_price": 225,
+          "offer_price": 189,
+          "unit_level_price": "",
+          "discount_value": 36
+        },
         "brand": "Cello",
         "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
         "category": "Pens Pencils Highlighters",
@@ -1141,111 +1032,7 @@
         "unit_of_measure": "pack",
         "weight_in_grams": 152,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Doms 10 Pieces Fusion X-Tra Super Dark Pencil (1 Eraser cum sharpner & Scale included)",
-    "brand": "Doms",
-    "brand_id": "ac22b97514a4bfeae0a2c887081767558bb28628",
-    "product_id": "NKXISIO3HF",
-    "variations": [
-      {
-        "id": "96OR56AVJD",
-        "display_name": "Doms 10 Pieces Fusion X-Tra Super Dark Pencil (1 Eraser cum sharpner & Scale included)",
-        "price_mrp": 70,
-        "brand": "Doms",
-        "brand_id": "ac22b97514a4bfeae0a2c887081767558bb28628",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pencils",
-        "sub_category_l4": "Wooden Pencils",
-        "sub_category_l5": null,
-        "product_name_without_brand": "10 Pieces Fusion X-Tra Super Dark Pencil (1 Eraser cum sharpner & Scale included)",
-        "images": [
-          "2bb31daf6edbf5014339adb9eb9896fa",
-          "a842b8f51e83987dc49d65f087a35fb9",
-          "aecf9b6563b0fd057f02a0d205272f20",
-          "47f8f9f1d716c48afad85c38d3cec8f9",
-          "4ea5462750b187617618bd44e170c4f8"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 0,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Linc Ocean Blue Ink Gel Pen",
-    "brand": "Linc",
-    "brand_id": "31fd2c437663d83c31e8bcc12e35c62e6d19f4c4",
-    "product_id": "1BN657Q585",
-    "variations": [
-      {
-        "id": "J02QCDY0L7",
-        "display_name": "Linc Ocean Blue Ink Gel Pen",
-        "price_mrp": 100,
-        "brand": "Linc",
-        "brand_id": "31fd2c437663d83c31e8bcc12e35c62e6d19f4c4",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pens",
-        "sub_category_l4": "Gel pen",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Ocean Blue Ink Gel Pen",
-        "images": [
-          "1f63e84ca42112f4ff30ccd9e9143e3b",
-          "0977b0593ed743771756eb8c46a95451",
-          "eea4714a92afc55d9c831095a9efd1b4",
-          "e619c893d45cc62a01f35f7e2e734c01",
-          "108fa28e82c8b7ec51442d967763fbc9"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 120,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Parker Vector Special Edition Roller Ball Pen (Chrome Trim With Parker Keychain Gift Set)",
-    "brand": "Parker",
-    "brand_id": "8d6169967020e969729f0b3a75218955a47ee65b",
-    "product_id": "4CJ2IBB341",
-    "variations": [
-      {
-        "id": "3QWO88LCGV",
-        "display_name": "Parker Vector Special Edition Roller Ball Pen (Chrome Trim With Parker Keychain Gift Set)",
-        "price_mrp": 530,
-        "brand": "Parker",
-        "brand_id": "8d6169967020e969729f0b3a75218955a47ee65b",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pens",
-        "sub_category_l4": "Ball pen",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Vector Special Edition Roller Ball Pen (Chrome Trim With Parker Keychain Gift Set)",
-        "images": [
-          "4b83775d102e959b09d780add4fdfcb5",
-          "NI_CATALOG/IMAGES/CIW/2024/5/28/f3c9b984-8ec9-400e-9f66-ffec904b811a_SchoolSuppliesinstamax_6JPB066R81_AL1.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/5/28/38349c06-1725-45f7-9ced-abd34d60462d_SchoolSuppliesinstamax_6JPB066R81_AL2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/5/28/fcbf89a3-d5d8-4cd9-8061-ac4daded89ce_SchoolSuppliesinstamax_6JPB066R81_AL3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/5/28/368ab0a0-92a1-4018-88ab-f7fbdfe1acda_SchoolSuppliesinstamax_6JPB066R81_AL4.jpg"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 60,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -1259,7 +1046,13 @@
       {
         "id": "48HM4Q83GF",
         "display_name": "Parker Vector Standard Ball Pen (Black)",
-        "price_mrp": 370,
+        "price": {
+          "mrp": 370,
+          "store_price": 370,
+          "offer_price": 339,
+          "unit_level_price": "",
+          "discount_value": 31
+        },
         "brand": "Parker",
         "brand_id": "8d6169967020e969729f0b3a75218955a47ee65b",
         "category": "Pens Pencils Highlighters",
@@ -1284,6 +1077,255 @@
         "unit_of_measure": "Piece",
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pierre Cardin Officer Set ( Pen + Card Holder)",
+    "brand": "Pierre Cardin",
+    "brand_id": "ba8e84e5e343ddb4d2b6ca4caf53cf95bf26de76",
+    "product_id": "7CQC4LQ7GB",
+    "variations": [
+      {
+        "id": "3NGLWFPWD5",
+        "display_name": "Pierre Cardin Officer Set ( Pen + Card Holder)",
+        "price": {
+          "mrp": 500,
+          "store_price": 500,
+          "offer_price": 459,
+          "unit_level_price": "",
+          "discount_value": 41
+        },
+        "brand": "Pierre Cardin",
+        "brand_id": "ba8e84e5e343ddb4d2b6ca4caf53cf95bf26de76",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Pens",
+        "sub_category_l4": "Ball pen",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Officer Set ( Pen + Card Holder)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/13/1662dba9-c6ca-4645-b20d-805bfd8928e0_656526_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/13/58301ed9-ff21-4302-af04-f5a604b36de2_656526_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/13/f2610ef1-2361-4e4f-87d8-aed0f693df9a_656526_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Apsara 10 Pieces Matt Magic 2.0 Pencil Set",
+    "brand": "Apsara",
+    "brand_id": "19d1efaca49349e54fb2406ae9419e770a0b6852",
+    "product_id": "9YX88ZHUUV",
+    "variations": [
+      {
+        "id": "OITJBZYOLJ",
+        "display_name": "Apsara 10 Pieces Matt Magic 2.0 Pencil Set",
+        "price": {
+          "mrp": 70,
+          "store_price": 70,
+          "offer_price": 69,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Apsara",
+        "brand_id": "19d1efaca49349e54fb2406ae9419e770a0b6852",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Pencils",
+        "sub_category_l4": "Wooden Pencils",
+        "sub_category_l5": null,
+        "product_name_without_brand": "10 Pieces Matt Magic 2.0 Pencil Set",
+        "images": [
+          "5872e235ffeaecafd9a5ff7adfa6eaf5",
+          "208294de24c4aa4499839903325b48b2",
+          "NI_CATALOG/IMAGES/CIW/2024/11/9/958f28dc-12ef-4932-ac2f-7cf2bb39ab28_29834_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/9/9a7f34e7-18c0-48b7-ba90-e3bd399a6448_29834_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/9/d2c60413-d905-4248-98da-237ba662190b_29834_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 750,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Uniball Black Eye Ball Pen",
+    "brand": "Uniball",
+    "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
+    "product_id": "40L68SQ4RH",
+    "variations": [
+      {
+        "id": "RM20AZ9DBF",
+        "display_name": "Uniball Black Eye Ball Pen",
+        "price": {
+          "mrp": 80,
+          "store_price": 80,
+          "offer_price": 69,
+          "unit_level_price": "",
+          "discount_value": 11
+        },
+        "brand": "Uniball",
+        "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Pens",
+        "sub_category_l4": "Ball Pen",
+        "sub_category_l5": "Black",
+        "product_name_without_brand": "Black Eye Ball Pen",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/37aa6032-531e-4680-8208-ff2047a51a2b_35516_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/adb2b0cd-4190-4fd0-9ca5-0e6ea806ea09_35516_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/1c908fce-bc31-4baa-b84a-56626e0c9ba5_35516_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/35ebae15-207a-4f81-b385-6a4cbfaaa892_35516_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/8677fcf1-e899-4cf8-9653-e5b60d0e9afe_35516_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/7e946f72-e1f2-4b2a-859c-6f281e235d50_35516_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pentonic Blue Ink Ball Pens (10 Pieces)",
+    "brand": "Pentonic",
+    "brand_id": "64c911399a6c8792527a6591b47f6b80ffd89852",
+    "product_id": "8DNRL8OP63",
+    "variations": [
+      {
+        "id": "HG2VJJXW0I",
+        "display_name": "Pentonic Blue Ink Ball Pens (10 Pieces)",
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 89,
+          "unit_level_price": "",
+          "discount_value": 11
+        },
+        "brand": "Pentonic",
+        "brand_id": "64c911399a6c8792527a6591b47f6b80ffd89852",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Pens",
+        "sub_category_l4": "Ball pen",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Blue Ink Ball Pens (10 Pieces)",
+        "images": [
+          "0c4bf27b85409339a586c69d4c83fdaf",
+          "a9aecfcfa022fac73d4bace77c0133c2",
+          "b13e1426c3269556c665b9bf7abbb128"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 50,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Nataraj Red & Black Pencil (1 Pack 10 Pieces)",
+    "brand": "Nataraj",
+    "brand_id": "2002d0d229e81cb11fd45345cd52adecc5303140",
+    "product_id": "LO6RJ2KU3P",
+    "variations": [
+      {
+        "id": "ATOTTYD6CD",
+        "display_name": "Nataraj Red & Black Pencil (1 Pack 10 Pieces)",
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 49,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Nataraj",
+        "brand_id": "2002d0d229e81cb11fd45345cd52adecc5303140",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Pencils",
+        "sub_category_l4": "Wooden Pencils",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Red & Black Pencil (1 Pack 10 Pieces)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/9/185d1be8-0ddb-466b-8ef4-1ed0127f39b1_Stationery_LYTY59HK51_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/9/012ec45d-3a0a-429f-a833-2337ead362a0_Stationery_LYTY59HK51_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/9/36629893-be64-4f77-96e2-89182cf69657_Stationery_LYTY59HK51_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/9/bff3820f-3c86-4be7-af96-1b2cf28bfef9_Stationery_LYTY59HK51_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/9/cc72e302-d023-47d4-98b6-0ab424a43114_Stationery_LYTY59HK51_AL4.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 10,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pentonic B-Rt Black Ink Ball Pen",
+    "brand": "Pentonic",
+    "brand_id": "64c911399a6c8792527a6591b47f6b80ffd89852",
+    "product_id": "TG442Z2U6E",
+    "variations": [
+      {
+        "id": "NLFTPOZ1L4",
+        "display_name": "Pentonic B-Rt Black Ink Ball Pen",
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 59,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Pentonic",
+        "brand_id": "64c911399a6c8792527a6591b47f6b80ffd89852",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Pens",
+        "sub_category_l4": "Ball Pen",
+        "sub_category_l5": "Black",
+        "product_name_without_brand": "B-Rt Black Ink Ball Pen",
+        "images": [
+          "0c50fbe68e537c14dd69a982c433d48e",
+          "3878a59e57800dce619e2589f6e5f3d2",
+          "be8d377cf1eca04108d36b4e56c57ca5",
+          "a85f312b2a696d4cbcad96af9a869595"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 38,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -1297,7 +1339,13 @@
       {
         "id": "FDYM8YJ4NX",
         "display_name": "Uniball Gel Pen (Black)",
-        "price_mrp": 110,
+        "price": {
+          "mrp": 110,
+          "store_price": 110,
+          "offer_price": 109,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
         "brand": "Uniball",
         "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
         "category": "Pens Pencils Highlighters",
@@ -1318,68 +1366,85 @@
         "unit_of_measure": "Piece",
         "weight_in_grams": 45,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Hauser Sonic Gel Pen Pack of 5 ( 3 Blue + 2 Black )",
-    "brand": "Hauser",
-    "brand_id": "2c8ea287b728f612a85564f14bdec093d60a8633",
-    "product_id": "3GPSOBXB97",
+    "display_name": "Uniball Air Roller Ball Pen (Blue)",
+    "brand": "Uniball",
+    "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
+    "product_id": "HXK8PQBNR5",
     "variations": [
       {
-        "id": "MGMVQGYB7Y",
-        "display_name": "Hauser Sonic Gel Pen Pack of 5 ( 3 Blue + 2 Black )",
-        "price_mrp": 75,
-        "brand": "Hauser",
-        "brand_id": "2c8ea287b728f612a85564f14bdec093d60a8633",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": "Pens",
-        "sub_category_l4": "Gel pen",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Sonic Gel Pen Pack of 5 ( 3 Blue + 2 Black )",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/12/6/871a473f-bd99-4f89-9d54-4d9d38c615cd_826606_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/6/45a5004d-7081-43cd-a25e-df4b7a3e4012_826606_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/6/e8782367-d84f-4d05-948d-f6557bf2a3c3_826606_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/6/259a4a79-0a0d-4099-be65-7cc04273f79e_826606_4.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 200,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Pilot Hi-Techpoint 05 Roller Pen (Blue)",
-    "brand": "Pilot",
-    "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
-    "product_id": "C6C1AP6B4C",
-    "variations": [
-      {
-        "id": "MT401I5FTJ",
-        "display_name": "Pilot Hi-Techpoint 05 Roller Pen (Blue)",
-        "price_mrp": 50,
-        "brand": "Pilot",
-        "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
+        "id": "TU4OPHFCMR",
+        "display_name": "Uniball Air Roller Ball Pen (Blue)",
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 89,
+          "unit_level_price": "",
+          "discount_value": 11
+        },
+        "brand": "Uniball",
+        "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
         "category": "Pens Pencils Highlighters",
         "super_category": "Stationery Art Hobbies",
         "sub_category_l3": "Pens",
         "sub_category_l4": "Ball pen",
         "sub_category_l5": null,
-        "product_name_without_brand": "Hi-Techpoint 05 Roller Pen (Blue)",
+        "product_name_without_brand": "Air Roller Ball Pen (Blue)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/74b6c074-0e38-40c3-9ef5-d41a4c076b21_566071_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/f2af24c7-0dd8-4a79-9107-416276ad40cd_566071_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/f8430c07-bf9e-420e-8be5-6b18cdce4a42_566071_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/9efe95fe-2254-4122-8fe9-8be0cd5bc45e_566071_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/b358926d-d05b-425b-8b33-22f91d7344b0_566071_5.png"
+          "ca15ee05c897f42bc2903921f3fca137",
+          "9a38e210d64e695780de7453ee4f03fd",
+          "7faac28821171f5469e382197ae2d88a",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/e3e9657a-9d86-40d4-8377-0a7c09c7a04b_59907_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/20386086-b5c7-456d-a600-7d20b2055b72_59907_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/af14cfe5-0d7e-40a5-9517-2400146c4b19_59907_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/19/a6dbae36-f98c-4b75-ac5a-0cdd6231a82d_59907_7.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 45,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pilot Frixion Fine Point Rollerball Pen (0.7mm, Black Ink)",
+    "brand": "Pilot",
+    "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
+    "product_id": "BWRDYV2JUX",
+    "variations": [
+      {
+        "id": "997O5WG0HJ",
+        "display_name": "Pilot Frixion Fine Point Rollerball Pen (0.7mm, Black Ink)",
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 99,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Pilot",
+        "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Pens",
+        "sub_category_l4": "Ball Pen",
+        "sub_category_l5": "Black",
+        "product_name_without_brand": "Frixion Fine Point Rollerball Pen (0.7mm, Black Ink)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/29d549f6-8d1d-4de3-b259-e0d36342f5bf_895960_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/5f8aac56-eb7b-4eaa-a3ae-78f3eaf02f61_895960_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/d361768e-8882-4104-88c3-6db9eda410fa_895960_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/205bc7c5-9187-42b2-bf35-4dd2928e22ab_895960_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/05b0e081-0402-4f61-91b0-a531f34f2e5c_895960_5.png"
         ],
         "images_v2": [],
         "quantity": "1",
@@ -1387,6 +1452,305 @@
         "unit_of_measure": "pack",
         "weight_in_grams": 100,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Parker Vector Special Edition Roller Ball Pen (Chrome Trim With Parker Keychain Gift Set)",
+    "brand": "Parker",
+    "brand_id": "8d6169967020e969729f0b3a75218955a47ee65b",
+    "product_id": "4CJ2IBB341",
+    "variations": [
+      {
+        "id": "3QWO88LCGV",
+        "display_name": "Parker Vector Special Edition Roller Ball Pen (Chrome Trim With Parker Keychain Gift Set)",
+        "price": {
+          "mrp": 530,
+          "store_price": 530,
+          "offer_price": 479,
+          "unit_level_price": "",
+          "discount_value": 51
+        },
+        "brand": "Parker",
+        "brand_id": "8d6169967020e969729f0b3a75218955a47ee65b",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Pens",
+        "sub_category_l4": "Ball pen",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Vector Special Edition Roller Ball Pen (Chrome Trim With Parker Keychain Gift Set)",
+        "images": [
+          "4b83775d102e959b09d780add4fdfcb5",
+          "NI_CATALOG/IMAGES/CIW/2024/5/28/f3c9b984-8ec9-400e-9f66-ffec904b811a_SchoolSuppliesinstamax_6JPB066R81_AL1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/5/28/38349c06-1725-45f7-9ced-abd34d60462d_SchoolSuppliesinstamax_6JPB066R81_AL2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/5/28/fcbf89a3-d5d8-4cd9-8061-ac4daded89ce_SchoolSuppliesinstamax_6JPB066R81_AL3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/5/28/368ab0a0-92a1-4018-88ab-f7fbdfe1acda_SchoolSuppliesinstamax_6JPB066R81_AL4.jpg"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 60,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Linc Ocean Blue Ink Gel Pen",
+    "brand": "Linc",
+    "brand_id": "31fd2c437663d83c31e8bcc12e35c62e6d19f4c4",
+    "product_id": "1BN657Q585",
+    "variations": [
+      {
+        "id": "J02QCDY0L7",
+        "display_name": "Linc Ocean Blue Ink Gel Pen",
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 89,
+          "unit_level_price": "",
+          "discount_value": 11
+        },
+        "brand": "Linc",
+        "brand_id": "31fd2c437663d83c31e8bcc12e35c62e6d19f4c4",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Pens",
+        "sub_category_l4": "Gel pen",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Ocean Blue Ink Gel Pen",
+        "images": [
+          "1f63e84ca42112f4ff30ccd9e9143e3b",
+          "0977b0593ed743771756eb8c46a95451",
+          "eea4714a92afc55d9c831095a9efd1b4",
+          "e619c893d45cc62a01f35f7e2e734c01",
+          "108fa28e82c8b7ec51442d967763fbc9"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 120,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pilot V5 Roller Pen (Blue, 2 Pieces)",
+    "brand": "Pilot",
+    "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
+    "product_id": "61VFRKL27G",
+    "variations": [
+      {
+        "id": "Y166ZXMHPX",
+        "display_name": "Pilot V5 Roller Pen (Blue, 2 Pieces)",
+        "price": {
+          "mrp": 150,
+          "store_price": 150,
+          "offer_price": 149,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Pilot",
+        "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Pens",
+        "sub_category_l4": "Ball pen",
+        "sub_category_l5": null,
+        "product_name_without_brand": "V5 Roller Pen (Blue, 2 Pieces)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/e8ebdefa-5c93-4186-935b-8821571300af_667903_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/5371891a-e3e4-47fe-a838-9feb0054de26_489056_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/ebac8016-26b5-48b0-9b5e-6b9d0a66213f_489056_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/b051e647-c20f-4581-bcf0-02ec09dab502_489056_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/a1f67237-0efe-48d0-8e92-5bddb9220d9e_489056_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/515258fe-ec98-4b72-aaa5-0a3e5de29284_489056_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/085ccca3-1556-499a-8528-bfea4c6ba59e_667903_7.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Apsara Aboslute Premium Pencils (Extra Strong, Extra Dark)",
+    "brand": "Apsara",
+    "brand_id": "19d1efaca49349e54fb2406ae9419e770a0b6852",
+    "product_id": "4Y8Q7KT95N",
+    "variations": [
+      {
+        "id": "D43TOPQIGO",
+        "display_name": "Apsara Aboslute Premium Pencils (Extra Strong, Extra Dark)",
+        "price": {
+          "mrp": 80,
+          "store_price": 80,
+          "offer_price": 79,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Apsara",
+        "brand_id": "19d1efaca49349e54fb2406ae9419e770a0b6852",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Pencils",
+        "sub_category_l4": "Wooden Pencils",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Aboslute Premium Pencils (Extra Strong, Extra Dark)",
+        "images": [
+          "fsaqzme6jsuklqwsxchz",
+          "mzuchvsbads7ria2lbo5",
+          "c7bq6b1zb12ziscw46y7"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 10,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Reynolds Jetter Classic Blister (Blue)",
+    "brand": "Reynolds",
+    "brand_id": "bbd20394f6de9d3f6fe2455384a427643f53e7e2",
+    "product_id": "Y5OZSCRHMV",
+    "variations": [
+      {
+        "id": "OHXT8TJMPI",
+        "display_name": "Reynolds Jetter Classic Blister (Blue)",
+        "price": {
+          "mrp": 75,
+          "store_price": 75,
+          "offer_price": 69,
+          "unit_level_price": "",
+          "discount_value": 6
+        },
+        "brand": "Reynolds",
+        "brand_id": "bbd20394f6de9d3f6fe2455384a427643f53e7e2",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": "Pens",
+        "sub_category_l4": "Ball pen",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Jetter Classic Blister (Blue)",
+        "images": [
+          "13a5621be9ed90f1ea913aced0d460b2",
+          "2ec83694d2143102391a67a66be2c257",
+          "b0e147d4930dfaab8b0649d8ee6de3b6",
+          "74378ec15f6aa0fe865b262e161f4984"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 3,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pilot Frixion Clicker Fine Point Pen (0.7mm, Blue Ink)",
+    "brand": "Pilot",
+    "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
+    "product_id": "CDTBK3TICX",
+    "variations": [
+      {
+        "id": "2748WXDPVD",
+        "display_name": "Pilot Frixion Clicker Fine Point Pen (0.7mm, Blue Ink)",
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 99,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Pilot",
+        "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Frixion Clicker Fine Point Pen (0.7mm, Blue Ink)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/35d7407b-ef2a-44ba-8e55-99a73c497112_341109_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/f5d88ab0-0d06-4132-a1df-ee6fbfa5bc51_341109_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/4f8517ac-408e-4b0b-8def-2a46d6587e3e_341109_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/5556f235-9e71-48c3-b0f7-08cc39b9e0ee_341109_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/a369d8d8-0a42-4339-bbdb-9ee7cc1e98e7_341109_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/58e4eca6-8211-48da-b848-57937fa141f7_341109_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/62883fe2-0a8b-4c1e-ad53-7a99beb7c3cd_341109_7.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 pack",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": null,
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Doms 10 Pieces A1 HB Graphite Pencils (1 Eraser & Sharpener included)",
+    "brand": "Doms",
+    "brand_id": "ac22b97514a4bfeae0a2c887081767558bb28628",
+    "product_id": "153LO1H1U7",
+    "variations": [
+      {
+        "id": "Q5D10J5VW5",
+        "display_name": "Doms 10 Pieces A1 HB Graphite Pencils (1 Eraser & Sharpener included)",
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 49,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Doms",
+        "brand_id": "ac22b97514a4bfeae0a2c887081767558bb28628",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "10 Pieces A1 HB Graphite Pencils (1 Eraser & Sharpener included)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/565b4237-9d50-408e-9753-3bbb9cfb39e3_38977_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/1ce7a230-6a18-4479-bd40-0b9243ee9721_38977_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/f4df0e41-b31a-4740-8920-9a42270586b9_38977_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/f2c6b0b4-30bb-4bde-9d50-d29cf8dcf2bc_38977_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/17796c5e-30a6-4293-bc74-452ed81f3957_38977_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/437ef22e-4c7a-48e2-8053-8b7b6e220164_38977_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/bd6e3710-2280-4de4-a415-6954e704a0c4_38977_7.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/7bac54e4-eab2-4ada-afd4-7463dba1adeb_38977_8.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 pack",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": null,
+        "weight_in_grams": 70,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1400,7 +1764,13 @@
       {
         "id": "CR60KKOGI2",
         "display_name": "Reynolds Racer Gel Pouch",
-        "price_mrp": 105,
+        "price": {
+          "mrp": 105,
+          "store_price": 105,
+          "offer_price": 99,
+          "unit_level_price": "",
+          "discount_value": 6
+        },
         "brand": "Reynolds",
         "brand_id": "bbd20394f6de9d3f6fe2455384a427643f53e7e2",
         "category": "Pens Pencils Highlighters",
@@ -1421,93 +1791,27 @@
         "unit_of_measure": null,
         "weight_in_grams": 7,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Uniball Click Gel Blue Ink Pen",
-    "brand": "Uniball",
-    "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
-    "product_id": "3SQ8PO1ZRX",
-    "variations": [
-      {
-        "id": "4TX1D96SR6",
-        "display_name": "Uniball Click Gel Blue Ink Pen",
-        "price_mrp": 100,
-        "brand": "Uniball",
-        "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Click Gel Blue Ink Pen",
-        "images": [
-          "a1dfea3283caf9bf5f8c3fd4fa5f0e82",
-          "237670032d0bd4e4f5365ea61237c4c4",
-          "40a96f1daeed543ae06412454d46ce60",
-          "434bf5a83bff449884528337b7d509aa",
-          "b57601c138549f02efbf1339b8e9a184",
-          "7e2837f269d318b0f076d924f1049e3b"
-        ],
-        "images_v2": null,
-        "quantity": "1 pack",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": null,
-        "weight_in_grams": 2,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Uniball Air Roller Ball Pen (Blue)",
-    "brand": "Uniball",
-    "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
-    "product_id": "HXK8PQBNR5",
-    "variations": [
-      {
-        "id": "TU4OPHFCMR",
-        "display_name": "Uniball Air Roller Ball Pen (Blue)",
-        "price_mrp": 100,
-        "brand": "Uniball",
-        "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Air Roller Ball Pen (Blue)",
-        "images": [
-          "ca15ee05c897f42bc2903921f3fca137",
-          "9a38e210d64e695780de7453ee4f03fd",
-          "7faac28821171f5469e382197ae2d88a",
-          "NI_CATALOG/IMAGES/CIW/2024/11/19/e3e9657a-9d86-40d4-8377-0a7c09c7a04b_59907_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/19/20386086-b5c7-456d-a600-7d20b2055b72_59907_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/19/af14cfe5-0d7e-40a5-9517-2400146c4b19_59907_6.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/19/a6dbae36-f98c-4b75-ac5a-0cdd6231a82d_59907_7.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 45,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Cello Smarty Mechanical Pencil",
+    "display_name": "Cello Technotip Ball Pen (Black)",
     "brand": "Cello",
     "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
-    "product_id": "0GJHVD1IJL",
+    "product_id": "S72TXK2343",
     "variations": [
       {
-        "id": "8JXMYPSHBF",
-        "display_name": "Cello Smarty Mechanical Pencil",
-        "price_mrp": 35,
+        "id": "ST4XBTSBWK",
+        "display_name": "Cello Technotip Ball Pen (Black)",
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 99,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
         "brand": "Cello",
         "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
         "category": "Pens Pencils Highlighters",
@@ -1515,55 +1819,20 @@
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Smarty Mechanical Pencil",
+        "product_name_without_brand": "Technotip Ball Pen (Black)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/77c99c17-cd6c-43c2-bd37-c4dbec38db27_14059_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/bc14f24e-1175-404d-ba61-9f81e3ea7bdb_14059_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/67a2f68d-16ae-4d6e-99ae-034875a36b0a_14059_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/4c9264cb-e5c7-45ee-9032-a3d072a08005_14059_4.png"
+          "a9d5d7049ed8529a43b6f70bd89af8ea",
+          "40832553c0fc49cc6a520fb4e9630008",
+          "9b6e653ab6ed38483458ee8e144f1965",
+          "6f6130de940f81f28c31d05016a07af0"
         ],
         "images_v2": null,
         "quantity": "1 pack",
         "sku_quantity_with_combo": "1 pack",
         "unit_of_measure": null,
-        "weight_in_grams": 0,
+        "weight_in_grams": 10,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Cello Aqua Blue Gel Pen",
-    "brand": "Cello",
-    "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
-    "product_id": "TZ1Q8VVP3B",
-    "variations": [
-      {
-        "id": "ZNCGPV32DH",
-        "display_name": "Cello Aqua Blue Gel Pen",
-        "price_mrp": 50,
-        "brand": "Cello",
-        "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Aqua Blue Gel Pen",
-        "images": [
-          "1f66de33173ed77d0c7e3c907b39f762",
-          "1c20f0749c77622c256cdc0ab7b9e55b",
-          "0a1d8025330d10170a40a0d7fda7c92d",
-          "8378567a726f6c88a6ff6bbc5a28b4f8",
-          "fc186ec7392465a207e7897b9f87baef",
-          "41e96c20ca383f237cc9db65631829ee"
-        ],
-        "images_v2": null,
-        "quantity": "1 pack",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": null,
-        "weight_in_grams": 54,
-        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1577,7 +1846,13 @@
       {
         "id": "7CDD7396U8",
         "display_name": "Doms 10 Pieces Innovative Groove Super Dark Pencil (1 Eraser & Sharpener included)",
-        "price_mrp": 60,
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 59,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
         "brand": "Doms",
         "brand_id": "ac22b97514a4bfeae0a2c887081767558bb28628",
         "category": "Pens Pencils Highlighters",
@@ -1597,55 +1872,27 @@
         "unit_of_measure": null,
         "weight_in_grams": 30,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Cello Mood Gel Pen ( 5 Pieces )",
-    "brand": "Cello",
-    "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
-    "product_id": "B2XM8XV5VM",
-    "variations": [
-      {
-        "id": "6J921MZCMU",
-        "display_name": "Cello Mood Gel Pen ( 5 Pieces )",
-        "price_mrp": 50,
-        "brand": "Cello",
-        "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Mood Gel Pen ( 5 Pieces )",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/4b5fb26b-4f60-4aa3-a027-11267353f206_534723_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/17/7079f23e-a1c2-4bb3-ae72-780b5101ffbb_534723_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/17/628905aa-280d-46e4-8bfe-c0a27deb5609_534723_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/17/c9270a32-a2de-42b8-a53d-7b0f8d84cb42_534723_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/17/187c58ab-f339-4c20-86d1-16ee1bf6fae4_534723_2.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 pack",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": null,
-        "weight_in_grams": 35,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Pilot V5 Roller Pen (Blue, 2 Pieces)",
+    "display_name": "Pilot Hi-Techpoint 05 Roller Pen (Black)",
     "brand": "Pilot",
     "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
-    "product_id": "61VFRKL27G",
+    "product_id": "KPPU741OP0",
     "variations": [
       {
-        "id": "Y166ZXMHPX",
-        "display_name": "Pilot V5 Roller Pen (Blue, 2 Pieces)",
-        "price_mrp": 150,
+        "id": "XILRWTC4B5",
+        "display_name": "Pilot Hi-Techpoint 05 Roller Pen (Black)",
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 49,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
         "brand": "Pilot",
         "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
         "category": "Pens Pencils Highlighters",
@@ -1653,15 +1900,12 @@
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "V5 Roller Pen (Blue, 2 Pieces)",
+        "product_name_without_brand": "Hi-Techpoint 05 Roller Pen (Black)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/e8ebdefa-5c93-4186-935b-8821571300af_667903_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/5371891a-e3e4-47fe-a838-9feb0054de26_489056_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/ebac8016-26b5-48b0-9b5e-6b9d0a66213f_489056_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/b051e647-c20f-4581-bcf0-02ec09dab502_489056_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/a1f67237-0efe-48d0-8e92-5bddb9220d9e_489056_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/515258fe-ec98-4b72-aaa5-0a3e5de29284_489056_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/085ccca3-1556-499a-8528-bfea4c6ba59e_667903_7.png"
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/74b6c074-0e38-40c3-9ef5-d41a4c076b21_566071_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/f2af24c7-0dd8-4a79-9107-416276ad40cd_566071_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/f8430c07-bf9e-420e-8be5-6b18cdce4a42_566071_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/18/b358926d-d05b-425b-8b33-22f91d7344b0_566071_5.png"
         ],
         "images_v2": null,
         "quantity": "1 pack",
@@ -1669,6 +1913,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 100,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1682,7 +1927,13 @@
       {
         "id": "4W86G591ST",
         "display_name": "Pilot V5 Roller Pen (0.5 mm, Blue)",
-        "price_mrp": 75,
+        "price": {
+          "mrp": 75,
+          "store_price": 75,
+          "offer_price": 71,
+          "unit_level_price": "",
+          "discount_value": 4
+        },
         "brand": "Pilot",
         "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
         "category": "Pens Pencils Highlighters",
@@ -1705,111 +1956,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 100,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Pilot Frixion Fine Point Rollerball Pen (0.7mm, Black Ink)",
-    "brand": "Pilot",
-    "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
-    "product_id": "BWRDYV2JUX",
-    "variations": [
-      {
-        "id": "997O5WG0HJ",
-        "display_name": "Pilot Frixion Fine Point Rollerball Pen (0.7mm, Black Ink)",
-        "price_mrp": 100,
-        "brand": "Pilot",
-        "brand_id": "f408757a2bcdc93dc687ac0ce4c0e820ca5b1a78",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Frixion Fine Point Rollerball Pen (0.7mm, Black Ink)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/29d549f6-8d1d-4de3-b259-e0d36342f5bf_895960_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/5f8aac56-eb7b-4eaa-a3ae-78f3eaf02f61_895960_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/d361768e-8882-4104-88c3-6db9eda410fa_895960_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/205bc7c5-9187-42b2-bf35-4dd2928e22ab_895960_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/18/05b0e081-0402-4f61-91b0-a531f34f2e5c_895960_5.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 pack",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": null,
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Cello Deco Blue Gel Pen",
-    "brand": "Cello",
-    "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
-    "product_id": "4L11I4VWHN",
-    "variations": [
-      {
-        "id": "XUWHZ0S8DR",
-        "display_name": "Cello Deco Blue Gel Pen",
-        "price_mrp": 50,
-        "brand": "Cello",
-        "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Deco Blue Gel Pen",
-        "images": [
-          "75ba1bd13f2ec9f5c4681d00c621aced",
-          "b9fd6dd3bac62cdbd090789360e57251",
-          "4cecc6c2f91504a2e927ae74c72dacd8",
-          "c287f92d4c6e794f786963885688d329",
-          "291ff613833fe17967549b4cdbd050b3"
-        ],
-        "images_v2": null,
-        "quantity": "1 pack",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": null,
-        "weight_in_grams": 5,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Apsara 10 Pieces Matt Magic 2.0 Pencil Set",
-    "brand": "Apsara",
-    "brand_id": "19d1efaca49349e54fb2406ae9419e770a0b6852",
-    "product_id": "9YX88ZHUUV",
-    "variations": [
-      {
-        "id": "OITJBZYOLJ",
-        "display_name": "Apsara 10 Pieces Matt Magic 2.0 Pencil Set",
-        "price_mrp": 70,
-        "brand": "Apsara",
-        "brand_id": "19d1efaca49349e54fb2406ae9419e770a0b6852",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "10 Pieces Matt Magic 2.0 Pencil Set",
-        "images": [
-          "5872e235ffeaecafd9a5ff7adfa6eaf5",
-          "208294de24c4aa4499839903325b48b2",
-          "NI_CATALOG/IMAGES/CIW/2024/11/9/958f28dc-12ef-4932-ac2f-7cf2bb39ab28_29834_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/9/9a7f34e7-18c0-48b7-ba90-e3bd399a6448_29834_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/9/d2c60413-d905-4248-98da-237ba662190b_29834_5.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 pack",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": null,
-        "weight_in_grams": 750,
-        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1823,7 +1970,13 @@
       {
         "id": "RB8BHKZ0DV",
         "display_name": "Reynolds 045 Fine Carbure Ball Pens (Blue Ink)",
-        "price_mrp": 100,
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 99,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
         "brand": "Reynolds",
         "brand_id": "bbd20394f6de9d3f6fe2455384a427643f53e7e2",
         "category": "Pens Pencils Highlighters",
@@ -1846,53 +1999,27 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Pierre Cardin Black Beauty Metal Ball Pen",
-    "brand": "Pierre Cardin",
-    "brand_id": "ba8e84e5e343ddb4d2b6ca4caf53cf95bf26de76",
-    "product_id": "LHARRCICRI",
-    "variations": [
-      {
-        "id": "J34V6VDURA",
-        "display_name": "Pierre Cardin Black Beauty Metal Ball Pen",
-        "price_mrp": 165,
-        "brand": "Pierre Cardin",
-        "brand_id": "ba8e84e5e343ddb4d2b6ca4caf53cf95bf26de76",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Black Beauty Metal Ball Pen",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/12/3/ffa2f47a-854f-46f3-857e-6cf70d2991e2_319139_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/3/c81b6d80-fbdb-4bb1-80df-394c0157dadb_319139_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/3/9352f216-4caa-47e7-a2b4-24809a541dfa_319139_3.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 pack",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": null,
-        "weight_in_grams": 150,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Cello Technotip Ball Pen (Black)",
+    "display_name": "Cello Aqua Blue Gel Pen",
     "brand": "Cello",
     "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
-    "product_id": "S72TXK2343",
+    "product_id": "TZ1Q8VVP3B",
     "variations": [
       {
-        "id": "ST4XBTSBWK",
-        "display_name": "Cello Technotip Ball Pen (Black)",
-        "price_mrp": 100,
+        "id": "ZNCGPV32DH",
+        "display_name": "Cello Aqua Blue Gel Pen",
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 49,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
         "brand": "Cello",
         "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
         "category": "Pens Pencils Highlighters",
@@ -1900,19 +2027,149 @@
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Technotip Ball Pen (Black)",
+        "product_name_without_brand": "Aqua Blue Gel Pen",
         "images": [
-          "a9d5d7049ed8529a43b6f70bd89af8ea",
-          "40832553c0fc49cc6a520fb4e9630008",
-          "9b6e653ab6ed38483458ee8e144f1965",
-          "6f6130de940f81f28c31d05016a07af0"
+          "1f66de33173ed77d0c7e3c907b39f762",
+          "1c20f0749c77622c256cdc0ab7b9e55b",
+          "0a1d8025330d10170a40a0d7fda7c92d",
+          "8378567a726f6c88a6ff6bbc5a28b4f8",
+          "fc186ec7392465a207e7897b9f87baef",
+          "41e96c20ca383f237cc9db65631829ee"
         ],
         "images_v2": null,
         "quantity": "1 pack",
         "sku_quantity_with_combo": "1 pack",
         "unit_of_measure": null,
-        "weight_in_grams": 10,
+        "weight_in_grams": 54,
         "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Cello Deco Blue Gel Pen",
+    "brand": "Cello",
+    "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
+    "product_id": "4L11I4VWHN",
+    "variations": [
+      {
+        "id": "XUWHZ0S8DR",
+        "display_name": "Cello Deco Blue Gel Pen",
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 49,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Cello",
+        "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Deco Blue Gel Pen",
+        "images": [
+          "75ba1bd13f2ec9f5c4681d00c621aced",
+          "b9fd6dd3bac62cdbd090789360e57251",
+          "4cecc6c2f91504a2e927ae74c72dacd8",
+          "c287f92d4c6e794f786963885688d329",
+          "291ff613833fe17967549b4cdbd050b3"
+        ],
+        "images_v2": null,
+        "quantity": "1 pack",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": null,
+        "weight_in_grams": 5,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Uniball Click Gel Blue Ink Pen",
+    "brand": "Uniball",
+    "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
+    "product_id": "3SQ8PO1ZRX",
+    "variations": [
+      {
+        "id": "4TX1D96SR6",
+        "display_name": "Uniball Click Gel Blue Ink Pen",
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 89,
+          "unit_level_price": "",
+          "discount_value": 11
+        },
+        "brand": "Uniball",
+        "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Click Gel Blue Ink Pen",
+        "images": [
+          "a1dfea3283caf9bf5f8c3fd4fa5f0e82",
+          "237670032d0bd4e4f5365ea61237c4c4",
+          "40a96f1daeed543ae06412454d46ce60",
+          "434bf5a83bff449884528337b7d509aa",
+          "b57601c138549f02efbf1339b8e9a184",
+          "7e2837f269d318b0f076d924f1049e3b"
+        ],
+        "images_v2": null,
+        "quantity": "1 pack",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": null,
+        "weight_in_grams": 2,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Cello Mood Gel Pen ( 5 Pieces )",
+    "brand": "Cello",
+    "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
+    "product_id": "B2XM8XV5VM",
+    "variations": [
+      {
+        "id": "6J921MZCMU",
+        "display_name": "Cello Mood Gel Pen ( 5 Pieces )",
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 49,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Cello",
+        "brand_id": "67849d97366883791e1b1476fdd80e962df2451e",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Mood Gel Pen ( 5 Pieces )",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/4b5fb26b-4f60-4aa3-a027-11267353f206_534723_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/17/7079f23e-a1c2-4bb3-ae72-780b5101ffbb_534723_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/17/628905aa-280d-46e4-8bfe-c0a27deb5609_534723_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/17/c9270a32-a2de-42b8-a53d-7b0f8d84cb42_534723_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/17/187c58ab-f339-4c20-86d1-16ee1bf6fae4_534723_2.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 pack",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": null,
+        "weight_in_grams": 35,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1926,7 +2183,13 @@
       {
         "id": "TDC5VIII4H",
         "display_name": "Cello Signature Corporate Giftset (Clock & Moonlit Ball Pen) Box",
-        "price_mrp": 750,
+        "price": {
+          "mrp": 750,
+          "store_price": 750,
+          "offer_price": 553,
+          "unit_level_price": "",
+          "discount_value": 197
+        },
         "brand": "Signature",
         "brand_id": "0fc079ea1f0e91f9307425b205fe810fa77d826f",
         "category": "Pens Pencils Highlighters",
@@ -1949,39 +2212,49 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Pierre Cardin Officer Set ( Pen + Card Holder)",
-    "brand": "Pierre Cardin",
-    "brand_id": "ba8e84e5e343ddb4d2b6ca4caf53cf95bf26de76",
-    "product_id": "7CQC4LQ7GB",
+    "display_name": "Kaco Jumbo Desktop Pen",
+    "brand": "Kaco",
+    "brand_id": "0c6f08251595298c13d302c3bf90326adaefa02c",
+    "product_id": "X0V6F3Y4AP",
     "variations": [
       {
-        "id": "3NGLWFPWD5",
-        "display_name": "Pierre Cardin Officer Set ( Pen + Card Holder)",
-        "price_mrp": 500,
-        "brand": "Pierre Cardin",
-        "brand_id": "ba8e84e5e343ddb4d2b6ca4caf53cf95bf26de76",
+        "id": "Y1MP01Q3Y1",
+        "display_name": "Kaco Jumbo Desktop Pen",
+        "price": {
+          "mrp": 125,
+          "store_price": 125,
+          "offer_price": 124,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Kaco",
+        "brand_id": "0c6f08251595298c13d302c3bf90326adaefa02c",
         "category": "Pens Pencils Highlighters",
         "super_category": "Stationery Art Hobbies",
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Officer Set ( Pen + Card Holder)",
+        "product_name_without_brand": "Jumbo Desktop Pen",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/12/13/1662dba9-c6ca-4645-b20d-805bfd8928e0_656526_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/13/58301ed9-ff21-4302-af04-f5a604b36de2_656526_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/13/f2610ef1-2361-4e4f-87d8-aed0f693df9a_656526_3.png"
+          "NI_CATALOG/IMAGES/CIW/2024/8/13/11fe4aa4-b36f-413b-8b48-5b42adbbc5ca_147832_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/13/2d3b6771-2220-43dc-abda-a46d4070562e_147832_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/13/1460847f-2407-4ae2-bfd1-25e22ebb698b_147832_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/13/d1503455-f714-4e45-bfa1-a4262c33df06_147832_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/13/6a8689f1-93d4-45d6-9ca3-8bd7f511ee7a_147832_5.png"
         ],
         "images_v2": null,
-        "quantity": "1 pack",
-        "sku_quantity_with_combo": "1 pack",
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
         "unit_of_measure": null,
-        "weight_in_grams": 150,
+        "weight_in_grams": 15,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1995,7 +2268,13 @@
       {
         "id": "PYNCASS4A6",
         "display_name": "Cello Signature Supreme Giftset (Journal & Carbon Ball Pen) Box",
-        "price_mrp": 799,
+        "price": {
+          "mrp": 799,
+          "store_price": 799,
+          "offer_price": 798,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
         "brand": "Signature",
         "brand_id": "0fc079ea1f0e91f9307425b205fe810fa77d826f",
         "category": "Pens Pencils Highlighters",
@@ -2018,6 +2297,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2031,7 +2311,13 @@
       {
         "id": "YK7XUR6AI0",
         "display_name": "Pierre Cardin Thank You Set ( Pen + Diary )",
-        "price_mrp": 900,
+        "price": {
+          "mrp": 900,
+          "store_price": 900,
+          "offer_price": 899,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
         "brand": "Pierre Cardin",
         "brand_id": "ba8e84e5e343ddb4d2b6ca4caf53cf95bf26de76",
         "category": "Pens Pencils Highlighters",
@@ -2051,41 +2337,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 150,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Kaco Jumbo Desktop Pen",
-    "brand": "Kaco",
-    "brand_id": "0c6f08251595298c13d302c3bf90326adaefa02c",
-    "product_id": "X0V6F3Y4AP",
-    "variations": [
-      {
-        "id": "Y1MP01Q3Y1",
-        "display_name": "Kaco Jumbo Desktop Pen",
-        "price_mrp": 125,
-        "brand": "Kaco",
-        "brand_id": "0c6f08251595298c13d302c3bf90326adaefa02c",
-        "category": "Pens Pencils Highlighters",
-        "super_category": "Stationery Art Hobbies",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Jumbo Desktop Pen",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/8/13/11fe4aa4-b36f-413b-8b48-5b42adbbc5ca_147832_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/13/2d3b6771-2220-43dc-abda-a46d4070562e_147832_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/13/1460847f-2407-4ae2-bfd1-25e22ebb698b_147832_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/13/d1503455-f714-4e45-bfa1-a4262c33df06_147832_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/13/6a8689f1-93d4-45d6-9ca3-8bd7f511ee7a_147832_5.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 15,
-        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2099,7 +2351,13 @@
       {
         "id": "GIP61ACO1B",
         "display_name": "Reynolds Premium Iconic Elite Metal Pen (Blue )",
-        "price_mrp": 250,
+        "price": {
+          "mrp": 250,
+          "store_price": 250,
+          "offer_price": 229,
+          "unit_level_price": "",
+          "discount_value": 21
+        },
         "brand": "Reynolds",
         "brand_id": "bbd20394f6de9d3f6fe2455384a427643f53e7e2",
         "category": "Pens Pencils Highlighters",
@@ -2122,6 +2380,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 0,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2135,7 +2394,13 @@
       {
         "id": "HZ5ZSV7LPP",
         "display_name": "Camlin Whiteboard Marker Pen (Black)",
-        "price_mrp": 280,
+        "price": {
+          "mrp": 280,
+          "store_price": 280,
+          "offer_price": 259,
+          "unit_level_price": "",
+          "discount_value": 21
+        },
         "brand": "Camlin",
         "brand_id": "8d436943163917ca8108adf5a2846a3da5962cf0",
         "category": "Pens Pencils Highlighters",
@@ -2159,6 +2424,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 100,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2172,7 +2438,13 @@
       {
         "id": "33GDJVOZJ4",
         "display_name": "Paperkraft Chopin Ball",
-        "price_mrp": 180,
+        "price": {
+          "mrp": 180,
+          "store_price": 180,
+          "offer_price": 179,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
         "brand": "Paperkraft",
         "brand_id": "bfa9a9e024c3899c197ca92ee2b2b59b72f3918a",
         "category": "Pens Pencils Highlighters",
@@ -2196,6 +2468,135 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Uniball Air Roller Ball Pen (Black)",
+    "brand": "Uniball",
+    "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
+    "product_id": "9FAINH5T0O",
+    "variations": [
+      {
+        "id": "W3L7T0DOK2",
+        "display_name": "Uniball Air Roller Ball Pen (Black)",
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 89,
+          "unit_level_price": "",
+          "discount_value": 11
+        },
+        "brand": "Uniball",
+        "brand_id": "a0b300689fb3d47e956d9e00d5aa7cede0b9261d",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Air Roller Ball Pen (Black)",
+        "images": [
+          "0de204f4518c67622e45eb3274c62593",
+          "ec45768b09207fd9a59c478d725dedea",
+          "9a38e210d64e695780de7453ee4f03fd"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 45,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Kaco Mechanical Pencil with Lead (Assorted Colour)",
+    "brand": "Kaco",
+    "brand_id": "0c6f08251595298c13d302c3bf90326adaefa02c",
+    "product_id": "KHAUMO7HF6",
+    "variations": [
+      {
+        "id": "RWZWFAI9LY",
+        "display_name": "Kaco Mechanical Pencil with Lead (Assorted Colour)",
+        "price": {
+          "mrp": 125,
+          "store_price": 125,
+          "offer_price": 124,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Kaco",
+        "brand_id": "0c6f08251595298c13d302c3bf90326adaefa02c",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Mechanical Pencil with Lead (Assorted Colour)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/21/118fd458-04e0-4236-9229-6c8480a471c7_606525_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/1/21/ede1b32a-3766-48b8-a0d0-97cfe9b49d51_606525_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/13/bfd31d0d-7ebc-491f-a15e-72c97fc84c07_606525_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/21/d7fd7c89-b8fc-4c5b-892f-7d53ed99793c_606525_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/1/21/d1396d82-3215-485a-8fb0-3711501d939d_606525_5.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/12/4/cfa1a6e3-676c-4dda-9e41-d2945bacc05c_606525_6.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/13/31399901-8fbc-4af8-bb51-b796f2c41c41_606525_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/13/6368f082-bc48-4d47-9457-acb418fde408_606525_1.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 pack",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": null,
+        "weight_in_grams": 15,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Faber-Castell Multi Marker",
+    "brand": "Faber-Castell",
+    "brand_id": "48e7b664e59d5d4de94c917eea115f4917e4ba85",
+    "product_id": "G94GCFVDI6",
+    "variations": [
+      {
+        "id": "Y6KJGI1L2Y",
+        "display_name": "Faber-Castell Multi Marker",
+        "price": {
+          "mrp": 80,
+          "store_price": 80,
+          "offer_price": 79,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Faber-Castell",
+        "brand_id": "48e7b664e59d5d4de94c917eea115f4917e4ba85",
+        "category": "Pens Pencils Highlighters",
+        "super_category": "Stationery Art Hobbies",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Multi Marker",
+        "images": [
+          "d302987d72d59cb97f6cd45f06bc57e9",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/46d4f958-3d74-48ac-9d76-b9ddad7c7998_14312_2.png",
+          "8c690ee9ead240473e6b86ee40e5ac67",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/31b8230f-a85b-46fe-ae04-d1b65bb9f1ef_14312_4.png",
+          "083344b19faa4cb274a77c83261f27a6",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/85cbeca7-fac4-4270-95db-df4fc350cca5_14312_6.jpg"
+        ],
+        "images_v2": null,
+        "quantity": "1 pack",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": null,
+        "weight_in_grams": 0,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2209,7 +2610,13 @@
       {
         "id": "S4FB9HAMX1",
         "display_name": "Kores Professional Highlighters, Multicolour - Set of 5",
-        "price_mrp": 125,
+        "price": {
+          "mrp": 125,
+          "store_price": 125,
+          "offer_price": 119,
+          "unit_level_price": "",
+          "discount_value": 6
+        },
         "brand": "Kores",
         "brand_id": "6fa1929d86ab3b64d4ea5ee58e58ad2f0920b069",
         "category": "Pens Pencils Highlighters",
@@ -2233,6 +2640,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 108,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2246,7 +2654,13 @@
       {
         "id": "YP2I4BYCRK",
         "display_name": "Pentonic Black Ink Ball Pen",
-        "price_mrp": 120,
+        "price": {
+          "mrp": 120,
+          "store_price": 120,
+          "offer_price": 109,
+          "unit_level_price": "",
+          "discount_value": 11
+        },
         "brand": "Pentonic",
         "brand_id": "64c911399a6c8792527a6591b47f6b80ffd89852",
         "category": "Pens Pencils Highlighters",
@@ -2269,6 +2683,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 92,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2282,7 +2697,13 @@
       {
         "id": "0NFDP0SFWG",
         "display_name": "Classmate Octane Fountain Pen",
-        "price_mrp": 40,
+        "price": {
+          "mrp": 40,
+          "store_price": 40,
+          "offer_price": 39,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
         "brand": "Classmate",
         "brand_id": "872d9eca4d09f1354942c175ffac13611c020a43",
         "category": "Pens Pencils Highlighters",
@@ -2302,6 +2723,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 0,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]

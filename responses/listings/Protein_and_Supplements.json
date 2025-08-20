@@ -1,65 +1,35 @@
 [
   {
-    "display_name": "Optimum Nutrition WGS - Double Rich Chocolate",
+    "display_name": "Optimum Nutrition WGS - Vanilla Ice Cream Flavour - 2 lbs",
     "brand": "Optimum Nutrition",
     "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
-    "product_id": "S4N72AA2PQ",
+    "product_id": "0G1VNF3RWD",
     "variations": [
       {
-        "id": "JHQ02J70MY",
-        "display_name": "Optimum Nutrition WGS - Double Rich Chocolate",
-        "price_mrp": 2299,
-        "brand": "Optimum Nutrition",
-        "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Chocolate",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "WGS - Double Rich Chocolate",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/b3ad666c-1ba3-4fe8-b60d-9b2538ba693c_44941_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/13eae192-2248-4c4c-b7a7-cd25d353183f_44941_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/8a2eacd7-ba35-442e-95c7-9acae6625b11_44941_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/1bfa6a42-38e0-43fa-8e96-3122f2baa95d_44941_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/b386eeeb-13bf-4294-b250-b2623ddb8222_44941_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/a8f15204-3810-47c3-8fff-fdaf5ec4dcc5_44941_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "454",
-        "sku_quantity_with_combo": "454 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 454,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "On Gold Standard 100% Whey Protein Powder Double Rich Chocolate 2 Lbs",
-    "brand": "Optimum Nutrition",
-    "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
-    "product_id": "E8TXOTD9HM",
-    "variations": [
-      {
-        "id": "SGFG42A2VS",
-        "display_name": "On Gold Standard 100% Whey Protein Powder Double Rich Chocolate 2 Lbs",
-        "price_mrp": 4249,
+        "id": "I9U5JCMAXA",
+        "display_name": "Optimum Nutrition WGS - Vanilla Ice Cream Flavour - 2 lbs",
+        "price": {
+          "mrp": 4249,
+          "store_price": 4249,
+          "offer_price": 3641,
+          "unit_level_price": "",
+          "discount_value": 608
+        },
         "brand": "Optimum Nutrition",
         "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
         "category": "Protein and Sports Nutrition",
         "super_category": "Nutraceuticals",
         "sub_category_l3": "Whey Protein",
         "sub_category_l4": "Original",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "On Gold Standard 100% Whey Protein Powder Double Rich Chocolate 2 Lbs",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "WGS - Vanilla Ice Cream Flavour - 2 lbs",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/25/efaab7ce-75b9-4627-8765-e242ad28357c_79330_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/25/2db71f3e-a17c-403c-b166-88ccbe3c7d69_79330_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/25/e1058051-51aa-449c-b3da-368dcc0c1a21_79330_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/25/ebe27e4b-2cee-4466-9276-ebbb0d9f790d_79330_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/25/b85cdde8-b78e-4fbd-a176-3f9565d76f2b_79330_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/25/34b8a7cc-ed03-4465-bce2-4e52b6d81c50_79330_6.png"
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/88d090cd-dc42-4599-87d9-51bfb3e8cf22_44938_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/f3f263ec-1243-4a2f-9f9d-3b972e0bf958_44938_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/12e92a90-3e76-4338-b0a8-e2c80340393e_44938_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/ad23434d-ae64-4404-a248-54bd27601bb6_44938_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/30066407-a3b8-4e4e-a5c3-0cc819bc37db_44938_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/bdd4e6da-c578-42ec-8197-27ee3f9c0a75_44938_6.png"
         ],
         "images_v2": [],
         "quantity": "907",
@@ -67,6 +37,270 @@
         "unit_of_measure": "g",
         "weight_in_grams": 907,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Isopure - Chocolate",
+    "brand": "Isopure",
+    "brand_id": "649eb93fb3cde5893e269ac73d7145eafca6d7ef",
+    "product_id": "JGTTOSOQ81",
+    "variations": [
+      {
+        "id": "98WR6IL9X9",
+        "display_name": "Isopure - Chocolate",
+        "price": {
+          "mrp": 5949,
+          "store_price": 5949,
+          "offer_price": 5678,
+          "unit_level_price": "",
+          "discount_value": 271
+        },
+        "brand": "Isopure",
+        "brand_id": "649eb93fb3cde5893e269ac73d7145eafca6d7ef",
+        "category": "Protein and Sports Nutrition",
+        "super_category": "Nutraceuticals",
+        "sub_category_l3": "Whey Protein",
+        "sub_category_l4": "Chocolate",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "- Chocolate",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/28/72fe8870-f2ea-45b1-8e8b-81201a20e32a_588890_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/28/0270a9f8-0f69-4f96-826a-25f3030888f7_588890_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/28/f44daeee-4594-4e5f-8db0-87c5c5890872_588890_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/28/9948cf64-e214-4251-b193-d3be9461abe7_588890_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/28/b79a90cd-ae1d-4720-9a4d-3cb5e948e05d_588890_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/28/f58348f3-65b5-458d-8b5c-c3e9be8b9d93_588890_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Muscleblaze Biozyme Performance Whey Protein Powder, (Magical Mango)",
+    "brand": "Muscleblaze",
+    "brand_id": "db8d5d3cb8c2ed1bf2d6aa7b6d8a6e735dbd158d",
+    "product_id": "K9B66UG26P",
+    "variations": [
+      {
+        "id": "3UVD1WSNNI",
+        "display_name": "Muscleblaze Biozyme Performance Whey Protein Powder, (Magical Mango)",
+        "price": {
+          "mrp": 3349,
+          "store_price": 3349,
+          "offer_price": 2949,
+          "unit_level_price": "",
+          "discount_value": 400
+        },
+        "brand": "Muscleblaze",
+        "brand_id": "db8d5d3cb8c2ed1bf2d6aa7b6d8a6e735dbd158d",
+        "category": "Protein and Sports Nutrition",
+        "super_category": "Nutraceuticals",
+        "sub_category_l3": "Whey Protein",
+        "sub_category_l4": "Mango",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Biozyme Performance Whey Protein Powder, (Magical Mango)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/87681333-1039-4f4a-ac01-6769ca3e2e01_252030_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/e3c360ea-5398-4f31-ac05-3c1ea1752272_252030_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/98acdda4-c570-4b95-994e-2c01c627086f_252030_11.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/f3c3ff83-8cb0-46fa-880e-a7a022f8c1b2_252030_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/c553b516-375c-4fa5-99ca-5a3336c8430f_252030_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/f7627d31-dc0d-490f-9d41-d447b74f7465_252030_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/279b9cd1-8871-4214-9e67-57e4758b466f_252030_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/d8e80751-16c1-4f85-9bf7-91ff4ece975c_252030_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/fa679040-fa6f-4637-a54b-7bf6ad534d14_252030_8.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/65385fdc-84ca-4ee0-b377-5d92ed24f1aa_252030_9.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/8120958b-871e-49e9-a56b-c437b9f8f6b4_252030_10.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Optimum Nutrition (On) Gold Standard 100% Whey Protein Powder - 5 Lbs (Double Rich Chocolate)",
+    "brand": "Optimum Nutrition",
+    "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
+    "product_id": "WDI3P7D9CI",
+    "variations": [
+      {
+        "id": "GWQXQ99K6T",
+        "display_name": "Optimum Nutrition (On) Gold Standard 100% Whey Protein Powder - 5 Lbs (Double Rich Chocolate)",
+        "price": {
+          "mrp": 9299,
+          "store_price": 9299,
+          "offer_price": 7951,
+          "unit_level_price": "",
+          "discount_value": 1348
+        },
+        "brand": "Optimum Nutrition",
+        "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
+        "category": "Protein and Sports Nutrition",
+        "super_category": "Nutraceuticals",
+        "sub_category_l3": "Whey Protein",
+        "sub_category_l4": "Chocolate",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "(On) Gold Standard 100% Whey Protein Powder - 5 Lbs (Double Rich Chocolate)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/25/cf5cd646-ca08-4b24-986a-30fd05567ae3_650081_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/25/4333aa14-ce7e-4e4f-baec-73b00b918fcd_650081_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/25/1b7ead72-201a-406a-b71c-93211bed7124_650081_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/25/e285e87c-c010-4356-8388-5d683af5c86a_650081_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/25/04de7ca3-762a-4b65-99b1-4a8a65d1ca2c_650081_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/25/170044ee-a308-4cff-bade-0bd6b01bfb9a_650081_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "2.27",
+        "sku_quantity_with_combo": "2.27 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 2268,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "On (Optimum Nutrition) Gold Standard 100% Whey Protein, 5 Sachets/Pack Double Rich Chocolate",
+    "brand": "Optimum Nutrition",
+    "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
+    "product_id": "J8FNIHYDGZ",
+    "variations": [
+      {
+        "id": "JDUSNZ64NJ",
+        "display_name": "On (Optimum Nutrition) Gold Standard 100% Whey Protein, 5 Sachets/Pack Double Rich Chocolate",
+        "price": {
+          "mrp": 899,
+          "store_price": 899,
+          "offer_price": 790,
+          "unit_level_price": "",
+          "discount_value": 109
+        },
+        "brand": "Optimum Nutrition",
+        "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
+        "category": "Protein and Sports Nutrition",
+        "super_category": "Nutraceuticals",
+        "sub_category_l3": "Whey Protein",
+        "sub_category_l4": "Original",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "On () Gold Standard 100% Whey Protein, 5 Sachets/Pack Double Rich Chocolate",
+        "images": [
+          "0bcfacd6fdd58d862f6fef91c9a4dde7",
+          "992483a4365f483f8eed5c49b3791fdb",
+          "68d4cb8d1bd4977565466aadae77e080",
+          "4bf5409f663e39b1529198ed65a18651",
+          "3a2b9ece35dfb1bd6e5f2397fa6f87a5",
+          "3690fb89e6d40c6fdc73539564bbae20"
+        ],
+        "images_v2": [],
+        "quantity": "152",
+        "sku_quantity_with_combo": "152 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 152,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "The Whole Truth Unflavoured Whey Protein Concentrate | 26g Protein Per Scoop | No Adulteration",
+    "brand": "The Whole Truth",
+    "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+    "product_id": "JEEYS54WUX",
+    "variations": [
+      {
+        "id": "38MTPNYYB4",
+        "display_name": "The Whole Truth Unflavoured Whey Protein Concentrate | 26g Protein Per Scoop | No Adulteration",
+        "price": {
+          "mrp": 2999,
+          "store_price": 2999,
+          "offer_price": 2599,
+          "unit_level_price": "",
+          "discount_value": 400
+        },
+        "brand": "The Whole Truth",
+        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+        "category": "Protein and Sports Nutrition",
+        "super_category": "Nutraceuticals",
+        "sub_category_l3": "Whey Protein",
+        "sub_category_l4": "Original",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Unflavoured Whey Protein Concentrate | 26g Protein Per Scoop | No Adulteration",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/ede90318-fd90-421f-a7c6-6df869de259c_115958_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/7915461b-10a9-408a-af73-e3151c9ce2e7_115958_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/5a7ba491-bf73-46e6-98ff-d11fcade1dda_115958_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/f11fc0a2-f93c-463d-a6ea-a1fa6d04417e_115958_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/ba2dae3d-dd2b-4a59-8473-84c193a39d44_115958_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/ebbcdcf3-e0df-4bd4-ac77-475d29bd8d5a_115958_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Fast&Up Nightout Instant Hangover Relief Solution & Drink",
+    "brand": "Fast&Up",
+    "brand_id": "c1f00c15277467aa5d0964ffe84bc1c4fd17d8c9",
+    "product_id": "KN3580ZOCJ",
+    "variations": [
+      {
+        "id": "JT79DU3SA6",
+        "display_name": "Fast&Up Nightout Instant Hangover Relief Solution & Drink",
+        "price": {
+          "mrp": 149,
+          "store_price": 149,
+          "offer_price": 142,
+          "unit_level_price": "",
+          "discount_value": 7
+        },
+        "brand": "Fast&Up",
+        "brand_id": "c1f00c15277467aa5d0964ffe84bc1c4fd17d8c9",
+        "category": "Daily Wellness",
+        "super_category": "Nutraceuticals",
+        "sub_category_l3": "Detox",
+        "sub_category_l4": "Drink",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Nightout Instant Hangover Relief Solution & Drink",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/16/ec4d0f25-a2d9-436a-b553-9a17804616fb_205437_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/16/66b8f94a-2c11-4162-8a08-29fb0910dee8_205437_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/16/fe93bfba-5bd4-4bb8-83d4-4fddfc8f3f1c_205437_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/16/79a9cbc8-815e-4f2e-87c2-aed6ab717967_205437_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/16/de6b977f-1241-4a2c-b564-b2a798e01066_205437_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/16/544d2db6-e460-430b-8a07-b0450b9edee5_205437_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "4",
+        "sku_quantity_with_combo": "4 tablets",
+        "unit_of_measure": "tablets",
+        "weight_in_grams": 32,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -80,7 +314,13 @@
       {
         "id": "32YFIX47UH",
         "display_name": "Fuel One Whey Max Whey Protein Concentrate & Whey Protein Isolate Protein Chocolate",
-        "price_mrp": 2599,
+        "price": {
+          "mrp": 2599,
+          "store_price": 2599,
+          "offer_price": 2399,
+          "unit_level_price": "",
+          "discount_value": 200
+        },
         "brand": "Fuel One",
         "brand_id": "ebcdbb77e4a8d33470d1fba5ca8e4a2cff43b2f0",
         "category": "Protein and Sports Nutrition",
@@ -105,219 +345,136 @@
         "unit_of_measure": "kg",
         "weight_in_grams": 1000,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Fast&Up Nightout Instant Hangover Relief Solution & Drink",
-    "brand": "Fast&Up",
-    "brand_id": "c1f00c15277467aa5d0964ffe84bc1c4fd17d8c9",
-    "product_id": "KN3580ZOCJ",
+    "display_name": "Wellbeing Nutrition Pure Korean Marine Collagen Supplements",
+    "brand": "Wellbeing Nutrition",
+    "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
+    "product_id": "IVD1GHO68H",
     "variations": [
       {
-        "id": "JT79DU3SA6",
-        "display_name": "Fast&Up Nightout Instant Hangover Relief Solution & Drink",
-        "price_mrp": 149,
-        "brand": "Fast&Up",
-        "brand_id": "c1f00c15277467aa5d0964ffe84bc1c4fd17d8c9",
-        "category": "Daily Wellness",
+        "id": "05AGCKAWP2",
+        "display_name": "Wellbeing Nutrition Pure Korean Marine Collagen Supplements",
+        "price": {
+          "mrp": 594,
+          "store_price": 594,
+          "offer_price": 505,
+          "unit_level_price": "",
+          "discount_value": 89
+        },
+        "brand": "Wellbeing Nutrition",
+        "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
+        "category": "Hair, Skin and Nail Supplements",
         "super_category": "Nutraceuticals",
-        "sub_category_l3": "Detox",
-        "sub_category_l4": "Drink",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Nightout Instant Hangover Relief Solution & Drink",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/9/16/ec4d0f25-a2d9-436a-b553-9a17804616fb_205437_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/16/66b8f94a-2c11-4162-8a08-29fb0910dee8_205437_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/16/fe93bfba-5bd4-4bb8-83d4-4fddfc8f3f1c_205437_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/16/79a9cbc8-815e-4f2e-87c2-aed6ab717967_205437_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/16/de6b977f-1241-4a2c-b564-b2a798e01066_205437_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/16/544d2db6-e460-430b-8a07-b0450b9edee5_205437_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "4",
-        "sku_quantity_with_combo": "4 tablets",
-        "unit_of_measure": "tablets",
-        "weight_in_grams": 32,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "The Whole Truth Unflavoured Whey Protein Concentrate | 26g Protein Per Scoop | No Adulteration",
-    "brand": "The Whole Truth",
-    "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
-    "product_id": "JEEYS54WUX",
-    "variations": [
-      {
-        "id": "38MTPNYYB4",
-        "display_name": "The Whole Truth Unflavoured Whey Protein Concentrate | 26g Protein Per Scoop | No Adulteration",
-        "price_mrp": 2999,
-        "brand": "The Whole Truth",
-        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Original",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Unflavoured Whey Protein Concentrate | 26g Protein Per Scoop | No Adulteration",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/ede90318-fd90-421f-a7c6-6df869de259c_115958_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/7915461b-10a9-408a-af73-e3151c9ce2e7_115958_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/5a7ba491-bf73-46e6-98ff-d11fcade1dda_115958_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/f11fc0a2-f93c-463d-a6ea-a1fa6d04417e_115958_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/ba2dae3d-dd2b-4a59-8473-84c193a39d44_115958_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/ebbcdcf3-e0df-4bd4-ac77-475d29bd8d5a_115958_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 kg",
-        "unit_of_measure": "kg",
-        "weight_in_grams": 1000,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      },
-      {
-        "id": "B2IYOBJRVC",
-        "display_name": "The Whole Truth Unflavoured Whey Protein Concentrate | 26g Protein Per Scoop | No Adulteration",
-        "price_mrp": 5998,
-        "brand": "The Whole Truth",
-        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Original",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Unflavoured Whey Protein Concentrate | 26g Protein Per Scoop | No Adulteration",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/a12ca231-208e-4f46-84f4-e588dd594401_539540.png"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "1 kg x 2",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 2000,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "The Whole Truth Whey Protein (Cold Coffee, 24g protein/scoop)",
-    "brand": "The Whole Truth",
-    "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
-    "product_id": "A5P5YC412T",
-    "variations": [
-      {
-        "id": "TPJIGPFSA5",
-        "display_name": "The Whole Truth Whey Protein (Cold Coffee, 24g protein/scoop)",
-        "price_mrp": 7998,
-        "brand": "The Whole Truth",
-        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Coffee",
+        "sub_category_l3": "Collagen",
+        "sub_category_l4": "Powder",
         "sub_category_l5": "Medium",
-        "product_name_without_brand": "Whey Protein (Cold Coffee, 24g protein/scoop)",
+        "product_name_without_brand": "Pure Korean Marine Collagen Supplements",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/82652740-7c42-41d7-9be8-732e0e337d56_406307.png"
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/8ca771ed-98ef-465b-ad5b-c9b7a5bde3d3_540960_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/1c8e10be-99e7-4c19-abc6-9b0a65866de6_540960_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/78ebc8ab-2493-402c-8333-ed6de5525c0d_540960_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/223a7d4a-b137-406e-910d-d9bd54e26741_540960_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/498e9007-d197-458e-9a42-8c8f956aaee7_540960_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/6f589922-ec3e-4d55-9fea-4932193bf265_540960_6.png"
         ],
         "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "1 kg x 2",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 2,
+        "quantity": "48",
+        "sku_quantity_with_combo": "48 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 48,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
-      },
+      }
+    ]
+  },
+  {
+    "display_name": "Wellbeing Nutrition Melts Testo Power Enhanced Performance & Stamina",
+    "brand": "Wellbeing Nutrition",
+    "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
+    "product_id": "MDPWGULTX3",
+    "variations": [
       {
-        "id": "2WD1LNXGF8",
-        "display_name": "The Whole Truth Whey Protein (Cold Coffee, 24g protein/scoop)",
-        "price_mrp": 3999,
-        "brand": "The Whole Truth",
-        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+        "id": "WM7FADZ7WW",
+        "display_name": "Wellbeing Nutrition Melts Testo Power Enhanced Performance & Stamina",
+        "price": {
+          "mrp": 649,
+          "store_price": 649,
+          "offer_price": 649,
+          "unit_level_price": "1081.7/100 g",
+          "discount_value": 0
+        },
+        "brand": "Wellbeing Nutrition",
+        "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
+        "category": "Energy Boosters",
+        "super_category": "Nutraceuticals",
+        "sub_category_l3": "Testosterone Boosters",
+        "sub_category_l4": "Original",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Melts Testo Power Enhanced Performance & Stamina",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/ab18061e-4492-4a3d-86e6-8e1a13ae8fec_29586_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/fe9b8170-1950-4e45-ad2f-cc8444ee266e_29586_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/ba0f3054-1186-4dba-8f35-b2e5626b92c1_29586_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/56122604-3576-4b10-8576-5da2516406c1_29586_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/180f8a97-2d35-42b2-ab6e-831bb276e940_29586_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/32613305-5207-46e8-8e65-18415514ffb5_29586_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "60",
+        "sku_quantity_with_combo": "60 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 60,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "On Gold Standard Pre-Workout Fruit Punch 142.5G/15 Single Serve For Endurance & Performance",
+    "brand": "Optimum Nutrition",
+    "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
+    "product_id": "N0SKQW63P9",
+    "variations": [
+      {
+        "id": "LRXUY1R3LV",
+        "display_name": "On Gold Standard Pre-Workout Fruit Punch 142.5G/15 Single Serve For Endurance & Performance",
+        "price": {
+          "mrp": 799,
+          "store_price": 799,
+          "offer_price": 708,
+          "unit_level_price": "",
+          "discount_value": 91
+        },
+        "brand": "Optimum Nutrition",
+        "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
         "category": "Protein and Sports Nutrition",
         "super_category": "Nutraceuticals",
         "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Coffee",
+        "sub_category_l4": "Chocolate",
         "sub_category_l5": "Medium",
-        "product_name_without_brand": "Whey Protein (Cold Coffee, 24g protein/scoop)",
+        "product_name_without_brand": "On Gold Standard Pre-Workout Fruit Punch 142.5G/15 Single Serve For Endurance & Performance",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/3/e11b9070-980f-4198-b4ec-3574889398a2_78030_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/3/b434290d-f4aa-4ffe-8441-d5a96e59ad1c_78030_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/3/bea11954-ad70-485c-95bf-cca11bb34d9a_78030_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/3/f04918ae-0dbf-431f-902e-40c57dd73608_78030_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/3/5655ed51-4df8-4a88-904b-5496beb7a0b5_78030_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/3/464d0c0d-94e1-4b3f-9a7d-7ee176243e4e_78030_6.png"
+          "addd3329dedc0cfea4fe26797859c08f",
+          "da918c050f47cda261fb582f170c8f58",
+          "3c06af78cbebb38aa0046380a0cf52e8",
+          "366794c5cfc2f7091c13e5c8c6ddb790",
+          "ad32cd02d7cc01760a5c1ce239ce3016",
+          "87a55f59064f69816f222bdeba1d31cf"
         ],
         "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 kg",
-        "unit_of_measure": "kg",
+        "quantity": "142.5",
+        "sku_quantity_with_combo": "142.5 g",
+        "unit_of_measure": "g",
         "weight_in_grams": 1,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "The Whole Truth Powder Pista Badaam Shake 24G Protein Whey Only Real Ingredients",
-    "brand": "The Whole Truth",
-    "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
-    "product_id": "1NLBFIMTOT",
-    "variations": [
-      {
-        "id": "F1JCLFLB9D",
-        "display_name": "The Whole Truth Powder Pista Badaam Shake 24g Protein Whey Only Real Ingredients",
-        "price_mrp": 8998,
-        "brand": "The Whole Truth",
-        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Pista Badam",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Powder Pista Badaam Shake 24g Protein Whey Only Real Ingredients",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/f4552129-53fe-4636-8850-f9feee3813b3_113923.png"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "1 kg x 2",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 2000,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      },
-      {
-        "id": "FWM18IW93J",
-        "display_name": "The Whole Truth Powder Pista Badaam Shake 24G Protein Whey Only Real Ingredients",
-        "price_mrp": 4499,
-        "brand": "The Whole Truth",
-        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Pista Badam",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Powder Pista Badaam Shake 24G Protein Whey Only Real Ingredients",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/8/5/1e758cf2-7c78-4b03-9a83-1945de7bd631_54058_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/5/b11e896f-4489-4f1f-9362-ae5a607e12df_54058_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/5/4162d0de-35ff-4253-a2b8-3b2839cf9007_54058_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/5/f57e7e8a-7d2b-48e4-95e8-6f34a08ca31b_54058_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/5/0312f1b6-93e9-4fc6-b647-f366e69c6a59_54058_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/5/12bea3f2-fa1e-453e-ace1-b046194c9140_54058_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 kg",
-        "unit_of_measure": "kg",
-        "weight_in_grams": 1000,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -329,32 +486,15 @@
     "product_id": "XG1UDM9ZL0",
     "variations": [
       {
-        "id": "UK65M9UKQ5",
-        "display_name": "The Whole Truth Whey Protein (Light Cocoa, 24g protein/scoop)",
-        "price_mrp": 7998,
-        "brand": "The Whole Truth",
-        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Coffee",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Whey Protein (Light Cocoa, 24g protein/scoop)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/c34a5193-b6bb-4fb5-b410-d4b8fad6cccc_77968.png"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "1 kg x 2",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 2,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      },
-      {
         "id": "AW8AIOCLB4",
         "display_name": "The Whole Truth Whey Protein (Light Cocoa, 24g protein/scoop)",
-        "price_mrp": 3999,
+        "price": {
+          "mrp": 3999,
+          "store_price": 3999,
+          "offer_price": 3469,
+          "unit_level_price": "",
+          "discount_value": 530
+        },
         "brand": "The Whole Truth",
         "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
         "category": "Protein and Sports Nutrition",
@@ -377,6 +517,7 @@
         "unit_of_measure": "kg",
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -390,7 +531,13 @@
       {
         "id": "0AIYVHAKUF",
         "display_name": "The Whole Truth Cold Coffee Whey|24G Protein|Pack of 6|Easy to Digest",
-        "price_mrp": 999,
+        "price": {
+          "mrp": 999,
+          "store_price": 999,
+          "offer_price": 899,
+          "unit_level_price": "",
+          "discount_value": 100
+        },
         "brand": "The Whole Truth",
         "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
         "category": "Protein and Sports Nutrition",
@@ -414,42 +561,7 @@
         "unit_of_measure": "g",
         "weight_in_grams": 210,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "On (Optimum Nutrition) Gold Standard 100% Whey Protein, 5 Sachets/Pack Double Rich Chocolate",
-    "brand": "Optimum Nutrition",
-    "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
-    "product_id": "J8FNIHYDGZ",
-    "variations": [
-      {
-        "id": "JDUSNZ64NJ",
-        "display_name": "On (Optimum Nutrition) Gold Standard 100% Whey Protein, 5 Sachets/Pack Double Rich Chocolate",
-        "price_mrp": 899,
-        "brand": "Optimum Nutrition",
-        "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Original",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "On () Gold Standard 100% Whey Protein, 5 Sachets/Pack Double Rich Chocolate",
-        "images": [
-          "0bcfacd6fdd58d862f6fef91c9a4dde7",
-          "992483a4365f483f8eed5c49b3791fdb",
-          "68d4cb8d1bd4977565466aadae77e080",
-          "4bf5409f663e39b1529198ed65a18651",
-          "3a2b9ece35dfb1bd6e5f2397fa6f87a5",
-          "3690fb89e6d40c6fdc73539564bbae20"
-        ],
-        "images_v2": [],
-        "quantity": "152",
-        "sku_quantity_with_combo": "152 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 152,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -461,32 +573,15 @@
     "product_id": "YYU36TZDSE",
     "variations": [
       {
-        "id": "B7OWN1WFXU",
-        "display_name": "The Whole Truth Unflavoured Whey Protein Isolate | 30g Protein Per Scoop | No Adulteration",
-        "price_mrp": 9998,
-        "brand": "The Whole Truth",
-        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Original",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Unflavoured Whey Protein Isolate | 30g Protein Per Scoop | No Adulteration",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/40b90776-0aa6-4098-8fc3-995e02a59803_843084.png"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "1 kg x 2",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 2000,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      },
-      {
         "id": "YNXB4X0AW4",
         "display_name": "The Whole Truth Unflavoured Whey Protein Isolate | 30g Protein Per Scoop | No Adulteration",
-        "price_mrp": 4999,
+        "price": {
+          "mrp": 4999,
+          "store_price": 4999,
+          "offer_price": 4399,
+          "unit_level_price": "",
+          "discount_value": 600
+        },
         "brand": "The Whole Truth",
         "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
         "category": "Protein and Sports Nutrition",
@@ -509,6 +604,50 @@
         "unit_of_measure": "kg",
         "weight_in_grams": 1000,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "The Whole Truth Whey Protein (Cold Coffee, 24g protein/scoop)",
+    "brand": "The Whole Truth",
+    "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+    "product_id": "A5P5YC412T",
+    "variations": [
+      {
+        "id": "2WD1LNXGF8",
+        "display_name": "The Whole Truth Whey Protein (Cold Coffee, 24g protein/scoop)",
+        "price": {
+          "mrp": 3999,
+          "store_price": 3999,
+          "offer_price": 3469,
+          "unit_level_price": "",
+          "discount_value": 530
+        },
+        "brand": "The Whole Truth",
+        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+        "category": "Protein and Sports Nutrition",
+        "super_category": "Nutraceuticals",
+        "sub_category_l3": "Whey Protein",
+        "sub_category_l4": "Coffee",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Whey Protein (Cold Coffee, 24g protein/scoop)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/3/e11b9070-980f-4198-b4ec-3574889398a2_78030_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/3/b434290d-f4aa-4ffe-8441-d5a96e59ad1c_78030_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/3/bea11954-ad70-485c-95bf-cca11bb34d9a_78030_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/3/f04918ae-0dbf-431f-902e-40c57dd73608_78030_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/3/5655ed51-4df8-4a88-904b-5496beb7a0b5_78030_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/3/464d0c0d-94e1-4b3f-9a7d-7ee176243e4e_78030_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -522,7 +661,13 @@
       {
         "id": "TOVLQQAODY",
         "display_name": "Muscleblaze Biozyme Performance Rich Chocolate",
-        "price_mrp": 3349,
+        "price": {
+          "mrp": 3349,
+          "store_price": 3349,
+          "offer_price": 2949,
+          "unit_level_price": "",
+          "discount_value": 400
+        },
         "brand": "Muscleblaze",
         "brand_id": "db8d5d3cb8c2ed1bf2d6aa7b6d8a6e735dbd158d",
         "category": "Protein and Sports Nutrition",
@@ -552,6 +697,50 @@
         "unit_of_measure": "kg",
         "weight_in_grams": 1000,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "On Gold Standard 100% Whey Protein Powder Double Rich Chocolate 2 Lbs",
+    "brand": "Optimum Nutrition",
+    "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
+    "product_id": "E8TXOTD9HM",
+    "variations": [
+      {
+        "id": "SGFG42A2VS",
+        "display_name": "On Gold Standard 100% Whey Protein Powder Double Rich Chocolate 2 Lbs",
+        "price": {
+          "mrp": 4249,
+          "store_price": 4249,
+          "offer_price": 3736,
+          "unit_level_price": "",
+          "discount_value": 513
+        },
+        "brand": "Optimum Nutrition",
+        "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
+        "category": "Protein and Sports Nutrition",
+        "super_category": "Nutraceuticals",
+        "sub_category_l3": "Whey Protein",
+        "sub_category_l4": "Original",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "On Gold Standard 100% Whey Protein Powder Double Rich Chocolate 2 Lbs",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/25/efaab7ce-75b9-4627-8765-e242ad28357c_79330_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/25/2db71f3e-a17c-403c-b166-88ccbe3c7d69_79330_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/25/e1058051-51aa-449c-b3da-368dcc0c1a21_79330_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/25/ebe27e4b-2cee-4466-9276-ebbb0d9f790d_79330_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/25/b85cdde8-b78e-4fbd-a176-3f9565d76f2b_79330_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/25/34b8a7cc-ed03-4465-bce2-4e52b6d81c50_79330_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "907",
+        "sku_quantity_with_combo": "907 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 907,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -565,7 +754,13 @@
       {
         "id": "MH7SVDXLOR",
         "display_name": "MuscleBlaze Biozyme Performance Whey Protein Rich Chocolate Single Serve Sachets",
-        "price_mrp": 749,
+        "price": {
+          "mrp": 749,
+          "store_price": 749,
+          "offer_price": 599,
+          "unit_level_price": "",
+          "discount_value": 150
+        },
         "brand": "Muscleblaze",
         "brand_id": "db8d5d3cb8c2ed1bf2d6aa7b6d8a6e735dbd158d",
         "category": "Protein and Sports Nutrition",
@@ -595,6 +790,142 @@
         "unit_of_measure": "g",
         "weight_in_grams": 180,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "The Whole Truth Powder Pista Badaam Shake 24G Protein Whey Only Real Ingredients",
+    "brand": "The Whole Truth",
+    "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+    "product_id": "1NLBFIMTOT",
+    "variations": [
+      {
+        "id": "FWM18IW93J",
+        "display_name": "The Whole Truth Powder Pista Badaam Shake 24G Protein Whey Only Real Ingredients",
+        "price": {
+          "mrp": 4499,
+          "store_price": 4499,
+          "offer_price": 3689,
+          "unit_level_price": "",
+          "discount_value": 810
+        },
+        "brand": "The Whole Truth",
+        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+        "category": "Protein and Sports Nutrition",
+        "super_category": "Nutraceuticals",
+        "sub_category_l3": "Whey Protein",
+        "sub_category_l4": "Pista Badam",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Powder Pista Badaam Shake 24G Protein Whey Only Real Ingredients",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/5/1e758cf2-7c78-4b03-9a83-1945de7bd631_54058_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/5/b11e896f-4489-4f1f-9362-ae5a607e12df_54058_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/5/4162d0de-35ff-4253-a2b8-3b2839cf9007_54058_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/5/f57e7e8a-7d2b-48e4-95e8-6f34a08ca31b_54058_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/5/0312f1b6-93e9-4fc6-b647-f366e69c6a59_54058_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/5/12bea3f2-fa1e-453e-ace1-b046194c9140_54058_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "MuscleBlaze Biozyme Performance Whey Protein Powder, (French Vanilla Créme)",
+    "brand": "Muscleblaze",
+    "brand_id": "db8d5d3cb8c2ed1bf2d6aa7b6d8a6e735dbd158d",
+    "product_id": "TZEFJO91LK",
+    "variations": [
+      {
+        "id": "GACCBVYSLO",
+        "display_name": "MuscleBlaze Biozyme Performance Whey Protein Powder, (French Vanilla Créme)",
+        "price": {
+          "mrp": 3349,
+          "store_price": 3349,
+          "offer_price": 2949,
+          "unit_level_price": "",
+          "discount_value": 400
+        },
+        "brand": "Muscleblaze",
+        "brand_id": "db8d5d3cb8c2ed1bf2d6aa7b6d8a6e735dbd158d",
+        "category": "Protein and Sports Nutrition",
+        "super_category": "Nutraceuticals",
+        "sub_category_l3": "Whey Protein",
+        "sub_category_l4": "Vanilla",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "MuscleBlaze Biozyme Performance Whey Protein Powder, (French Vanilla Créme)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/e1d40339-36d0-4c2f-b17a-0881e2dcff65_635230_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/c8e6eb0d-f106-4c0a-9608-98a1efb44a45_635230_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/7d228c3a-c849-428e-ac1e-2d8413c12481_635230_11.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/2144a1e6-8ca3-4d48-8902-6d8ff7e870db_635230_12.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/a1e7d2d5-e98b-48bb-9495-17c442bb0cf5_635230_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/62eb09b3-5141-4de6-a4bb-794ea37c11bb_635230_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/dfefeb32-5341-4804-b322-67f4371f8bf2_635230_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/0593bb6a-29ba-4b8d-9c0d-180aabed5ed5_635230_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/71da8a13-260f-4224-8b12-8bba47fea1de_635230_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/97e78663-409c-4eb8-b122-e06a7926117b_635230_8.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/bc0b49c7-b3a8-43a1-b648-ed2132478239_635230_9.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/32a94a3f-004a-4042-93ba-18887e4fa1d8_371742_12.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "The Whole Truth Mango Milkshake Whey 24G Protein With Real Alphonso Mangoes",
+    "brand": "The Whole Truth",
+    "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+    "product_id": "2WKQJUHC33",
+    "variations": [
+      {
+        "id": "8IF5FDJQKW",
+        "display_name": "The Whole Truth Mango Milkshake Whey 24G Protein With Real Alphonso Mangoes",
+        "price": {
+          "mrp": 4999,
+          "store_price": 4999,
+          "offer_price": 3899,
+          "unit_level_price": "",
+          "discount_value": 1100
+        },
+        "brand": "The Whole Truth",
+        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+        "category": "Protein and Sports Nutrition",
+        "super_category": "Nutraceuticals",
+        "sub_category_l3": "Whey Protein",
+        "sub_category_l4": "Mango",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Mango Milkshake Whey 24G Protein With Real Alphonso Mangoes",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/10/6c654735-fc8d-437f-b520-f92004ce87b9_61925_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/10/c21173de-d72a-4811-8356-821783397abc_61925_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/10/8acc0fd7-8992-4865-95d1-d11ee94724cf_61925_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/10/d3bed791-4878-4de5-9a5f-3b9e614b6c8b_61925_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/10/0afbaabf-bf62-4e09-96b4-7f24254e118a_61925_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/10/e73eb84b-bd48-4fea-9c51-321739365240_61925_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -608,7 +939,13 @@
       {
         "id": "HVU5IOIM03",
         "display_name": "Muscleblaze Biozyme Performance, Chocolate Hazelnut",
-        "price_mrp": 3349,
+        "price": {
+          "mrp": 3349,
+          "store_price": 3349,
+          "offer_price": 2949,
+          "unit_level_price": "",
+          "discount_value": 400
+        },
         "brand": "Muscleblaze",
         "brand_id": "db8d5d3cb8c2ed1bf2d6aa7b6d8a6e735dbd158d",
         "category": "Protein and Sports Nutrition",
@@ -638,150 +975,50 @@
         "unit_of_measure": "kg",
         "weight_in_grams": 1000,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Wellbeing Nutrition Pure Korean Marine Collagen Supplements",
-    "brand": "Wellbeing Nutrition",
-    "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
-    "product_id": "IVD1GHO68H",
-    "variations": [
-      {
-        "id": "05AGCKAWP2",
-        "display_name": "Wellbeing Nutrition Pure Korean Marine Collagen Supplements",
-        "price_mrp": 594,
-        "brand": "Wellbeing Nutrition",
-        "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
-        "category": "Hair, Skin and Nail Supplements",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Collagen",
-        "sub_category_l4": "Powder",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Pure Korean Marine Collagen Supplements",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/8ca771ed-98ef-465b-ad5b-c9b7a5bde3d3_540960_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/1c8e10be-99e7-4c19-abc6-9b0a65866de6_540960_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/78ebc8ab-2493-402c-8333-ed6de5525c0d_540960_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/223a7d4a-b137-406e-910d-d9bd54e26741_540960_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/498e9007-d197-458e-9a42-8c8f956aaee7_540960_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/6f589922-ec3e-4d55-9fea-4932193bf265_540960_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "48",
-        "sku_quantity_with_combo": "48 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 48,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Wellbeing Nutrition Organic Vegan Plant Protein Isolate Superfoods,Berry Belgium Dark Chocolate",
-    "brand": "Wellbeing Nutrition",
-    "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
-    "product_id": "HAARHIXV3V",
-    "variations": [
-      {
-        "id": "SQLOM6PC7W",
-        "display_name": "Wellbeing Nutrition Organic Vegan Plant Protein Isolate Superfoods,Berry Belgium Dark Chocolate",
-        "price_mrp": 1999,
-        "brand": "Wellbeing Nutrition",
-        "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Plant Protein",
-        "sub_category_l4": "Chocolate Hazelnut",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Organic Vegan Plant Protein Isolate Superfoods,Berry Belgium Dark Chocolate",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/52dbdf66-04fb-4a00-bfae-27085f85d011_582203_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/f9a338f7-0248-453f-b427-ca544df227a1_582203_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/f2bd869a-df4b-47ae-a9bc-83c242acccd8_582203_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/c242a3f6-2076-4b8f-9705-951adb540f20_582203_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/03ad7012-2304-4f10-a62c-af93e0cc9e6f_582203_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/36a93dc6-0890-4aa7-a0ab-3de51c397c45_582203_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "500",
-        "sku_quantity_with_combo": "500 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "On Gold Standard Pre-Workout Fruit Punch 142.5G/15 Single Serve For Endurance & Performance",
+    "display_name": "Optimum Nutrition WGS - Double Rich Chocolate",
     "brand": "Optimum Nutrition",
     "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
-    "product_id": "N0SKQW63P9",
+    "product_id": "S4N72AA2PQ",
     "variations": [
       {
-        "id": "LRXUY1R3LV",
-        "display_name": "On Gold Standard Pre-Workout Fruit Punch 142.5G/15 Single Serve For Endurance & Performance",
-        "price_mrp": 799,
+        "id": "JHQ02J70MY",
+        "display_name": "Optimum Nutrition WGS - Double Rich Chocolate",
+        "price": {
+          "mrp": 2299,
+          "store_price": 2299,
+          "offer_price": 2019,
+          "unit_level_price": "",
+          "discount_value": 280
+        },
         "brand": "Optimum Nutrition",
         "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
         "category": "Protein and Sports Nutrition",
         "super_category": "Nutraceuticals",
         "sub_category_l3": "Whey Protein",
         "sub_category_l4": "Chocolate",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "On Gold Standard Pre-Workout Fruit Punch 142.5G/15 Single Serve For Endurance & Performance",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "WGS - Double Rich Chocolate",
         "images": [
-          "addd3329dedc0cfea4fe26797859c08f",
-          "da918c050f47cda261fb582f170c8f58",
-          "3c06af78cbebb38aa0046380a0cf52e8",
-          "366794c5cfc2f7091c13e5c8c6ddb790",
-          "ad32cd02d7cc01760a5c1ce239ce3016",
-          "87a55f59064f69816f222bdeba1d31cf"
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/b3ad666c-1ba3-4fe8-b60d-9b2538ba693c_44941_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/13eae192-2248-4c4c-b7a7-cd25d353183f_44941_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/8a2eacd7-ba35-442e-95c7-9acae6625b11_44941_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/1bfa6a42-38e0-43fa-8e96-3122f2baa95d_44941_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/b386eeeb-13bf-4294-b250-b2623ddb8222_44941_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/a8f15204-3810-47c3-8fff-fdaf5ec4dcc5_44941_6.png"
         ],
         "images_v2": [],
-        "quantity": "142.5",
-        "sku_quantity_with_combo": "142.5 g",
+        "quantity": "454",
+        "sku_quantity_with_combo": "454 g",
         "unit_of_measure": "g",
-        "weight_in_grams": 1,
+        "weight_in_grams": 454,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "The Whole Truth Mango Milkshake Whey 24G Protein With Real Alphonso Mangoes",
-    "brand": "The Whole Truth",
-    "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
-    "product_id": "2WKQJUHC33",
-    "variations": [
-      {
-        "id": "8IF5FDJQKW",
-        "display_name": "The Whole Truth Mango Milkshake Whey 24G Protein With Real Alphonso Mangoes",
-        "price_mrp": 4999,
-        "brand": "The Whole Truth",
-        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Mango",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Mango Milkshake Whey 24G Protein With Real Alphonso Mangoes",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/10/6c654735-fc8d-437f-b520-f92004ce87b9_61925_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/10/c21173de-d72a-4811-8356-821783397abc_61925_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/10/8acc0fd7-8992-4865-95d1-d11ee94724cf_61925_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/10/d3bed791-4878-4de5-9a5f-3b9e614b6c8b_61925_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/10/0afbaabf-bf62-4e09-96b4-7f24254e118a_61925_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/10/e73eb84b-bd48-4fea-9c51-321739365240_61925_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 kg",
-        "unit_of_measure": "kg",
-        "weight_in_grams": 1000,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -795,7 +1032,13 @@
       {
         "id": "IYB7XN6FBJ",
         "display_name": "MuscleBlaze Raw Whey Protein Concentrate 80%, Unflavoured",
-        "price_mrp": 2599,
+        "price": {
+          "mrp": 2599,
+          "store_price": 2599,
+          "offer_price": 2299,
+          "unit_level_price": "",
+          "discount_value": 300
+        },
         "brand": "Muscleblaze",
         "brand_id": "db8d5d3cb8c2ed1bf2d6aa7b6d8a6e735dbd158d",
         "category": "Protein and Sports Nutrition",
@@ -819,6 +1062,227 @@
         "unit_of_measure": "kg",
         "weight_in_grams": 1000,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Fuel One Whey Protein Powder (Chocolate)",
+    "brand": "Muscleblaze",
+    "brand_id": "db8d5d3cb8c2ed1bf2d6aa7b6d8a6e735dbd158d",
+    "product_id": "V5HROKY44N",
+    "variations": [
+      {
+        "id": "6VFY3BZBXX",
+        "display_name": "Fuel One Whey Protein Powder (Chocolate)",
+        "price": {
+          "mrp": 2299,
+          "store_price": 2299,
+          "offer_price": 2199,
+          "unit_level_price": "",
+          "discount_value": 100
+        },
+        "brand": "Muscleblaze",
+        "brand_id": "db8d5d3cb8c2ed1bf2d6aa7b6d8a6e735dbd158d",
+        "category": "Protein and Sports Nutrition",
+        "super_category": "Nutraceuticals",
+        "sub_category_l3": "Whey Protein",
+        "sub_category_l4": "Chocolate",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Fuel One Whey Protein Powder (Chocolate)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/b7d95334-9565-4201-bf34-740f495c3c9f_26512_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/a5be8625-f6c1-4d18-92f4-bd2c9f136b2b_26512_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/a26a2f6b-da29-4860-a14b-9c63883739ac_26512_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/fe4792bb-3760-48ae-b3f8-65a97f8553ad_26512_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/21fbcdd2-e82b-43e0-958f-0d3bae7324d1_26512_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/594d60cf-3a20-4215-857a-1daf56380c35_26512_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/d3d192b9-d5ff-48b3-9214-9b8d59bbc750_26512_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/18/aefc6d65-97c6-4cb5-86d3-5c4a2f03268c_26512_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "GNC Pro Performance Power Protein | 2 lbs | 30g Protein | 1.5g Creatine | Double Rich Chocolate",
+    "brand": "GNC",
+    "brand_id": "ad2243ed57da98a29fe0fb60ac6c5de903aaec9e",
+    "product_id": "W7YQQE7PHZ",
+    "variations": [
+      {
+        "id": "H3TGRHB3X4",
+        "display_name": "GNC Pro Performance Power Protein | 2 lbs | 30g Protein | 1.5g Creatine | Double Rich Chocolate",
+        "price": {
+          "mrp": 3599,
+          "store_price": 3599,
+          "offer_price": 2498,
+          "unit_level_price": "",
+          "discount_value": 1101
+        },
+        "brand": "GNC",
+        "brand_id": "ad2243ed57da98a29fe0fb60ac6c5de903aaec9e",
+        "category": "Protein and Sports Nutrition",
+        "super_category": "Nutraceuticals",
+        "sub_category_l3": "Whey Protein",
+        "sub_category_l4": "Chocolate",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Pro Performance Power Protein | 2 lbs | 30g Protein | 1.5g Creatine | Double Rich Chocolate",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/4a9fa59b-7e01-4fe3-870c-4e486d19f5bc_82729_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/82dbec37-e0d1-4e8a-9968-e7d8fe63dee5_82729_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/871ac167-318f-44a4-a266-4e51a9b39648_82729_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/087d0c86-7428-49e1-b682-e6d5d9289663_82729_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/6c93dca2-b842-4477-930d-76bf35b524fd_82729_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/077f3f1e-caa8-478a-b272-9b9f987d461d_82729_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/8e99043c-aa9d-41cc-a3e4-4745b5cf7f8c_82729_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/3ad75220-9365-481c-a192-0e138ae8c8ba_82729_9.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/2ef10bd7-4f57-4b84-bf54-5af23e3fb246_82729_10.png"
+        ],
+        "images_v2": [],
+        "quantity": "907",
+        "sku_quantity_with_combo": "907 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 907,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Wellbeing Nutrition Japanese L-Glutathione Skin Fuel",
+    "brand": "Wellbeing Nutrition",
+    "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
+    "product_id": "Y5UY5JHU0E",
+    "variations": [
+      {
+        "id": "SXVMACKY0R",
+        "display_name": "Wellbeing Nutrition Japanese L-Glutathione Skin Fuel",
+        "price": {
+          "mrp": 999,
+          "store_price": 999,
+          "offer_price": 849,
+          "unit_level_price": "",
+          "discount_value": 150
+        },
+        "brand": "Wellbeing Nutrition",
+        "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
+        "category": "Hair, Skin and Nail Supplements",
+        "super_category": "Nutraceuticals",
+        "sub_category_l3": "Collagen",
+        "sub_category_l4": "Powder",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Japanese L-Glutathione Skin Fuel",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/181bec68-2ff2-48c7-bb94-200215f1e428_992343_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/822896b8-1748-47f9-9583-52f7526014e3_992343_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/a5fade3e-46b3-4b69-9f99-227887000dee_992343_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/37338af7-4a42-4567-82c0-e5abe36dc3df_992343_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/d7564859-4e1b-4b27-a97a-82a19a6e8c11_992343_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/55f51462-9a5a-47de-98fa-4ebd49f63263_992343_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "64.5",
+        "sku_quantity_with_combo": "64.5 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 65,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Wellbeing Nutrition Organic Vegan Plant Protein Isolate Superfoods,Berry Belgium Dark Chocolate",
+    "brand": "Wellbeing Nutrition",
+    "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
+    "product_id": "HAARHIXV3V",
+    "variations": [
+      {
+        "id": "SQLOM6PC7W",
+        "display_name": "Wellbeing Nutrition Organic Vegan Plant Protein Isolate Superfoods,Berry Belgium Dark Chocolate",
+        "price": {
+          "mrp": 1999,
+          "store_price": 1999,
+          "offer_price": 1699,
+          "unit_level_price": "",
+          "discount_value": 300
+        },
+        "brand": "Wellbeing Nutrition",
+        "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
+        "category": "Protein and Sports Nutrition",
+        "super_category": "Nutraceuticals",
+        "sub_category_l3": "Plant Protein",
+        "sub_category_l4": "Chocolate Hazelnut",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Organic Vegan Plant Protein Isolate Superfoods,Berry Belgium Dark Chocolate",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/52dbdf66-04fb-4a00-bfae-27085f85d011_582203_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/f9a338f7-0248-453f-b427-ca544df227a1_582203_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/f2bd869a-df4b-47ae-a9bc-83c242acccd8_582203_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/c242a3f6-2076-4b8f-9705-951adb540f20_582203_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/03ad7012-2304-4f10-a62c-af93e0cc9e6f_582203_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/36a93dc6-0890-4aa7-a0ab-3de51c397c45_582203_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Optimum Nutrition Wgs - Vanilla",
+    "brand": "Optimum Nutrition",
+    "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
+    "product_id": "487440Y1C6",
+    "variations": [
+      {
+        "id": "BLRHCAIY33",
+        "display_name": "Optimum Nutrition Wgs - Vanilla",
+        "price": {
+          "mrp": 2299,
+          "store_price": 2299,
+          "offer_price": 2019,
+          "unit_level_price": "",
+          "discount_value": 280
+        },
+        "brand": "Optimum Nutrition",
+        "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
+        "category": "Protein and Sports Nutrition",
+        "super_category": "Nutraceuticals",
+        "sub_category_l3": "Whey Protein",
+        "sub_category_l4": "Vanilla",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Wgs - Vanilla",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/28/0d4a81e9-01b7-4099-9207-9ad45528bddd_242686_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/28/d1acee9b-3a34-40a1-bf08-bdfe1034af60_242686_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/28/99dc1654-33db-487b-93b5-e9cddaf3128d_242686_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/28/f384e6d9-a431-4bbc-a657-d78992ab5bcd_242686_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/28/40019b05-062a-4048-b0c7-1d984432c40c_242686_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/28/42329c6c-3749-4e6a-bc4c-9e39cbbe40af_242686_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "454",
+        "sku_quantity_with_combo": "454 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 454,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -832,7 +1296,13 @@
       {
         "id": "R6Z2C931LI",
         "display_name": "Wellbeing Nutrition Daily Probiotic + Prebiotic 18 Billion CFU, 6 Strains 21 Effervescent",
-        "price_mrp": 750,
+        "price": {
+          "mrp": 750,
+          "store_price": 750,
+          "offer_price": 637,
+          "unit_level_price": "",
+          "discount_value": 113
+        },
         "brand": "Wellbeing Nutrition",
         "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
         "category": "Daily Wellness",
@@ -855,89 +1325,7 @@
         "unit_of_measure": "g",
         "weight_in_grams": 65,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "MuscleBlaze Biozyme Performance Whey Protein Powder, (French Vanilla Créme)",
-    "brand": "Muscleblaze",
-    "brand_id": "db8d5d3cb8c2ed1bf2d6aa7b6d8a6e735dbd158d",
-    "product_id": "TZEFJO91LK",
-    "variations": [
-      {
-        "id": "GACCBVYSLO",
-        "display_name": "MuscleBlaze Biozyme Performance Whey Protein Powder, (French Vanilla Créme)",
-        "price_mrp": 3349,
-        "brand": "Muscleblaze",
-        "brand_id": "db8d5d3cb8c2ed1bf2d6aa7b6d8a6e735dbd158d",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Vanilla",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "MuscleBlaze Biozyme Performance Whey Protein Powder, (French Vanilla Créme)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/e1d40339-36d0-4c2f-b17a-0881e2dcff65_635230_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/c8e6eb0d-f106-4c0a-9608-98a1efb44a45_635230_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/7d228c3a-c849-428e-ac1e-2d8413c12481_635230_11.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/2144a1e6-8ca3-4d48-8902-6d8ff7e870db_635230_12.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/a1e7d2d5-e98b-48bb-9495-17c442bb0cf5_635230_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/62eb09b3-5141-4de6-a4bb-794ea37c11bb_635230_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/dfefeb32-5341-4804-b322-67f4371f8bf2_635230_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/0593bb6a-29ba-4b8d-9c0d-180aabed5ed5_635230_6.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/71da8a13-260f-4224-8b12-8bba47fea1de_635230_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/97e78663-409c-4eb8-b122-e06a7926117b_635230_8.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/bc0b49c7-b3a8-43a1-b648-ed2132478239_635230_9.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/32a94a3f-004a-4042-93ba-18887e4fa1d8_371742_12.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 kg",
-        "unit_of_measure": "kg",
-        "weight_in_grams": 1000,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Muscleblaze Biozyme Performance Whey Protein Powder, (Magical Mango)",
-    "brand": "Muscleblaze",
-    "brand_id": "db8d5d3cb8c2ed1bf2d6aa7b6d8a6e735dbd158d",
-    "product_id": "K9B66UG26P",
-    "variations": [
-      {
-        "id": "3UVD1WSNNI",
-        "display_name": "Muscleblaze Biozyme Performance Whey Protein Powder, (Magical Mango)",
-        "price_mrp": 3349,
-        "brand": "Muscleblaze",
-        "brand_id": "db8d5d3cb8c2ed1bf2d6aa7b6d8a6e735dbd158d",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Mango",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Biozyme Performance Whey Protein Powder, (Magical Mango)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/87681333-1039-4f4a-ac01-6769ca3e2e01_252030_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/e3c360ea-5398-4f31-ac05-3c1ea1752272_252030_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/98acdda4-c570-4b95-994e-2c01c627086f_252030_11.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/f3c3ff83-8cb0-46fa-880e-a7a022f8c1b2_252030_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/c553b516-375c-4fa5-99ca-5a3336c8430f_252030_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/f7627d31-dc0d-490f-9d41-d447b74f7465_252030_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/279b9cd1-8871-4214-9e67-57e4758b466f_252030_6.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/d8e80751-16c1-4f85-9bf7-91ff4ece975c_252030_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/fa679040-fa6f-4637-a54b-7bf6ad534d14_252030_8.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/65385fdc-84ca-4ee0-b377-5d92ed24f1aa_252030_9.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/8120958b-871e-49e9-a56b-c437b9f8f6b4_252030_10.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 kg",
-        "unit_of_measure": "kg",
-        "weight_in_grams": 1000,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -951,7 +1339,13 @@
       {
         "id": "ZSK69H9QMJ",
         "display_name": "GNC Pro Performance 100% Whey Protein Powder | 24g Protein | 5.5g Bcaa | Chocolate Fudge",
-        "price_mrp": 3499,
+        "price": {
+          "mrp": 3499,
+          "store_price": 3499,
+          "offer_price": 2999,
+          "unit_level_price": "",
+          "discount_value": 500
+        },
         "brand": "GNC",
         "brand_id": "ad2243ed57da98a29fe0fb60ac6c5de903aaec9e",
         "category": "Protein and Sports Nutrition",
@@ -978,322 +1372,7 @@
         "unit_of_measure": "g",
         "weight_in_grams": 907,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Optimum Nutrition (On) Gold Standard 100% Whey Protein Powder - 5 Lbs (Double Rich Chocolate)",
-    "brand": "Optimum Nutrition",
-    "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
-    "product_id": "WDI3P7D9CI",
-    "variations": [
-      {
-        "id": "GWQXQ99K6T",
-        "display_name": "Optimum Nutrition (On) Gold Standard 100% Whey Protein Powder - 5 Lbs (Double Rich Chocolate)",
-        "price_mrp": 9299,
-        "brand": "Optimum Nutrition",
-        "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Chocolate",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "(On) Gold Standard 100% Whey Protein Powder - 5 Lbs (Double Rich Chocolate)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/25/cf5cd646-ca08-4b24-986a-30fd05567ae3_650081_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/25/4333aa14-ce7e-4e4f-baec-73b00b918fcd_650081_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/25/1b7ead72-201a-406a-b71c-93211bed7124_650081_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/25/e285e87c-c010-4356-8388-5d683af5c86a_650081_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/25/04de7ca3-762a-4b65-99b1-4a8a65d1ca2c_650081_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/25/170044ee-a308-4cff-bade-0bd6b01bfb9a_650081_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "2.27",
-        "sku_quantity_with_combo": "2.27 kg",
-        "unit_of_measure": "kg",
-        "weight_in_grams": 2268,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Wellbeing Nutrition Japanese L-Glutathione Skin Fuel",
-    "brand": "Wellbeing Nutrition",
-    "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
-    "product_id": "Y5UY5JHU0E",
-    "variations": [
-      {
-        "id": "SXVMACKY0R",
-        "display_name": "Wellbeing Nutrition Japanese L-Glutathione Skin Fuel",
-        "price_mrp": 999,
-        "brand": "Wellbeing Nutrition",
-        "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
-        "category": "Hair, Skin and Nail Supplements",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Collagen",
-        "sub_category_l4": "Powder",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Japanese L-Glutathione Skin Fuel",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/181bec68-2ff2-48c7-bb94-200215f1e428_992343_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/822896b8-1748-47f9-9583-52f7526014e3_992343_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/a5fade3e-46b3-4b69-9f99-227887000dee_992343_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/37338af7-4a42-4567-82c0-e5abe36dc3df_992343_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/d7564859-4e1b-4b27-a97a-82a19a6e8c11_992343_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/55f51462-9a5a-47de-98fa-4ebd49f63263_992343_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "64.5",
-        "sku_quantity_with_combo": "64.5 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 65,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Wellbeing Nutrition Melts Testo Power Enhanced Performance & Stamina",
-    "brand": "Wellbeing Nutrition",
-    "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
-    "product_id": "MDPWGULTX3",
-    "variations": [
-      {
-        "id": "WM7FADZ7WW",
-        "display_name": "Wellbeing Nutrition Melts Testo Power Enhanced Performance & Stamina",
-        "price_mrp": 649,
-        "brand": "Wellbeing Nutrition",
-        "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
-        "category": "Energy Boosters",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Testosterone Boosters",
-        "sub_category_l4": "Original",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Melts Testo Power Enhanced Performance & Stamina",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/ab18061e-4492-4a3d-86e6-8e1a13ae8fec_29586_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/fe9b8170-1950-4e45-ad2f-cc8444ee266e_29586_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/ba0f3054-1186-4dba-8f35-b2e5626b92c1_29586_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/56122604-3576-4b10-8576-5da2516406c1_29586_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/180f8a97-2d35-42b2-ab6e-831bb276e940_29586_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/32613305-5207-46e8-8e65-18415514ffb5_29586_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "60",
-        "sku_quantity_with_combo": "60 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 60,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      },
-      {
-        "id": "T66M55R1CX",
-        "display_name": "Wellbeing Nutrition Melts Testo Power |Support for Enhanced Performance, Improved Stamina",
-        "price_mrp": 1298,
-        "brand": "Wellbeing Nutrition",
-        "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
-        "category": "Energy Boosters",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Testosterone Boosters",
-        "sub_category_l4": "Original",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Melts Testo Power |Support for Enhanced Performance, Improved Stamina",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/10/8/ad83ed07-b4eb-4d79-b62f-3e10aacd24d2_608504.png"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "60 g x 2",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 120,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Isopure - Chocolate",
-    "brand": "Isopure",
-    "brand_id": "649eb93fb3cde5893e269ac73d7145eafca6d7ef",
-    "product_id": "JGTTOSOQ81",
-    "variations": [
-      {
-        "id": "98WR6IL9X9",
-        "display_name": "Isopure - Chocolate",
-        "price_mrp": 5949,
-        "brand": "Isopure",
-        "brand_id": "649eb93fb3cde5893e269ac73d7145eafca6d7ef",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Chocolate",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "- Chocolate",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/12/28/72fe8870-f2ea-45b1-8e8b-81201a20e32a_588890_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/28/0270a9f8-0f69-4f96-826a-25f3030888f7_588890_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/28/f44daeee-4594-4e5f-8db0-87c5c5890872_588890_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/28/9948cf64-e214-4251-b193-d3be9461abe7_588890_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/28/b79a90cd-ae1d-4720-9a4d-3cb5e948e05d_588890_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/28/f58348f3-65b5-458d-8b5c-c3e9be8b9d93_588890_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 kg",
-        "unit_of_measure": "kg",
-        "weight_in_grams": 1000,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Fuel One Whey Protein Powder (Chocolate)",
-    "brand": "Muscleblaze",
-    "brand_id": "db8d5d3cb8c2ed1bf2d6aa7b6d8a6e735dbd158d",
-    "product_id": "V5HROKY44N",
-    "variations": [
-      {
-        "id": "6VFY3BZBXX",
-        "display_name": "Fuel One Whey Protein Powder (Chocolate)",
-        "price_mrp": 2299,
-        "brand": "Muscleblaze",
-        "brand_id": "db8d5d3cb8c2ed1bf2d6aa7b6d8a6e735dbd158d",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Chocolate",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Fuel One Whey Protein Powder (Chocolate)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/b7d95334-9565-4201-bf34-740f495c3c9f_26512_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/a5be8625-f6c1-4d18-92f4-bd2c9f136b2b_26512_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/a26a2f6b-da29-4860-a14b-9c63883739ac_26512_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/fe4792bb-3760-48ae-b3f8-65a97f8553ad_26512_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/21fbcdd2-e82b-43e0-958f-0d3bae7324d1_26512_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/594d60cf-3a20-4215-857a-1daf56380c35_26512_6.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/d3d192b9-d5ff-48b3-9214-9b8d59bbc750_26512_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/18/aefc6d65-97c6-4cb5-86d3-5c4a2f03268c_26512_8.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 kg",
-        "unit_of_measure": "kg",
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Optimum Nutrition WGS - Vanilla Ice Cream Flavour - 2 lbs",
-    "brand": "Optimum Nutrition",
-    "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
-    "product_id": "0G1VNF3RWD",
-    "variations": [
-      {
-        "id": "I9U5JCMAXA",
-        "display_name": "Optimum Nutrition WGS - Vanilla Ice Cream Flavour - 2 lbs",
-        "price_mrp": 4249,
-        "brand": "Optimum Nutrition",
-        "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Original",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "WGS - Vanilla Ice Cream Flavour - 2 lbs",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/88d090cd-dc42-4599-87d9-51bfb3e8cf22_44938_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/f3f263ec-1243-4a2f-9f9d-3b972e0bf958_44938_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/12e92a90-3e76-4338-b0a8-e2c80340393e_44938_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/ad23434d-ae64-4404-a248-54bd27601bb6_44938_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/30066407-a3b8-4e4e-a5c3-0cc819bc37db_44938_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/bdd4e6da-c578-42ec-8197-27ee3f9c0a75_44938_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "907",
-        "sku_quantity_with_combo": "907 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 907,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "GNC Pro Performance Power Protein | 2 lbs | 30g Protein | 1.5g Creatine | Double Rich Chocolate",
-    "brand": "GNC",
-    "brand_id": "ad2243ed57da98a29fe0fb60ac6c5de903aaec9e",
-    "product_id": "W7YQQE7PHZ",
-    "variations": [
-      {
-        "id": "H3TGRHB3X4",
-        "display_name": "GNC Pro Performance Power Protein | 2 lbs | 30g Protein | 1.5g Creatine | Double Rich Chocolate",
-        "price_mrp": 3599,
-        "brand": "GNC",
-        "brand_id": "ad2243ed57da98a29fe0fb60ac6c5de903aaec9e",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Chocolate",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Pro Performance Power Protein | 2 lbs | 30g Protein | 1.5g Creatine | Double Rich Chocolate",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/4a9fa59b-7e01-4fe3-870c-4e486d19f5bc_82729_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/82dbec37-e0d1-4e8a-9968-e7d8fe63dee5_82729_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/871ac167-318f-44a4-a266-4e51a9b39648_82729_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/087d0c86-7428-49e1-b682-e6d5d9289663_82729_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/6c93dca2-b842-4477-930d-76bf35b524fd_82729_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/077f3f1e-caa8-478a-b272-9b9f987d461d_82729_6.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/8e99043c-aa9d-41cc-a3e4-4745b5cf7f8c_82729_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/3ad75220-9365-481c-a192-0e138ae8c8ba_82729_9.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/2ef10bd7-4f57-4b84-bf54-5af23e3fb246_82729_10.png"
-        ],
-        "images_v2": [],
-        "quantity": "907",
-        "sku_quantity_with_combo": "907 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 907,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Optimum Nutrition Wgs - Vanilla",
-    "brand": "Optimum Nutrition",
-    "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
-    "product_id": "487440Y1C6",
-    "variations": [
-      {
-        "id": "BLRHCAIY33",
-        "display_name": "Optimum Nutrition Wgs - Vanilla",
-        "price_mrp": 2299,
-        "brand": "Optimum Nutrition",
-        "brand_id": "7ebda857d7021a867b694168d7fcc9082c7e35e5",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Vanilla",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Wgs - Vanilla",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/12/28/0d4a81e9-01b7-4099-9207-9ad45528bddd_242686_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/28/d1acee9b-3a34-40a1-bf08-bdfe1034af60_242686_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/28/99dc1654-33db-487b-93b5-e9cddaf3128d_242686_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/28/f384e6d9-a431-4bbc-a657-d78992ab5bcd_242686_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/28/40019b05-062a-4048-b0c7-1d984432c40c_242686_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/28/42329c6c-3749-4e6a-bc4c-9e39cbbe40af_242686_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "454",
-        "sku_quantity_with_combo": "454 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 454,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -1307,7 +1386,13 @@
       {
         "id": "HNSJCDDYQR",
         "display_name": "Wellbeing Nutrition Melts Natural Vitamin D3+K2 (Mk-7) (30 Oral Strips)",
-        "price_mrp": 649,
+        "price": {
+          "mrp": 649,
+          "store_price": 649,
+          "offer_price": 585,
+          "unit_level_price": "",
+          "discount_value": 64
+        },
         "brand": "Wellbeing Nutrition",
         "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
         "category": "Daily Wellness",
@@ -1330,37 +1415,7 @@
         "unit_of_measure": "g",
         "weight_in_grams": 72,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "COSMIX No Nonsense Plant Protein (Kerala Vanilla Bean)",
-    "brand": "COSMIX",
-    "brand_id": "104fceaac1e754793a22682ae2e8124889734868",
-    "product_id": "P92UE3N48C",
-    "variations": [
-      {
-        "id": "F1XB90PLBB",
-        "display_name": "COSMIX No Nonsense Plant Protein (Kerala Vanilla Bean)",
-        "price_mrp": 3100,
-        "brand": "COSMIX",
-        "brand_id": "104fceaac1e754793a22682ae2e8124889734868",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Plant Protein",
-        "sub_category_l4": "Vanilla",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "No Nonsense Plant Protein (Kerala Vanilla Bean)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/10/26/e4aaadc1-9e3a-4c4a-bbf4-76b92ce03099_374552.png"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "500 g x 2",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 1000,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -1374,7 +1429,13 @@
       {
         "id": "7W7CIR71AS",
         "display_name": "The Whole Truth Light Cocoa Whey|24G Protein|Pack of 6|Easy to Digest",
-        "price_mrp": 999,
+        "price": {
+          "mrp": 999,
+          "store_price": 999,
+          "offer_price": 899,
+          "unit_level_price": "",
+          "discount_value": 100
+        },
         "brand": "The Whole Truth",
         "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
         "category": "Protein and Sports Nutrition",
@@ -1398,6 +1459,7 @@
         "unit_of_measure": "g",
         "weight_in_grams": 210,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -1411,7 +1473,13 @@
       {
         "id": "RD2AR6KTRT",
         "display_name": "Wellbeing Nutrition Slow Triple Magnesium Complex with Glycinate, Aquamin Veg Capsules",
-        "price_mrp": 1499,
+        "price": {
+          "mrp": 1499,
+          "store_price": 1499,
+          "offer_price": 1274,
+          "unit_level_price": "",
+          "discount_value": 225
+        },
         "brand": "Wellbeing Nutrition",
         "brand_id": "cdda8274e334b317e5a01fbdc41db0f92afe0a3b",
         "category": "Daily Wellness",
@@ -1434,6 +1502,7 @@
         "unit_of_measure": "pieces",
         "weight_in_grams": 49,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -1447,7 +1516,13 @@
       {
         "id": "JZI2LNI230",
         "display_name": "Threptin High Calorie Protein Vanilla Diskettes",
-        "price_mrp": 510,
+        "price": {
+          "mrp": 510,
+          "store_price": 510,
+          "offer_price": 510,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
         "brand": "Threptin",
         "brand_id": "39a4c50232ea57a1a632fc4418814585bce4dece",
         "category": "Protein and Sports Nutrition",
@@ -1468,37 +1543,7 @@
         "unit_of_measure": "g",
         "weight_in_grams": 275,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "COSMIX No Nonsense Plant Protein (Indonasian Cacao)",
-    "brand": "COSMIX",
-    "brand_id": "104fceaac1e754793a22682ae2e8124889734868",
-    "product_id": "Z2HP3YJMG7",
-    "variations": [
-      {
-        "id": "OITODHBA4D",
-        "display_name": "COSMIX No Nonsense Plant Protein (Indonasian Cacao)",
-        "price_mrp": 3100,
-        "brand": "COSMIX",
-        "brand_id": "104fceaac1e754793a22682ae2e8124889734868",
-        "category": "Protein and Sports Nutrition",
-        "super_category": "Nutraceuticals",
-        "sub_category_l3": "Whey Protein",
-        "sub_category_l4": "Original",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "No Nonsense Plant Protein (Indonasian Cacao)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/10/26/06c75271-3e81-4e4f-b9b9-1b47592cef59_369779.png"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "500 g x 2",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 1000,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]

@@ -1,35 +1,174 @@
 [
   {
-    "display_name": "Mannlich Intimate or Private Hair Removal Cream for Men",
-    "brand": "Mannlich",
-    "brand_id": "ea44e041c94f7e145a6b17740f9a6668da40d416",
-    "product_id": "T1P0O2BXP8",
+    "display_name": "Veet Hair Removal Wax Strips - Sensitive Skin",
+    "brand": "Veet",
+    "brand_id": "d1a7119e68619a55fae5f3798f6dbac19468eb4b",
+    "product_id": "NLC5Q8G9R6",
     "variations": [
       {
-        "id": "1XKLGNBDBK",
-        "display_name": "Mannlich Intimate or Private Hair Removal Cream for Men",
-        "price_mrp": 499,
-        "brand": "Mannlich",
-        "brand_id": "ea44e041c94f7e145a6b17740f9a6668da40d416",
-        "category": "Mens Grooming",
+        "id": "78WA5V4QGU",
+        "display_name": "Veet Hair Removal Wax Strips - Sensitive Skin",
+        "price": {
+          "mrp": 280,
+          "store_price": 280,
+          "offer_price": 252,
+          "unit_level_price": "12.6/piece",
+          "discount_value": 28
+        },
+        "brand": "Veet",
+        "brand_id": "d1a7119e68619a55fae5f3798f6dbac19468eb4b",
+        "category": "Hair Removal",
         "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Hair Removal Cream",
-        "sub_category_l4": "Sensitive Skin",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Intimate or Private Hair Removal Cream for Men",
+        "sub_category_l3": "Wax Strips",
+        "sub_category_l4": "Women",
+        "sub_category_l5": "Single",
+        "product_name_without_brand": "Hair Removal Wax Strips - Sensitive Skin",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/13/85ed95d1-ecf2-4d3e-9b48-8e6dbb3ff569_512981_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/13/0afca864-f97b-4972-8265-ca51dcf88f08_512981_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/13/080967bd-7c29-42ca-9530-b7d21af31042_512981_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/13/405c35a0-ce51-4075-ace6-e3e1c5ff12e9_512981_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/13/ccdc910f-d71c-4f3a-bfc9-83dde681cfff_512981_5.png"
+          "NI_CATALOG/IMAGES/CIW/2025/6/26/b263bdf9-e297-4a3c-bcac-31e723c4f413_2371_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/26/598a1dff-0677-4554-8b69-14e379ed8604_2371_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/26/17ddb39e-b6cb-47b5-a05d-e215526b676e_2371_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/26/4d99f77d-4914-446a-849b-65007482f823_2371_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/26/b28ea9d6-f2b6-4aac-97c6-72a20913fe3a_2371_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/26/1d698e1e-1df6-41da-8b64-87b2f81c87ae_2371_6.png"
         ],
         "images_v2": [],
-        "quantity": "100",
-        "sku_quantity_with_combo": "100 ml",
-        "unit_of_measure": "ml",
-        "weight_in_grams": 100,
+        "quantity": "20",
+        "sku_quantity_with_combo": "20 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 200,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Veet Pure Hair Removal Cream For Normal Skin",
+    "brand": "Veet",
+    "brand_id": "d1a7119e68619a55fae5f3798f6dbac19468eb4b",
+    "product_id": "7O19W40P94",
+    "variations": [
+      {
+        "id": "3T5IF1QO84",
+        "display_name": "Veet Pure Hair Removal Cream For Normal Skin",
+        "price": {
+          "mrp": 175,
+          "store_price": 175,
+          "offer_price": 166,
+          "unit_level_price": "",
+          "discount_value": 9
+        },
+        "brand": "Veet",
+        "brand_id": "d1a7119e68619a55fae5f3798f6dbac19468eb4b",
+        "category": "Hair Removal",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Hair Removal Cream",
+        "sub_category_l4": "Women",
+        "sub_category_l5": "Single",
+        "product_name_without_brand": "Pure Hair Removal Cream For Normal Skin",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/cb763882-d376-4d31-9033-bd84cc669aa2_3157_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/e86e137d-066b-4ba8-a0dd-d9f7d80b5716_3157_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/d702d9b2-e6ca-4b18-a08b-84d08b14ac32_3157_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/ebd8c09b-97ba-4aeb-9a49-3dcbfb38393d_3157_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/dd254944-0876-44c9-a114-f7a28345d3b1_3157_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/8570f8b6-3ec6-4aa5-ae2b-dfe62f61bbc6_3157_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "50",
+        "sku_quantity_with_combo": "50 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 50,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sanfe Painless & Detan Hair Removal Spray Cream",
+    "brand": "Sanfe",
+    "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
+    "product_id": "9AEIQNM7N2",
+    "variations": [
+      {
+        "id": "N35F5U57D8",
+        "display_name": "Sanfe Painless & Detan Hair Removal Spray Cream",
+        "price": {
+          "mrp": 399,
+          "store_price": 399,
+          "offer_price": 279,
+          "unit_level_price": "",
+          "discount_value": 120
+        },
+        "brand": "Sanfe",
+        "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
+        "category": "Hair Removal",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Hair Removal Spray",
+        "sub_category_l4": "Women",
+        "sub_category_l5": "Single",
+        "product_name_without_brand": "Painless & Detan Hair Removal Spray Cream",
+        "images": [
+          "45c51e80708934ca2ecb96f8fd687dd6",
+          "8173f5efcde9a134b76ea5288db7b9dd",
+          "b8051180c0b23f05e60371cdc07d6930",
+          "25c51f2db68b79826c3c886cfdb0dfc9",
+          "785cf1b4587fb875f2f6695386b73de5",
+          "0e569726d5f008c8360a0fdb01b25ae4"
+        ],
+        "images_v2": [],
+        "quantity": "112",
+        "sku_quantity_with_combo": "112 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 0,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pee Safe Face Razor 1N",
+    "brand": "Pee Safe",
+    "brand_id": "ccc06173cf8190da89bb9a469f8c26dc6a5fc675",
+    "product_id": "XYSUIA86ON",
+    "variations": [
+      {
+        "id": "8O8RY8I901",
+        "display_name": "Pee Safe Face Razor 1N",
+        "price": {
+          "mrp": 149,
+          "store_price": 149,
+          "offer_price": 119,
+          "unit_level_price": "",
+          "discount_value": 30
+        },
+        "brand": "Pee Safe",
+        "brand_id": "ccc06173cf8190da89bb9a469f8c26dc6a5fc675",
+        "category": "Hair Removal",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Razor",
+        "sub_category_l4": "Women",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Face Razor 1N",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/14/8bd845e4-94e5-481c-b47e-c1bce2278804_812153_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/14/90d86cd5-b2e8-4726-8d19-234bb66525c7_812153_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/14/25adcdd6-0f04-43f9-891c-09ca4c06b0a7_812153_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/14/8d3172a8-7f57-45f9-851e-3430c98bc426_812153_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/14/13e2c717-27d3-4a33-8b0c-1ee207feb45b_812153_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/14/90bd83a0-4c2f-41d1-a8f0-ef14215861be_812153_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/14/975c2180-b57a-40b4-a743-ae264fcff064_812153_8.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/14/2f7f87c9-6b30-43c5-ab61-c2716e5e172f_812153_9.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -43,7 +182,13 @@
       {
         "id": "9N3SYFTDHU",
         "display_name": "ForMen Minoxidil 5%",
-        "price_mrp": 649,
+        "price": {
+          "mrp": 649,
+          "store_price": 649,
+          "offer_price": 399,
+          "unit_level_price": "",
+          "discount_value": 250
+        },
         "brand": "ForMen",
         "brand_id": "e7ea9ae53dbaca56f297a1f28bfb5554dadad6c6",
         "category": "Mens Grooming",
@@ -66,6 +211,268 @@
         "unit_of_measure": "ml",
         "weight_in_grams": 60,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Mannlich Intimate or Private Hair Removal Cream for Men",
+    "brand": "Mannlich",
+    "brand_id": "ea44e041c94f7e145a6b17740f9a6668da40d416",
+    "product_id": "T1P0O2BXP8",
+    "variations": [
+      {
+        "id": "1XKLGNBDBK",
+        "display_name": "Mannlich Intimate or Private Hair Removal Cream for Men",
+        "price": {
+          "mrp": 499,
+          "store_price": 499,
+          "offer_price": 299,
+          "unit_level_price": "",
+          "discount_value": 200
+        },
+        "brand": "Mannlich",
+        "brand_id": "ea44e041c94f7e145a6b17740f9a6668da40d416",
+        "category": "Mens Grooming",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Hair Removal Cream",
+        "sub_category_l4": "Sensitive Skin",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Intimate or Private Hair Removal Cream for Men",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/13/85ed95d1-ecf2-4d3e-9b48-8e6dbb3ff569_512981_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/13/0afca864-f97b-4972-8265-ca51dcf88f08_512981_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/13/080967bd-7c29-42ca-9530-b7d21af31042_512981_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/13/405c35a0-ce51-4075-ace6-e3e1c5ff12e9_512981_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/13/ccdc910f-d71c-4f3a-bfc9-83dde681cfff_512981_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Arata Sea Salt Hair Thickening Spray",
+    "brand": "Arata",
+    "brand_id": "83ffc1cb773c576d147a418fc46f443f07174ef3",
+    "product_id": "3R2YEIB5HP",
+    "variations": [
+      {
+        "id": "GRR5AOAW98",
+        "display_name": "Arata Sea Salt Hair Thickening Spray",
+        "price": {
+          "mrp": 399,
+          "store_price": 399,
+          "offer_price": 299,
+          "unit_level_price": "",
+          "discount_value": 100
+        },
+        "brand": "Arata",
+        "brand_id": "83ffc1cb773c576d147a418fc46f443f07174ef3",
+        "category": "Mens Grooming",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Hair Styling",
+        "sub_category_l4": "Hair Spray",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Sea Salt Hair Thickening Spray",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/738f2b74-763c-459e-b66c-4ccaf5196466_82124_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/8bb5304d-75fe-454f-a94a-786af93fdf4a_82124_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/f93a836e-c4ab-44dc-91fd-1a37cca04191_82124_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/306c2bde-1af4-4f82-ad9f-36caf5f05b9c_82124_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/16948399-23dd-4eec-a68a-2325f346b14d_82124_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/579fdc10-9197-4155-9c15-7683665e002e_82124_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/f5fd5954-2ed7-4777-903a-fd3abc400071_82124_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/f995732a-7201-4f18-8758-0e543662eb24_82124_8.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/c8035754-0f17-410f-a6c2-4dbacb033f5e_82124_9.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/2/069779ba-e347-4ea6-869d-32c0be1909b3_82124_11.png"
+        ],
+        "images_v2": [],
+        "quantity": "50",
+        "sku_quantity_with_combo": "50 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 50,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sanfe Hair Removal Spray Foam - Spray Away",
+    "brand": "Sanfe",
+    "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
+    "product_id": "K37RA68XRB",
+    "variations": [
+      {
+        "id": "GBNX9R53HZ",
+        "display_name": "Sanfe Hair Removal Spray Foam - Spray Away",
+        "price": {
+          "mrp": 199,
+          "store_price": 199,
+          "offer_price": 149,
+          "unit_level_price": "",
+          "discount_value": 50
+        },
+        "brand": "Sanfe",
+        "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
+        "category": "Hair Removal",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Hair Removal Spray",
+        "sub_category_l4": "Women",
+        "sub_category_l5": "Single",
+        "product_name_without_brand": "Hair Removal Spray Foam - Spray Away",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/15/0582c8f6-1b18-4053-8975-7dff858478c6_hairremoval_R2325UUMAJ_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/15/3137b07a-e4fc-493f-b2e2-b1124de33173_hairremoval_R2325UUMAJ_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/15/77ddff34-febb-404c-b92e-c3fd07136b3b_hairremoval_R2325UUMAJ_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/15/e5828f00-1287-4cf6-a428-075fc6cf3f13_hairremoval_R2325UUMAJ_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/15/9c18ad11-779a-4095-a861-eb8eff23a637_hairremoval_R2325UUMAJ_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/15/9192affc-c06d-4772-89e8-3cac988d7074_hairremoval_R2325UUMAJ_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "25",
+        "sku_quantity_with_combo": "25 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 25,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sanfe Reusable Eyebrow Touch Up Hair Removing Face Razor For Women",
+    "brand": "Sanfe",
+    "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
+    "product_id": "M74E26CWJ9",
+    "variations": [
+      {
+        "id": "B60AYPOVL4",
+        "display_name": "Sanfe Reusable Eyebrow Touch Up Hair Removing Face Razor For Women",
+        "price": {
+          "mrp": 99,
+          "store_price": 99,
+          "offer_price": 71,
+          "unit_level_price": "",
+          "discount_value": 28
+        },
+        "brand": "Sanfe",
+        "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
+        "category": "Hair Removal",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Razor",
+        "sub_category_l4": "Women",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Reusable Eyebrow Touch Up Hair Removing Face Razor For Women",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/8fab16ea-bbe3-402a-a4d7-f20fee928bda_79027_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/6337e599-0d2b-480e-a77d-f11cc8046afe_79027_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/9de5c179-e440-47f6-aefc-fc4e0b240f88_79027_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/927b4ad0-ee69-467d-880e-6c314e9da2de_79027_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/41b489e3-a74e-404f-b992-91df94cead9c_79027_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/86d0ee38-31c0-4227-87df-4acf381a9787_79027_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "3",
+        "sku_quantity_with_combo": "3 units",
+        "unit_of_measure": "units",
+        "weight_in_grams": 3,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Carmesi Natural Facial Hair Removal Combo | Pack of 1 Facial Razor & 1 Eyebrow Razor",
+    "brand": "Carmesi",
+    "brand_id": "29c3c95a8d56785b51317faf56ecb535eef38be3",
+    "product_id": "O2MFU8RSRC",
+    "variations": [
+      {
+        "id": "PY41TZSPBO",
+        "display_name": "Carmesi Natural Facial Hair Removal Combo | Pack of 1 Facial Razor & 1 Eyebrow Razor",
+        "price": {
+          "mrp": 199,
+          "store_price": 199,
+          "offer_price": 159,
+          "unit_level_price": "",
+          "discount_value": 40
+        },
+        "brand": "Carmesi",
+        "brand_id": "29c3c95a8d56785b51317faf56ecb535eef38be3",
+        "category": "Hair Removal",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Razor",
+        "sub_category_l4": "Women",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Natural Facial Hair Removal Combo | Pack of 1 Facial Razor & 1 Eyebrow Razor",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/4/065bf0e0-c5f4-48bc-b452-1f9e10abbf05_shavingrazor_1XV5JMKG67_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/4/8429e8b5-4797-4529-856d-b4b1b0205509_shavingrazor_1XV5JMKG67_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/4/c95c08a4-7acb-4132-a96d-2e1ad80c7e95_shavingrazor_1XV5JMKG67_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/4/45673081-4ec6-4239-a3d2-8abde166ca59_shavingrazor_1XV5JMKG67_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/4/90afe6c1-d2b0-4a53-adce-b9287990ab57_shavingrazor_1XV5JMKG67_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/4/413a6d49-788f-4cd5-8455-56d49ce46bfd_shavingrazor_1XV5JMKG67_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "46",
+        "sku_quantity_with_combo": "46 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 46,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Gillette Venus Bikini Sensitive Hair Removal Razor| Intimate Care| Derm Tested | No Irritation",
+    "brand": "Gillette Venus",
+    "brand_id": "57ff1f59da0dd056c2869dc15e69bf639cd878e1",
+    "product_id": "II4M2RUE3X",
+    "variations": [
+      {
+        "id": "68IWQXV1D7",
+        "display_name": "Gillette Venus Bikini Sensitive Hair Removal Razor| Intimate Care| Derm Tested | No Irritation",
+        "price": {
+          "mrp": 165,
+          "store_price": 165,
+          "offer_price": 157,
+          "unit_level_price": "",
+          "discount_value": 8
+        },
+        "brand": "Gillette Venus",
+        "brand_id": "57ff1f59da0dd056c2869dc15e69bf639cd878e1",
+        "category": "Hair Removal",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Razor",
+        "sub_category_l4": "Women",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Bikini Sensitive Hair Removal Razor| Intimate Care| Derm Tested | No Irritation",
+        "images": [
+          "ef947ac3b78f725fbfd3848fa5b2eb80",
+          "4740e14f55dfb7319ef156a7b1f75634",
+          "915a2175687dfe0bfbfc7cf8380b6975",
+          "4dcd5fc8880f7945cb6b846a289c6793",
+          "4b8de3e6f1497be6874ea8f6f4055534",
+          "f44be65d4960d5296ad9a38f5d6c66fa"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -79,7 +486,13 @@
       {
         "id": "ZTUL2TTADS",
         "display_name": "Veet Pure Hair Removal Cream For Sensitive Skin",
-        "price_mrp": 314,
+        "price": {
+          "mrp": 314,
+          "store_price": 314,
+          "offer_price": 270,
+          "unit_level_price": "",
+          "discount_value": 44
+        },
         "brand": "Veet",
         "brand_id": "d1a7119e68619a55fae5f3798f6dbac19468eb4b",
         "category": "Hair Removal",
@@ -102,6 +515,7 @@
         "unit_of_measure": "g",
         "weight_in_grams": 100,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -115,7 +529,13 @@
       {
         "id": "2CH0H55QDQ",
         "display_name": "Bombay Shaving Company Sensi Smart 3 Razor",
-        "price_mrp": 149,
+        "price": {
+          "mrp": 149,
+          "store_price": 149,
+          "offer_price": 99,
+          "unit_level_price": "",
+          "discount_value": 50
+        },
         "brand": "Bombay Shaving Company",
         "brand_id": "ead345e45f756953bcb8c13122e8534eb7cece12",
         "category": "Shaving Needs",
@@ -142,71 +562,211 @@
         "unit_of_measure": "pack",
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Gillette Venus Bikini Sensitive Hair Removal Razor| Intimate Care| Derm Tested | No Irritation",
-    "brand": "Gillette Venus",
-    "brand_id": "57ff1f59da0dd056c2869dc15e69bf639cd878e1",
-    "product_id": "II4M2RUE3X",
+    "display_name": "Carmesi Reusable Face Razor for Women Facial Hair | For Eyebrows, Upper Lip, Forehead",
+    "brand": "Carmesi",
+    "brand_id": "29c3c95a8d56785b51317faf56ecb535eef38be3",
+    "product_id": "T24BGD4T86",
     "variations": [
       {
-        "id": "68IWQXV1D7",
-        "display_name": "Gillette Venus Bikini Sensitive Hair Removal Razor| Intimate Care| Derm Tested | No Irritation",
-        "price_mrp": 165,
-        "brand": "Gillette Venus",
-        "brand_id": "57ff1f59da0dd056c2869dc15e69bf639cd878e1",
+        "id": "LLP4BU70XS",
+        "display_name": "Carmesi Reusable Face Razor for Women Facial Hair | For Eyebrows, Upper Lip, Forehead",
+        "price": {
+          "mrp": 249,
+          "store_price": 249,
+          "offer_price": 174,
+          "unit_level_price": "",
+          "discount_value": 75
+        },
+        "brand": "Carmesi",
+        "brand_id": "29c3c95a8d56785b51317faf56ecb535eef38be3",
         "category": "Hair Removal",
         "super_category": "Beauty and Grooming",
         "sub_category_l3": "Razor",
         "sub_category_l4": "Women",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Bikini Sensitive Hair Removal Razor| Intimate Care| Derm Tested | No Irritation",
+        "sub_category_l5": "Single",
+        "product_name_without_brand": "Reusable Face Razor for Women Facial Hair | For Eyebrows, Upper Lip, Forehead",
         "images": [
-          "ef947ac3b78f725fbfd3848fa5b2eb80",
-          "4740e14f55dfb7319ef156a7b1f75634",
-          "915a2175687dfe0bfbfc7cf8380b6975",
-          "4dcd5fc8880f7945cb6b846a289c6793",
-          "4b8de3e6f1497be6874ea8f6f4055534",
-          "f44be65d4960d5296ad9a38f5d6c66fa"
+          "NI_CATALOG/IMAGES/CIW/2025/7/3/04f39460-db61-4119-befa-72960a5f4604_42710_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/3/5d5c49b8-bca6-4e62-b61a-98d0cc330ccc_42710_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/3/0277c980-7ec4-46f8-8d20-7a93555ab1de_42710_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/3/4ae6fddb-fc39-4dc3-8225-d268383057ba_42710_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/3/49841974-73a2-451e-b4be-63ec75773bba_42710_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/3/6bfb9df0-4184-46eb-8816-ade543f2c8b3_42710_6.png"
         ],
         "images_v2": [],
         "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 1,
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 100,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Veet Pure Hair Removal Cream For Normal Skin",
-    "brand": "Veet",
-    "brand_id": "d1a7119e68619a55fae5f3798f6dbac19468eb4b",
-    "product_id": "7O19W40P94",
+    "display_name": "Gillette Fusion Manual Razor for Men with styling back blade",
+    "brand": "Gillette",
+    "brand_id": "c0176ab99dfa5fdc2e3f6c45d83752b0667d267d",
+    "product_id": "FQ5AA9ZFHA",
     "variations": [
       {
-        "id": "3T5IF1QO84",
-        "display_name": "Veet Pure Hair Removal Cream For Normal Skin",
-        "price_mrp": 175,
-        "brand": "Veet",
-        "brand_id": "d1a7119e68619a55fae5f3798f6dbac19468eb4b",
+        "id": "AGZGD9P9GP",
+        "display_name": "Gillette Fusion Manual Razor for Men with styling back blade",
+        "price": {
+          "mrp": 425,
+          "store_price": 425,
+          "offer_price": 340,
+          "unit_level_price": "",
+          "discount_value": 85
+        },
+        "brand": "Gillette",
+        "brand_id": "c0176ab99dfa5fdc2e3f6c45d83752b0667d267d",
+        "category": "Shaving Needs",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Razor",
+        "sub_category_l4": "Normal Skin",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Fusion Manual Razor for Men with styling back blade",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/23/9da234c2-75fc-4355-b7a6-f1cfd60bd42d_32286_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/23/1540c866-3491-4af3-9117-27c0199db337_32286_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/23/e0aff35f-4878-4144-a751-c420be20c63b_32286_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/23/0ac3a87e-c05b-4278-a62a-0b12bed20dcb_32286_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sanfe Shea Butter Body Razor For Women Hair Removal No Cut Technology Anti-Slip Grip",
+    "brand": "Sanfe",
+    "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
+    "product_id": "N6I3NTV63D",
+    "variations": [
+      {
+        "id": "CGVRBCPFJC",
+        "display_name": "Sanfe Shea Butter Body Razor For Women Hair Removal No Cut Technology Anti-Slip Grip",
+        "price": {
+          "mrp": 169,
+          "store_price": 169,
+          "offer_price": 122,
+          "unit_level_price": "",
+          "discount_value": 47
+        },
+        "brand": "Sanfe",
+        "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
         "category": "Hair Removal",
         "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Hair Removal Cream",
+        "sub_category_l3": "Razor",
         "sub_category_l4": "Women",
-        "sub_category_l5": "Single",
-        "product_name_without_brand": "Pure Hair Removal Cream For Normal Skin",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Shea Butter Body Razor For Women Hair Removal No Cut Technology Anti-Slip Grip",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/28/cb763882-d376-4d31-9033-bd84cc669aa2_3157_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/28/e86e137d-066b-4ba8-a0dd-d9f7d80b5716_3157_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/28/d702d9b2-e6ca-4b18-a08b-84d08b14ac32_3157_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/28/ebd8c09b-97ba-4aeb-9a49-3dcbfb38393d_3157_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/28/dd254944-0876-44c9-a114-f7a28345d3b1_3157_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/28/8570f8b6-3ec6-4aa5-ae2b-dfe62f61bbc6_3157_6.png"
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/f7f5fb29-c35c-4d95-a7eb-bfa1c5199cc1_51800_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/bb94e722-6624-4daf-9e89-d2dc606df37e_51800_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/e60b3200-3452-462e-bed6-216c320eedf5_51800_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/00a87d7b-1105-42eb-89db-d5df94da00b8_51800_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/2b20ce66-c5eb-4954-a126-f3f636720101_51800_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/20/ac75db40-055c-4d0f-89b5-bab676c3d647_51800_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "3",
+        "sku_quantity_with_combo": "3 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Set Wet Cool Hold Styling Gel for Men",
+    "brand": "Set Wet",
+    "brand_id": "6970511e0e6642d21a149cb18c523653966ea7bd",
+    "product_id": "7NS7XGVMEE",
+    "variations": [
+      {
+        "id": "04CKT8ZODF",
+        "display_name": "Set Wet Cool Hold Styling Gel for Men",
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 80,
+          "unit_level_price": "",
+          "discount_value": 20
+        },
+        "brand": "Set Wet",
+        "brand_id": "6970511e0e6642d21a149cb18c523653966ea7bd",
+        "category": "Mens Grooming",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Hair Styling",
+        "sub_category_l4": "Hair Gel",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Cool Hold Styling Gel for Men",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/9/0437833c-94e9-443e-b4ca-7fea9de3d058_3127_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/9/b18fd39f-50bf-412d-a1d8-d8697523c886_3127_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/9/4bddc161-2e7d-4d6e-b333-7942014e7575_3127_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/9/00ec5a58-2133-424a-bb7e-3b531b0f3ada_3127_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/9/9bd997f9-2a06-447f-855e-eb36101378b2_3127_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/9/2367bfc9-f439-4e2d-847c-ad2652159ba4_3127_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Wild Stone Ultra Sensual After Shave Lotion For Men",
+    "brand": "Wild Stone",
+    "brand_id": "feef40a0aa84c71cc4adbfcb5f82cb2f9d103863",
+    "product_id": "3238L5L61J",
+    "variations": [
+      {
+        "id": "DSVALDDR2F",
+        "display_name": "Wild Stone Ultra Sensual After Shave Lotion For Men",
+        "price": {
+          "mrp": 125,
+          "store_price": 125,
+          "offer_price": 106,
+          "unit_level_price": "212/100 g",
+          "discount_value": 19
+        },
+        "brand": "Wild Stone",
+        "brand_id": "feef40a0aa84c71cc4adbfcb5f82cb2f9d103863",
+        "category": "Shaving Needs",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "After Shave Lotion",
+        "sub_category_l4": "Normal Skin",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Ultra Sensual After Shave Lotion For Men",
+        "images": [
+          "sbx8brzndbmo3yevwvio",
+          "n1zjcvwy5furwvhp909i",
+          "d5gfjbiodxtionji7pak",
+          "h5lwgtfpdjmgnadqk2dd",
+          "yfi1ey3s5rlwvyykuemh"
         ],
         "images_v2": [],
         "quantity": "50",
@@ -214,6 +774,136 @@
         "unit_of_measure": "g",
         "weight_in_grams": 50,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sanfe Detan Choclate Wax For Smooth Hair Removal",
+    "brand": "Sanfe",
+    "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
+    "product_id": "5APMFT0DTZ",
+    "variations": [
+      {
+        "id": "Y5GIOGLWXG",
+        "display_name": "Sanfe Detan Choclate Wax For Smooth Hair Removal",
+        "price": {
+          "mrp": 329,
+          "store_price": 329,
+          "offer_price": 238,
+          "unit_level_price": "",
+          "discount_value": 91
+        },
+        "brand": "Sanfe",
+        "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
+        "category": "Hair Removal",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Chocolate Wax",
+        "sub_category_l4": "Women",
+        "sub_category_l5": "Single",
+        "product_name_without_brand": "Detan Choclate Wax For Smooth Hair Removal",
+        "images": [
+          "445bc7853c21d07d2dd80aef4fe78d33",
+          "41c4205e88a010ad7a7904617d45887a",
+          "abbb28e02843e03407515eaffc7432af",
+          "cbebbbeca3c9b45c597364f85c580599",
+          "40b6fb0acc5f14be4a5150be372d619a",
+          "73f38a90b73f8eb9517fc23767e360c0"
+        ],
+        "images_v2": [],
+        "quantity": "600",
+        "sku_quantity_with_combo": "600 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 600,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Sanfe Mini Body Razor for Women Hair Removal 5-Blade Precision Vita E & Aloe Extract",
+    "brand": "Sanfe",
+    "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
+    "product_id": "R0UE50S5WO",
+    "variations": [
+      {
+        "id": "950YI6SUMU",
+        "display_name": "Sanfe Mini Body Razor for Women Hair Removal 5-Blade Precision Vita E & Aloe Extract",
+        "price": {
+          "mrp": 279,
+          "store_price": 279,
+          "offer_price": 162,
+          "unit_level_price": "",
+          "discount_value": 117
+        },
+        "brand": "Sanfe",
+        "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
+        "category": "Hair Removal",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Razor",
+        "sub_category_l4": "Women",
+        "sub_category_l5": "Single",
+        "product_name_without_brand": "Mini Body Razor for Women Hair Removal 5-Blade Precision Vita E & Aloe Extract",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/1/cb01c6b0-3981-46b0-9138-bc2a18f9f3c3_shavingrazor_ZMQL52XLIT_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/1/d0658621-e480-43af-8f85-ea46821aa85e_shavingrazor_ZMQL52XLIT_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/1/e73b1b01-85d5-4713-a115-e324e4c8d3c4_shavingrazor_ZMQL52XLIT_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/1/88b47d7d-7858-4d63-9ebc-627cd94f044d_shavingrazor_ZMQL52XLIT_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/1/c742a082-6bc2-460b-9bd8-da120535d23a_shavingrazor_ZMQL52XLIT_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/1/4a753b23-aabb-40dc-856c-d76a9693b923_shavingrazor_ZMQL52XLIT_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Plush 5 Blade Body Razor for Women | Aloe & Vit E Strip | Free Cartridge",
+    "brand": "Plush",
+    "brand_id": "3e1769be5e2ed7817e00f5db48013ace9b64deb0",
+    "product_id": "HSPI0B8J1Y",
+    "variations": [
+      {
+        "id": "JF1NWGAKZ9",
+        "display_name": "Plush 5 Blade Body Razor for Women | Aloe & Vit E Strip | Free Cartridge",
+        "price": {
+          "mrp": 399,
+          "store_price": 399,
+          "offer_price": 279,
+          "unit_level_price": "",
+          "discount_value": 120
+        },
+        "brand": "Plush",
+        "brand_id": "3e1769be5e2ed7817e00f5db48013ace9b64deb0",
+        "category": "Hair Removal",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Razor",
+        "sub_category_l4": "Women",
+        "sub_category_l5": "Single",
+        "product_name_without_brand": "5 Blade Body Razor for Women | Aloe & Vit E Strip | Free Cartridge",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/cb63b263-7f7e-4ceb-8794-c447112b42ab_16391_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/ae7d8a38-0243-423d-aec4-f96412289478_16391_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/99115271-cec1-44bb-aed6-c601abbf4c30_16391_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/8dd9f122-8108-40fd-ae5f-4448a1ccaac4_16391_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/3112e3ca-9cac-451f-b820-b0e713d3e6fe_16391_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/4a53ff60-1a58-4452-a9b5-debcda64b35b_16391_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 10,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -227,7 +917,13 @@
       {
         "id": "IC0SBA83SB",
         "display_name": "Bombay Shaving Company Sensi Smart 3 Value Pack Razor with Shaving Foam",
-        "price_mrp": 244,
+        "price": {
+          "mrp": 244,
+          "store_price": 244,
+          "offer_price": 122,
+          "unit_level_price": "",
+          "discount_value": 122
+        },
         "brand": "Bombay Shaving Company",
         "brand_id": "ead345e45f756953bcb8c13122e8534eb7cece12",
         "category": "Shaving Needs",
@@ -256,6 +952,50 @@
         "unit_of_measure": "g",
         "weight_in_grams": 150,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Bare Anatomy Heat Protection Hair Spray | Heat Protection Hair Serum",
+    "brand": "Bare Anatomy",
+    "brand_id": "362adfd3ec0a45e75f39491d246e5cd10ebe1c71",
+    "product_id": "KPC7C93972",
+    "variations": [
+      {
+        "id": "7LSJMNUF93",
+        "display_name": "Bare Anatomy Heat Protection Hair Spray | Heat Protection Hair Serum",
+        "price": {
+          "mrp": 549,
+          "store_price": 549,
+          "offer_price": 467,
+          "unit_level_price": "",
+          "discount_value": 82
+        },
+        "brand": "Bare Anatomy",
+        "brand_id": "362adfd3ec0a45e75f39491d246e5cd10ebe1c71",
+        "category": "Mens Grooming",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Hair Styling",
+        "sub_category_l4": "Hair Spray",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Heat Protection Hair Spray | Heat Protection Hair Serum",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/55a16ff8-6f69-4e7e-bb98-5f345e2a2b93_89747_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/f5d86c09-d2e8-4d63-9ea5-4e55dc158df8_89747_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/e16b4ecf-4acc-4b02-b1fe-9802c0454594_89747_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/ee85b6ba-a96b-472e-b5a1-eac5100b1641_89747_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/a0ef3da1-a547-4989-b9ff-61bb60d8a82b_89747_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/11/0356bd8e-67fb-48a1-ba47-6af33de4afbb_89747_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "150",
+        "sku_quantity_with_combo": "150 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -269,7 +1009,13 @@
       {
         "id": "XRNBD7DQFJ",
         "display_name": "Beardo Godfather Beard Oil",
-        "price_mrp": 350,
+        "price": {
+          "mrp": 350,
+          "store_price": 350,
+          "offer_price": 315,
+          "unit_level_price": "",
+          "discount_value": 35
+        },
         "brand": "Beardo",
         "brand_id": "595dbbbc5748555e0b680931d9464003f7f40982",
         "category": "Mens Grooming",
@@ -291,250 +1037,7 @@
         "unit_of_measure": "ml",
         "weight_in_grams": 30,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Parachute Advansed Men Hair Cream,Anti-Dandruff",
-    "brand": "Parachute Advansed",
-    "brand_id": "d9c9f62d1861964d83b8199475ecee79f953a044",
-    "product_id": "A58QG4QXAG",
-    "variations": [
-      {
-        "id": "G5UHFYNPXT",
-        "display_name": "Parachute Advansed Men Hair Cream,Anti-Dandruff",
-        "price_mrp": 100,
-        "brand": "Parachute Advansed",
-        "brand_id": "d9c9f62d1861964d83b8199475ecee79f953a044",
-        "category": "Mens Grooming",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Hair Styling",
-        "sub_category_l4": "Hair Cream",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Men Hair Cream,Anti-Dandruff",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/42300cc2-c0f6-4ee8-86e1-249f9de7f482_50831_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/6ed4825f-2e52-4411-8acd-c5159a93c549_50831_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/ca290113-f7e6-4f96-99e8-068b0c93af81_50831_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/c52021bd-d0a8-4e55-9871-dc19e1948470_50831_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/79209bf8-71e0-4054-98bc-0cfba830440a_50831_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/607a1a78-f627-4dce-9e8b-71c1b622017d_50831_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "100",
-        "sku_quantity_with_combo": "100 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Veet Hair Removal Wax Strips - Sensitive Skin",
-    "brand": "Veet",
-    "brand_id": "d1a7119e68619a55fae5f3798f6dbac19468eb4b",
-    "product_id": "NLC5Q8G9R6",
-    "variations": [
-      {
-        "id": "KFHJYG96MS",
-        "display_name": "Veet Professional Full Body Waxing Kit For Sensitive Skin",
-        "price_mrp": 560,
-        "brand": "Veet",
-        "brand_id": "d1a7119e68619a55fae5f3798f6dbac19468eb4b",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Wax Strips",
-        "sub_category_l4": "Women",
-        "sub_category_l5": "Single",
-        "product_name_without_brand": "Professional Full Body Waxing Kit For Sensitive Skin",
-        "images": [
-          "e4eaf8593b607cad953f189ba6157dd3",
-          "NI_CATALOG/IMAGES/CIW/2025/6/26/598a1dff-0677-4554-8b69-14e379ed8604_2371_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/26/17ddb39e-b6cb-47b5-a05d-e215526b676e_2371_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/26/4d99f77d-4914-446a-849b-65007482f823_2371_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/26/b28ea9d6-f2b6-4aac-97c6-72a20913fe3a_2371_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/26/1d698e1e-1df6-41da-8b64-87b2f81c87ae_2371_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "20 pieces x 2",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 400,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      },
-      {
-        "id": "78WA5V4QGU",
-        "display_name": "Veet Hair Removal Wax Strips - Sensitive Skin",
-        "price_mrp": 280,
-        "brand": "Veet",
-        "brand_id": "d1a7119e68619a55fae5f3798f6dbac19468eb4b",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Wax Strips",
-        "sub_category_l4": "Women",
-        "sub_category_l5": "Single",
-        "product_name_without_brand": "Hair Removal Wax Strips - Sensitive Skin",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/26/b263bdf9-e297-4a3c-bcac-31e723c4f413_2371_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/26/598a1dff-0677-4554-8b69-14e379ed8604_2371_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/26/17ddb39e-b6cb-47b5-a05d-e215526b676e_2371_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/26/4d99f77d-4914-446a-849b-65007482f823_2371_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/26/b28ea9d6-f2b6-4aac-97c6-72a20913fe3a_2371_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/26/1d698e1e-1df6-41da-8b64-87b2f81c87ae_2371_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "20",
-        "sku_quantity_with_combo": "20 pieces",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 200,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Parachute Advansed Men Hair Cream, Anti Hairfalll Hair Gel",
-    "brand": "Parachute Advansed",
-    "brand_id": "d9c9f62d1861964d83b8199475ecee79f953a044",
-    "product_id": "JKEUEDSQI9",
-    "variations": [
-      {
-        "id": "5T6OA1CSPI",
-        "display_name": "Parachute Advansed Men Hair Cream, Anti Hairfalll Hair Gel",
-        "price_mrp": 100,
-        "brand": "Parachute Advansed",
-        "brand_id": "d9c9f62d1861964d83b8199475ecee79f953a044",
-        "category": "Mens Grooming",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Hair Styling",
-        "sub_category_l4": "Hair Cream",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Men Hair Cream, Anti Hairfalll Hair Gel",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/4f19d52c-89c8-4a6a-ad83-a41766b7204a_95806_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/58061441-25c4-40fb-9fa3-389f4f140f90_95806_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/27ca7080-31ab-4995-be1a-bab16618d52a_95806_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/e97ea6a8-a31f-417c-bc6d-a0db60fe6a0d_95806_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/c21fea48-f535-4fc2-97f3-f313c4a1b2cd_95806_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/cd5969ba-4baf-4db1-9a0b-cd85b069789c_95806_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "100",
-        "sku_quantity_with_combo": "100 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Sanfe Reusable Eyebrow Touch Up Hair Removing Face Razor For Women",
-    "brand": "Sanfe",
-    "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
-    "product_id": "M74E26CWJ9",
-    "variations": [
-      {
-        "id": "B60AYPOVL4",
-        "display_name": "Sanfe Reusable Eyebrow Touch Up Hair Removing Face Razor For Women",
-        "price_mrp": 99,
-        "brand": "Sanfe",
-        "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Razor",
-        "sub_category_l4": "Women",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Reusable Eyebrow Touch Up Hair Removing Face Razor For Women",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/8fab16ea-bbe3-402a-a4d7-f20fee928bda_79027_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/6337e599-0d2b-480e-a77d-f11cc8046afe_79027_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/9de5c179-e440-47f6-aefc-fc4e0b240f88_79027_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/927b4ad0-ee69-467d-880e-6c314e9da2de_79027_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/41b489e3-a74e-404f-b992-91df94cead9c_79027_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/86d0ee38-31c0-4227-87df-4acf381a9787_79027_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "3",
-        "sku_quantity_with_combo": "3 units",
-        "unit_of_measure": "units",
-        "weight_in_grams": 3,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Set Wet Cool Hold Styling Gel for Men",
-    "brand": "Set Wet",
-    "brand_id": "6970511e0e6642d21a149cb18c523653966ea7bd",
-    "product_id": "7NS7XGVMEE",
-    "variations": [
-      {
-        "id": "04CKT8ZODF",
-        "display_name": "Set Wet Cool Hold Styling Gel for Men",
-        "price_mrp": 100,
-        "brand": "Set Wet",
-        "brand_id": "6970511e0e6642d21a149cb18c523653966ea7bd",
-        "category": "Mens Grooming",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Hair Styling",
-        "sub_category_l4": "Hair Gel",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Cool Hold Styling Gel for Men",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/9/0437833c-94e9-443e-b4ca-7fea9de3d058_3127_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/9/b18fd39f-50bf-412d-a1d8-d8697523c886_3127_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/9/4bddc161-2e7d-4d6e-b333-7942014e7575_3127_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/9/00ec5a58-2133-424a-bb7e-3b531b0f3ada_3127_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/9/9bd997f9-2a06-447f-855e-eb36101378b2_3127_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/9/2367bfc9-f439-4e2d-847c-ad2652159ba4_3127_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "100",
-        "sku_quantity_with_combo": "100 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Carmesi Natural Facial Hair Removal Combo | Pack of 1 Facial Razor & 1 Eyebrow Razor",
-    "brand": "Carmesi",
-    "brand_id": "29c3c95a8d56785b51317faf56ecb535eef38be3",
-    "product_id": "O2MFU8RSRC",
-    "variations": [
-      {
-        "id": "PY41TZSPBO",
-        "display_name": "Carmesi Natural Facial Hair Removal Combo | Pack of 1 Facial Razor & 1 Eyebrow Razor",
-        "price_mrp": 199,
-        "brand": "Carmesi",
-        "brand_id": "29c3c95a8d56785b51317faf56ecb535eef38be3",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Razor",
-        "sub_category_l4": "Women",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Natural Facial Hair Removal Combo | Pack of 1 Facial Razor & 1 Eyebrow Razor",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/7/4/065bf0e0-c5f4-48bc-b452-1f9e10abbf05_shavingrazor_1XV5JMKG67_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/4/8429e8b5-4797-4529-856d-b4b1b0205509_shavingrazor_1XV5JMKG67_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/4/c95c08a4-7acb-4132-a96d-2e1ad80c7e95_shavingrazor_1XV5JMKG67_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/4/45673081-4ec6-4239-a3d2-8abde166ca59_shavingrazor_1XV5JMKG67_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/4/90afe6c1-d2b0-4a53-adce-b9287990ab57_shavingrazor_1XV5JMKG67_AL4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/4/413a6d49-788f-4cd5-8455-56d49ce46bfd_shavingrazor_1XV5JMKG67_AL5.png"
-        ],
-        "images_v2": [],
-        "quantity": "46",
-        "sku_quantity_with_combo": "46 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 46,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -548,7 +1051,13 @@
       {
         "id": "5TJYKLQGF8",
         "display_name": "Beardo Max Volume Powder Wax-10 gm|Hair Volumizing Wax For Men|Superlight| Strong Hold",
-        "price_mrp": 399,
+        "price": {
+          "mrp": 399,
+          "store_price": 399,
+          "offer_price": 349,
+          "unit_level_price": "",
+          "discount_value": 50
+        },
         "brand": "Beardo",
         "brand_id": "595dbbbc5748555e0b680931d9464003f7f40982",
         "category": "Mens Grooming",
@@ -570,80 +1079,7 @@
         "unit_of_measure": "g",
         "weight_in_grams": 10,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Arata Sea Salt Hair Thickening Spray",
-    "brand": "Arata",
-    "brand_id": "83ffc1cb773c576d147a418fc46f443f07174ef3",
-    "product_id": "3R2YEIB5HP",
-    "variations": [
-      {
-        "id": "GRR5AOAW98",
-        "display_name": "Arata Sea Salt Hair Thickening Spray",
-        "price_mrp": 399,
-        "brand": "Arata",
-        "brand_id": "83ffc1cb773c576d147a418fc46f443f07174ef3",
-        "category": "Mens Grooming",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Hair Styling",
-        "sub_category_l4": "Hair Spray",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Sea Salt Hair Thickening Spray",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/2/738f2b74-763c-459e-b66c-4ccaf5196466_82124_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/2/8bb5304d-75fe-454f-a94a-786af93fdf4a_82124_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/2/f93a836e-c4ab-44dc-91fd-1a37cca04191_82124_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/2/306c2bde-1af4-4f82-ad9f-36caf5f05b9c_82124_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/2/16948399-23dd-4eec-a68a-2325f346b14d_82124_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/2/579fdc10-9197-4155-9c15-7683665e002e_82124_6.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/2/f5fd5954-2ed7-4777-903a-fd3abc400071_82124_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/2/f995732a-7201-4f18-8758-0e543662eb24_82124_8.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/2/c8035754-0f17-410f-a6c2-4dbacb033f5e_82124_9.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/2/069779ba-e347-4ea6-869d-32c0be1909b3_82124_11.png"
-        ],
-        "images_v2": [],
-        "quantity": "50",
-        "sku_quantity_with_combo": "50 ml",
-        "unit_of_measure": "ml",
-        "weight_in_grams": 50,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Gillette Fusion Manual Razor for Men with styling back blade",
-    "brand": "Gillette",
-    "brand_id": "c0176ab99dfa5fdc2e3f6c45d83752b0667d267d",
-    "product_id": "FQ5AA9ZFHA",
-    "variations": [
-      {
-        "id": "AGZGD9P9GP",
-        "display_name": "Gillette Fusion Manual Razor for Men with styling back blade",
-        "price_mrp": 425,
-        "brand": "Gillette",
-        "brand_id": "c0176ab99dfa5fdc2e3f6c45d83752b0667d267d",
-        "category": "Shaving Needs",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Razor",
-        "sub_category_l4": "Normal Skin",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Fusion Manual Razor for Men with styling back blade",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/2/23/9da234c2-75fc-4355-b7a6-f1cfd60bd42d_32286_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/2/23/1540c866-3491-4af3-9117-27c0199db337_32286_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/2/23/e0aff35f-4878-4144-a751-c420be20c63b_32286_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/2/23/0ac3a87e-c05b-4278-a62a-0b12bed20dcb_32286_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -657,7 +1093,13 @@
       {
         "id": "XSSIDMRDYY",
         "display_name": "Bombay Shaving Company Sensi Smart 3 Razor Cartridge",
-        "price_mrp": 149,
+        "price": {
+          "mrp": 149,
+          "store_price": 149,
+          "offer_price": 99,
+          "unit_level_price": "",
+          "discount_value": 50
+        },
         "brand": "Bombay Shaving Company",
         "brand_id": "ead345e45f756953bcb8c13122e8534eb7cece12",
         "category": "Shaving Needs",
@@ -680,42 +1122,50 @@
         "unit_of_measure": "pieces",
         "weight_in_grams": 2,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Sanfe Shea Butter Body Razor For Women Hair Removal No Cut Technology Anti-Slip Grip",
-    "brand": "Sanfe",
-    "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
-    "product_id": "N6I3NTV63D",
+    "display_name": "Parachute Advansed Men Hair Cream,Anti-Dandruff",
+    "brand": "Parachute Advansed",
+    "brand_id": "d9c9f62d1861964d83b8199475ecee79f953a044",
+    "product_id": "A58QG4QXAG",
     "variations": [
       {
-        "id": "CGVRBCPFJC",
-        "display_name": "Sanfe Shea Butter Body Razor For Women Hair Removal No Cut Technology Anti-Slip Grip",
-        "price_mrp": 169,
-        "brand": "Sanfe",
-        "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
-        "category": "Hair Removal",
+        "id": "G5UHFYNPXT",
+        "display_name": "Parachute Advansed Men Hair Cream,Anti-Dandruff",
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 80,
+          "unit_level_price": "",
+          "discount_value": 20
+        },
+        "brand": "Parachute Advansed",
+        "brand_id": "d9c9f62d1861964d83b8199475ecee79f953a044",
+        "category": "Mens Grooming",
         "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Razor",
-        "sub_category_l4": "Women",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Shea Butter Body Razor For Women Hair Removal No Cut Technology Anti-Slip Grip",
+        "sub_category_l3": "Hair Styling",
+        "sub_category_l4": "Hair Cream",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Men Hair Cream,Anti-Dandruff",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/f7f5fb29-c35c-4d95-a7eb-bfa1c5199cc1_51800_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/bb94e722-6624-4daf-9e89-d2dc606df37e_51800_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/e60b3200-3452-462e-bed6-216c320eedf5_51800_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/00a87d7b-1105-42eb-89db-d5df94da00b8_51800_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/2b20ce66-c5eb-4954-a126-f3f636720101_51800_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/20/ac75db40-055c-4d0f-89b5-bab676c3d647_51800_6.png"
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/42300cc2-c0f6-4ee8-86e1-249f9de7f482_50831_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/6ed4825f-2e52-4411-8acd-c5159a93c549_50831_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/ca290113-f7e6-4f96-99e8-068b0c93af81_50831_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/c52021bd-d0a8-4e55-9871-dc19e1948470_50831_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/79209bf8-71e0-4054-98bc-0cfba830440a_50831_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/607a1a78-f627-4dce-9e8b-71c1b622017d_50831_6.png"
         ],
         "images_v2": [],
-        "quantity": "3",
-        "sku_quantity_with_combo": "3 pieces",
-        "unit_of_measure": "pieces",
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
         "weight_in_grams": 100,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -729,7 +1179,13 @@
       {
         "id": "P4VI2LHIOQ",
         "display_name": "Plush Foldable Face & Eyebrow Razor | Quick & Painless Shave",
-        "price_mrp": 299,
+        "price": {
+          "mrp": 299,
+          "store_price": 299,
+          "offer_price": 224,
+          "unit_level_price": "74.7/piece",
+          "discount_value": 75
+        },
         "brand": "Plush",
         "brand_id": "3e1769be5e2ed7817e00f5db48013ace9b64deb0",
         "category": "Hair Removal",
@@ -751,29 +1207,7 @@
         "unit_of_measure": "pieces",
         "weight_in_grams": 3,
         "volumetric_weight": 0,
-        "filters_tag": null
-      },
-      {
-        "id": "5AMC7GH1S2",
-        "display_name": "Plush Foldable Face Razor for Women Box",
-        "price_mrp": 897,
-        "brand": "Plush",
-        "brand_id": "3e1769be5e2ed7817e00f5db48013ace9b64deb0",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Razor",
-        "sub_category_l4": "Women",
-        "sub_category_l5": "Multipack",
-        "product_name_without_brand": "Foldable Face Razor for Women Box",
-        "images": [
-          "f8deb2c0b2de431fadba3fe3957b3b0a"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "3 pieces x 3",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 9,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -787,7 +1221,13 @@
       {
         "id": "PAWFNBR25R",
         "display_name": "Sanfe Disposable Hair Removal Razor For Women Legs Arms Bikini 2 Blade Shaving Body Razor",
-        "price_mrp": 169,
+        "price": {
+          "mrp": 169,
+          "store_price": 169,
+          "offer_price": 127,
+          "unit_level_price": "",
+          "discount_value": 42
+        },
         "brand": "Sanfe",
         "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
         "category": "Hair Removal",
@@ -810,104 +1250,50 @@
         "unit_of_measure": "pieces",
         "weight_in_grams": 100,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Wild Stone Ultra Sensual After Shave Lotion For Men",
-    "brand": "Wild Stone",
-    "brand_id": "feef40a0aa84c71cc4adbfcb5f82cb2f9d103863",
-    "product_id": "3238L5L61J",
+    "display_name": "Parachute Advansed Men Hair Cream, Anti Hairfalll Hair Gel",
+    "brand": "Parachute Advansed",
+    "brand_id": "d9c9f62d1861964d83b8199475ecee79f953a044",
+    "product_id": "JKEUEDSQI9",
     "variations": [
       {
-        "id": "DSVALDDR2F",
-        "display_name": "Wild Stone Ultra Sensual After Shave Lotion For Men",
-        "price_mrp": 125,
-        "brand": "Wild Stone",
-        "brand_id": "feef40a0aa84c71cc4adbfcb5f82cb2f9d103863",
-        "category": "Shaving Needs",
+        "id": "5T6OA1CSPI",
+        "display_name": "Parachute Advansed Men Hair Cream, Anti Hairfalll Hair Gel",
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 80,
+          "unit_level_price": "",
+          "discount_value": 20
+        },
+        "brand": "Parachute Advansed",
+        "brand_id": "d9c9f62d1861964d83b8199475ecee79f953a044",
+        "category": "Mens Grooming",
         "super_category": "Beauty and Grooming",
-        "sub_category_l3": "After Shave Lotion",
-        "sub_category_l4": "Normal Skin",
+        "sub_category_l3": "Hair Styling",
+        "sub_category_l4": "Hair Cream",
         "sub_category_l5": "Small",
-        "product_name_without_brand": "Ultra Sensual After Shave Lotion For Men",
+        "product_name_without_brand": "Men Hair Cream, Anti Hairfalll Hair Gel",
         "images": [
-          "sbx8brzndbmo3yevwvio",
-          "n1zjcvwy5furwvhp909i",
-          "d5gfjbiodxtionji7pak",
-          "h5lwgtfpdjmgnadqk2dd",
-          "yfi1ey3s5rlwvyykuemh"
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/4f19d52c-89c8-4a6a-ad83-a41766b7204a_95806_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/58061441-25c4-40fb-9fa3-389f4f140f90_95806_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/27ca7080-31ab-4995-be1a-bab16618d52a_95806_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/e97ea6a8-a31f-417c-bc6d-a0db60fe6a0d_95806_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/c21fea48-f535-4fc2-97f3-f313c4a1b2cd_95806_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/cd5969ba-4baf-4db1-9a0b-cd85b069789c_95806_6.png"
         ],
         "images_v2": [],
-        "quantity": "50",
-        "sku_quantity_with_combo": "50 g",
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
         "unit_of_measure": "g",
-        "weight_in_grams": 50,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      },
-      {
-        "id": "77PZYSMS4K",
-        "display_name": "Wild Stone Ultra Sensual After Shave Lotion For Men",
-        "price_mrp": 250,
-        "brand": "Wild Stone",
-        "brand_id": "feef40a0aa84c71cc4adbfcb5f82cb2f9d103863",
-        "category": "Shaving Needs",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "After Shave Lotion",
-        "sub_category_l4": "Normal Skin",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Ultra Sensual After Shave Lotion For Men",
-        "images": [
-          "c8b50e3a4786e2cf52c113521bbff9a1",
-          "n1zjcvwy5furwvhp909i",
-          "d5gfjbiodxtionji7pak",
-          "h5lwgtfpdjmgnadqk2dd",
-          "yfi1ey3s5rlwvyykuemh"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "50 g x 2",
-        "unit_of_measure": "pieces",
         "weight_in_grams": 100,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Carmesi Reusable Face Razor for Women Facial Hair | For Eyebrows, Upper Lip, Forehead",
-    "brand": "Carmesi",
-    "brand_id": "29c3c95a8d56785b51317faf56ecb535eef38be3",
-    "product_id": "T24BGD4T86",
-    "variations": [
-      {
-        "id": "LLP4BU70XS",
-        "display_name": "Carmesi Reusable Face Razor for Women Facial Hair | For Eyebrows, Upper Lip, Forehead",
-        "price_mrp": 249,
-        "brand": "Carmesi",
-        "brand_id": "29c3c95a8d56785b51317faf56ecb535eef38be3",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Razor",
-        "sub_category_l4": "Women",
-        "sub_category_l5": "Single",
-        "product_name_without_brand": "Reusable Face Razor for Women Facial Hair | For Eyebrows, Upper Lip, Forehead",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/3/04f39460-db61-4119-befa-72960a5f4604_42710_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/3/5d5c49b8-bca6-4e62-b61a-98d0cc330ccc_42710_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/3/0277c980-7ec4-46f8-8d20-7a93555ab1de_42710_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/3/4ae6fddb-fc39-4dc3-8225-d268383057ba_42710_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/3/49841974-73a2-451e-b4be-63ec75773bba_42710_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/3/6bfb9df0-4184-46eb-8816-ade543f2c8b3_42710_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -921,7 +1307,13 @@
       {
         "id": "AMCPZIIX27",
         "display_name": "Parachute Advansed Men Hair Cream,Anti-Hairfall",
-        "price_mrp": 100,
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 80,
+          "unit_level_price": "",
+          "discount_value": 20
+        },
         "brand": "Parachute Advansed",
         "brand_id": "d9c9f62d1861964d83b8199475ecee79f953a044",
         "category": "Mens Grooming",
@@ -944,6 +1336,179 @@
         "unit_of_measure": "g",
         "weight_in_grams": 100,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Plush Bikini Razor | No Cuts, No Bumps Promise",
+    "brand": "Plush",
+    "brand_id": "3e1769be5e2ed7817e00f5db48013ace9b64deb0",
+    "product_id": "7TBD32BIHM",
+    "variations": [
+      {
+        "id": "HBXQQCSWO3",
+        "display_name": "Plush Bikini Razor | No Cuts, No Bumps Promise",
+        "price": {
+          "mrp": 269,
+          "store_price": 269,
+          "offer_price": 202,
+          "unit_level_price": "101/pack",
+          "discount_value": 67
+        },
+        "brand": "Plush",
+        "brand_id": "3e1769be5e2ed7817e00f5db48013ace9b64deb0",
+        "category": "Hair Removal",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Razor",
+        "sub_category_l4": "Women",
+        "sub_category_l5": "Single",
+        "product_name_without_brand": "Bikini Razor | No Cuts, No Bumps Promise",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/fd9c73f6-7687-45b3-b7b8-b771799028ff_44362_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/438ba6aa-a1e9-4e5d-a494-246102a82b50_44362_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/958a098b-8a49-4f9d-8f9a-9f0e8c986fbf_44362_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/825ab20f-4260-4b0e-bccf-6ecd2cac5c49_44362_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/674c31a2-6ded-4586-8301-01409f9237ed_44362_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/18/b6ddae28-bad1-4680-b0dc-4a5684a7ba42_44362_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "2 pack",
+        "unit_of_measure": "pack",
+        "weight_in_grams": 2,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "LetsShave Face Razor for Women Pack of 3, Painless Hair Removal, Razor for Face, Eyebrows, Upperlips, Chin",
+    "brand": "LetsShave",
+    "brand_id": "acdabd2d4989acecb950b1a44cce302252f909c5",
+    "product_id": "9H8K0LB3TU",
+    "variations": [
+      {
+        "id": "79KNOO3T86",
+        "display_name": "LetsShave Face Razor for Women Pack of 3, Painless Hair Removal, Razor for Face, Eyebrows, Upperlips, Chin",
+        "price": {
+          "mrp": 249,
+          "store_price": 249,
+          "offer_price": 192,
+          "unit_level_price": "",
+          "discount_value": 57
+        },
+        "brand": "LetsShave",
+        "brand_id": "acdabd2d4989acecb950b1a44cce302252f909c5",
+        "category": "Hair Removal",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Razor",
+        "sub_category_l4": "Women",
+        "sub_category_l5": "Multipack",
+        "product_name_without_brand": "Face Razor for Women Pack of 3, Painless Hair Removal, Razor for Face, Eyebrows, Upperlips, Chin",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/2ddd9945-4323-4a6a-9cf0-69833881af5b_82000_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/7135cd1a-0ce9-4618-a020-d3a7d0ed72b9_82000_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/e3c3bc40-0f24-49b4-a8b4-fe95739f3d22_82000_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/753b7843-1b08-466b-b123-04de880cf294_82000_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/693e38dc-ae4c-46d4-96aa-2480c9e6aeff_82000_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/c3ca1081-3914-4211-b05e-f082afd346f4_82000_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "4",
+        "sku_quantity_with_combo": "4 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 22,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Set Wet Extreme Hold Hair Spray",
+    "brand": "Set Wet",
+    "brand_id": "6970511e0e6642d21a149cb18c523653966ea7bd",
+    "product_id": "TISK3D8QKI",
+    "variations": [
+      {
+        "id": "TQPAS8TLMY",
+        "display_name": "Set Wet Extreme Hold Hair Spray",
+        "price": {
+          "mrp": 275,
+          "store_price": 275,
+          "offer_price": 223,
+          "unit_level_price": "",
+          "discount_value": 52
+        },
+        "brand": "Set Wet",
+        "brand_id": "6970511e0e6642d21a149cb18c523653966ea7bd",
+        "category": "Mens Grooming",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Hair Styling",
+        "sub_category_l4": "Hair Spray",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Extreme Hold Hair Spray",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/59632f2e-adf5-41a5-a586-2f599fc80db4_77546_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/e72251a1-db61-43be-8135-8fce3125c39a_77546_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/e4d404c9-99b3-490b-b0f3-6c1f81100946_77546_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/d579048a-d34b-4285-9ae1-9a878e74ead9_77546_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/df664202-13ca-401f-94ae-edd377b3f77a_77546_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/72829fe3-1189-4cdc-82d9-f69ed99c301e_77546_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Svish on the go Hair Removal Spray for Men's Chest, Leg & underarms | Made Safe Certified",
+    "brand": "Svish on the go",
+    "brand_id": "6d6d520214a222d402a15ca2f46de5809efc53b5",
+    "product_id": "MHHU4Q4IQD",
+    "variations": [
+      {
+        "id": "9T78KKML72",
+        "display_name": "Svish on the go Hair Removal Spray for Men's Chest, Leg & underarms | Made Safe Certified",
+        "price": {
+          "mrp": 699,
+          "store_price": 699,
+          "offer_price": 356,
+          "unit_level_price": "",
+          "discount_value": 343
+        },
+        "brand": "Svish on the go",
+        "brand_id": "6d6d520214a222d402a15ca2f46de5809efc53b5",
+        "category": "Hair Removal",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Hair Removal Spray",
+        "sub_category_l4": "Men",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Hair Removal Spray for Men's Chest, Leg & underarms | Made Safe Certified",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/18/923a751b-ac73-41b3-b79c-a4442a19a64e_73935_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/18/b392a31e-b3d2-45ee-9c73-cb6121039cf1_73935_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/18/840b6902-c18e-4979-959a-95ff3ce4b0f7_73935_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/18/9d82afa6-e612-4a6c-883e-731cda22a884_73935_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/18/584357ef-222a-4ffa-958e-0cffc6659d91_73935_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/18/44c87756-6058-4776-82dd-33c382cb6587_73935_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -957,7 +1522,13 @@
       {
         "id": "QQX9ILHKZ1",
         "display_name": "Arata Hair Fix Stick",
-        "price_mrp": 399,
+        "price": {
+          "mrp": 399,
+          "store_price": 399,
+          "offer_price": 299,
+          "unit_level_price": "",
+          "discount_value": 100
+        },
         "brand": "Arata",
         "brand_id": "83ffc1cb773c576d147a418fc46f443f07174ef3",
         "category": "Mens Grooming",
@@ -982,520 +1553,7 @@
         "unit_of_measure": "ml",
         "weight_in_grams": 15,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Schwarzkopf Taft Power Hair Lacquer Hairspray Hold 5 Up To 72h Power Hold",
-    "brand": "Schwarzkopf",
-    "brand_id": "060e7f133619ab7b61c4e6b829fe941a257cad16",
-    "product_id": "2CNSZBL5AO",
-    "variations": [
-      {
-        "id": "HQCHK4VQHI",
-        "display_name": "Schwarzkopf Taft Power Hair Lacquer Hairspray Hold 5 Up To 72h Power Hold",
-        "price_mrp": 699,
-        "brand": "Schwarzkopf",
-        "brand_id": "060e7f133619ab7b61c4e6b829fe941a257cad16",
-        "category": "Mens Grooming",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Hair Styling",
-        "sub_category_l4": "Hair Spray",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Taft Power Hair Lacquer Hairspray Hold 5 Up To 72h Power Hold",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/2/89a370b8-ce56-4a1c-ad63-d1ef08ef9c31_62844_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/2/6f9f8738-f4e4-41b3-9210-e62678973ac9_62844_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/2/70b0daf7-9415-41a7-b768-419e3fe02bfb_62844_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/2/5b9ea29f-bb8b-45ce-ad6f-75c2ed73aca6_62844_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/2/169c1476-bc4d-4c91-9ec3-412553fecfdc_62844_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/2/0785503c-9dae-470b-88fe-4ad1f260df3a_62844_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "250",
-        "sku_quantity_with_combo": "250 ml",
-        "unit_of_measure": "ml",
-        "weight_in_grams": 250,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Plush Bikini Razor | No Cuts, No Bumps Promise",
-    "brand": "Plush",
-    "brand_id": "3e1769be5e2ed7817e00f5db48013ace9b64deb0",
-    "product_id": "7TBD32BIHM",
-    "variations": [
-      {
-        "id": "XN41NM0Y3R",
-        "display_name": "Plush Bikini Razor Kit",
-        "price_mrp": 538,
-        "brand": "Plush",
-        "brand_id": "3e1769be5e2ed7817e00f5db48013ace9b64deb0",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Razor",
-        "sub_category_l4": "Women",
-        "sub_category_l5": "Single",
-        "product_name_without_brand": "Bikini Razor Kit",
-        "images": [
-          "d46ee3bc15bfbe0ff9378ddc3111dac2"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "2 pack x 2",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 4,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      },
-      {
-        "id": "HBXQQCSWO3",
-        "display_name": "Plush Bikini Razor | No Cuts, No Bumps Promise",
-        "price_mrp": 269,
-        "brand": "Plush",
-        "brand_id": "3e1769be5e2ed7817e00f5db48013ace9b64deb0",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Razor",
-        "sub_category_l4": "Women",
-        "sub_category_l5": "Single",
-        "product_name_without_brand": "Bikini Razor | No Cuts, No Bumps Promise",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/fd9c73f6-7687-45b3-b7b8-b771799028ff_44362_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/438ba6aa-a1e9-4e5d-a494-246102a82b50_44362_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/958a098b-8a49-4f9d-8f9a-9f0e8c986fbf_44362_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/825ab20f-4260-4b0e-bccf-6ecd2cac5c49_44362_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/674c31a2-6ded-4586-8301-01409f9237ed_44362_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/b6ddae28-bad1-4680-b0dc-4a5684a7ba42_44362_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "2 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 2,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Set Wet Extreme Hold Hair Spray",
-    "brand": "Set Wet",
-    "brand_id": "6970511e0e6642d21a149cb18c523653966ea7bd",
-    "product_id": "TISK3D8QKI",
-    "variations": [
-      {
-        "id": "TQPAS8TLMY",
-        "display_name": "Set Wet Extreme Hold Hair Spray",
-        "price_mrp": 275,
-        "brand": "Set Wet",
-        "brand_id": "6970511e0e6642d21a149cb18c523653966ea7bd",
-        "category": "Mens Grooming",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Hair Styling",
-        "sub_category_l4": "Hair Spray",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Extreme Hold Hair Spray",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/59632f2e-adf5-41a5-a586-2f599fc80db4_77546_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/e72251a1-db61-43be-8135-8fce3125c39a_77546_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/e4d404c9-99b3-490b-b0f3-6c1f81100946_77546_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/d579048a-d34b-4285-9ae1-9a878e74ead9_77546_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/df664202-13ca-401f-94ae-edd377b3f77a_77546_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/72829fe3-1189-4cdc-82d9-f69ed99c301e_77546_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "200",
-        "sku_quantity_with_combo": "200 ml",
-        "unit_of_measure": "ml",
-        "weight_in_grams": 200,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Sanfe Detan Choclate Wax For Smooth Hair Removal",
-    "brand": "Sanfe",
-    "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
-    "product_id": "5APMFT0DTZ",
-    "variations": [
-      {
-        "id": "Y5GIOGLWXG",
-        "display_name": "Sanfe Detan Choclate Wax For Smooth Hair Removal",
-        "price_mrp": 329,
-        "brand": "Sanfe",
-        "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Chocolate Wax",
-        "sub_category_l4": "Women",
-        "sub_category_l5": "Single",
-        "product_name_without_brand": "Detan Choclate Wax For Smooth Hair Removal",
-        "images": [
-          "445bc7853c21d07d2dd80aef4fe78d33",
-          "41c4205e88a010ad7a7904617d45887a",
-          "abbb28e02843e03407515eaffc7432af",
-          "cbebbbeca3c9b45c597364f85c580599",
-          "40b6fb0acc5f14be4a5150be372d619a",
-          "73f38a90b73f8eb9517fc23767e360c0"
-        ],
-        "images_v2": [],
-        "quantity": "600",
-        "sku_quantity_with_combo": "600 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 600,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "LetsShave Face Razor for Women Pack of 3, Painless Hair Removal, Razor for Face, Eyebrows, Upperlips, Chin",
-    "brand": "LetsShave",
-    "brand_id": "acdabd2d4989acecb950b1a44cce302252f909c5",
-    "product_id": "9H8K0LB3TU",
-    "variations": [
-      {
-        "id": "79KNOO3T86",
-        "display_name": "LetsShave Face Razor for Women Pack of 3, Painless Hair Removal, Razor for Face, Eyebrows, Upperlips, Chin",
-        "price_mrp": 249,
-        "brand": "LetsShave",
-        "brand_id": "acdabd2d4989acecb950b1a44cce302252f909c5",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Razor",
-        "sub_category_l4": "Women",
-        "sub_category_l5": "Multipack",
-        "product_name_without_brand": "Face Razor for Women Pack of 3, Painless Hair Removal, Razor for Face, Eyebrows, Upperlips, Chin",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/2ddd9945-4323-4a6a-9cf0-69833881af5b_82000_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/7135cd1a-0ce9-4618-a020-d3a7d0ed72b9_82000_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/e3c3bc40-0f24-49b4-a8b4-fe95739f3d22_82000_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/753b7843-1b08-466b-b123-04de880cf294_82000_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/693e38dc-ae4c-46d4-96aa-2480c9e6aeff_82000_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/c3ca1081-3914-4211-b05e-f082afd346f4_82000_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "4",
-        "sku_quantity_with_combo": "4 pieces",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 22,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Sanfe Painless & Detan Hair Removal Spray Cream",
-    "brand": "Sanfe",
-    "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
-    "product_id": "9AEIQNM7N2",
-    "variations": [
-      {
-        "id": "N35F5U57D8",
-        "display_name": "Sanfe Painless & Detan Hair Removal Spray Cream",
-        "price_mrp": 399,
-        "brand": "Sanfe",
-        "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Hair Removal Spray",
-        "sub_category_l4": "Women",
-        "sub_category_l5": "Single",
-        "product_name_without_brand": "Painless & Detan Hair Removal Spray Cream",
-        "images": [
-          "45c51e80708934ca2ecb96f8fd687dd6",
-          "8173f5efcde9a134b76ea5288db7b9dd",
-          "b8051180c0b23f05e60371cdc07d6930",
-          "25c51f2db68b79826c3c886cfdb0dfc9",
-          "785cf1b4587fb875f2f6695386b73de5",
-          "0e569726d5f008c8360a0fdb01b25ae4"
-        ],
-        "images_v2": [],
-        "quantity": "112",
-        "sku_quantity_with_combo": "112 ml",
-        "unit_of_measure": "ml",
-        "weight_in_grams": 0,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Bare Anatomy Heat Protection Hair Spray | Heat Protection Hair Serum",
-    "brand": "Bare Anatomy",
-    "brand_id": "362adfd3ec0a45e75f39491d246e5cd10ebe1c71",
-    "product_id": "KPC7C93972",
-    "variations": [
-      {
-        "id": "7LSJMNUF93",
-        "display_name": "Bare Anatomy Heat Protection Hair Spray | Heat Protection Hair Serum",
-        "price_mrp": 549,
-        "brand": "Bare Anatomy",
-        "brand_id": "362adfd3ec0a45e75f39491d246e5cd10ebe1c71",
-        "category": "Mens Grooming",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Hair Styling",
-        "sub_category_l4": "Hair Spray",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Heat Protection Hair Spray | Heat Protection Hair Serum",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/4/11/55a16ff8-6f69-4e7e-bb98-5f345e2a2b93_89747_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/11/f5d86c09-d2e8-4d63-9ea5-4e55dc158df8_89747_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/11/e16b4ecf-4acc-4b02-b1fe-9802c0454594_89747_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/11/ee85b6ba-a96b-472e-b5a1-eac5100b1641_89747_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/11/a0ef3da1-a547-4989-b9ff-61bb60d8a82b_89747_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/11/0356bd8e-67fb-48a1-ba47-6af33de4afbb_89747_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "150",
-        "sku_quantity_with_combo": "150 ml",
-        "unit_of_measure": "ml",
-        "weight_in_grams": 150,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Arata Matte Styling Hair Cream (Strong Hold) 100ml",
-    "brand": "Arata",
-    "brand_id": "83ffc1cb773c576d147a418fc46f443f07174ef3",
-    "product_id": "4DR19RIZDM",
-    "variations": [
-      {
-        "id": "4913M421ND",
-        "display_name": "Arata Matte Styling Hair Cream (Strong Hold) 100ml",
-        "price_mrp": 599,
-        "brand": "Arata",
-        "brand_id": "83ffc1cb773c576d147a418fc46f443f07174ef3",
-        "category": "Mens Grooming",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Hair Styling",
-        "sub_category_l4": "Hair Cream",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Matte Styling Hair Cream (Strong Hold) 100ml",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/1/16/6011c881-f831-476c-bd8e-3db8880f4259_682123_1.png"
-        ],
-        "images_v2": [],
-        "quantity": "100",
-        "sku_quantity_with_combo": "100 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Schwarzkopf Taft Ultimate Hairspray",
-    "brand": "Schwarzkopf",
-    "brand_id": "060e7f133619ab7b61c4e6b829fe941a257cad16",
-    "product_id": "YVPH44X893",
-    "variations": [
-      {
-        "id": "F66SRFVFUA",
-        "display_name": "Schwarzkopf Taft Ultimate Hairspray",
-        "price_mrp": 699,
-        "brand": "Schwarzkopf",
-        "brand_id": "060e7f133619ab7b61c4e6b829fe941a257cad16",
-        "category": "Mens Grooming",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Hair Removal Cream",
-        "sub_category_l4": "Hair Spray",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Taft Ultimate Hairspray",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/2/3ae05655-ea0a-4890-9868-989f317010ce_99705_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/2/10b7da46-0297-42cc-a102-622931a318a9_99705_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/2/12338e93-d4d2-4dc3-abfd-1e43e52836b2_99705_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/2/9bb7c5ba-badd-4a86-b435-32d6ef14c24a_99705_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/2/b949f878-a058-453a-8d25-033ff278c5a9_99705_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/2/ef956349-ebf7-4bd8-b142-3795bd27f7d1_99705_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "250",
-        "sku_quantity_with_combo": "250 ml",
-        "unit_of_measure": "ml",
-        "weight_in_grams": 250,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Svish on the go Hair Removal Spray for Men's Chest, Leg & underarms | Made Safe Certified",
-    "brand": "Svish on the go",
-    "brand_id": "6d6d520214a222d402a15ca2f46de5809efc53b5",
-    "product_id": "MHHU4Q4IQD",
-    "variations": [
-      {
-        "id": "9T78KKML72",
-        "display_name": "Svish on the go Hair Removal Spray for Men's Chest, Leg & underarms | Made Safe Certified",
-        "price_mrp": 699,
-        "brand": "Svish on the go",
-        "brand_id": "6d6d520214a222d402a15ca2f46de5809efc53b5",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Hair Removal Spray",
-        "sub_category_l4": "Men",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Hair Removal Spray for Men's Chest, Leg & underarms | Made Safe Certified",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/18/923a751b-ac73-41b3-b79c-a4442a19a64e_73935_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/18/b392a31e-b3d2-45ee-9c73-cb6121039cf1_73935_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/18/840b6902-c18e-4979-959a-95ff3ce4b0f7_73935_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/18/9d82afa6-e612-4a6c-883e-731cda22a884_73935_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/18/584357ef-222a-4ffa-958e-0cffc6659d91_73935_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/18/44c87756-6058-4776-82dd-33c382cb6587_73935_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "200",
-        "sku_quantity_with_combo": "200 ml",
-        "unit_of_measure": "ml",
-        "weight_in_grams": 200,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Sanfe Mini Body Razor for Women Hair Removal 5-Blade Precision Vita E & Aloe Extract",
-    "brand": "Sanfe",
-    "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
-    "product_id": "R0UE50S5WO",
-    "variations": [
-      {
-        "id": "950YI6SUMU",
-        "display_name": "Sanfe Mini Body Razor for Women Hair Removal 5-Blade Precision Vita E & Aloe Extract",
-        "price_mrp": 279,
-        "brand": "Sanfe",
-        "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Razor",
-        "sub_category_l4": "Women",
-        "sub_category_l5": "Single",
-        "product_name_without_brand": "Mini Body Razor for Women Hair Removal 5-Blade Precision Vita E & Aloe Extract",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/7/1/cb01c6b0-3981-46b0-9138-bc2a18f9f3c3_shavingrazor_ZMQL52XLIT_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/1/d0658621-e480-43af-8f85-ea46821aa85e_shavingrazor_ZMQL52XLIT_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/1/e73b1b01-85d5-4713-a115-e324e4c8d3c4_shavingrazor_ZMQL52XLIT_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/1/88b47d7d-7858-4d63-9ebc-627cd94f044d_shavingrazor_ZMQL52XLIT_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/1/c742a082-6bc2-460b-9bd8-da120535d23a_shavingrazor_ZMQL52XLIT_AL4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/1/4a753b23-aabb-40dc-856c-d76a9693b923_shavingrazor_ZMQL52XLIT_AL5.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Sanfe Hair Removal Spray Foam - Spray Away",
-    "brand": "Sanfe",
-    "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
-    "product_id": "K37RA68XRB",
-    "variations": [
-      {
-        "id": "GBNX9R53HZ",
-        "display_name": "Sanfe Hair Removal Spray Foam - Spray Away",
-        "price_mrp": 199,
-        "brand": "Sanfe",
-        "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Hair Removal Spray",
-        "sub_category_l4": "Women",
-        "sub_category_l5": "Single",
-        "product_name_without_brand": "Hair Removal Spray Foam - Spray Away",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/5/15/0582c8f6-1b18-4053-8975-7dff858478c6_hairremoval_R2325UUMAJ_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/15/3137b07a-e4fc-493f-b2e2-b1124de33173_hairremoval_R2325UUMAJ_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/15/77ddff34-febb-404c-b92e-c3fd07136b3b_hairremoval_R2325UUMAJ_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/15/e5828f00-1287-4cf6-a428-075fc6cf3f13_hairremoval_R2325UUMAJ_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/15/9c18ad11-779a-4095-a861-eb8eff23a637_hairremoval_R2325UUMAJ_AL4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/15/9192affc-c06d-4772-89e8-3cac988d7074_hairremoval_R2325UUMAJ_AL5.png"
-        ],
-        "images_v2": [],
-        "quantity": "25",
-        "sku_quantity_with_combo": "25 ml",
-        "unit_of_measure": "ml",
-        "weight_in_grams": 25,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Plush 5 Blade Body Razor for Women | Aloe & Vit E Strip | Free Cartridge",
-    "brand": "Plush",
-    "brand_id": "3e1769be5e2ed7817e00f5db48013ace9b64deb0",
-    "product_id": "HSPI0B8J1Y",
-    "variations": [
-      {
-        "id": "7YD217QXLZ",
-        "display_name": "Plush Body Razor For Women Hair Removal",
-        "price_mrp": 798,
-        "brand": "Plush",
-        "brand_id": "3e1769be5e2ed7817e00f5db48013ace9b64deb0",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Razor",
-        "sub_category_l4": "Women",
-        "sub_category_l5": "Single",
-        "product_name_without_brand": "Body Razor For Women Hair Removal",
-        "images": [
-          "9985b2b60de27198dc77fc55cbb705e5",
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/ae7d8a38-0243-423d-aec4-f96412289478_16391_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/99115271-cec1-44bb-aed6-c601abbf4c30_16391_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/8dd9f122-8108-40fd-ae5f-4448a1ccaac4_16391_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/3112e3ca-9cac-451f-b820-b0e713d3e6fe_16391_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/4a53ff60-1a58-4452-a9b5-debcda64b35b_16391_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "1 Piece x 2",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 20,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      },
-      {
-        "id": "JF1NWGAKZ9",
-        "display_name": "Plush 5 Blade Body Razor for Women | Aloe & Vit E Strip | Free Cartridge",
-        "price_mrp": 399,
-        "brand": "Plush",
-        "brand_id": "3e1769be5e2ed7817e00f5db48013ace9b64deb0",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Razor",
-        "sub_category_l4": "Women",
-        "sub_category_l5": "Single",
-        "product_name_without_brand": "5 Blade Body Razor for Women | Aloe & Vit E Strip | Free Cartridge",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/cb63b263-7f7e-4ceb-8794-c447112b42ab_16391_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/ae7d8a38-0243-423d-aec4-f96412289478_16391_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/99115271-cec1-44bb-aed6-c601abbf4c30_16391_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/8dd9f122-8108-40fd-ae5f-4448a1ccaac4_16391_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/3112e3ca-9cac-451f-b820-b0e713d3e6fe_16391_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/18/4a53ff60-1a58-4452-a9b5-debcda64b35b_16391_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 10,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -1509,7 +1567,13 @@
       {
         "id": "C8ZOFRFDVZ",
         "display_name": "Arata Advance Curl Care Hair Gel",
-        "price_mrp": 249,
+        "price": {
+          "mrp": 249,
+          "store_price": 249,
+          "offer_price": 209,
+          "unit_level_price": "",
+          "discount_value": 40
+        },
         "brand": "Arata",
         "brand_id": "83ffc1cb773c576d147a418fc46f443f07174ef3",
         "category": "Mens Grooming",
@@ -1536,42 +1600,85 @@
         "unit_of_measure": "ml",
         "weight_in_grams": 50,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Pee Safe Hair Removal Spray 200ml",
-    "brand": "Pee Safe",
-    "brand_id": "ccc06173cf8190da89bb9a469f8c26dc6a5fc675",
-    "product_id": "QND1Q6AQ7U",
+    "display_name": "Arata Matte Styling Hair Cream (Strong Hold) 100ml",
+    "brand": "Arata",
+    "brand_id": "83ffc1cb773c576d147a418fc46f443f07174ef3",
+    "product_id": "4DR19RIZDM",
     "variations": [
       {
-        "id": "ODVPGP1KWD",
-        "display_name": "Pee Safe Hair Removal Spray 200ml",
-        "price_mrp": 499,
-        "brand": "Pee Safe",
-        "brand_id": "ccc06173cf8190da89bb9a469f8c26dc6a5fc675",
-        "category": "Hair Removal",
+        "id": "4913M421ND",
+        "display_name": "Arata Matte Styling Hair Cream (Strong Hold) 100ml",
+        "price": {
+          "mrp": 599,
+          "store_price": 599,
+          "offer_price": 359,
+          "unit_level_price": "",
+          "discount_value": 240
+        },
+        "brand": "Arata",
+        "brand_id": "83ffc1cb773c576d147a418fc46f443f07174ef3",
+        "category": "Mens Grooming",
         "super_category": "Beauty and Grooming",
-        "sub_category_l3": "Hair Removal Spray",
-        "sub_category_l4": "Unisex",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Hair Removal Spray 200ml",
+        "sub_category_l3": "Hair Styling",
+        "sub_category_l4": "Hair Cream",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Matte Styling Hair Cream (Strong Hold) 100ml",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/11/20/4ac123af-6b78-42ea-9faf-2fc70925c1b6_222610_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/20/6c78e1f0-c0a2-487f-892a-293e65e2489c_222610_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/20/314400a5-3f86-4a12-ba91-04912e0e3e41_222610_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/20/90c934e7-3343-43fe-b324-37e931afe5e8_222610_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/20/83c3cbb7-9de9-4204-8fef-7d3530e639c5_222610_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/20/af3dff92-a55e-43d7-8436-40595afe0cf4_222610_6.png"
+          "NI_CATALOG/IMAGES/CIW/2025/1/16/6011c881-f831-476c-bd8e-3db8880f4259_682123_1.png"
         ],
         "images_v2": [],
-        "quantity": "200",
-        "sku_quantity_with_combo": "200 ml",
-        "unit_of_measure": "ml",
-        "weight_in_grams": 200,
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Khadi Natural Indigo Hair Color | Reduce Hair Thinning",
+    "brand": "Khadi Natural",
+    "brand_id": "a03d94bda129284fde26964462cf2e1d103eea96",
+    "product_id": "95NXNMAVFY",
+    "variations": [
+      {
+        "id": "73DADG1ZI4",
+        "display_name": "Khadi Natural Indigo Hair Color | Reduce Hair Thinning",
+        "price": {
+          "mrp": 275,
+          "store_price": 275,
+          "offer_price": 192,
+          "unit_level_price": "",
+          "discount_value": 83
+        },
+        "brand": "Khadi Natural",
+        "brand_id": "a03d94bda129284fde26964462cf2e1d103eea96",
+        "category": "Mens Grooming",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": "Hair Colour",
+        "sub_category_l4": "Hair Cream",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Indigo Hair Color | Reduce Hair Thinning",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/22/a242b4d3-3f0b-45a4-9c14-0e45350737cb_haircolor_LG5FUQN30T_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/22/1ee4be46-2803-413e-8d03-14562e57aa92_haircolor_LG5FUQN30T_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/22/a1c21b92-18f0-4afe-a9e4-a6d0ab524621_haircolor_LG5FUQN30T_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "150",
+        "sku_quantity_with_combo": "150 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -1585,14 +1692,20 @@
       {
         "id": "FYC8JO6M2K",
         "display_name": "Beardo Xxtra Strong Hold Hair Spray-Quick Dry & Shine",
-        "price_mrp": 449,
+        "price": {
+          "mrp": 449,
+          "store_price": 449,
+          "offer_price": 337,
+          "unit_level_price": "",
+          "discount_value": 112
+        },
         "brand": "Beardo",
         "brand_id": "595dbbbc5748555e0b680931d9464003f7f40982",
         "category": "Mens Grooming",
         "super_category": "Beauty and Grooming",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
+        "sub_category_l3": "Hair Styling",
+        "sub_category_l4": "Hair Spray",
+        "sub_category_l5": "Small",
         "product_name_without_brand": "Xxtra Strong Hold Hair Spray-Quick Dry & Shine",
         "images": [
           "NI_CATALOG/IMAGES/CIW/2025/7/21/21e27710-de94-4a18-9248-07a16135bfb7_35137_1.png",
@@ -1602,12 +1715,13 @@
           "NI_CATALOG/IMAGES/CIW/2025/7/21/d562ba19-961d-443b-a2eb-f09d87e950e6_35137_5.png",
           "NI_CATALOG/IMAGES/CIW/2025/7/21/047fc623-c1fc-4256-b354-08484bc5da2f_35137_6.png"
         ],
-        "images_v2": null,
-        "quantity": "150 ml",
+        "images_v2": [],
+        "quantity": "150",
         "sku_quantity_with_combo": "150 ml",
-        "unit_of_measure": null,
+        "unit_of_measure": "ml",
         "weight_in_grams": 150,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -1621,7 +1735,13 @@
       {
         "id": "69ONGF22UQ",
         "display_name": "Bombay Shaving Company Sensi Smart 3 Razor + Cartidges",
-        "price_mrp": 298,
+        "price": {
+          "mrp": 298,
+          "store_price": 298,
+          "offer_price": 198,
+          "unit_level_price": "",
+          "discount_value": 100
+        },
         "brand": "Bombay Shaving Company",
         "brand_id": "ead345e45f756953bcb8c13122e8534eb7cece12",
         "category": "Hair Removal",
@@ -1643,39 +1763,48 @@
         "unit_of_measure": null,
         "weight_in_grams": 3,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Khadi Natural Indigo Hair Color | Reduce Hair Thinning",
-    "brand": "Khadi Natural",
-    "brand_id": "a03d94bda129284fde26964462cf2e1d103eea96",
-    "product_id": "95NXNMAVFY",
+    "display_name": "Schwarzkopf Taft Power Active Styling Gel",
+    "brand": "Schwarzkopf",
+    "brand_id": "060e7f133619ab7b61c4e6b829fe941a257cad16",
+    "product_id": "BQ469QE3DF",
     "variations": [
       {
-        "id": "73DADG1ZI4",
-        "display_name": "Khadi Natural Indigo Hair Color | Reduce Hair Thinning",
-        "price_mrp": 275,
-        "brand": "Khadi Natural",
-        "brand_id": "a03d94bda129284fde26964462cf2e1d103eea96",
+        "id": "K33IM19IR3",
+        "display_name": "Schwarzkopf Taft Power Active Styling Gel",
+        "price": {
+          "mrp": 500,
+          "store_price": 500,
+          "offer_price": 350,
+          "unit_level_price": "",
+          "discount_value": 150
+        },
+        "brand": "Schwarzkopf",
+        "brand_id": "060e7f133619ab7b61c4e6b829fe941a257cad16",
         "category": "Mens Grooming",
         "super_category": "Beauty and Grooming",
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Indigo Hair Color | Reduce Hair Thinning",
+        "product_name_without_brand": "Taft Power Active Styling Gel",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/5/22/a242b4d3-3f0b-45a4-9c14-0e45350737cb_haircolor_LG5FUQN30T_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/22/1ee4be46-2803-413e-8d03-14562e57aa92_haircolor_LG5FUQN30T_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/22/a1c21b92-18f0-4afe-a9e4-a6d0ab524621_haircolor_LG5FUQN30T_AL2.png"
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/7c4b987a-71c7-4115-8c19-75a81956928e_96698_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/53c35770-94a8-44f0-8ecb-3c7d3e8ca706_96698_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/acc451d8-aebd-4683-bf29-4bbe855564db_96698_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/5002c8ae-873c-45c8-939f-ec66b094847a_96698_4.png"
         ],
         "images_v2": null,
-        "quantity": "150 g",
-        "sku_quantity_with_combo": "150 g",
+        "quantity": "150 ml",
+        "sku_quantity_with_combo": "150 ml",
         "unit_of_measure": null,
         "weight_in_grams": 150,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1689,7 +1818,13 @@
       {
         "id": "JH84D66WBN",
         "display_name": "Arata Hair Styling Cream",
-        "price_mrp": 399,
+        "price": {
+          "mrp": 399,
+          "store_price": 399,
+          "offer_price": 327,
+          "unit_level_price": "",
+          "discount_value": 72
+        },
         "brand": "Arata",
         "brand_id": "83ffc1cb773c576d147a418fc46f443f07174ef3",
         "category": "Mens Grooming",
@@ -1712,42 +1847,93 @@
         "unit_of_measure": null,
         "weight_in_grams": 50,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Sanfe Hair Removal Spray Foam - Spray Away - 112ml Men",
-    "brand": "Sanfe",
-    "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
-    "product_id": "Z4VVLR56VC",
+    "display_name": "Schwarzkopf Taft Ultimate Hairspray",
+    "brand": "Schwarzkopf",
+    "brand_id": "060e7f133619ab7b61c4e6b829fe941a257cad16",
+    "product_id": "YVPH44X893",
     "variations": [
       {
-        "id": "OSQXUBZPOF",
-        "display_name": "Sanfe Hair Removal Spray Foam - Spray Away - 112ml Men",
-        "price_mrp": 399,
-        "brand": "Sanfe",
-        "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
+        "id": "F66SRFVFUA",
+        "display_name": "Schwarzkopf Taft Ultimate Hairspray",
+        "price": {
+          "mrp": 699,
+          "store_price": 699,
+          "offer_price": 489,
+          "unit_level_price": "",
+          "discount_value": 210
+        },
+        "brand": "Schwarzkopf",
+        "brand_id": "060e7f133619ab7b61c4e6b829fe941a257cad16",
         "category": "Mens Grooming",
         "super_category": "Beauty and Grooming",
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Hair Removal Spray Foam - Spray Away - 112ml Men",
+        "product_name_without_brand": "Taft Ultimate Hairspray",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/6/882d8abf-c16b-4a8a-be0a-fd853071254f_401072_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/6/dfaa9590-a5b5-41db-93ea-c85e0495a51c_401072_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/6/dc756e7e-07b2-4751-85a5-934ae33c6ec4_401072_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/6/01e101eb-8413-45db-8af6-f1d62caf8705_401072_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/6/6fde724c-44ef-453b-82f4-9b077c3bfc24_401072_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/6/68ae3638-5eef-432f-967b-4f3fe2c857b5_401072_6.png"
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/3ae05655-ea0a-4890-9868-989f317010ce_99705_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/10b7da46-0297-42cc-a102-622931a318a9_99705_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/12338e93-d4d2-4dc3-abfd-1e43e52836b2_99705_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/9bb7c5ba-badd-4a86-b435-32d6ef14c24a_99705_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/b949f878-a058-453a-8d25-033ff278c5a9_99705_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/ef956349-ebf7-4bd8-b142-3795bd27f7d1_99705_6.png"
         ],
         "images_v2": null,
-        "quantity": "112 ml",
-        "sku_quantity_with_combo": "112 ml",
+        "quantity": "250 ml",
+        "sku_quantity_with_combo": "250 ml",
         "unit_of_measure": null,
-        "weight_in_grams": 112,
+        "weight_in_grams": 250,
         "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Pee Safe Hair Removal Spray 200ml",
+    "brand": "Pee Safe",
+    "brand_id": "ccc06173cf8190da89bb9a469f8c26dc6a5fc675",
+    "product_id": "QND1Q6AQ7U",
+    "variations": [
+      {
+        "id": "ODVPGP1KWD",
+        "display_name": "Pee Safe Hair Removal Spray 200ml",
+        "price": {
+          "mrp": 499,
+          "store_price": 499,
+          "offer_price": 289,
+          "unit_level_price": "",
+          "discount_value": 210
+        },
+        "brand": "Pee Safe",
+        "brand_id": "ccc06173cf8190da89bb9a469f8c26dc6a5fc675",
+        "category": "Hair Removal",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Hair Removal Spray 200ml",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/20/4ac123af-6b78-42ea-9faf-2fc70925c1b6_222610_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/20/6c78e1f0-c0a2-487f-892a-293e65e2489c_222610_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/20/314400a5-3f86-4a12-ba91-04912e0e3e41_222610_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/20/90c934e7-3343-43fe-b324-37e931afe5e8_222610_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/20/83c3cbb7-9de9-4204-8fef-7d3530e639c5_222610_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/20/af3dff92-a55e-43d7-8436-40595afe0cf4_222610_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "200 ml",
+        "sku_quantity_with_combo": "200 ml",
+        "unit_of_measure": null,
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1761,7 +1947,13 @@
       {
         "id": "GPLSCLNJTY",
         "display_name": "Gillette Venus Smooth Combo pack|Razor plus 2 refills|Aloe vera smooth",
-        "price_mrp": 674,
+        "price": {
+          "mrp": 674,
+          "store_price": 674,
+          "offer_price": 539,
+          "unit_level_price": "",
+          "discount_value": 135
+        },
         "brand": "Gillette Venus",
         "brand_id": "57ff1f59da0dd056c2869dc15e69bf639cd878e1",
         "category": "Hair Removal",
@@ -1784,6 +1976,79 @@
         "unit_of_measure": null,
         "weight_in_grams": 69,
         "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Bombae Shea Butter Hair Removal Cream",
+    "brand": "Bombae",
+    "brand_id": "ee15ee7b9e0495e9eb95a40f8095b7a4d6ab4455",
+    "product_id": "DGMC3M8DU7",
+    "variations": [
+      {
+        "id": "5WTNHOHYOS",
+        "display_name": "Bombae Shea Butter Hair Removal Cream",
+        "price": {
+          "mrp": 199,
+          "store_price": 199,
+          "offer_price": 129,
+          "unit_level_price": "",
+          "discount_value": 70
+        },
+        "brand": "Bombae",
+        "brand_id": "ee15ee7b9e0495e9eb95a40f8095b7a4d6ab4455",
+        "category": "Hair Removal",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Shea Butter Hair Removal Cream",
+        "images": [
+          "duizbyyzerl5iqlrcdc9",
+          "afd1a0y0cbhdnufpl2qs",
+          "xmrmj57msgcyaj9wyftj"
+        ],
+        "images_v2": null,
+        "quantity": "100 g",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "DJ89OGST6N",
+        "display_name": "Bombae Shea Butter Hair Removal Cream",
+        "price": {
+          "mrp": 398,
+          "store_price": 398,
+          "offer_price": 258,
+          "unit_level_price": "129/100 g",
+          "discount_value": 140
+        },
+        "brand": "Bombae",
+        "brand_id": "ee15ee7b9e0495e9eb95a40f8095b7a4d6ab4455",
+        "category": "Hair Removal",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Shea Butter Hair Removal Cream",
+        "images": [
+          "d91dcbb419796f4c8825de6d47b919d2",
+          "afd1a0y0cbhdnufpl2qs",
+          "xmrmj57msgcyaj9wyftj"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "100 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1797,7 +2062,13 @@
       {
         "id": "IKOWC31DRM",
         "display_name": "Sanfe Charcoal Detan Hair Removal Wax Powder Painless Removes Hair & Tan 8 Minute Organic",
-        "price_mrp": 499,
+        "price": {
+          "mrp": 499,
+          "store_price": 499,
+          "offer_price": 322,
+          "unit_level_price": "",
+          "discount_value": 177
+        },
         "brand": "Sanfe",
         "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
         "category": "Hair Removal",
@@ -1820,20 +2091,27 @@
         "unit_of_measure": null,
         "weight_in_grams": 100,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Schwarzkopf Taft Power Active Styling Gel",
+    "display_name": "Schwarzkopf Taft Power Hair Lacquer Hairspray Hold 5 Up To 72h Power Hold",
     "brand": "Schwarzkopf",
     "brand_id": "060e7f133619ab7b61c4e6b829fe941a257cad16",
-    "product_id": "BQ469QE3DF",
+    "product_id": "2CNSZBL5AO",
     "variations": [
       {
-        "id": "K33IM19IR3",
-        "display_name": "Schwarzkopf Taft Power Active Styling Gel",
-        "price_mrp": 500,
+        "id": "HQCHK4VQHI",
+        "display_name": "Schwarzkopf Taft Power Hair Lacquer Hairspray Hold 5 Up To 72h Power Hold",
+        "price": {
+          "mrp": 699,
+          "store_price": 699,
+          "offer_price": 489,
+          "unit_level_price": "",
+          "discount_value": 210
+        },
         "brand": "Schwarzkopf",
         "brand_id": "060e7f133619ab7b61c4e6b829fe941a257cad16",
         "category": "Mens Grooming",
@@ -1841,146 +2119,108 @@
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Taft Power Active Styling Gel",
+        "product_name_without_brand": "Taft Power Hair Lacquer Hairspray Hold 5 Up To 72h Power Hold",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/11/7/7c4b987a-71c7-4115-8c19-75a81956928e_96698_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/7/53c35770-94a8-44f0-8ecb-3c7d3e8ca706_96698_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/7/acc451d8-aebd-4683-bf29-4bbe855564db_96698_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/7/5002c8ae-873c-45c8-939f-ec66b094847a_96698_4.png"
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/89a370b8-ce56-4a1c-ad63-d1ef08ef9c31_62844_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/6f9f8738-f4e4-41b3-9210-e62678973ac9_62844_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/70b0daf7-9415-41a7-b768-419e3fe02bfb_62844_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/5b9ea29f-bb8b-45ce-ad6f-75c2ed73aca6_62844_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/169c1476-bc4d-4c91-9ec3-412553fecfdc_62844_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/0785503c-9dae-470b-88fe-4ad1f260df3a_62844_6.png"
         ],
         "images_v2": null,
-        "quantity": "150 ml",
-        "sku_quantity_with_combo": "150 ml",
+        "quantity": "250 ml",
+        "sku_quantity_with_combo": "250 ml",
         "unit_of_measure": null,
-        "weight_in_grams": 150,
+        "weight_in_grams": 250,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Beardo Grooming Combo",
-    "brand": "",
-    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
-    "product_id": "WG5WIZ83FC",
+    "display_name": "Sanfe Hair Removal Spray Foam - Spray Away - 112ml Men",
+    "brand": "Sanfe",
+    "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
+    "product_id": "Z4VVLR56VC",
     "variations": [
       {
-        "id": "17GNWKVDAQ",
-        "display_name": "Beardo Grooming Combo",
-        "price_mrp": 575,
-        "brand": "",
-        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "id": "OSQXUBZPOF",
+        "display_name": "Sanfe Hair Removal Spray Foam - Spray Away - 112ml Men",
+        "price": {
+          "mrp": 399,
+          "store_price": 399,
+          "offer_price": 240,
+          "unit_level_price": "",
+          "discount_value": 159
+        },
+        "brand": "Sanfe",
+        "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
         "category": "Mens Grooming",
         "super_category": "Beauty and Grooming",
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Beardo Grooming Combo",
+        "product_name_without_brand": "Hair Removal Spray Foam - Spray Away - 112ml Men",
         "images": [
-          "aqhvnphome7knszc3xlo"
+          "NI_CATALOG/IMAGES/CIW/2025/5/6/882d8abf-c16b-4a8a-be0a-fd853071254f_401072_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/6/dfaa9590-a5b5-41db-93ea-c85e0495a51c_401072_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/6/dc756e7e-07b2-4751-85a5-934ae33c6ec4_401072_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/6/01e101eb-8413-45db-8af6-f1d62caf8705_401072_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/6/6fde724c-44ef-453b-82f4-9b077c3bfc24_401072_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/6/68ae3638-5eef-432f-967b-4f3fe2c857b5_401072_6.png"
         ],
         "images_v2": null,
-        "quantity": "1 combo",
-        "sku_quantity_with_combo": "1 combo",
+        "quantity": "112 ml",
+        "sku_quantity_with_combo": "112 ml",
         "unit_of_measure": null,
-        "weight_in_grams": 80,
+        "weight_in_grams": 112,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Pee Safe Face Razor 1N",
-    "brand": "Pee Safe",
-    "brand_id": "ccc06173cf8190da89bb9a469f8c26dc6a5fc675",
-    "product_id": "XYSUIA86ON",
+    "display_name": "Sanfe Dermatologically Tested Hair Removal Cream, for Sensitive Skin, Vitamin E",
+    "brand": "Sanfe",
+    "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
+    "product_id": "H7L3RFYPRH",
     "variations": [
       {
-        "id": "8O8RY8I901",
-        "display_name": "Pee Safe Face Razor 1N",
-        "price_mrp": 149,
-        "brand": "Pee Safe",
-        "brand_id": "ccc06173cf8190da89bb9a469f8c26dc6a5fc675",
+        "id": "HY2661D01M",
+        "display_name": "Sanfe Dermatologically Tested Hair Removal Cream, for Sensitive Skin, Vitamin E",
+        "price": {
+          "mrp": 109,
+          "store_price": 109,
+          "offer_price": 77,
+          "unit_level_price": "",
+          "discount_value": 32
+        },
+        "brand": "Sanfe",
+        "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
         "category": "Hair Removal",
         "super_category": "Beauty and Grooming",
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Face Razor 1N",
+        "product_name_without_brand": "Dermatologically Tested Hair Removal Cream, for Sensitive Skin, Vitamin E",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/14/8bd845e4-94e5-481c-b47e-c1bce2278804_812153_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/14/90d86cd5-b2e8-4726-8d19-234bb66525c7_812153_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/14/25adcdd6-0f04-43f9-891c-09ca4c06b0a7_812153_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/14/8d3172a8-7f57-45f9-851e-3430c98bc426_812153_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/14/13e2c717-27d3-4a33-8b0c-1ee207feb45b_812153_6.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/14/90bd83a0-4c2f-41d1-a8f0-ef14215861be_812153_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/14/975c2180-b57a-40b4-a743-ae264fcff064_812153_8.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/14/2f7f87c9-6b30-43c5-ab61-c2716e5e172f_812153_9.png"
+          "NI_CATALOG/IMAGES/CIW/2024/5/3/f3d3fb9f-a18b-4416-be55-f563c1b8b661_hairremoval_BM46GVYROI_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/3/7e389d99-2d2a-4c63-a243-037197a442aa_hairremoval_BM46GVYROI_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/3/b1272900-de71-489c-b099-8410d221c041_hairremoval_BM46GVYROI_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/3/ef975f21-7fd4-4b36-ad95-b1a3d86c68a7_hairremoval_BM46GVYROI_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/3/910a5bc0-044b-43e7-b658-e1fd59c75ef9_hairremoval_BM46GVYROI_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/3/daf094ca-1baa-4676-a0f8-e053b7b620ff_hairremoval_BM46GVYROI_AL5.png"
         ],
         "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
+        "quantity": "50 g",
+        "sku_quantity_with_combo": "50 g",
         "unit_of_measure": null,
-        "weight_in_grams": 1,
+        "weight_in_grams": 50,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Bombae Shea Butter Hair Removal Cream",
-    "brand": "Bombae",
-    "brand_id": "ee15ee7b9e0495e9eb95a40f8095b7a4d6ab4455",
-    "product_id": "DGMC3M8DU7",
-    "variations": [
-      {
-        "id": "5WTNHOHYOS",
-        "display_name": "Bombae Shea Butter Hair Removal Cream",
-        "price_mrp": 199,
-        "brand": "Bombae",
-        "brand_id": "ee15ee7b9e0495e9eb95a40f8095b7a4d6ab4455",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Shea Butter Hair Removal Cream",
-        "images": [
-          "duizbyyzerl5iqlrcdc9",
-          "afd1a0y0cbhdnufpl2qs",
-          "xmrmj57msgcyaj9wyftj"
-        ],
-        "images_v2": null,
-        "quantity": "100 g",
-        "sku_quantity_with_combo": "100 g",
-        "unit_of_measure": null,
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      },
-      {
-        "id": "DJ89OGST6N",
-        "display_name": "Bombae Shea Butter Hair Removal Cream",
-        "price_mrp": 398,
-        "brand": "Bombae",
-        "brand_id": "ee15ee7b9e0495e9eb95a40f8095b7a4d6ab4455",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Shea Butter Hair Removal Cream",
-        "images": [
-          "d91dcbb419796f4c8825de6d47b919d2",
-          "afd1a0y0cbhdnufpl2qs",
-          "xmrmj57msgcyaj9wyftj"
-        ],
-        "images_v2": null,
-        "quantity": "2 pieces",
-        "sku_quantity_with_combo": "100 g x 2",
-        "unit_of_measure": null,
-        "weight_in_grams": 200,
-        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1994,7 +2234,13 @@
       {
         "id": "IZFR9XWMG1",
         "display_name": "Sanfe Complete Body Razor With Eyebrow Razor & Shea Body Razor",
-        "price_mrp": 268,
+        "price": {
+          "mrp": 268,
+          "store_price": 268,
+          "offer_price": 193,
+          "unit_level_price": "",
+          "discount_value": 75
+        },
         "brand": "Sanfe",
         "brand_id": "01a56f17ea15b784a3320d9c2868b6d541c265a9",
         "category": "Hair Removal",
@@ -2012,68 +2258,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 103,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Veet Silk & Fresh Hair Removal Cream & Nivea Deodorant Whitening Smooth Skin Mix Combo",
-    "brand": "Veet",
-    "brand_id": "d1a7119e68619a55fae5f3798f6dbac19468eb4b",
-    "product_id": "7RLRA3FZ3J",
-    "variations": [
-      {
-        "id": "J9BAWSCX35",
-        "display_name": "Veet Silk & Fresh Hair Removal Cream & Nivea Deodorant Whitening Smooth Skin Mix Combo",
-        "price_mrp": 424,
-        "brand": "Veet",
-        "brand_id": "d1a7119e68619a55fae5f3798f6dbac19468eb4b",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Silk & Fresh Hair Removal Cream & Nivea Deodorant Whitening Smooth Skin Mix Combo",
-        "images": [
-          "efzqn6mhq7bw3zhskapq"
-        ],
-        "images_v2": null,
-        "quantity": "1 combo",
-        "sku_quantity_with_combo": "1 combo",
-        "unit_of_measure": null,
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Plush Eco Razor(3pcs) + Face Razor",
-    "brand": "Plush",
-    "brand_id": "3e1769be5e2ed7817e00f5db48013ace9b64deb0",
-    "product_id": "BQJKKE77VJ",
-    "variations": [
-      {
-        "id": "G32SHMU0A6",
-        "display_name": "Plush Eco Razor(3pcs) + Face Razor",
-        "price_mrp": 498,
-        "brand": "Plush",
-        "brand_id": "3e1769be5e2ed7817e00f5db48013ace9b64deb0",
-        "category": "Hair Removal",
-        "super_category": "Beauty and Grooming",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Eco Razor(3pcs) + Face Razor",
-        "images": [
-          "0d80e22748cea5c00ddacb2cbe7f62e4"
-        ],
-        "images_v2": null,
-        "quantity": "1 combo",
-        "sku_quantity_with_combo": "1 combo",
-        "unit_of_measure": null,
-        "weight_in_grams": 6,
-        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2087,7 +2272,13 @@
       {
         "id": "WP3WYM9II2",
         "display_name": "FURR By Pee Safe Multipurpose Trimmer for Women|Water Resitant",
-        "price_mrp": 1499,
+        "price": {
+          "mrp": 1499,
+          "store_price": 1499,
+          "offer_price": 1199,
+          "unit_level_price": "",
+          "discount_value": 300
+        },
         "brand": "Furr By Pee Safe",
         "brand_id": "53bab4848362a78b9989d7fc2622043646f73f87",
         "category": "Shaving Needs",
@@ -2112,6 +2303,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 200,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2125,7 +2317,13 @@
       {
         "id": "PW0IN5OFNI",
         "display_name": "Gillette Venus Comfortglide Hair Removal Razor & Nivea Pearl & Beauty Roll-on",
-        "price_mrp": 624,
+        "price": {
+          "mrp": 624,
+          "store_price": 624,
+          "offer_price": 494,
+          "unit_level_price": "",
+          "discount_value": 130
+        },
         "brand": "Gillette",
         "brand_id": "c0176ab99dfa5fdc2e3f6c45d83752b0667d267d",
         "category": "Hair Removal",
@@ -2143,6 +2341,121 @@
         "unit_of_measure": null,
         "weight_in_grams": 150,
         "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Veet Silk & Fresh Hair Removal Cream & Nivea Deodorant Whitening Smooth Skin Mix Combo",
+    "brand": "Veet",
+    "brand_id": "d1a7119e68619a55fae5f3798f6dbac19468eb4b",
+    "product_id": "7RLRA3FZ3J",
+    "variations": [
+      {
+        "id": "J9BAWSCX35",
+        "display_name": "Veet Silk & Fresh Hair Removal Cream & Nivea Deodorant Whitening Smooth Skin Mix Combo",
+        "price": {
+          "mrp": 424,
+          "store_price": 424,
+          "offer_price": 344,
+          "unit_level_price": "",
+          "discount_value": 80
+        },
+        "brand": "Veet",
+        "brand_id": "d1a7119e68619a55fae5f3798f6dbac19468eb4b",
+        "category": "Hair Removal",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Silk & Fresh Hair Removal Cream & Nivea Deodorant Whitening Smooth Skin Mix Combo",
+        "images": [
+          "efzqn6mhq7bw3zhskapq"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Plush Eco Razor(3pcs) + Face Razor",
+    "brand": "Plush",
+    "brand_id": "3e1769be5e2ed7817e00f5db48013ace9b64deb0",
+    "product_id": "BQJKKE77VJ",
+    "variations": [
+      {
+        "id": "G32SHMU0A6",
+        "display_name": "Plush Eco Razor(3pcs) + Face Razor",
+        "price": {
+          "mrp": 498,
+          "store_price": 498,
+          "offer_price": 388,
+          "unit_level_price": "",
+          "discount_value": 110
+        },
+        "brand": "Plush",
+        "brand_id": "3e1769be5e2ed7817e00f5db48013ace9b64deb0",
+        "category": "Hair Removal",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Eco Razor(3pcs) + Face Razor",
+        "images": [
+          "0d80e22748cea5c00ddacb2cbe7f62e4"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 6,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Beardo Grooming Combo",
+    "brand": "",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "WG5WIZ83FC",
+    "variations": [
+      {
+        "id": "17GNWKVDAQ",
+        "display_name": "Beardo Grooming Combo",
+        "price": {
+          "mrp": 575,
+          "store_price": 575,
+          "offer_price": 506,
+          "unit_level_price": "",
+          "discount_value": 69
+        },
+        "brand": "",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Mens Grooming",
+        "super_category": "Beauty and Grooming",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Beardo Grooming Combo",
+        "images": [
+          "aqhvnphome7knszc3xlo"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 80,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2156,7 +2469,13 @@
       {
         "id": "7VAP2AH61O",
         "display_name": "AZAH Face Razor For Women (Pack Of 3)",
-        "price_mrp": 119,
+        "price": {
+          "mrp": 119,
+          "store_price": 119,
+          "offer_price": 95,
+          "unit_level_price": "",
+          "discount_value": 24
+        },
         "brand": "AZAH",
         "brand_id": "f6b4da8d1b73a8f512e7b2f2536572c74ee8c095",
         "category": "Hair Removal",
@@ -2180,6 +2499,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 3,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2193,7 +2513,13 @@
       {
         "id": "UQ5Y8C0VBO",
         "display_name": "Furr By Pee Safe Safe Dual Head Face Razor For Women",
-        "price_mrp": 149,
+        "price": {
+          "mrp": 149,
+          "store_price": 149,
+          "offer_price": 98,
+          "unit_level_price": "",
+          "discount_value": 51
+        },
         "brand": "Furr By Pee Safe",
         "brand_id": "53bab4848362a78b9989d7fc2622043646f73f87",
         "category": "Hair Removal",
@@ -2216,6 +2542,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2229,7 +2556,13 @@
       {
         "id": "XIH0C6XVC1",
         "display_name": "Set Wet Ultimate Hold Styling Hair Gel",
-        "price_mrp": 225,
+        "price": {
+          "mrp": 225,
+          "store_price": 225,
+          "offer_price": 180,
+          "unit_level_price": "",
+          "discount_value": 45
+        },
         "brand": "Set Wet",
         "brand_id": "6970511e0e6642d21a149cb18c523653966ea7bd",
         "category": "Mens Grooming",
@@ -2252,6 +2585,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 250,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]

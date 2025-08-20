@@ -8,7 +8,13 @@
       {
         "id": "ZUCKTRD6B6",
         "display_name": "OPPO K13x | 6 GB RAM & 128 GB Storage | 6000mAh Battery | 50 MP + 2 MP Rear Camera | 6.67\" Display | Midnight Violet",
-        "price_mrp": 16999,
+        "price": {
+          "mrp": 16999,
+          "store_price": 16999,
+          "offer_price": 12499,
+          "unit_level_price": "",
+          "discount_value": 4500
+        },
         "brand": "OPPO",
         "brand_id": "ea02e31cc3ad92dbbee1583c2ee5fd42ec957c8b",
         "category": "Mobiles and Accessories",
@@ -31,51 +37,7 @@
         "unit_of_measure": "Piece",
         "weight_in_grams": 220,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Vivo T3 | 8 GB RAM & 128 GB Storage | 5000 mAh Battery | 50 MP + 2 MP Rear Camera | 6.67\" Display | Cosmic Blue",
-    "brand": "vivo",
-    "brand_id": "98bb49734aff5abad5cc2ae856e9c8a1187c9a48",
-    "product_id": "KLX6SZ8N3R",
-    "variations": [
-      {
-        "id": "0IRRPIYTMF",
-        "display_name": "Vivo T3 | 8 GB RAM & 128 GB Storage | 5000 mAh Battery | 50 MP + 2 MP Rear Camera | 6.67\" Display | Cosmic Blue",
-        "price_mrp": 22999,
-        "brand": "vivo",
-        "brand_id": "98bb49734aff5abad5cc2ae856e9c8a1187c9a48",
-        "category": "Mobiles and Accessories",
-        "super_category": "Mobiles Laptops and Tablets",
-        "sub_category_l3": "Smartphones and basic phones",
-        "sub_category_l4": "Smartphones",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Vivo T3 | 8 GB RAM & 128 GB Storage | 5000 mAh Battery | 50 MP + 2 MP Rear Camera | 6.67\" Display | Cosmic Blue",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/11/dd4f5989-8d2a-416c-80e6-f02108413cfa_138625.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/15/4f413e49-c392-4510-9f35-22af01b9ad7d_138625_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/15/e7cf23a4-e271-4342-b0ad-7793f9de002a_138625_10.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/15/10379f0b-b7a7-4661-9110-ccd7fd66d1e7_138625_11.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/15/afe24f53-f14a-440b-b7b7-6d8dcb3d9316_138625_12.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/15/b00a8011-02f2-43e4-9a9c-b570f3388dd2_138625_13.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/6/0edc135b-f87f-48e8-9baf-5d55753b5b74_Vivo.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/15/c93ec266-76e0-45d4-8bcb-cff42b0faaa3_138625_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/11/5a98e17b-d773-433d-9456-78068b546a68_CopyofMobile_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/15/f0487b06-acd8-46e5-92d3-2dc70ad9ebc5_138625_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/15/7be7ff07-415f-4286-99c3-c4226436e8c8_138625_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/15/1f45568a-9171-4dd1-890b-e338f5ded20d_138625_6.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/15/3f74edb0-31a1-46cc-9769-e597d103a66b_138625_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/15/976af463-6018-46a6-b658-895ff0645df3_138625_8.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/15/a165d00a-1427-4205-abcf-bffae9d508fa_138625_9.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Unit",
-        "unit_of_measure": "Unit",
-        "weight_in_grams": 188,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -89,7 +51,13 @@
       {
         "id": "NFGFIW8ADH",
         "display_name": "realme Narzo 70 Turbo | 6 GB RAM & 128 GB Storage | 5000 mAh Battery | 50 MP + 2 MP Rear Camera | 6.67\" Display | Turbo Yellow",
-        "price_mrp": 19999,
+        "price": {
+          "mrp": 19999,
+          "store_price": 19999,
+          "offer_price": 13999,
+          "unit_level_price": "",
+          "discount_value": 6000
+        },
         "brand": "realme",
         "brand_id": "91d1b6f6eb1208edf5fbde1f7d243d22b366bf12",
         "category": "Mobiles and Accessories",
@@ -114,6 +82,7 @@
         "unit_of_measure": "Unit",
         "weight_in_grams": 185,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -127,7 +96,13 @@
       {
         "id": "Z8GHFRWIZI",
         "display_name": "Apple iPhone 16e | 128 GB Storage | 4005 mAh Battery | 48 MP + 12 MP Rear Camera | 6.1\" Display | Black",
-        "price_mrp": 59900,
+        "price": {
+          "mrp": 59900,
+          "store_price": 59900,
+          "offer_price": 57999,
+          "unit_level_price": "",
+          "discount_value": 1901
+        },
         "brand": "Apple",
         "brand_id": "f7b1924cd3d5f7d01a93e5d02f87e5fe11c074c5",
         "category": "Mobiles and Accessories",
@@ -154,6 +129,7 @@
         "unit_of_measure": "Unit",
         "weight_in_grams": 167,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]

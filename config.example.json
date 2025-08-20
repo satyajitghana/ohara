@@ -1,3 +1,67 @@
 {
-	"gemini_api_key": "YOUR_GEMINI_API_KEY"
+	"gemini_api_key": "<your-gemini-api-key>",
+	"swiggy": {
+		"api": {
+			"base_url": "https://www.swiggy.com/api/instamart",
+			"image_base_url": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/",
+			"headers": {
+				"user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+				"x-build-version": "2.291.0"
+			},
+			"timeout": 30.0,
+			"download_timeout": 20.0,
+			"concurrency_limit": 10
+		},
+		"default_params": {
+			"offset": "1",
+			"layoutId": "4987",
+			"storeId": "1313712",
+			"primaryStoreId": "1313712",
+			"secondaryStoreId": "",
+			"clientId": "INSTAMART-APP"
+		},
+		"directories": {
+			"responses": "responses",
+			"raw": "responses/raw",
+			"listings": "responses/listings",
+			"errors": "responses/errors",
+			"scraped_data": "scraped_data"
+		},
+		"categories_to_process": [
+			"Biscuits_and_Cakes.json",
+			"Cereals_and_Breakfast.json",
+			"Chips_and_Namkeens.json",
+			"Chocolates.json",
+			"Cold_Drinks_and_Juices.json",
+			"Dairy,_Bread_and_Eggs.json",
+			"Dry_Fruits_and_Seeds_Mix.json",
+			"Frozen_Food.json",
+			"Ice_Creams_and_Frozen_Desserts.json",
+			"Meat_and_Seafood.json",
+			"Masalas.json",
+			"Noodles,_Pasta,_Vermicelli.json",
+			"Oils_and_Ghee.json",
+			"Protein_and_Supplements.json",
+			"Sauces_and_Spreads.json",
+			"Sweets.json",
+			"Tea,_Coffee_and_Milk_drinks.json"
+		]
+	},
+	"ai_processor": {
+		"api": {
+			"model": "gemini-2.5-flash",
+			"max_retries": 3,
+			"timeout": 30
+		},
+		"processing": {
+			"num_processes": 200,
+			"skip_existing": true,
+			"enable_ocr": false
+		},
+		"directories": {
+			"scraped_data": "scraped_data",
+			"ai_output": "ai_processed",
+			"logs": "logs"
+		}
+	}
 }

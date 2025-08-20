@@ -1,0 +1,192 @@
+{
+  "product_name": "Maaza Mango Drink Bottle",
+  "brand": "Maaza",
+  "barcode": "8901764092107",
+  "net_quantity_value": 1.5,
+  "net_quantity_unit": "L",
+  "nutrition_info_table": [
+    {
+      "nutrient": "energy",
+      "value": 63.0,
+      "unit": "kcal",
+      "rda_percentage": 6.3
+    },
+    {
+      "nutrient": "carbohydrate",
+      "value": 15.8,
+      "unit": "g",
+      "rda_percentage": null
+    },
+    {
+      "nutrient": "total_sugars",
+      "value": 14.9,
+      "unit": "g",
+      "rda_percentage": null
+    },
+    {
+      "nutrient": "added_sugars",
+      "value": 13.3,
+      "unit": "g",
+      "rda_percentage": 53.2
+    },
+    {
+      "nutrient": "total_fat",
+      "value": 0.0,
+      "unit": "g",
+      "rda_percentage": 0.0
+    },
+    {
+      "nutrient": "protein",
+      "value": 0.0,
+      "unit": "g",
+      "rda_percentage": null
+    },
+    {
+      "nutrient": "sodium",
+      "value": 21.9,
+      "unit": "mg",
+      "rda_percentage": 2.2
+    }
+  ],
+  "nutrition_serving_value": 200.0,
+  "nutrition_serving_unit": "ml",
+  "approx_serves_per_pack": 7,
+  "ingredients_string": "INGREDIENTS: WATER, MANGO PULP (19.5%), SUGAR, ACIDITY REGULATORS (330, 331(III)), ANTIOXIDANT (300), PRESERVATIVE (202), COLOUR (110), MANGO FLAVOURS (NATURAL, NATURE-IDENTICAL & ARTIFICIAL FLAVORING SUBSTANCES).",
+  "parsed_ingredients": [
+    {
+      "name": "Water",
+      "percentage": null,
+      "ins_numbers": [],
+      "additives": [],
+      "is_alarming": false,
+      "alarming_reason": null
+    },
+    {
+      "name": "Mango Pulp",
+      "percentage": 19.5,
+      "ins_numbers": [],
+      "additives": [],
+      "is_alarming": false,
+      "alarming_reason": null
+    },
+    {
+      "name": "Sugar",
+      "percentage": null,
+      "ins_numbers": [],
+      "additives": [],
+      "is_alarming": true,
+      "alarming_reason": "High in added sugars which contribute to empty calories and can lead to health issues like weight gain and increased risk of type 2 diabetes."
+    },
+    {
+      "name": "Acidity Regulators",
+      "percentage": null,
+      "ins_numbers": [
+        "330",
+        "331(iii)"
+      ],
+      "additives": [
+        "Acidity Regulator"
+      ],
+      "is_alarming": false,
+      "alarming_reason": null
+    },
+    {
+      "name": "Antioxidant",
+      "percentage": null,
+      "ins_numbers": [
+        "300"
+      ],
+      "additives": [
+        "Antioxidant"
+      ],
+      "is_alarming": false,
+      "alarming_reason": null
+    },
+    {
+      "name": "Preservative",
+      "percentage": null,
+      "ins_numbers": [
+        "202"
+      ],
+      "additives": [
+        "Preservative"
+      ],
+      "is_alarming": true,
+      "alarming_reason": "Potassium Sorbate (INS 202) is a synthetic preservative that some individuals may react to, though generally considered safe in small amounts."
+    },
+    {
+      "name": "Colour",
+      "percentage": null,
+      "ins_numbers": [
+        "110"
+      ],
+      "additives": [
+        "Colour"
+      ],
+      "is_alarming": true,
+      "alarming_reason": "Sunset Yellow FCF (INS 110) is an artificial food colour that has been linked to hyperactivity in children and allergic reactions in some individuals."
+    },
+    {
+      "name": "Mango Flavours",
+      "percentage": null,
+      "ins_numbers": [],
+      "additives": [
+        "Natural Flavour",
+        "Nature-Identical Flavour",
+        "Artificial Flavour"
+      ],
+      "is_alarming": true,
+      "alarming_reason": "Artificial flavoring substances can have unknown long-term health effects and may cause allergic reactions in sensitive individuals."
+    }
+  ],
+  "preservatives": [
+    {
+      "name": "Potassium Sorbate",
+      "ins_number": "202",
+      "function": "Preservative"
+    }
+  ],
+  "ins_numbers_found": [
+    "330",
+    "331(iii)",
+    "300",
+    "202",
+    "110"
+  ],
+  "veg_non_veg": "VEG",
+  "additives": [
+    "Acidity Regulator",
+    "Antioxidant",
+    "Preservative",
+    "Colour",
+    "Natural Flavour",
+    "Nature-Identical Flavour",
+    "Artificial Flavour"
+  ],
+  "allergens": [],
+  "alarming_ingredients": [
+    "Sugar",
+    "Preservative (202)",
+    "Colour (110)",
+    "Artificial Flavoring Substances"
+  ],
+  "health_rating": 25,
+  "processing_level": "ULTRA_PROCESSED",
+  "positive_health_aspects": [
+    "Contains mango pulp",
+    "Zero total fat",
+    "Zero protein"
+  ],
+  "negative_health_aspects": [
+    "Very high in added sugars",
+    "Contains artificial food colour (Sunset Yellow FCF)",
+    "Contains artificial flavoring substances",
+    "Contains synthetic preservative (Potassium Sorbate)"
+  ],
+  "storage_instructions": "STORE IN A COOL AND DRY PLACE. SERVE CHILLED. REFRIGERATE AFTER OPENING. BEST WHEN CHILLED. AFTER OPENING, KEEP REFRIGERATED AND CONSUME WITHIN 5 DAYS. SHAKE WELL BEFORE SERVING.",
+  "cooking_instructions": null,
+  "country_of_origin": "India",
+  "certifications": [
+    "FSSAI"
+  ]
+}

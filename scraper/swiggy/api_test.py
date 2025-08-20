@@ -8,7 +8,7 @@ import httpx
 import json
 import asyncio
 from datetime import datetime
-import os
+from pathlib import Path
 import random
 
 
@@ -64,8 +64,9 @@ async def test_swiggy_api():
                     filename = f"swiggy_response_{timestamp}.json"
                     
                     # Create responses directory if it doesn't exist
-                    os.makedirs("responses", exist_ok=True)
-                    filepath = os.path.join("responses", filename)
+                    responses_dir = Path("responses")
+                    responses_dir.mkdir(exist_ok=True)
+                    filepath = responses_dir / filename
                     
                     with open(filepath, 'w', encoding='utf-8') as f:
                         json.dump(data, f, indent=2, ensure_ascii=False)
@@ -88,8 +89,9 @@ async def test_swiggy_api():
                     filename = f"swiggy_response_{timestamp}.txt"
                     
                     # Create responses directory if it doesn't exist
-                    os.makedirs("responses", exist_ok=True)
-                    filepath = os.path.join("responses", filename)
+                    responses_dir = Path("responses")
+                    responses_dir.mkdir(exist_ok=True)
+                    filepath = responses_dir / filename
                     
                     with open(filepath, 'w', encoding='utf-8') as f:
                         f.write(response.text)
@@ -127,7 +129,8 @@ async def test_swiggy_images():
     }
     
     # Create responses directory if it doesn't exist
-    os.makedirs("responses/images", exist_ok=True)
+    images_dir = Path("responses/images")
+    images_dir.mkdir(parents=True, exist_ok=True)
 
     async with httpx.AsyncClient(timeout=30.0) as client:
         for name, params in transformations.items():
@@ -145,7 +148,7 @@ async def test_swiggy_images():
                     extension = content_type.split('/')[-1]
                     
                     filename = f"image_{name}.{extension}"
-                    filepath = os.path.join("responses/images", filename)
+                    filepath = images_dir / filename
                     
                     with open(filepath, 'wb') as f:
                         f.write(response.content)

@@ -1,5 +1,271 @@
 [
   {
+    "display_name": "Butterfly Smart Mixer Grinder, 4 Jars, 750W, Stainless Steel (Silver & Black)",
+    "brand": "Butterfly",
+    "brand_id": "c59d1c075436896b85dcfa1bb952a31b99454b71",
+    "product_id": "YIKZ2UDCCI",
+    "variations": [
+      {
+        "id": "29B3CA9HJH",
+        "display_name": "Butterfly Smart Mixer Grinder, 4 Jars, 750W, Stainless Steel (Silver & Black)",
+        "price": {
+          "mrp": 5069,
+          "store_price": 5069,
+          "offer_price": 2899,
+          "unit_level_price": "",
+          "discount_value": 2170
+        },
+        "brand": "Butterfly",
+        "brand_id": "c59d1c075436896b85dcfa1bb952a31b99454b71",
+        "category": "Kitchen Appliances",
+        "super_category": "Electronics and Appliances",
+        "sub_category_l3": "Mixer Grinders",
+        "sub_category_l4": "4 Jar",
+        "sub_category_l5": "551 W to 750 W",
+        "product_name_without_brand": "Smart Mixer Grinder, 4 Jars, 750W, Stainless Steel (Silver & Black)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/31/f8307d8e-80df-4239-aa6d-cdfe72bf6c96_PZVNHQQMHN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/13/da362fc5-fb04-4408-a567-f85123936b61_851481_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/13/982ae79d-5ab3-4339-8a1e-f4345de248a7_851481_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/13/002340c2-7af4-46ac-910e-31c730b6744f_851481_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/13/b04dc2e7-99c8-447c-a5d2-6ae4973a0ec8_851481_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/13/15b2bd5a-e5f8-4bbb-a699-705a1dea3bf3_851481_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 unit",
+        "unit_of_measure": "unit",
+        "weight_in_grams": 4650,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Lifelong LLMG202 Mixer Grinder With 2 Jars, 500W, Stainless Blade (Black)",
+    "brand": "Lifelong",
+    "brand_id": "5764e968f33f0007cb82390812988a2e92828c2f",
+    "product_id": "3H3K32481Z",
+    "variations": [
+      {
+        "id": "NDH46SGFDS",
+        "display_name": "Lifelong LLMG202 Mixer Grinder With 2 Jars, 500W, Stainless Blade (Black)",
+        "price": {
+          "mrp": 3000,
+          "store_price": 3000,
+          "offer_price": 1076,
+          "unit_level_price": "",
+          "discount_value": 1924
+        },
+        "brand": "Lifelong",
+        "brand_id": "5764e968f33f0007cb82390812988a2e92828c2f",
+        "category": "Kitchen Appliances",
+        "super_category": "Electronics and Appliances",
+        "sub_category_l3": "Mixer Grinders",
+        "sub_category_l4": "2 Jar",
+        "sub_category_l5": "Up to 550 W",
+        "product_name_without_brand": "LLMG202 Mixer Grinder With 2 Jars, 500W, Stainless Blade (Black)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/843744d6-1d7f-4bd1-a338-00afd012a54c_ZRZSDB16Z3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/14/3f5ddccd-bcfd-4c3b-be4e-e6ed0df25660_519350_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/14/5021c0bd-296f-4e52-acf3-8a09210f1e26_519350_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/14/0b8586aa-0782-48a2-8da4-057fdfa2e9ec_519350_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/14/7ad55b12-5b44-43ce-bea3-58948f19e052_519350_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/14/6b861bd6-dd35-499e-8d66-805b48686c46_519350_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/14/d79d257b-11ad-47dd-9723-f030cfc930df_519350_7.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 2500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Lifelong LLMG300 Power Pro LX Mixer Grinder, 3 Jars, 500W, Stainless Steel Blade (Black)",
+    "brand": "Lifelong",
+    "brand_id": "5764e968f33f0007cb82390812988a2e92828c2f",
+    "product_id": "LGND25H5NT",
+    "variations": [
+      {
+        "id": "UBHS1MTCKJ",
+        "display_name": "Lifelong LLMG300 Power Pro LX Mixer Grinder, 3 Jars, 500W, Stainless Steel Blade (Black)",
+        "price": {
+          "mrp": 4000,
+          "store_price": 4000,
+          "offer_price": 1219,
+          "unit_level_price": "",
+          "discount_value": 2781
+        },
+        "brand": "Lifelong",
+        "brand_id": "5764e968f33f0007cb82390812988a2e92828c2f",
+        "category": "Kitchen Appliances",
+        "super_category": "Electronics and Appliances",
+        "sub_category_l3": "Mixer Grinders",
+        "sub_category_l4": "3 Jar",
+        "sub_category_l5": "Up to 550 W",
+        "product_name_without_brand": "LLMG300 Power Pro LX Mixer Grinder, 3 Jars, 500W, Stainless Steel Blade (Black)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/31/62e0a230-8a68-4c26-8a91-8353762d7372_JPS7BTRZKZ.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/6/f3dd4c4b-07a7-4d5b-aeae-caa6349aa3fb_HomeElectricalAppliances_JPS7BTRZKZ_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/6/6fcb755e-69ea-49d4-9db1-1ecc6462f152_HomeElectricalAppliances_JPS7BTRZKZ_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/6/3dad7a16-4563-4101-b59a-d50119818cc9_HomeElectricalAppliances_JPS7BTRZKZ_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/6/edb95b0e-f2fb-4fe0-a883-002a099e5981_HomeElectricalAppliances_JPS7BTRZKZ_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/6/fcc02ce6-1b5b-4e27-9fad-4ef50c2ae161_HomeElectricalAppliances_JPS7BTRZKZ_AL5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/6/271bcfd0-8eb0-47de-8972-ae8aa30f2dbc_HomeElectricalAppliances_JPS7BTRZKZ_AL6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/19/29a121b3-5b02-4c5a-b180-41d38509307f_HomeElectricalAppliances_56GO1A8WZB_AL6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 unit",
+        "unit_of_measure": "unit",
+        "weight_in_grams": 2088,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Soham Housewares Stainless Steel Lemon Squeezer with Bottle Opener (2 in 1, Silver)",
+    "brand": "Soham Housewares",
+    "brand_id": "cb6ad7559221e10e197b12fc9a6a3f792d0f7011",
+    "product_id": "QW1F85DMA1",
+    "variations": [
+      {
+        "id": "WHMRD488CA",
+        "display_name": "Soham Housewares Stainless Steel Lemon Squeezer with Bottle Opener (2 in 1, Silver)",
+        "price": {
+          "mrp": 335,
+          "store_price": 335,
+          "offer_price": 149,
+          "unit_level_price": "",
+          "discount_value": 186
+        },
+        "brand": "Soham Housewares",
+        "brand_id": "cb6ad7559221e10e197b12fc9a6a3f792d0f7011",
+        "category": "Kitchen Tools",
+        "super_category": "Kitchen and Dining",
+        "sub_category_l3": "Lemon Squeezers",
+        "sub_category_l4": "Stainless Steel",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Stainless Steel Lemon Squeezer with Bottle Opener (2 in 1, Silver)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/4/767a506c-72af-4a8c-9509-a48eb8acda89_60219_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/4/25f7a6e3-cfbf-4d3b-a4a6-181b95003dac_60219_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/4/3c53f1d7-41c8-4a39-983e-b9c745ab8ea6_60219_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/4/817fd861-f8bb-4816-b743-efad1fff7058_60219_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/4/7cf7a82e-1cdf-4de8-ae39-28ecc1f23974_60219_5.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/4/26b4a270-b03e-4a3b-a387-aa7404aa991d_60219_6.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/4/071f5572-baa9-4d86-a50a-debc3b952e48_60219_7.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/4/ad35f39f-2fd7-4335-9394-81d9cbdc8f2d_60219_8.jpg"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 412,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Inalsa MaxxBlend Mixer Grinder, 3 Jars, 750W, Stainless Steel (Black)",
+    "brand": "Inalsa",
+    "brand_id": "70d3fa463cab31bcdecb7b12cc6633c1a4be82c5",
+    "product_id": "XYDX01SASA",
+    "variations": [
+      {
+        "id": "D3U9HCLARH",
+        "display_name": "Inalsa MaxxBlend Mixer Grinder, 3 Jars, 750W, Stainless Steel (Black)",
+        "price": {
+          "mrp": 5895,
+          "store_price": 5895,
+          "offer_price": 2495,
+          "unit_level_price": "",
+          "discount_value": 3400
+        },
+        "brand": "Inalsa",
+        "brand_id": "70d3fa463cab31bcdecb7b12cc6633c1a4be82c5",
+        "category": "Kitchen Appliances",
+        "super_category": "Electronics and Appliances",
+        "sub_category_l3": "Mixer Grinders",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "MaxxBlend Mixer Grinder, 3 Jars, 750W, Stainless Steel (Black)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/8b181ddf-246d-403c-97c0-243c7e2dbb77_RLQ3NA8DTY.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/3/4ff2f0af-3dd4-4c54-bc49-6d355e4c2da0_HomeElectricalAppliances_RLQ3NA8DTY_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/3/2d2e0b22-4200-41b0-90b0-fafa6f246c0b_HomeElectricalAppliances_RLQ3NA8DTY_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/3/fc3aa0e2-2daa-47c9-9f56-0b9d438a62bf_HomeElectricalAppliances_RLQ3NA8DTY_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/3/43db394a-e559-4194-b8bc-f2c6b9c45904_HomeElectricalAppliances_RLQ3NA8DTY_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/3/463e52b5-c102-4b42-8720-45dd1fe931db_HomeElectricalAppliances_RLQ3NA8DTY_AL5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/3/954edf5d-dae2-42d5-a615-bd1359aebcca_HomeElectricalAppliances_RLQ3NA8DTY_AL6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/17/dce8b938-6cd3-4966-ab0d-241aea0ed0e8_HomeElectricalAppliances_WWD0C8RZ69_AL7.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 3400,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Lifelong LLMG39 Mixer Grinder With 4 Jars, 500W, Stainless Blade (Black and Silver)",
+    "brand": "Lifelong",
+    "brand_id": "5764e968f33f0007cb82390812988a2e92828c2f",
+    "product_id": "UH6HTDH0FG",
+    "variations": [
+      {
+        "id": "0BGUZJN708",
+        "display_name": "Lifelong LLMG39 Mixer Grinder With 4 Jars, 500W, Stainless Blade (Black and Silver)",
+        "price": {
+          "mrp": 3999,
+          "store_price": 3999,
+          "offer_price": 1499,
+          "unit_level_price": "",
+          "discount_value": 2500
+        },
+        "brand": "Lifelong",
+        "brand_id": "5764e968f33f0007cb82390812988a2e92828c2f",
+        "category": "Kitchen Appliances",
+        "super_category": "Electronics and Appliances",
+        "sub_category_l3": "Mixer Grinders",
+        "sub_category_l4": "4 Jar",
+        "sub_category_l5": "Up to 550 W",
+        "product_name_without_brand": "LLMG39 Mixer Grinder With 4 Jars, 500W, Stainless Blade (Black and Silver)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/31/764f029d-15ea-4680-96d6-bd0552c82f2e_8BU5D7WRAX.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/27/5e720a4e-1e7b-43da-b048-c73942c1e8c4_164794_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/27/c818a82a-aee7-4a45-9060-0ab68e1328de_164794_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/27/a55049b1-b915-4cca-8c21-d3a0ae96e33a_164794_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/27/b1dc272b-a366-43dd-991b-10b6ca7f0e57_164794_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/27/b976cd4d-0dd3-444c-b736-4b7277db0e23_164794_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/27/ccdf7b27-4388-4b09-be4f-b2a433c99d59_164794_7.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 3000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
     "display_name": "Wonderchef Nutri-Blend Activ Mixer Grinder With 2 Jars, 500W, Stainless Blade (Red)",
     "brand": "Wonderchef",
     "brand_id": "a4c79eecbde456d7bb5541f3e48dfa4890ccec6a",
@@ -8,7 +274,13 @@
       {
         "id": "P27RTDZRT4",
         "display_name": "Wonderchef Nutri-Blend Activ Mixer Grinder With 2 Jars, 500W, Stainless Blade (Red)",
-        "price_mrp": 4500,
+        "price": {
+          "mrp": 4500,
+          "store_price": 4500,
+          "offer_price": 1729,
+          "unit_level_price": "",
+          "discount_value": 2771
+        },
         "brand": "Wonderchef",
         "brand_id": "a4c79eecbde456d7bb5541f3e48dfa4890ccec6a",
         "category": "Kitchen Appliances",
@@ -33,6 +305,51 @@
         "unit_of_measure": "unit",
         "weight_in_grams": 1300,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Philips HL7756/01 Mixer Grinder, 3 Jars, 750W, Stainless Steel Blade (Black)",
+    "brand": "Philips",
+    "brand_id": "c6ba6acf929a44d7088ec688e6dface944914fc3",
+    "product_id": "OOCIBRJ1BO",
+    "variations": [
+      {
+        "id": "D2WAKKK4DH",
+        "display_name": "Philips HL7756/01 Mixer Grinder, 3 Jars, 750W, Stainless Steel Blade (Black)",
+        "price": {
+          "mrp": 4795,
+          "store_price": 4795,
+          "offer_price": 3629,
+          "unit_level_price": "",
+          "discount_value": 1166
+        },
+        "brand": "Philips",
+        "brand_id": "c6ba6acf929a44d7088ec688e6dface944914fc3",
+        "category": "Kitchen Appliances",
+        "super_category": "Electronics and Appliances",
+        "sub_category_l3": "Mixer Grinders",
+        "sub_category_l4": "3 Jar",
+        "sub_category_l5": "551 W to 750 W",
+        "product_name_without_brand": "HL7756/01 Mixer Grinder, 3 Jars, 750W, Stainless Steel Blade (Black)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/a72e996f-66df-4ca8-b396-4d93f73e7db6_FD5939TXXX.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/15/38468e9e-3dc6-4dff-aac0-142af9afa7a5_HomeElectricalAppliances_FD5939TXXX_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/22/2d1b79f4-f0e3-4833-b117-c58a77f18aea_HomeElectricalAppliances_FD5939TXXX_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/15/6569a609-a367-47a4-bcb0-85c7a24e6c14_HomeElectricalAppliances_FD5939TXXX_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/15/f5fc24f1-1f87-457c-b7f4-999539e12d5e_HomeElectricalAppliances_FD5939TXXX_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/15/5335e509-c571-4ea4-b30b-64aa2616c071_HomeElectricalAppliances_FD5939TXXX_AL5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/15/9192fbf2-4484-4575-9a26-2a4bdf2a34b6_HomeElectricalAppliances_FD5939TXXX_AL6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 unit",
+        "unit_of_measure": "unit",
+        "weight_in_grams": 3000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -46,7 +363,13 @@
       {
         "id": "NZXGW9IC12",
         "display_name": "Maharaja Whiteline Odacio Plus Mixer Grinder, 4 Jars, 550W, Stainless Steel Blade (Black)",
-        "price_mrp": 5399,
+        "price": {
+          "mrp": 5399,
+          "store_price": 5399,
+          "offer_price": 2699,
+          "unit_level_price": "",
+          "discount_value": 2700
+        },
         "brand": "Maharaja Whiteline",
         "brand_id": "ec25ff8225b9113c0e67c7b0230c93afab10667c",
         "category": "Kitchen Appliances",
@@ -74,232 +397,7 @@
         "unit_of_measure": "unit",
         "weight_in_grams": 3970,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Soham Housewares Stainless Steel Lemon Squeezer with Bottle Opener (2 in 1, Silver)",
-    "brand": "Soham Housewares",
-    "brand_id": "cb6ad7559221e10e197b12fc9a6a3f792d0f7011",
-    "product_id": "QW1F85DMA1",
-    "variations": [
-      {
-        "id": "WHMRD488CA",
-        "display_name": "Soham Housewares Stainless Steel Lemon Squeezer with Bottle Opener (2 in 1, Silver)",
-        "price_mrp": 335,
-        "brand": "Soham Housewares",
-        "brand_id": "cb6ad7559221e10e197b12fc9a6a3f792d0f7011",
-        "category": "Kitchen Tools",
-        "super_category": "Kitchen and Dining",
-        "sub_category_l3": "Lemon Squeezers",
-        "sub_category_l4": "Stainless Steel",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Stainless Steel Lemon Squeezer with Bottle Opener (2 in 1, Silver)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/8/4/767a506c-72af-4a8c-9509-a48eb8acda89_60219_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/4/25f7a6e3-cfbf-4d3b-a4a6-181b95003dac_60219_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/8/4/3c53f1d7-41c8-4a39-983e-b9c745ab8ea6_60219_3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/8/4/817fd861-f8bb-4816-b743-efad1fff7058_60219_4.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/8/4/7cf7a82e-1cdf-4de8-ae39-28ecc1f23974_60219_5.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/8/4/26b4a270-b03e-4a3b-a387-aa7404aa991d_60219_6.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/8/4/071f5572-baa9-4d86-a50a-debc3b952e48_60219_7.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/8/4/ad35f39f-2fd7-4335-9394-81d9cbdc8f2d_60219_8.jpg"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 412,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Lifelong LLMG202 Mixer Grinder With 2 Jars, 500W, Stainless Blade (Black)",
-    "brand": "Lifelong",
-    "brand_id": "5764e968f33f0007cb82390812988a2e92828c2f",
-    "product_id": "3H3K32481Z",
-    "variations": [
-      {
-        "id": "NDH46SGFDS",
-        "display_name": "Lifelong LLMG202 Mixer Grinder With 2 Jars, 500W, Stainless Blade (Black)",
-        "price_mrp": 3000,
-        "brand": "Lifelong",
-        "brand_id": "5764e968f33f0007cb82390812988a2e92828c2f",
-        "category": "Kitchen Appliances",
-        "super_category": "Electronics and Appliances",
-        "sub_category_l3": "Mixer Grinders",
-        "sub_category_l4": "2 Jar",
-        "sub_category_l5": "Up to 550 W",
-        "product_name_without_brand": "LLMG202 Mixer Grinder With 2 Jars, 500W, Stainless Blade (Black)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/28/843744d6-1d7f-4bd1-a338-00afd012a54c_ZRZSDB16Z3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/14/3f5ddccd-bcfd-4c3b-be4e-e6ed0df25660_519350_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/14/5021c0bd-296f-4e52-acf3-8a09210f1e26_519350_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/14/0b8586aa-0782-48a2-8da4-057fdfa2e9ec_519350_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/14/7ad55b12-5b44-43ce-bea3-58948f19e052_519350_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/14/6b861bd6-dd35-499e-8d66-805b48686c46_519350_6.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/14/d79d257b-11ad-47dd-9723-f030cfc930df_519350_7.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 2500,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Philips HL7756/01 Mixer Grinder, 3 Jars, 750W, Stainless Steel Blade (Black)",
-    "brand": "Philips",
-    "brand_id": "c6ba6acf929a44d7088ec688e6dface944914fc3",
-    "product_id": "OOCIBRJ1BO",
-    "variations": [
-      {
-        "id": "D2WAKKK4DH",
-        "display_name": "Philips HL7756/01 Mixer Grinder, 3 Jars, 750W, Stainless Steel Blade (Black)",
-        "price_mrp": 4795,
-        "brand": "Philips",
-        "brand_id": "c6ba6acf929a44d7088ec688e6dface944914fc3",
-        "category": "Kitchen Appliances",
-        "super_category": "Electronics and Appliances",
-        "sub_category_l3": "Mixer Grinders",
-        "sub_category_l4": "3 Jar",
-        "sub_category_l5": "551 W to 750 W",
-        "product_name_without_brand": "HL7756/01 Mixer Grinder, 3 Jars, 750W, Stainless Steel Blade (Black)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/28/a72e996f-66df-4ca8-b396-4d93f73e7db6_FD5939TXXX.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/15/38468e9e-3dc6-4dff-aac0-142af9afa7a5_HomeElectricalAppliances_FD5939TXXX_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/22/2d1b79f4-f0e3-4833-b117-c58a77f18aea_HomeElectricalAppliances_FD5939TXXX_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/15/6569a609-a367-47a4-bcb0-85c7a24e6c14_HomeElectricalAppliances_FD5939TXXX_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/15/f5fc24f1-1f87-457c-b7f4-999539e12d5e_HomeElectricalAppliances_FD5939TXXX_AL4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/15/5335e509-c571-4ea4-b30b-64aa2616c071_HomeElectricalAppliances_FD5939TXXX_AL5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/15/9192fbf2-4484-4575-9a26-2a4bdf2a34b6_HomeElectricalAppliances_FD5939TXXX_AL6.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 unit",
-        "unit_of_measure": "unit",
-        "weight_in_grams": 3000,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Lifelong LLMG300 Power Pro LX Mixer Grinder, 3 Jars, 500W, Stainless Steel Blade (Black)",
-    "brand": "Lifelong",
-    "brand_id": "5764e968f33f0007cb82390812988a2e92828c2f",
-    "product_id": "LGND25H5NT",
-    "variations": [
-      {
-        "id": "UBHS1MTCKJ",
-        "display_name": "Lifelong LLMG300 Power Pro LX Mixer Grinder, 3 Jars, 500W, Stainless Steel Blade (Black)",
-        "price_mrp": 4000,
-        "brand": "Lifelong",
-        "brand_id": "5764e968f33f0007cb82390812988a2e92828c2f",
-        "category": "Kitchen Appliances",
-        "super_category": "Electronics and Appliances",
-        "sub_category_l3": "Mixer Grinders",
-        "sub_category_l4": "3 Jar",
-        "sub_category_l5": "Up to 550 W",
-        "product_name_without_brand": "LLMG300 Power Pro LX Mixer Grinder, 3 Jars, 500W, Stainless Steel Blade (Black)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/31/62e0a230-8a68-4c26-8a91-8353762d7372_JPS7BTRZKZ.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/6/f3dd4c4b-07a7-4d5b-aeae-caa6349aa3fb_HomeElectricalAppliances_JPS7BTRZKZ_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/6/6fcb755e-69ea-49d4-9db1-1ecc6462f152_HomeElectricalAppliances_JPS7BTRZKZ_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/6/3dad7a16-4563-4101-b59a-d50119818cc9_HomeElectricalAppliances_JPS7BTRZKZ_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/6/edb95b0e-f2fb-4fe0-a883-002a099e5981_HomeElectricalAppliances_JPS7BTRZKZ_AL4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/6/fcc02ce6-1b5b-4e27-9fad-4ef50c2ae161_HomeElectricalAppliances_JPS7BTRZKZ_AL5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/6/271bcfd0-8eb0-47de-8972-ae8aa30f2dbc_HomeElectricalAppliances_JPS7BTRZKZ_AL6.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/19/29a121b3-5b02-4c5a-b180-41d38509307f_HomeElectricalAppliances_56GO1A8WZB_AL6.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 unit",
-        "unit_of_measure": "unit",
-        "weight_in_grams": 2088,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Lifelong LLMG39 Mixer Grinder With 4 Jars, 500W, Stainless Blade (Black and Silver)",
-    "brand": "Lifelong",
-    "brand_id": "5764e968f33f0007cb82390812988a2e92828c2f",
-    "product_id": "UH6HTDH0FG",
-    "variations": [
-      {
-        "id": "0BGUZJN708",
-        "display_name": "Lifelong LLMG39 Mixer Grinder With 4 Jars, 500W, Stainless Blade (Black and Silver)",
-        "price_mrp": 3999,
-        "brand": "Lifelong",
-        "brand_id": "5764e968f33f0007cb82390812988a2e92828c2f",
-        "category": "Kitchen Appliances",
-        "super_category": "Electronics and Appliances",
-        "sub_category_l3": "Mixer Grinders",
-        "sub_category_l4": "4 Jar",
-        "sub_category_l5": "Up to 550 W",
-        "product_name_without_brand": "LLMG39 Mixer Grinder With 4 Jars, 500W, Stainless Blade (Black and Silver)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/31/764f029d-15ea-4680-96d6-bd0552c82f2e_8BU5D7WRAX.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/27/5e720a4e-1e7b-43da-b048-c73942c1e8c4_164794_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/27/c818a82a-aee7-4a45-9060-0ab68e1328de_164794_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/27/a55049b1-b915-4cca-8c21-d3a0ae96e33a_164794_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/27/b1dc272b-a366-43dd-991b-10b6ca7f0e57_164794_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/27/b976cd4d-0dd3-444c-b736-4b7277db0e23_164794_6.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/27/ccdf7b27-4388-4b09-be4f-b2a433c99d59_164794_7.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 3000,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Happy Kitchen Stainless Steel Lemon Squeezer with Bottle Opener (20 cm, Silver)",
-    "brand": "Happy Kitchen",
-    "brand_id": "5c99f43f22ded8c3bf158fceab17034d6cc82705",
-    "product_id": "R168GSAOD6",
-    "variations": [
-      {
-        "id": "P3V74QTTTF",
-        "display_name": "Happy Kitchen Stainless Steel Lemon Squeezer with Bottle Opener (20 cm, Silver)",
-        "price_mrp": 250,
-        "brand": "Happy Kitchen",
-        "brand_id": "5c99f43f22ded8c3bf158fceab17034d6cc82705",
-        "category": "Kitchen Tools",
-        "super_category": "Kitchen and Dining",
-        "sub_category_l3": "Lemon Squeezers",
-        "sub_category_l4": "Stainless Steel",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Stainless Steel Lemon Squeezer with Bottle Opener (20 cm, Silver)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/7/16/3e0a34fa-8979-4622-8ae1-07db107baf40_miscellaneous_JYBI1M2S57_MN.png",
-          "45a7290ccbe93674b16f0c6203256fad",
-          "NI_CATALOG/IMAGES/CIW/2024/7/16/f6c5909f-1360-494d-8c35-97c401a74933_miscellaneous_JYBI1M2S57_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/16/02ecabd8-8b0d-46da-ac8e-395162cb5865_miscellaneous_JYBI1M2S57_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/16/2e97b1b7-d5e0-4703-b8a2-afe811fde0ff_miscellaneous_JYBI1M2S57_AL4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/18/8cbccafb-3f5e-41e8-9e1a-af9f323048ba_25995_6.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/9/18/a56a6333-3d8f-45b6-a03a-21e429fd4b50_25995_7.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/9/18/b2109dd0-c8fe-43d1-b8c7-68e4fdc5abcc_25995_8.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/7/16/e7fc0050-b034-4d93-b643-dd9c9be5fa58_miscellaneous_JYBI1M2S57_AL3.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -313,7 +411,13 @@
       {
         "id": "WPSFV0X3OA",
         "display_name": "Bajaj Gx-1 500 Watts 3 Jars Black Mixer Grinder",
-        "price_mrp": 4125,
+        "price": {
+          "mrp": 4125,
+          "store_price": 4125,
+          "offer_price": 2299,
+          "unit_level_price": "",
+          "discount_value": 1826
+        },
         "brand": "Bajaj",
         "brand_id": "2a11e3befe2271fd9a616ae1429b0579a498b1d7",
         "category": "Kitchen Appliances",
@@ -335,43 +439,50 @@
         "unit_of_measure": "pack",
         "weight_in_grams": 2990,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Bajaj Pluto Mixer Grinder, 3 Jars, 500W, Stainless Steel (White and Blue)",
-    "brand": "Bajaj",
-    "brand_id": "2a11e3befe2271fd9a616ae1429b0579a498b1d7",
-    "product_id": "VUHXT0ECFR",
+    "display_name": "Philips HL7759/00 Mixer Grinder, 4 Jars, 750W, Stainless Steel Blade (Black)",
+    "brand": "Philips",
+    "brand_id": "c6ba6acf929a44d7088ec688e6dface944914fc3",
+    "product_id": "SEV1K3YCLA",
     "variations": [
       {
-        "id": "SJ01RLPYM8",
-        "display_name": "Bajaj Pluto Mixer Grinder, 3 Jars, 500W, Stainless Steel (White and Blue)",
-        "price_mrp": 4125,
-        "brand": "Bajaj",
-        "brand_id": "2a11e3befe2271fd9a616ae1429b0579a498b1d7",
+        "id": "LFCAKPVY34",
+        "display_name": "Philips HL7759/00 Mixer Grinder, 4 Jars, 750W, Stainless Steel Blade (Black)",
+        "price": {
+          "mrp": 5695,
+          "store_price": 5695,
+          "offer_price": 4399,
+          "unit_level_price": "",
+          "discount_value": 1296
+        },
+        "brand": "Philips",
+        "brand_id": "c6ba6acf929a44d7088ec688e6dface944914fc3",
         "category": "Kitchen Appliances",
         "super_category": "Electronics and Appliances",
         "sub_category_l3": "Mixer Grinders",
-        "sub_category_l4": "3 Jar",
-        "sub_category_l5": "Up to 550 W",
-        "product_name_without_brand": "Pluto Mixer Grinder, 3 Jars, 500W, Stainless Steel (White and Blue)",
+        "sub_category_l4": "4 Jar",
+        "sub_category_l5": "551 W to 750 W",
+        "product_name_without_brand": "HL7759/00 Mixer Grinder, 4 Jars, 750W, Stainless Steel Blade (Black)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/28/376045d0-a44e-4ed7-a76d-8405ccc219a8_FMWS7OPB0I.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/9781d0cf-56b5-4898-91d5-ba5142a12054_70054_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/86e77c2e-1ac7-4571-81ad-87a4098ecaf6_70054_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/79d887f3-afe7-4bc4-b970-47bca234ffb4_70054_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/ad98fd82-fef5-4639-8546-7f846da775d0_70054_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/7edbe248-bf0d-47c5-84dd-343455d74f4a_70054_6.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/424013df-bf2f-4ad2-9535-8e36f7987899_70054_7.png"
+          "NI_CATALOG/IMAGES/CIW/2025/7/31/200fd4d3-9943-403e-8c51-5080b8866e38_6LBRIHPD3V.png",
+          "9596ac6d5355f851edad94c2478a9027",
+          "261a0df959e68ddd76f4f6cb429c6ba5",
+          "827de11373af09c197866a86a4bec1be",
+          "9152d150a142857d42e707ba7c384801",
+          "26d900b29a68f4db37cb232d431bda03"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 unit",
         "unit_of_measure": "unit",
-        "weight_in_grams": 1,
+        "weight_in_grams": 2350,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -385,7 +496,13 @@
       {
         "id": "YAPYRF0FFB",
         "display_name": "Havells Klassic Mixer Grinder, 4 Jars, 750W, Stainless Steel (Black)",
-        "price_mrp": 7295,
+        "price": {
+          "mrp": 7295,
+          "store_price": 7295,
+          "offer_price": 4169,
+          "unit_level_price": "",
+          "discount_value": 3126
+        },
         "brand": "Havells",
         "brand_id": "a9716a602965c55896c0214a5e98bc3923c0779a",
         "category": "Kitchen Appliances",
@@ -411,78 +528,7 @@
         "unit_of_measure": "unit",
         "weight_in_grams": 1100,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Butterfly Smart Mixer Grinder, 4 Jars, 750W, Stainless Steel (Silver & Black)",
-    "brand": "Butterfly",
-    "brand_id": "c59d1c075436896b85dcfa1bb952a31b99454b71",
-    "product_id": "YIKZ2UDCCI",
-    "variations": [
-      {
-        "id": "29B3CA9HJH",
-        "display_name": "Butterfly Smart Mixer Grinder, 4 Jars, 750W, Stainless Steel (Silver & Black)",
-        "price_mrp": 5069,
-        "brand": "Butterfly",
-        "brand_id": "c59d1c075436896b85dcfa1bb952a31b99454b71",
-        "category": "Kitchen Appliances",
-        "super_category": "Electronics and Appliances",
-        "sub_category_l3": "Mixer Grinders",
-        "sub_category_l4": "4 Jar",
-        "sub_category_l5": "551 W to 750 W",
-        "product_name_without_brand": "Smart Mixer Grinder, 4 Jars, 750W, Stainless Steel (Silver & Black)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/31/f8307d8e-80df-4239-aa6d-cdfe72bf6c96_PZVNHQQMHN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/13/da362fc5-fb04-4408-a567-f85123936b61_851481_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/13/982ae79d-5ab3-4339-8a1e-f4345de248a7_851481_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/13/002340c2-7af4-46ac-910e-31c730b6744f_851481_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/13/b04dc2e7-99c8-447c-a5d2-6ae4973a0ec8_851481_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/13/15b2bd5a-e5f8-4bbb-a699-705a1dea3bf3_851481_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 unit",
-        "unit_of_measure": "unit",
-        "weight_in_grams": 4650,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Philips HL7759/00 Mixer Grinder, 4 Jars, 750W, Stainless Steel Blade (Black)",
-    "brand": "Philips",
-    "brand_id": "c6ba6acf929a44d7088ec688e6dface944914fc3",
-    "product_id": "SEV1K3YCLA",
-    "variations": [
-      {
-        "id": "LFCAKPVY34",
-        "display_name": "Philips HL7759/00 Mixer Grinder, 4 Jars, 750W, Stainless Steel Blade (Black)",
-        "price_mrp": 5695,
-        "brand": "Philips",
-        "brand_id": "c6ba6acf929a44d7088ec688e6dface944914fc3",
-        "category": "Kitchen Appliances",
-        "super_category": "Electronics and Appliances",
-        "sub_category_l3": "Mixer Grinders",
-        "sub_category_l4": "4 Jar",
-        "sub_category_l5": "551 W to 750 W",
-        "product_name_without_brand": "HL7759/00 Mixer Grinder, 4 Jars, 750W, Stainless Steel Blade (Black)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/31/200fd4d3-9943-403e-8c51-5080b8866e38_6LBRIHPD3V.png",
-          "9596ac6d5355f851edad94c2478a9027",
-          "261a0df959e68ddd76f4f6cb429c6ba5",
-          "827de11373af09c197866a86a4bec1be",
-          "9152d150a142857d42e707ba7c384801",
-          "26d900b29a68f4db37cb232d431bda03"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 unit",
-        "unit_of_measure": "unit",
-        "weight_in_grams": 2350,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -496,7 +542,13 @@
       {
         "id": "MYNA7HWG6C",
         "display_name": "ANJALI Plastic Ras Dhara Juicer (PP Body, ABS Roller, PET Container, 250ml Glass, 150ml Container, Green)",
-        "price_mrp": 649,
+        "price": {
+          "mrp": 649,
+          "store_price": 649,
+          "offer_price": 458,
+          "unit_level_price": "",
+          "discount_value": 191
+        },
         "brand": "ANJALI",
         "brand_id": "ecb3e5b499fa33e6d2c559c9ae00fac7853fdeb2",
         "category": "Kitchen Tools",
@@ -528,44 +580,232 @@
         "unit_of_measure": "Piece",
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Inalsa MaxxBlend Mixer Grinder, 3 Jars, 750W, Stainless Steel (Black)",
-    "brand": "Inalsa",
-    "brand_id": "70d3fa463cab31bcdecb7b12cc6633c1a4be82c5",
-    "product_id": "XYDX01SASA",
+    "display_name": "Happy Kitchen Stainless Steel Lemon Squeezer with Bottle Opener (20 cm, Silver)",
+    "brand": "Happy Kitchen",
+    "brand_id": "5c99f43f22ded8c3bf158fceab17034d6cc82705",
+    "product_id": "R168GSAOD6",
     "variations": [
       {
-        "id": "D3U9HCLARH",
-        "display_name": "Inalsa MaxxBlend Mixer Grinder, 3 Jars, 750W, Stainless Steel (Black)",
-        "price_mrp": 5895,
-        "brand": "Inalsa",
-        "brand_id": "70d3fa463cab31bcdecb7b12cc6633c1a4be82c5",
-        "category": "Kitchen Appliances",
-        "super_category": "Electronics and Appliances",
-        "sub_category_l3": "Mixer Grinders",
-        "sub_category_l4": null,
+        "id": "P3V74QTTTF",
+        "display_name": "Happy Kitchen Stainless Steel Lemon Squeezer with Bottle Opener (20 cm, Silver)",
+        "price": {
+          "mrp": 250,
+          "store_price": 250,
+          "offer_price": 171,
+          "unit_level_price": "",
+          "discount_value": 79
+        },
+        "brand": "Happy Kitchen",
+        "brand_id": "5c99f43f22ded8c3bf158fceab17034d6cc82705",
+        "category": "Kitchen Tools",
+        "super_category": "Kitchen and Dining",
+        "sub_category_l3": "Lemon Squeezers",
+        "sub_category_l4": "Stainless Steel",
         "sub_category_l5": null,
-        "product_name_without_brand": "MaxxBlend Mixer Grinder, 3 Jars, 750W, Stainless Steel (Black)",
+        "product_name_without_brand": "Stainless Steel Lemon Squeezer with Bottle Opener (20 cm, Silver)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/24/8b181ddf-246d-403c-97c0-243c7e2dbb77_RLQ3NA8DTY.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/3/4ff2f0af-3dd4-4c54-bc49-6d355e4c2da0_HomeElectricalAppliances_RLQ3NA8DTY_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/3/2d2e0b22-4200-41b0-90b0-fafa6f246c0b_HomeElectricalAppliances_RLQ3NA8DTY_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/3/fc3aa0e2-2daa-47c9-9f56-0b9d438a62bf_HomeElectricalAppliances_RLQ3NA8DTY_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/3/43db394a-e559-4194-b8bc-f2c6b9c45904_HomeElectricalAppliances_RLQ3NA8DTY_AL4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/3/463e52b5-c102-4b42-8720-45dd1fe931db_HomeElectricalAppliances_RLQ3NA8DTY_AL5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/3/954edf5d-dae2-42d5-a615-bd1359aebcca_HomeElectricalAppliances_RLQ3NA8DTY_AL6.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/17/dce8b938-6cd3-4966-ab0d-241aea0ed0e8_HomeElectricalAppliances_WWD0C8RZ69_AL7.png"
+          "NI_CATALOG/IMAGES/CIW/2024/7/16/3e0a34fa-8979-4622-8ae1-07db107baf40_miscellaneous_JYBI1M2S57_MN.png",
+          "45a7290ccbe93674b16f0c6203256fad",
+          "NI_CATALOG/IMAGES/CIW/2024/7/16/f6c5909f-1360-494d-8c35-97c401a74933_miscellaneous_JYBI1M2S57_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/16/02ecabd8-8b0d-46da-ac8e-395162cb5865_miscellaneous_JYBI1M2S57_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/16/2e97b1b7-d5e0-4703-b8a2-afe811fde0ff_miscellaneous_JYBI1M2S57_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/18/8cbccafb-3f5e-41e8-9e1a-af9f323048ba_25995_6.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/9/18/a56a6333-3d8f-45b6-a03a-21e429fd4b50_25995_7.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/9/18/b2109dd0-c8fe-43d1-b8c7-68e4fdc5abcc_25995_8.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/16/e7fc0050-b034-4d93-b643-dd9c9be5fa58_miscellaneous_JYBI1M2S57_AL3.png"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 Piece",
         "unit_of_measure": "Piece",
-        "weight_in_grams": 3400,
+        "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Bajaj Pluto Mixer Grinder, 3 Jars, 500W, Stainless Steel (White and Blue)",
+    "brand": "Bajaj",
+    "brand_id": "2a11e3befe2271fd9a616ae1429b0579a498b1d7",
+    "product_id": "VUHXT0ECFR",
+    "variations": [
+      {
+        "id": "SJ01RLPYM8",
+        "display_name": "Bajaj Pluto Mixer Grinder, 3 Jars, 500W, Stainless Steel (White and Blue)",
+        "price": {
+          "mrp": 4125,
+          "store_price": 4125,
+          "offer_price": 2179,
+          "unit_level_price": "",
+          "discount_value": 1946
+        },
+        "brand": "Bajaj",
+        "brand_id": "2a11e3befe2271fd9a616ae1429b0579a498b1d7",
+        "category": "Kitchen Appliances",
+        "super_category": "Electronics and Appliances",
+        "sub_category_l3": "Mixer Grinders",
+        "sub_category_l4": "3 Jar",
+        "sub_category_l5": "Up to 550 W",
+        "product_name_without_brand": "Pluto Mixer Grinder, 3 Jars, 500W, Stainless Steel (White and Blue)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/376045d0-a44e-4ed7-a76d-8405ccc219a8_FMWS7OPB0I.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/9781d0cf-56b5-4898-91d5-ba5142a12054_70054_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/86e77c2e-1ac7-4571-81ad-87a4098ecaf6_70054_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/79d887f3-afe7-4bc4-b970-47bca234ffb4_70054_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/ad98fd82-fef5-4639-8546-7f846da775d0_70054_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/7edbe248-bf0d-47c5-84dd-343455d74f4a_70054_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/424013df-bf2f-4ad2-9535-8e36f7987899_70054_7.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 unit",
+        "unit_of_measure": "unit",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Maharaja Whiteline Gala Happiness Mixer Grinder, 2 Jars, 450W, Stainless Steel Blade (White and Red)",
+    "brand": "Maharaja Whiteline",
+    "brand_id": "ec25ff8225b9113c0e67c7b0230c93afab10667c",
+    "product_id": "LX4U0OWCDI",
+    "variations": [
+      {
+        "id": "0NACA0NU8B",
+        "display_name": "Maharaja Whiteline Gala Happiness Mixer Grinder, 2 Jars, 450W, Stainless Steel Blade (White and Red)",
+        "price": {
+          "mrp": 3999,
+          "store_price": 3999,
+          "offer_price": 1999,
+          "unit_level_price": "",
+          "discount_value": 2000
+        },
+        "brand": "Maharaja Whiteline",
+        "brand_id": "ec25ff8225b9113c0e67c7b0230c93afab10667c",
+        "category": "Kitchen Appliances",
+        "super_category": "Electronics and Appliances",
+        "sub_category_l3": "Mixer Grinders",
+        "sub_category_l4": "2 Jar",
+        "sub_category_l5": "Up to 550 W",
+        "product_name_without_brand": "Gala Happiness Mixer Grinder, 2 Jars, 450W, Stainless Steel Blade (White and Red)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/31/35426b87-6322-4e26-91c0-08b2c6315ac0_7P8MI1PI7P.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/fab95053-4043-4e8f-b3ce-4134b35fe2af_84036_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/24876d4c-7fc0-428b-abf7-d9541ed1893a_84036_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/8aa8727e-e9d9-41d2-ac2e-eab49637a174_84036_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/a97fb6d6-0d5d-420e-8853-b6d7cb780118_84036_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/dcd63859-6e36-4494-a896-3dfd2c1e451a_84036_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/7ab39c6f-906c-4adc-bfdc-7ece878c932d_84036_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/a7ff1844-4a6b-4403-9223-d792431fdafb_84036_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 unit",
+        "unit_of_measure": "unit",
+        "weight_in_grams": 3200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Bajaj GX8 Mixer Grinder, 750W, Stainless Steel (White & Blue)",
+    "brand": "Bajaj",
+    "brand_id": "2a11e3befe2271fd9a616ae1429b0579a498b1d7",
+    "product_id": "T0A536FDLR",
+    "variations": [
+      {
+        "id": "50DMIDTO35",
+        "display_name": "Bajaj GX8 Mixer Grinder, 750W, Stainless Steel (White & Blue)",
+        "price": {
+          "mrp": 6590,
+          "store_price": 6590,
+          "offer_price": 3499,
+          "unit_level_price": "",
+          "discount_value": 3091
+        },
+        "brand": "Bajaj",
+        "brand_id": "2a11e3befe2271fd9a616ae1429b0579a498b1d7",
+        "category": "Kitchen Appliances",
+        "super_category": "Electronics and Appliances",
+        "sub_category_l3": "Mixer Grinders",
+        "sub_category_l4": "3 Jar",
+        "sub_category_l5": "551 W to 750 W",
+        "product_name_without_brand": "GX8 Mixer Grinder, 750W, Stainless Steel (White & Blue)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/abe415ac-63a0-4a2c-9abf-3e3249fd7d34_2U6TAU2CMQ.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/19/875041f9-8287-4228-9e75-502f9a3e10cf_HomeElectricalAppliances_2U6TAU2CMQ_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/19/8e5877c7-eb68-498e-9998-959a3a544c58_HomeElectricalAppliances_2U6TAU2CMQ_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/19/88ee735e-affe-47d9-8fd5-535bb6c857bf_HomeElectricalAppliances_2U6TAU2CMQ_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/19/158c7a3d-4547-4674-b958-058bf89ac0a4_HomeElectricalAppliances_2U6TAU2CMQ_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/29/c7b36b59-1c75-4b9a-91e8-3a4df1530dc7_HomeElectricalAppliances_2U6TAU2CMQ_AL5.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/17/dce8b938-6cd3-4966-ab0d-241aea0ed0e8_HomeElectricalAppliances_WWD0C8RZ69_AL7.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 unit",
+        "unit_of_measure": "unit",
+        "weight_in_grams": 4600,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Havells Klassic Mixer Grinder, 3 Jars, 750W, Stainless Steel (Black)",
+    "brand": "Havells",
+    "brand_id": "a9716a602965c55896c0214a5e98bc3923c0779a",
+    "product_id": "OF526YY8IO",
+    "variations": [
+      {
+        "id": "J8UZ3QI488",
+        "display_name": "Havells Klassic Mixer Grinder, 3 Jars, 750W, Stainless Steel (Black)",
+        "price": {
+          "mrp": 6295,
+          "store_price": 6295,
+          "offer_price": 3375,
+          "unit_level_price": "",
+          "discount_value": 2920
+        },
+        "brand": "Havells",
+        "brand_id": "a9716a602965c55896c0214a5e98bc3923c0779a",
+        "category": "Kitchen Appliances",
+        "super_category": "Electronics and Appliances",
+        "sub_category_l3": "Mixer Grinders",
+        "sub_category_l4": "3 Jar",
+        "sub_category_l5": "551 W to 750 W",
+        "product_name_without_brand": "Klassic Mixer Grinder, 3 Jars, 750W, Stainless Steel (Black)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/28/aa6b944d-3c29-41d1-8c10-4e7a2e7281f0_Z43LAFGIHG.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/22d12b4f-adea-4e94-bf1d-2d9248eaccfe_48527_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/72b153af-eac4-43f6-bb78-241f3fee6664_48527_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/ec303988-0e18-4a1f-b4c4-2f026e1c73c1_48527_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/79b214f8-ae81-4d19-99d8-45b4a8d970d4_48527_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/81b7d59d-b9bc-4773-8787-be275eeace70_48527_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/417569e3-a574-4b25-b227-dfe2ed1af094_48527_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/d791dac1-9f08-485a-a70b-518ebf21b67a_48527_8.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/d92eaed3-11e4-46c4-b7c8-379285d87f1c_48527_9.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 unit",
+        "unit_of_measure": "unit",
+        "weight_in_grams": 1100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -579,7 +819,13 @@
       {
         "id": "WOUB5YS0T9",
         "display_name": "Maharaja Whiteline Neo Pro MX-261 Mixer Grinder, 3 Jars, 500W, Stainless Steel Blade (Multicolor)",
-        "price_mrp": 3399,
+        "price": {
+          "mrp": 3399,
+          "store_price": 3399,
+          "offer_price": 1499,
+          "unit_level_price": "",
+          "discount_value": 1900
+        },
         "brand": "Maharaja Whiteline",
         "brand_id": "ec25ff8225b9113c0e67c7b0230c93afab10667c",
         "category": "Kitchen Appliances",
@@ -606,44 +852,7 @@
         "unit_of_measure": "unit",
         "weight_in_grams": 3000,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Maharaja Whiteline Gala Happiness Mixer Grinder, 2 Jars, 450W, Stainless Steel Blade (White and Red)",
-    "brand": "Maharaja Whiteline",
-    "brand_id": "ec25ff8225b9113c0e67c7b0230c93afab10667c",
-    "product_id": "LX4U0OWCDI",
-    "variations": [
-      {
-        "id": "0NACA0NU8B",
-        "display_name": "Maharaja Whiteline Gala Happiness Mixer Grinder, 2 Jars, 450W, Stainless Steel Blade (White and Red)",
-        "price_mrp": 3999,
-        "brand": "Maharaja Whiteline",
-        "brand_id": "ec25ff8225b9113c0e67c7b0230c93afab10667c",
-        "category": "Kitchen Appliances",
-        "super_category": "Electronics and Appliances",
-        "sub_category_l3": "Mixer Grinders",
-        "sub_category_l4": "2 Jar",
-        "sub_category_l5": "Up to 550 W",
-        "product_name_without_brand": "Gala Happiness Mixer Grinder, 2 Jars, 450W, Stainless Steel Blade (White and Red)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/31/35426b87-6322-4e26-91c0-08b2c6315ac0_7P8MI1PI7P.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/fab95053-4043-4e8f-b3ce-4134b35fe2af_84036_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/24876d4c-7fc0-428b-abf7-d9541ed1893a_84036_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/8aa8727e-e9d9-41d2-ac2e-eab49637a174_84036_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/a97fb6d6-0d5d-420e-8853-b6d7cb780118_84036_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/dcd63859-6e36-4494-a896-3dfd2c1e451a_84036_6.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/7ab39c6f-906c-4adc-bfdc-7ece878c932d_84036_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/a7ff1844-4a6b-4403-9223-d792431fdafb_84036_8.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 unit",
-        "unit_of_measure": "unit",
-        "weight_in_grams": 3200,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -657,7 +866,13 @@
       {
         "id": "S5QHYY8KPP",
         "display_name": "Preethi MG-205 Crown Mixer Grinder, 3 Jars, 500W, Stainless Steel Blade (Purple)",
-        "price_mrp": 4199,
+        "price": {
+          "mrp": 4199,
+          "store_price": 4199,
+          "offer_price": 2699,
+          "unit_level_price": "",
+          "discount_value": 1500
+        },
         "brand": "Preethi",
         "brand_id": "8421ece18cedb0a5bb5740e0ad04923b929ea52b",
         "category": "Kitchen Appliances",
@@ -683,82 +898,7 @@
         "unit_of_measure": "unit",
         "weight_in_grams": 3600,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Bajaj GX8 Mixer Grinder, 750W, Stainless Steel (White & Blue)",
-    "brand": "Bajaj",
-    "brand_id": "2a11e3befe2271fd9a616ae1429b0579a498b1d7",
-    "product_id": "T0A536FDLR",
-    "variations": [
-      {
-        "id": "50DMIDTO35",
-        "display_name": "Bajaj GX8 Mixer Grinder, 750W, Stainless Steel (White & Blue)",
-        "price_mrp": 6590,
-        "brand": "Bajaj",
-        "brand_id": "2a11e3befe2271fd9a616ae1429b0579a498b1d7",
-        "category": "Kitchen Appliances",
-        "super_category": "Electronics and Appliances",
-        "sub_category_l3": "Mixer Grinders",
-        "sub_category_l4": "3 Jar",
-        "sub_category_l5": "551 W to 750 W",
-        "product_name_without_brand": "GX8 Mixer Grinder, 750W, Stainless Steel (White & Blue)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/28/abe415ac-63a0-4a2c-9abf-3e3249fd7d34_2U6TAU2CMQ.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/19/875041f9-8287-4228-9e75-502f9a3e10cf_HomeElectricalAppliances_2U6TAU2CMQ_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/19/8e5877c7-eb68-498e-9998-959a3a544c58_HomeElectricalAppliances_2U6TAU2CMQ_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/19/88ee735e-affe-47d9-8fd5-535bb6c857bf_HomeElectricalAppliances_2U6TAU2CMQ_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/19/158c7a3d-4547-4674-b958-058bf89ac0a4_HomeElectricalAppliances_2U6TAU2CMQ_AL4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/29/c7b36b59-1c75-4b9a-91e8-3a4df1530dc7_HomeElectricalAppliances_2U6TAU2CMQ_AL5.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/7/17/dce8b938-6cd3-4966-ab0d-241aea0ed0e8_HomeElectricalAppliances_WWD0C8RZ69_AL7.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 unit",
-        "unit_of_measure": "unit",
-        "weight_in_grams": 4600,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Havells Klassic Mixer Grinder, 3 Jars, 750W, Stainless Steel (Black)",
-    "brand": "Havells",
-    "brand_id": "a9716a602965c55896c0214a5e98bc3923c0779a",
-    "product_id": "OF526YY8IO",
-    "variations": [
-      {
-        "id": "J8UZ3QI488",
-        "display_name": "Havells Klassic Mixer Grinder, 3 Jars, 750W, Stainless Steel (Black)",
-        "price_mrp": 6295,
-        "brand": "Havells",
-        "brand_id": "a9716a602965c55896c0214a5e98bc3923c0779a",
-        "category": "Kitchen Appliances",
-        "super_category": "Electronics and Appliances",
-        "sub_category_l3": "Mixer Grinders",
-        "sub_category_l4": "3 Jar",
-        "sub_category_l5": "551 W to 750 W",
-        "product_name_without_brand": "Klassic Mixer Grinder, 3 Jars, 750W, Stainless Steel (Black)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/28/aa6b944d-3c29-41d1-8c10-4e7a2e7281f0_Z43LAFGIHG.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/22d12b4f-adea-4e94-bf1d-2d9248eaccfe_48527_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/72b153af-eac4-43f6-bb78-241f3fee6664_48527_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/ec303988-0e18-4a1f-b4c4-2f026e1c73c1_48527_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/79b214f8-ae81-4d19-99d8-45b4a8d970d4_48527_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/81b7d59d-b9bc-4773-8787-be275eeace70_48527_6.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/417569e3-a574-4b25-b227-dfe2ed1af094_48527_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/d791dac1-9f08-485a-a70b-518ebf21b67a_48527_8.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/4/d92eaed3-11e4-46c4-b7c8-379285d87f1c_48527_9.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 unit",
-        "unit_of_measure": "unit",
-        "weight_in_grams": 1100,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -772,7 +912,13 @@
       {
         "id": "BOAFGUPQQR",
         "display_name": "Lifelong LLMG23 Power Pro Mixer Grinder, 3 Jars, 500W, Stainless Steel (Silver and Black)",
-        "price_mrp": 3500,
+        "price": {
+          "mrp": 3500,
+          "store_price": 3500,
+          "offer_price": 1220,
+          "unit_level_price": "",
+          "discount_value": 2280
+        },
         "brand": "Lifelong",
         "brand_id": "5764e968f33f0007cb82390812988a2e92828c2f",
         "category": "Kitchen Appliances",
@@ -796,6 +942,7 @@
         "unit_of_measure": "unit",
         "weight_in_grams": 2700,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -809,7 +956,13 @@
       {
         "id": "R8AKSAFOTK",
         "display_name": "Dynore Stainless Steel Lemon Juicer",
-        "price_mrp": 465,
+        "price": {
+          "mrp": 465,
+          "store_price": 465,
+          "offer_price": 269,
+          "unit_level_price": "",
+          "discount_value": 196
+        },
         "brand": "Dynore",
         "brand_id": "908a4686151ca11d5c27c93a02691dd5d2439542",
         "category": "Kitchen Tools",
@@ -831,6 +984,7 @@
         "unit_of_measure": "Piece",
         "weight_in_grams": 230,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]

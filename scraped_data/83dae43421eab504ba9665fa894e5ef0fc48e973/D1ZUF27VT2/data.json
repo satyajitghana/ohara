@@ -1,0 +1,40 @@
+{
+  "variation": {
+    "id": "D1ZUF27VT2",
+    "display_name": "Maaza Mango Drink Bottle",
+    "price": {
+      "mrp": 90,
+      "store_price": 90,
+      "offer_price": 87,
+      "unit_level_price": "",
+      "discount_value": 3
+    },
+    "brand": "Maaza",
+    "brand_id": "83dae43421eab504ba9665fa894e5ef0fc48e973",
+    "category": "Juices and Fruit Drinks",
+    "super_category": "Cold Drinks and Juices",
+    "sub_category_l3": "Mango Drinks",
+    "sub_category_l4": "Mango Based Drinks",
+    "sub_category_l5": "Large",
+    "product_name_without_brand": "Mango Drink Bottle",
+    "images": [
+      "sxskxi4f9cyxthzcmztv",
+      "rkmwclyb6opg40kg1lmr",
+      "onmidfmtd5hmryupv9nf"
+    ],
+    "images_v2": [],
+    "quantity": "1.5",
+    "sku_quantity_with_combo": "1.5 L",
+    "unit_of_measure": "L",
+    "weight_in_grams": 1500,
+    "volumetric_weight": 0,
+    "scm_item_type": "NORMAL",
+    "filters_tag": null
+  },
+  "parent_product": {
+    "product_id": "BFIEGBO68U",
+    "display_name": "Maaza Mango Drink Bottle",
+    "brand": "Maaza",
+    "brand_id": "83dae43421eab504ba9665fa894e5ef0fc48e973"
+  }
+}

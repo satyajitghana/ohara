@@ -1,192 +1,157 @@
 from google import genai
-from google.genai import types
-from pydantic import BaseModel, Field
-from typing import List, Optional
 import json
 from pathlib import Path
-import os
-
-# --- Pydantic Schemas for Structured Output ---
-
-class NutritionInfo(BaseModel):
-    """Represents a single nutrient entry in the nutrition table."""
-    nutrient: str = Field(description="Name of the nutrient (e.g., 'energy', 'protein', 'total_fat'), always lowercase, snake_cased, and standardized.")
-    value: float = Field(description="Numerical value of the nutrient.")
-    unit: str = Field(description="Unit for the nutrient value (e.g., 'kcal', 'g', 'mg').")
-
-class AiResponse(BaseModel):
-    """The structured response from the AI model."""
-    product_name: Optional[str] = Field(default=None, description="The name of the product.")
-    brand: Optional[str] = Field(default=None, description="The brand of the product.")
-    barcode: Optional[str] = Field(default=None, description="The product's barcode (EAN/UPC), if visible on any of the images.")
-    nutrition_info_table: List[NutritionInfo] = Field(description="A standard table of nutritional information.")
-    nutrition_serving_value: float = Field(description="The serving size value the nutrition information is based on (e.g., 100, 150).")
-    nutrition_serving_unit: str = Field(description="The serving size unit (e.g., 'g', 'ml', 'serving').")
-    ingredients: List[str] = Field(description="List of ingredients.")
-    additives: List[str] = Field(description="List of additives, if any.")
-    allergens: List[str] = Field(description="List of allergens, if any.")
-    health_rating: int = Field(description="A health rating out of 100, decided by the AI.", ge=0, le=100)
-    processing_level: str = Field(description="The level of food processing (e.g., 'Unprocessed', 'Minally Processed', 'Processed', 'Ultra-processed').")
-    positive_health_aspects: List[str] = Field(description="A list of generated positive health aspects based on ingredients and nutritional values (e.g., 'Good source of protein', 'Low in sodium').")
-    negative_health_aspects: List[str] = Field(description="A list of generated negative health aspects based on ingredients and nutritional values (e.g., 'High in added sugar', 'Contains artificial sweeteners').")
-    storage_instructions: Optional[str] = Field(default=None, description="Instructions for storing the product.")
-    cooking_instructions: Optional[str] = Field(default=None, description="Instructions for cooking or preparing the product.")
-    country_of_origin: Optional[str] = Field(default=None, description="The country where the product was made.")
-    certifications: List[str] = Field(description="List of certifications found on the packaging (e.g., 'Organic', 'Non-GMO', 'Gluten-Free').")
+from utils.config import get_api_config, get_directories_config, get_processing_config, suppress_grpc_logging
+from utils.file_operations import (
+    find_all_variation_paths, has_ai_output, get_image_paths, 
+    create_ai_output_path, save_json
+)
+from utils.ai_client import setup_gemini_client, send_to_gemini
+from utils.prompt_builder import build_prompt_parts
+from utils.schemas import AiResponse
+from utils.console_utils import (
+    get_console, print_success, print_warning, print_error, 
+    print_info, create_header
+)
 
 
 # --- Configuration and Setup ---
 
-def load_api_key(config_path: Path = Path("config.json")):
-    """Loads the Gemini API key from the config file and sets it as an environment variable."""
-    try:
-        with open(config_path, 'r') as f:
-            config = json.load(f)
-        api_key = config.get("gemini_api_key")
-        if not api_key:
-            raise ValueError("API key not found in config.json")
-        os.environ["GEMINI_API_KEY"] = api_key
-    except FileNotFoundError:
-        raise FileNotFoundError("config.json not found. Please create it with your API key.")
-    except json.JSONDecodeError:
-        raise ValueError("Could not decode config.json. Please ensure it's valid JSON.")
+def load_api_key():
+    """Load API key from config."""
+    api_config = get_api_config()
+    api_key = api_config.get("gemini_api_key")
+    if not api_key:
+        raise ValueError("API key not found in config.json")
+    return api_key
 
 # --- Main Processing Logic ---
 
-def get_mime_type(image_path: Path) -> str:
-    """Returns the MIME type based on the image file extension."""
-    suffix = image_path.suffix.lower()
-    if suffix in [".jpg", ".jpeg"]:
-        return "image/jpeg"
-    elif suffix == ".png":
-        return "image/png"
-    elif suffix == ".webp":
-        return "image/webp"
-    else:
-        # Fallback for other types, though Gemini supports specific formats.
-        return "application/octet-stream"
-
-def prepare_model_input(variation_path: Path) -> (list, List[Path]):
-    """Prepares the model prompt with inline image data."""
-    # Load product data.json for context
-    product_data = {}
-    product_data_path = variation_path.parent / "data.json"
-    if product_data_path.exists():
-        with open(product_data_path, 'r', encoding='utf-8') as f:
-            product_data = json.load(f)
-
-    system_prompt = """
-You are an expert nutritionist and food scientist. Your task is to analyze images of a food product and its accompanying data to extract detailed nutritional and ingredient information.
-You MUST provide the output in a structured JSON format that strictly adheres to the provided schema. Do not include any text, reasoning, or formatting outside of the JSON structure.
-Key instructions:
-1.  **Extract Core Details**: From the packaging, identify the `product_name`, `brand`, and `country_of_origin`. If a barcode (like a UPC or EAN) is visible, extract its number into the `barcode` field.
-2.  **Standardize Nutrition Table**: The `nutrition_info_table` requires careful formatting:
-    *   `nutrient`: Use standardized, common nutrient names. They must be **lowercase and snake_cased** (e.g., 'energy', 'total_fat', 'protein', 'dietary_fiber').
-    *   `value`: Extract only the numerical value of the nutrient as a float.
-    *   `unit`: Extract the unit of measurement (e.g., 'kcal', 'g', 'mg').
-3.  **Serving Size**: For `nutrition_serving_value` and `nutrition_serving_unit`, extract the serving size from text like "Per 150ml serving" or "Serving size: 100g".
-4.  **Analyze and Assess**: Based on the complete list of ingredients and nutritional data:
-    *   Provide an objective `health_rating` out of 100.
-    *   Determine the `processing_level`.
-    *   Generate balanced lists for `positive_health_aspects` and `negative_health_aspects`. These should be concise, clear, and based on the product's data (e.g., positive: 'Good source of protein', negative: 'High in added sugar').
-5.  **Find Actionable Information**: Extract any `storage_instructions`, `cooking_instructions`, and a list of `certifications` (like 'Organic', 'Non-GMO') visible on the packaging.
-"""
-    # Start building the prompt parts
-    prompt_parts = [
-        system_prompt,
-        "Product Data:",
-        json.dumps(product_data, indent=2),
-        "\nPlease analyze the attached images and product data to extract the nutrition information."
-    ]
-
-    # Add images as inline data
-    images_dir = variation_path / "images"
-    image_paths = list(images_dir.glob("*"))
-    for image_path in image_paths:
-        try:
-            with open(image_path, 'rb') as f:
-                image_bytes = f.read()
-            mime_type = get_mime_type(image_path)
-            prompt_parts.append(types.Part.from_bytes(data=image_bytes, mime_type=mime_type))
-        except IOError as e:
-            print(f"  [yellow]⚠️ Could not read image {image_path}, skipping. Error: {e}[/yellow]")
-            
-    return prompt_parts, image_paths
-
-
-def process_images_with_gemini(client, prompt_parts: list):
-    """
-    Sends data to Gemini and gets the structured nutritional information.
-    """
-    response = client.models.generate_content(
-        model='gemini-2.5-flash',
-        contents=prompt_parts,
-        config={
-            "response_mime_type": "application/json",
-            "response_schema": AiResponse,
-		}
-    )
-    return response
-
-def save_output(variation_path: Path, ai_data: dict):
-    """Saves the AI's response to parsed_ai.json."""
-    output_path = variation_path / "parsed_ai.json"
-    with open(output_path, 'w', encoding='utf-8') as f:
-        json.dump(ai_data, f, indent=2, ensure_ascii=False)
-    print(f"✅ Successfully saved AI output to {output_path}")
+def process_single_variation(client, variation_path: Path, enable_ocr: bool = True):
+    """Process a single variation with AI analysis."""
+    try:
+        print_info(f"Processing variation: {variation_path.parent.name}/{variation_path.name}")
+        
+        # Check if already processed
+        if has_ai_output(variation_path):
+            print_warning(f"Already processed: {variation_path.name}")
+            return True
+        
+        # Get image paths
+        image_paths = get_image_paths(variation_path)
+        if not image_paths:
+            print_warning(f"No images found for variation {variation_path.name}")
+            return False
+        
+        print_info(f"Found {len(image_paths)} images to process")
+        
+        # Build prompt
+        prompt_parts, _ = build_prompt_parts(variation_path, enable_ocr)
+        
+        # Send to Gemini
+        response = send_to_gemini(client, prompt_parts, AiResponse)
+        
+        # Process response
+        if response.parsed:
+            ai_output_dict = response.parsed.model_dump()
+            output_path = create_ai_output_path(variation_path)
+            save_json(ai_output_dict, output_path)
+            print_success(f"Successfully processed {variation_path.name}")
+            return True
+        else:
+            # Fallback to parsing text
+            try:
+                cleaned_text = response.text.strip().removeprefix("```json").removesuffix("```").strip()
+                ai_output_dict = json.loads(cleaned_text)
+                output_path = create_ai_output_path(variation_path)
+                save_json(ai_output_dict, output_path)
+                print_success(f"Successfully processed {variation_path.name} (fallback)")
+                return True
+            except json.JSONDecodeError:
+                print_error(f"Failed to decode JSON from model response for {variation_path.name}")
+                print(f"Raw response: {response.text}")
+                return False
+    
+    except Exception as e:
+        print_error(f"Failed to process {variation_path.name}: {e}")
+        return False
 
 
 def main():
     """Main function to run the AI processing."""
+    # Suppress verbose gRPC logging
+    suppress_grpc_logging()
+    
+    console = get_console()
+    
     try:
-        load_api_key()
-        client = genai.Client()
-
-        product_path = Path("scraped_data/0B983YOR5K")
+        # Print header
+        header = create_header(
+            "🤖 AI Image Processor (Single)", 
+            "Processing product images with AI analysis"
+        )
+        console.print(header)
         
-        if not product_path.exists():
-            print(f"❌ Product directory not found: {product_path}")
+        # Load configuration
+        api_key = load_api_key()
+        directories = get_directories_config()
+        processing_config = get_processing_config()
+        
+        # Validate OCR requirements if enabled
+        enable_ocr = processing_config.get('enable_ocr', True)
+        if enable_ocr:
+            from utils.ocr_utils import validate_ocr_requirements
+            validate_ocr_requirements()
+            print_info("OCR enabled and validated")
+        else:
+            print_info("OCR disabled")
+        
+        # Setup client
+        client = setup_gemini_client(api_key)
+        
+        # Get base path
+        base_path = Path(directories['scraped_data'])
+        if not base_path.exists():
+            print_error(f"Scraped data directory not found: {base_path}")
             return
-
-        variation_paths = [v for v in product_path.iterdir() if v.is_dir() and (v / "images").exists() and any((v / "images").iterdir())]
-
+        
+        # For single processing, let's process the first brand with variations
+        brand_dirs = [d for d in base_path.iterdir() if d.is_dir()]
+        if not brand_dirs:
+            print_error("No brand directories found")
+            return
+        
+        # Take first brand for demo
+        brand_dir = brand_dirs[0]
+        print_info(f"Processing brand: {brand_dir.name}")
+        
+        # Find variations in this brand
+        variation_paths = []
+        for item in brand_dir.iterdir():
+            if (item.is_dir() and 
+                item.name not in ["brand_info.json", "products_list.json"] and
+                (item / "images").exists() and 
+                any((item / "images").iterdir())):
+                variation_paths.append(item)
+        
         if not variation_paths:
-            print(f"❌ No variations with images found in {product_path}")
+            print_error(f"No variations with images found in {brand_dir}")
             return
-
+        
+        print_info(f"Found {len(variation_paths)} variations to process")
+        
+        # Process each variation
+        success_count = 0
         for variation_path in variation_paths:
-            print(f"▶️ Processing variation: {variation_path}")
-
-            prompt_parts, image_paths = prepare_model_input(variation_path)
-
-            if not image_paths:
-                print(f"⚠️ No images found for variation {variation_path.name}. Skipping.")
-                continue
-
-            print(f"  Found {len(image_paths)} images to process.")
-
-            response = process_images_with_gemini(client, prompt_parts)
-            
-            # The SDK provides a .parsed attribute for pydantic models
-            if response.parsed:
-                 ai_output_dict = response.parsed.model_dump()
-                 save_output(variation_path, ai_output_dict)
-            else:
-                # Fallback to parsing text if .parsed is not available
-                try:
-                    # The response might be wrapped in ```json ... ```, so we extract it.
-                    cleaned_text = response.text.strip().removeprefix("```json").removesuffix("```").strip()
-                    ai_output_dict = json.loads(cleaned_text)
-                    save_output(variation_path, ai_output_dict)
-                except json.JSONDecodeError:
-                    print(f"❌ Failed to decode JSON from model response for {variation_path.name}.")
-                    print("  Raw response:", response.text)
-
-
+            if process_single_variation(client, variation_path, enable_ocr):
+                success_count += 1
+        
+        print_success(f"Processed {success_count}/{len(variation_paths)} variations successfully")
+        
     except (FileNotFoundError, ValueError) as e:
-        print(f"❌ Error: {e}")
+        print_error(f"Configuration error: {e}")
     except Exception as e:
-        print(f"❌ An unexpected error occurred: {e}")
+        print_error(f"An unexpected error occurred: {e}")
 
 if __name__ == "__main__":
     main()

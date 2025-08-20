@@ -1,38 +1,5 @@
 [
   {
-    "display_name": "GARDEN Sabudana Chiwda",
-    "brand": "GARDEN",
-    "brand_id": "0bfa8792f897a0609e3af8315e3d590913951c69",
-    "product_id": "O0J6I8PI3G",
-    "variations": [
-      {
-        "id": "5YMII339QN",
-        "display_name": "GARDEN Sabudana Chiwda",
-        "price_mrp": 55,
-        "brand": "GARDEN",
-        "brand_id": "0bfa8792f897a0609e3af8315e3d590913951c69",
-        "category": "Namkeens",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Chiwda",
-        "sub_category_l4": "Sabudana Chiwda",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Sabudana Chiwda",
-        "images": [
-          "c968eacd5db3605879314228d4729884",
-          "032c47947b5d00c6d65e2f974a53a383",
-          "0d97fe74ed6a6d04fe4fc5d92987f4fb"
-        ],
-        "images_v2": [],
-        "quantity": "140",
-        "sku_quantity_with_combo": "140 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 140,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
     "display_name": "Chheda's Yellow Banana Chips",
     "brand": "Chheda's",
     "brand_id": "cdacd1e9c65330a549431883b5b222c6e54ef033",
@@ -41,7 +8,13 @@
       {
         "id": "777XWWYTAF",
         "display_name": "Chheda's Yellow Banana Chips",
-        "price_mrp": 100,
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 70,
+          "unit_level_price": "",
+          "discount_value": 30
+        },
         "brand": "Chheda's",
         "brand_id": "cdacd1e9c65330a549431883b5b222c6e54ef033",
         "category": "Chips",
@@ -61,39 +34,47 @@
         "unit_of_measure": "g",
         "weight_in_grams": 170,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Modern Kitchens Potato Mixture",
-    "brand": "Modern Kitchens",
-    "brand_id": "3e7e30b055f7bb6aab79d796d0b69de0cae3936a",
-    "product_id": "2ESR97DTOR",
+    "display_name": "Chheda's Roasted Poha Chivda",
+    "brand": "Chheda's",
+    "brand_id": "cdacd1e9c65330a549431883b5b222c6e54ef033",
+    "product_id": "J1I5FPOS65",
     "variations": [
       {
-        "id": "ODIRJ3M251",
-        "display_name": "Modern Kitchens Potato Mixture",
-        "price_mrp": 70,
-        "brand": "Modern Kitchens",
-        "brand_id": "3e7e30b055f7bb6aab79d796d0b69de0cae3936a",
+        "id": "0UO5OMFM7A",
+        "display_name": "Chheda's Roasted Poha Chivda",
+        "price": {
+          "mrp": 55,
+          "store_price": 55,
+          "offer_price": 55,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Chheda's",
+        "brand_id": "cdacd1e9c65330a549431883b5b222c6e54ef033",
         "category": "Namkeens",
         "super_category": "Munchies And Snacks",
         "sub_category_l3": "Chiwda",
-        "sub_category_l4": "Falhari Chiwda",
+        "sub_category_l4": "Poha Chiwda",
         "sub_category_l5": "Medium",
-        "product_name_without_brand": "Potato Mixture",
+        "product_name_without_brand": "Roasted Poha Chivda",
         "images": [
-          "8f8d7f3d0b8a91fd162d0d6f574c6a06",
-          "b5508e45a8bd139c19eb5ae0eccf7f73",
-          "c1708eff295866da6f7e36dae60b7850"
+          "NI_CATALOG/IMAGES/CIW/2024/4/8/bbb48042-68ca-4d41-af84-0d5cbb363ad5_namkeenandsavourysnacks_S7IGYFZA15_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/8/94c02885-d531-409d-af44-f7dcc2691ed8_namkeenandsavourysnacks_S7IGYFZA15_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/8/b8f611e4-2db3-4ff4-bf4e-8dcc7c2f2595_namkeenandsavourysnacks_S7IGYFZA15_AL2.png"
         ],
         "images_v2": [],
-        "quantity": "150",
-        "sku_quantity_with_combo": "150 g",
+        "quantity": "170",
+        "sku_quantity_with_combo": "170 g",
         "unit_of_measure": "g",
-        "weight_in_grams": 150,
+        "weight_in_grams": 170,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -107,7 +88,13 @@
       {
         "id": "NQK5TXB9DP",
         "display_name": "Let's Try Lite Snacks Chips (Fasting Special)",
-        "price_mrp": 60,
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 51,
+          "unit_level_price": "",
+          "discount_value": 9
+        },
         "brand": "Let's Try",
         "brand_id": "760fe790858298616c52f2c24c5675108d391473",
         "category": "Chips",
@@ -127,6 +114,47 @@
         "unit_of_measure": "g",
         "weight_in_grams": 60,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "GARDEN Sabudana Chiwda",
+    "brand": "GARDEN",
+    "brand_id": "0bfa8792f897a0609e3af8315e3d590913951c69",
+    "product_id": "O0J6I8PI3G",
+    "variations": [
+      {
+        "id": "5YMII339QN",
+        "display_name": "GARDEN Sabudana Chiwda",
+        "price": {
+          "mrp": 55,
+          "store_price": 55,
+          "offer_price": 51,
+          "unit_level_price": "",
+          "discount_value": 4
+        },
+        "brand": "GARDEN",
+        "brand_id": "0bfa8792f897a0609e3af8315e3d590913951c69",
+        "category": "Namkeens",
+        "super_category": "Munchies And Snacks",
+        "sub_category_l3": "Chiwda",
+        "sub_category_l4": "Sabudana Chiwda",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Sabudana Chiwda",
+        "images": [
+          "c968eacd5db3605879314228d4729884",
+          "032c47947b5d00c6d65e2f974a53a383",
+          "0d97fe74ed6a6d04fe4fc5d92987f4fb"
+        ],
+        "images_v2": [],
+        "quantity": "140",
+        "sku_quantity_with_combo": "140 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 140,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -140,7 +168,13 @@
       {
         "id": "DMC3MMQQ4V",
         "display_name": "RiteBite Max Protein Spanish Tomato 10g Protein Multigrain Chips",
-        "price_mrp": 45,
+        "price": {
+          "mrp": 45,
+          "store_price": 45,
+          "offer_price": 43,
+          "unit_level_price": "",
+          "discount_value": 2
+        },
         "brand": "Ritebite Max Protein",
         "brand_id": "35d1e9c7b9a01cc6bf2505abba870e7f4feb8b2a",
         "category": "Chips",
@@ -161,282 +195,7 @@
         "unit_of_measure": "g",
         "weight_in_grams": 45,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Mr Makhana Black Salt Makhana",
-    "brand": "Mr Makhana",
-    "brand_id": "3c1c2893fe7f750444a70a92df6ad076096ab4d6",
-    "product_id": "SGBD7423DS",
-    "variations": [
-      {
-        "id": "VD1RDQXXVG",
-        "display_name": "Mr Makhana Black Salt Makhana",
-        "price_mrp": 150,
-        "brand": "Mr Makhana",
-        "brand_id": "3c1c2893fe7f750444a70a92df6ad076096ab4d6",
-        "category": "Nuts and Makhana",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Makhana",
-        "sub_category_l4": "Cheese",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Black Salt Makhana",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/243971c0-20df-421d-8962-a63c2e4f0553_95051_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/8a4ed5e8-44aa-43bc-b5fc-46ba4787e6e9_95051_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/5/7238c865-02c8-4baf-9442-5ae87dfba48d_95051_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/5/b517fe71-ad0e-46a8-8428-064f70205e15_95051_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/b3c70faa-0e98-4689-99c4-9e5df8e30caa_95051_5.png"
-        ],
-        "images_v2": [],
-        "quantity": "55",
-        "sku_quantity_with_combo": "55 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 55,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Let's try peri peri roasted makhana, made in groundnut oil",
-    "brand": "Let's Try",
-    "brand_id": "760fe790858298616c52f2c24c5675108d391473",
-    "product_id": "548B5ZKK4W",
-    "variations": [
-      {
-        "id": "O9KMIVD4SO",
-        "display_name": "Let's Try Peri Peri Roasted Makhana",
-        "price_mrp": 320,
-        "brand": "Let's Try",
-        "brand_id": "760fe790858298616c52f2c24c5675108d391473",
-        "category": "Namkeens",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Makhana",
-        "sub_category_l4": "Peri Peri",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Peri Peri Roasted Makhana",
-        "images": [
-          "82570057b110a10e96a0b7e2afbba11f",
-          "NI_CATALOG/IMAGES/CIW/2025/5/7/b2afc632-a65f-4658-b49f-d8b27ca3ef5c_23996_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/7/f5d34bdc-7409-4699-9e2d-f9640bee6e5a_23996_3.png"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "60 g x 2",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 152,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      },
-      {
-        "id": "RJFBO7QWYF",
-        "display_name": "Let's try peri peri roasted makhana, made in groundnut oil",
-        "price_mrp": 160,
-        "brand": "Let's Try",
-        "brand_id": "760fe790858298616c52f2c24c5675108d391473",
-        "category": "Namkeens",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Makhana",
-        "sub_category_l4": "Peri Peri",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Let's try peri peri roasted makhana, made in groundnut oil",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/7/4fd68198-b0f0-413d-8296-0f21092b6e2d_23996_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/7/b2afc632-a65f-4658-b49f-d8b27ca3ef5c_23996_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/7/f5d34bdc-7409-4699-9e2d-f9640bee6e5a_23996_3.png"
-        ],
-        "images_v2": [],
-        "quantity": "60",
-        "sku_quantity_with_combo": "60 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 76,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "4700BC Protein Pops Makhana Hawaiian Barbeque",
-    "brand": "4700BC",
-    "brand_id": "3b4d3347a1a7272415171f74c966cb1f8ee7b160",
-    "product_id": "WXXJOYP1WR",
-    "variations": [
-      {
-        "id": "DHXV8924FY",
-        "display_name": "4700BC Protein Pops Makhana Hawaiian Barbeque",
-        "price_mrp": 60,
-        "brand": "4700BC",
-        "brand_id": "3b4d3347a1a7272415171f74c966cb1f8ee7b160",
-        "category": "Namkeens",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Makhana",
-        "sub_category_l4": "Barbeque",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Protein Pops Makhana Hawaiian Barbeque",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/2/9181f65a-3aa3-48cc-83cb-8cd21f047b54_28787_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/2/9f6225b2-5510-450d-a874-a6760c1186d0_28787_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/2/4fb7bf07-a011-4163-9936-3b9fc3058782_28787_3.png"
-        ],
-        "images_v2": [],
-        "quantity": "20",
-        "sku_quantity_with_combo": "20 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 28,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "4700BC Corn Chips+ Cheese & Herbs",
-    "brand": "4700BC",
-    "brand_id": "3b4d3347a1a7272415171f74c966cb1f8ee7b160",
-    "product_id": "94C61YLH5C",
-    "variations": [
-      {
-        "id": "W1JR2HRS0I",
-        "display_name": "4700BC Corn Chips+ Cheese & Herbs",
-        "price_mrp": 100,
-        "brand": "4700BC",
-        "brand_id": "3b4d3347a1a7272415171f74c966cb1f8ee7b160",
-        "category": "Chips",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Popped Chips",
-        "sub_category_l4": "Cheese & Herbs",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Corn Chips+ Cheese & Herbs",
-        "images": [
-          "6c59d48c607be66ffd7618fbec191c28",
-          "2a0a0c87d01d6e8339ef44aa7f7f00d6",
-          "0cc7ba94c44ea054719bb101c0e269e9"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "55 g x 2",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 110,
-        "volumetric_weight": 0,
-        "filters_tag": "Combos"
-      },
-      {
-        "id": "JHFIK46NJM",
-        "display_name": "4700BC Corn Chips+ Cheese & Herbs",
-        "price_mrp": 50,
-        "brand": "4700BC",
-        "brand_id": "3b4d3347a1a7272415171f74c966cb1f8ee7b160",
-        "category": "Chips",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Popped Chips",
-        "sub_category_l4": "Cheese & Herbs",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Corn Chips+ Cheese & Herbs",
-        "images": [
-          "e0e6c1f5d3c9832305e58f176c1ee54c",
-          "2a0a0c87d01d6e8339ef44aa7f7f00d6",
-          "0cc7ba94c44ea054719bb101c0e269e9"
-        ],
-        "images_v2": [],
-        "quantity": "55",
-        "sku_quantity_with_combo": "55 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 55,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Farmley Party Mix Protein Rich Snack",
-    "brand": "Farmley",
-    "brand_id": "f64ef856e990a5a9a8e6e6bb14d89ae5e4b4e536",
-    "product_id": "2X37VQ9H9K",
-    "variations": [
-      {
-        "id": "77ORARYYFS",
-        "display_name": "Farmley Party Mix Protein Rich Snack",
-        "price_mrp": 79,
-        "brand": "Farmley",
-        "brand_id": "f64ef856e990a5a9a8e6e6bb14d89ae5e4b4e536",
-        "category": "Namkeens",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Nuts",
-        "sub_category_l4": "Cocktail Nuts",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Party Mix Protein Rich Snack",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/1/23/1f374235-5477-44e1-91b5-3bbf1c891781_42570_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/23/7f8c286a-d8ba-4402-bccb-8b9250cd745b_42570_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/23/b99dd9be-21e3-4250-a082-9d1f5e459f99_42570_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/23/c9b2fd1c-c36d-42d2-aa13-8ae0e00f9895_42570_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/23/1f928d4d-69b8-4d02-bc8c-a7363d801608_42570_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/23/77270fe2-1f29-465b-aea5-27df8c182393_42570_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "60",
-        "sku_quantity_with_combo": "60 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 60,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      },
-      {
-        "id": "NPJAJF3C7K",
-        "display_name": "Farmley Party Mix Protein Rich Snack - Buy 2 Get 1",
-        "price_mrp": 237,
-        "brand": "Farmley",
-        "brand_id": "f64ef856e990a5a9a8e6e6bb14d89ae5e4b4e536",
-        "category": "Namkeens",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Nuts",
-        "sub_category_l4": "Cocktail Nuts",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Party Mix Protein Rich Snack - Buy 2 Get 1",
-        "images": [
-          "37648a034422e07d69d1de506c724a20"
-        ],
-        "images_v2": [],
-        "quantity": "3",
-        "sku_quantity_with_combo": "60 g x 3",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 180,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "4700BC Protein Pops Makhana Sea Salt Pouch",
-    "brand": "4700BC",
-    "brand_id": "3b4d3347a1a7272415171f74c966cb1f8ee7b160",
-    "product_id": "GPPHLC6ODV",
-    "variations": [
-      {
-        "id": "KSLMGQ8LPM",
-        "display_name": "4700BC Protein Pops Makhana Sea Salt Pouch",
-        "price_mrp": 60,
-        "brand": "4700BC",
-        "brand_id": "3b4d3347a1a7272415171f74c966cb1f8ee7b160",
-        "category": "Namkeens",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Makhana",
-        "sub_category_l4": "Salt",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Protein Pops Makhana Sea Salt Pouch",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/2/20ee1577-5df7-49a7-85e2-806e1d81a18b_28788_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/2/1247d61d-51ee-4086-b67f-719a4c4f0898_28788_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/2/26baf817-4aed-4d59-8843-5d6dbbc9c289_28788_3.png"
-        ],
-        "images_v2": [],
-        "quantity": "20",
-        "sku_quantity_with_combo": "20 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 28,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -448,32 +207,15 @@
     "product_id": "3P0CCDJJLI",
     "variations": [
       {
-        "id": "0HAX2VO618",
-        "display_name": "Let's Try Aloo Waffers",
-        "price_mrp": 120,
-        "brand": "Let's Try",
-        "brand_id": "760fe790858298616c52f2c24c5675108d391473",
-        "category": "Chips",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Potato Chips",
-        "sub_category_l4": "Aloo",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Aloo Waffers",
-        "images": [
-          "64050d878a3823666e5c6a20ada052b7"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "54 gm x 2",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 120,
-        "volumetric_weight": 0,
-        "filters_tag": "Combos"
-      },
-      {
         "id": "SF04RANF9Y",
         "display_name": "Let's Try Potato Wafers (Fasting Special)",
-        "price_mrp": 60,
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 50,
+          "unit_level_price": "",
+          "discount_value": 10
+        },
         "brand": "Let's Try",
         "brand_id": "760fe790858298616c52f2c24c5675108d391473",
         "category": "Chips",
@@ -493,6 +235,87 @@
         "unit_of_measure": "gm",
         "weight_in_grams": 60,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Modern Kitchens Potato Mixture",
+    "brand": "Modern Kitchens",
+    "brand_id": "3e7e30b055f7bb6aab79d796d0b69de0cae3936a",
+    "product_id": "2ESR97DTOR",
+    "variations": [
+      {
+        "id": "ODIRJ3M251",
+        "display_name": "Modern Kitchens Potato Mixture",
+        "price": {
+          "mrp": 70,
+          "store_price": 70,
+          "offer_price": 63,
+          "unit_level_price": "",
+          "discount_value": 7
+        },
+        "brand": "Modern Kitchens",
+        "brand_id": "3e7e30b055f7bb6aab79d796d0b69de0cae3936a",
+        "category": "Namkeens",
+        "super_category": "Munchies And Snacks",
+        "sub_category_l3": "Chiwda",
+        "sub_category_l4": "Falhari Chiwda",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Potato Mixture",
+        "images": [
+          "8f8d7f3d0b8a91fd162d0d6f574c6a06",
+          "b5508e45a8bd139c19eb5ae0eccf7f73",
+          "c1708eff295866da6f7e36dae60b7850"
+        ],
+        "images_v2": [],
+        "quantity": "150",
+        "sku_quantity_with_combo": "150 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "4700BC Corn Chips+ Cheese & Herbs",
+    "brand": "4700BC",
+    "brand_id": "3b4d3347a1a7272415171f74c966cb1f8ee7b160",
+    "product_id": "94C61YLH5C",
+    "variations": [
+      {
+        "id": "JHFIK46NJM",
+        "display_name": "4700BC Corn Chips+ Cheese & Herbs",
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 50,
+          "unit_level_price": "90.9/100 g",
+          "discount_value": 0
+        },
+        "brand": "4700BC",
+        "brand_id": "3b4d3347a1a7272415171f74c966cb1f8ee7b160",
+        "category": "Chips",
+        "super_category": "Munchies And Snacks",
+        "sub_category_l3": "Popped Chips",
+        "sub_category_l4": "Cheese & Herbs",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Corn Chips+ Cheese & Herbs",
+        "images": [
+          "e0e6c1f5d3c9832305e58f176c1ee54c",
+          "2a0a0c87d01d6e8339ef44aa7f7f00d6",
+          "0cc7ba94c44ea054719bb101c0e269e9"
+        ],
+        "images_v2": [],
+        "quantity": "55",
+        "sku_quantity_with_combo": "55 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 55,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -506,7 +329,13 @@
       {
         "id": "UVU5DCR6QV",
         "display_name": "Chitale Bandhu Patal Poha Chivda",
-        "price_mrp": 78,
+        "price": {
+          "mrp": 78,
+          "store_price": 78,
+          "offer_price": 78,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
         "brand": "Chitale Bandhu",
         "brand_id": "19463d51d878166fd6b23dc3a0d86080fb833f76",
         "category": "Namkeens",
@@ -526,326 +355,7 @@
         "unit_of_measure": "g",
         "weight_in_grams": 200,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Mr Makhana Cheesy Peezy Makhana",
-    "brand": "Mr Makhana",
-    "brand_id": "3c1c2893fe7f750444a70a92df6ad076096ab4d6",
-    "product_id": "S7GSFOMKU1",
-    "variations": [
-      {
-        "id": "OKDTDMQ6U4",
-        "display_name": "Mr Makhana Cheesy Peezy Makhana",
-        "price_mrp": 150,
-        "brand": "Mr Makhana",
-        "brand_id": "3c1c2893fe7f750444a70a92df6ad076096ab4d6",
-        "category": "Namkeens",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Makhana",
-        "sub_category_l4": "Cheese",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Cheesy Peezy Makhana",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/f136c1c9-4964-454e-a2e2-03e013858540_63437_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/75c80a7f-8aaf-46d7-a140-b8ab4fb289be_63437_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/9416b990-c790-42d5-a283-b347a65a90b0_63437_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/8d072080-9077-4f74-815a-0d627b547c21_63437_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/ba22c2cb-8fc2-44cd-897c-de87add0d893_63437_5.png"
-        ],
-        "images_v2": [],
-        "quantity": "55",
-        "sku_quantity_with_combo": "55 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 55,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Farmley Classic Salted Roasted Cashews",
-    "brand": "Farmley",
-    "brand_id": "f64ef856e990a5a9a8e6e6bb14d89ae5e4b4e536",
-    "product_id": "IFNBC8G04F",
-    "variations": [
-      {
-        "id": "CCAZLKWJGJ",
-        "display_name": "Farmley Classic Salted Roasted Cashews",
-        "price_mrp": 379,
-        "brand": "Farmley",
-        "brand_id": "f64ef856e990a5a9a8e6e6bb14d89ae5e4b4e536",
-        "category": "Nuts and Makhana",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Nuts",
-        "sub_category_l4": "Cashew",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Classic Salted Roasted Cashews",
-        "images": [
-          "b1b4a3428064e0da58dd0298b009a2eb",
-          "NI_CATALOG/IMAGES/CIW/2024/11/21/ee853862-08ac-4163-b44f-d722a8feaa13_96380_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/21/08be97e6-fee7-43a9-8869-1505ec1ae805_96380_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/21/deadfeee-5b16-40f6-8fa5-8b4e7892d1fb_96380_4.png",
-          "0cac5f9a0da69573c68d222e7eb01e69",
-          "bfc7cd30e87b8927e750a99e28c4941b"
-        ],
-        "images_v2": [],
-        "quantity": "150",
-        "sku_quantity_with_combo": "150 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 150,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Mom Meal Of The Moment Roasted Makhana Himalayan Salt N Pepper Mix",
-    "brand": "Mom Meal Of The Moment",
-    "brand_id": "0cd4e62880710cecdf1fcb15b66c3cbe06e493f5",
-    "product_id": "AX7IWWTFM5",
-    "variations": [
-      {
-        "id": "MB7JZABCF1",
-        "display_name": "Mom Meal Of The Moment Roasted Makhana Himalayan Salt N Pepper Mix",
-        "price_mrp": 140,
-        "brand": "Mom Meal Of The Moment",
-        "brand_id": "0cd4e62880710cecdf1fcb15b66c3cbe06e493f5",
-        "category": "Namkeens",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Makhana",
-        "sub_category_l4": "Salt",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Roasted Makhana Himalayan Salt N Pepper Mix",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/1/17/37fd3dcd-6098-45c2-afce-ab86bf0255ba_4507_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/17/bf43378f-20d9-48ab-b58c-30e126cff896_4507_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/17/5ca5b7a4-6044-41b6-bb0e-e756eecfdf65_4507_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/17/0370c040-1c52-46ba-bae2-4830486b756a_4507_4.png"
-        ],
-        "images_v2": [],
-        "quantity": "52",
-        "sku_quantity_with_combo": "52 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 52,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Chheda's Roasted Poha Chivda",
-    "brand": "Chheda's",
-    "brand_id": "cdacd1e9c65330a549431883b5b222c6e54ef033",
-    "product_id": "J1I5FPOS65",
-    "variations": [
-      {
-        "id": "0UO5OMFM7A",
-        "display_name": "Chheda's Roasted Poha Chivda",
-        "price_mrp": 55,
-        "brand": "Chheda's",
-        "brand_id": "cdacd1e9c65330a549431883b5b222c6e54ef033",
-        "category": "Namkeens",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Chiwda",
-        "sub_category_l4": "Poha Chiwda",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Roasted Poha Chivda",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/4/8/bbb48042-68ca-4d41-af84-0d5cbb363ad5_namkeenandsavourysnacks_S7IGYFZA15_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/4/8/94c02885-d531-409d-af44-f7dcc2691ed8_namkeenandsavourysnacks_S7IGYFZA15_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/4/8/b8f611e4-2db3-4ff4-bf4e-8dcc7c2f2595_namkeenandsavourysnacks_S7IGYFZA15_AL2.png"
-        ],
-        "images_v2": [],
-        "quantity": "170",
-        "sku_quantity_with_combo": "170 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 170,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "adukale Chivda",
-    "brand": "adukale",
-    "brand_id": "fda569e8401961d1caa748f383a296e5bef35379",
-    "product_id": "65BS5OUKG5",
-    "variations": [
-      {
-        "id": "X5W7731IR0",
-        "display_name": "adukale Chivda",
-        "price_mrp": 90,
-        "brand": "adukale",
-        "brand_id": "fda569e8401961d1caa748f383a296e5bef35379",
-        "category": "Namkeens",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Chiwda",
-        "sub_category_l4": "Falhari Chiwda",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Chivda",
-        "images": [
-          "ruzovegbhgivudivj9mv",
-          "ijoehezjz11n5hwb1g35",
-          "jd9lvhfeoegryabcxpcc"
-        ],
-        "images_v2": [],
-        "quantity": "180",
-        "sku_quantity_with_combo": "180 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 180,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Saffola Crunchiez Ragi Chips Masala Twist",
-    "brand": "Saffola Munchiez",
-    "brand_id": "faf7fed533679dd0a873d41034803b46116230c4",
-    "product_id": "W5BZ73YHBX",
-    "variations": [
-      {
-        "id": "VT3WWV6Y87",
-        "display_name": "Saffola Crunchiez Ragi Chips Masala Twist",
-        "price_mrp": 180,
-        "brand": "Saffola Crunchiez",
-        "brand_id": "faf7fed533679dd0a873d41034803b46116230c4",
-        "category": "Chips",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Ragi Chips",
-        "sub_category_l4": "Masala",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Ragi Chips Masala Twist",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/10/26/4a709fc7-72f1-426e-8256-f292f5a9b54c_585065.png"
-        ],
-        "images_v2": [],
-        "quantity": "3",
-        "sku_quantity_with_combo": "70 g x 3",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 240,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      },
-      {
-        "id": "WQC5F493V7",
-        "display_name": "Saffola Munchiez Ragi Chips Masala Twist",
-        "price_mrp": 120,
-        "brand": "Saffola Munchiez",
-        "brand_id": "faf7fed533679dd0a873d41034803b46116230c4",
-        "category": "Chips",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Ragi Chips",
-        "sub_category_l4": "Masala",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Ragi Chips Masala Twist",
-        "images": [
-          "e63759a0a9514bcc4c238da4f06d9664",
-          "NI_CATALOG/IMAGES/CIW/2024/7/8/32a216b7-1f32-48f4-a9b3-aef9e0a88824_chipsnachosandpopcorn_TB1LT8H8K9_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/8/ad088567-f37c-46e3-8c72-c3ad9390313f_chipsnachosandpopcorn_TB1LT8H8K9_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/8/32ca6553-4dfd-422e-95a3-7ccfafd13498_chipsnachosandpopcorn_TB1LT8H8K9_AL3.png"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "70 g x 2",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 160,
-        "volumetric_weight": 0,
-        "filters_tag": "Combos"
-      },
-      {
-        "id": "LIG5UUQ198",
-        "display_name": "Saffola Crunchiez Ragi Chips Masala Twist",
-        "price_mrp": 60,
-        "brand": "Saffola Crunchiez",
-        "brand_id": "faf7fed533679dd0a873d41034803b46116230c4",
-        "category": "Chips",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Ragi Chips",
-        "sub_category_l4": "Masala",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Ragi Chips Masala Twist",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/7/8/42f99b39-3141-42cd-b40b-7a4f2a80db95_chipsnachosandpopcorn_TB1LT8H8K9_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/8/32a216b7-1f32-48f4-a9b3-aef9e0a88824_chipsnachosandpopcorn_TB1LT8H8K9_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/8/ad088567-f37c-46e3-8c72-c3ad9390313f_chipsnachosandpopcorn_TB1LT8H8K9_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/8/32ca6553-4dfd-422e-95a3-7ccfafd13498_chipsnachosandpopcorn_TB1LT8H8K9_AL3.png"
-        ],
-        "images_v2": [],
-        "quantity": "70",
-        "sku_quantity_with_combo": "70 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 80,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Let's Try Salted Peanuts (Fasting Special)",
-    "brand": "Let's Try",
-    "brand_id": "760fe790858298616c52f2c24c5675108d391473",
-    "product_id": "W2PGIAZHAF",
-    "variations": [
-      {
-        "id": "9Z3AU91D0O",
-        "display_name": "Let's Try Salted Peanuts (Fasting Special)",
-        "price_mrp": 88,
-        "brand": "Let's Try",
-        "brand_id": "760fe790858298616c52f2c24c5675108d391473",
-        "category": "Nuts and Makhana",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Nuts",
-        "sub_category_l4": "Salted Peanut",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Salted Peanuts (Fasting Special)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/4/1/0d999a5b-ce36-4478-bca2-4837283d6c46_50423_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/1/3d95b384-aba2-47cb-b8b8-6c3b4c8933bd_50423_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/1/3acd4a38-660a-4a80-bee3-ffe91c72a555_50423_3.png"
-        ],
-        "images_v2": [],
-        "quantity": "160",
-        "sku_quantity_with_combo": "160 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 160,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Chheda's Farali Potato Chivda",
-    "brand": "Chheda's",
-    "brand_id": "cdacd1e9c65330a549431883b5b222c6e54ef033",
-    "product_id": "ENNT8OFZZZ",
-    "variations": [
-      {
-        "id": "ZXXRR0Y45D",
-        "display_name": "Chheda's Farali Potato Chivda",
-        "price_mrp": 90,
-        "brand": "Chheda's",
-        "brand_id": "cdacd1e9c65330a549431883b5b222c6e54ef033",
-        "category": "Namkeens",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Chiwda",
-        "sub_category_l4": "Falhari Chiwda",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Farali Potato Chivda",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/9/29/4a846eb8-839c-4a8b-8116-f2eb0bf3da81_7127.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/19/8d51ab53-bf7d-4c53-a61f-a2ffbebc25a3_namkeenandsavourysnacks_B2QTQ2TVGS_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/19/4c05703f-f840-4841-a5b8-296614f8f784_namkeenandsavourysnacks_B2QTQ2TVGS_AL2.png"
-        ],
-        "images_v2": [],
-        "quantity": "170",
-        "sku_quantity_with_combo": "170 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 150,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -857,55 +367,15 @@
     "product_id": "EW7MVAO5OR",
     "variations": [
       {
-        "id": "AHCZHNTQTT",
-        "display_name": "Beyond Snack Kerala Banana Chips - With Coconut Oil & Rock Salt",
-        "price_mrp": 225,
-        "brand": "Beyond Snack",
-        "brand_id": "4ebde6ab1f5d37ef8f6d415bfe1a64b9179ef101",
-        "category": "Chips",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Banana Chips",
-        "sub_category_l4": "Salted",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Kerala Banana Chips - With Coconut Oil & Rock Salt",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/4/17/6e38e4f0-a4d7-4efd-8959-2a42211b5619_446999.png"
-        ],
-        "images_v2": [],
-        "quantity": "3",
-        "sku_quantity_with_combo": "80 g x 3",
-        "unit_of_measure": "pcs",
-        "weight_in_grams": 255,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      },
-      {
-        "id": "U8DCD5LY3Q",
-        "display_name": "Beyond Snack Kerala Banana Chips - With Coconut Oil & Rock Salt",
-        "price_mrp": 150,
-        "brand": "Beyond Snack",
-        "brand_id": "4ebde6ab1f5d37ef8f6d415bfe1a64b9179ef101",
-        "category": "Chips",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Banana Chips",
-        "sub_category_l4": "Salted",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Kerala Banana Chips - With Coconut Oil & Rock Salt",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/4/17/4172b5a7-912a-4522-8d2e-c0b4cdeb8e90_783663.png"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "80 g x 2",
-        "unit_of_measure": "pcs",
-        "weight_in_grams": 170,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      },
-      {
         "id": "S2O78BO3UV",
         "display_name": "Beyond Snack Kerala Banana Chips - With Coconut Oil & Rock Salt",
-        "price_mrp": 75,
+        "price": {
+          "mrp": 75,
+          "store_price": 75,
+          "offer_price": 71,
+          "unit_level_price": "88.8/100 g",
+          "discount_value": 4
+        },
         "brand": "Beyond Snack",
         "brand_id": "4ebde6ab1f5d37ef8f6d415bfe1a64b9179ef101",
         "category": "Chips",
@@ -928,6 +398,541 @@
         "unit_of_measure": "g",
         "weight_in_grams": 85,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Saffola Crunchiez Ragi Chips Masala Twist",
+    "brand": "Saffola Munchiez",
+    "brand_id": "faf7fed533679dd0a873d41034803b46116230c4",
+    "product_id": "W5BZ73YHBX",
+    "variations": [
+      {
+        "id": "LIG5UUQ198",
+        "display_name": "Saffola Crunchiez Ragi Chips Masala Twist",
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 49,
+          "unit_level_price": "70/100 g",
+          "discount_value": 11
+        },
+        "brand": "Saffola Crunchiez",
+        "brand_id": "faf7fed533679dd0a873d41034803b46116230c4",
+        "category": "Chips",
+        "super_category": "Munchies And Snacks",
+        "sub_category_l3": "Ragi Chips",
+        "sub_category_l4": "Masala",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Ragi Chips Masala Twist",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/8/42f99b39-3141-42cd-b40b-7a4f2a80db95_chipsnachosandpopcorn_TB1LT8H8K9_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/8/32a216b7-1f32-48f4-a9b3-aef9e0a88824_chipsnachosandpopcorn_TB1LT8H8K9_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/8/ad088567-f37c-46e3-8c72-c3ad9390313f_chipsnachosandpopcorn_TB1LT8H8K9_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/8/32ca6553-4dfd-422e-95a3-7ccfafd13498_chipsnachosandpopcorn_TB1LT8H8K9_AL3.png"
+        ],
+        "images_v2": [],
+        "quantity": "70",
+        "sku_quantity_with_combo": "70 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 80,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "adukale Chivda",
+    "brand": "adukale",
+    "brand_id": "fda569e8401961d1caa748f383a296e5bef35379",
+    "product_id": "65BS5OUKG5",
+    "variations": [
+      {
+        "id": "X5W7731IR0",
+        "display_name": "adukale Chivda",
+        "price": {
+          "mrp": 90,
+          "store_price": 90,
+          "offer_price": 83,
+          "unit_level_price": "",
+          "discount_value": 7
+        },
+        "brand": "adukale",
+        "brand_id": "fda569e8401961d1caa748f383a296e5bef35379",
+        "category": "Namkeens",
+        "super_category": "Munchies And Snacks",
+        "sub_category_l3": "Chiwda",
+        "sub_category_l4": "Falhari Chiwda",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chivda",
+        "images": [
+          "ruzovegbhgivudivj9mv",
+          "ijoehezjz11n5hwb1g35",
+          "jd9lvhfeoegryabcxpcc"
+        ],
+        "images_v2": [],
+        "quantity": "180",
+        "sku_quantity_with_combo": "180 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 180,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Mr Makhana Piri Piri Paradise",
+    "brand": "Mr Makhana",
+    "brand_id": "3c1c2893fe7f750444a70a92df6ad076096ab4d6",
+    "product_id": "RRHLAL1278",
+    "variations": [
+      {
+        "id": "P632162917",
+        "display_name": "Mr Makhana Piri Piri Paradise",
+        "price": {
+          "mrp": 150,
+          "store_price": 150,
+          "offer_price": 150,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Mr Makhana",
+        "brand_id": "3c1c2893fe7f750444a70a92df6ad076096ab4d6",
+        "category": "Nuts and Makhana",
+        "super_category": "Munchies And Snacks",
+        "sub_category_l3": "Makhana",
+        "sub_category_l4": "Peri Peri",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Piri Piri Paradise",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/fa5553a7-4811-4a86-b051-f9e9c157cc62_44830_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/737fd072-d41f-4de0-8014-26a28e8a4250_44830_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/10cd0886-70b1-4544-91d1-0ba5f917c5e7_44830_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/ce82a4ae-39c5-44f7-96bb-dd498b3666e0_44830_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/83864787-51d9-4ddb-9fdd-6506597e8bbb_44830_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "55",
+        "sku_quantity_with_combo": "55 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 55,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Mr Makhana Cheesy Peezy Makhana",
+    "brand": "Mr Makhana",
+    "brand_id": "3c1c2893fe7f750444a70a92df6ad076096ab4d6",
+    "product_id": "S7GSFOMKU1",
+    "variations": [
+      {
+        "id": "OKDTDMQ6U4",
+        "display_name": "Mr Makhana Cheesy Peezy Makhana",
+        "price": {
+          "mrp": 150,
+          "store_price": 150,
+          "offer_price": 150,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Mr Makhana",
+        "brand_id": "3c1c2893fe7f750444a70a92df6ad076096ab4d6",
+        "category": "Namkeens",
+        "super_category": "Munchies And Snacks",
+        "sub_category_l3": "Makhana",
+        "sub_category_l4": "Cheese",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Cheesy Peezy Makhana",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/f136c1c9-4964-454e-a2e2-03e013858540_63437_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/75c80a7f-8aaf-46d7-a140-b8ab4fb289be_63437_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/9416b990-c790-42d5-a283-b347a65a90b0_63437_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/8d072080-9077-4f74-815a-0d627b547c21_63437_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/ba22c2cb-8fc2-44cd-897c-de87add0d893_63437_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "55",
+        "sku_quantity_with_combo": "55 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 55,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Let's try peri peri roasted makhana, made in groundnut oil",
+    "brand": "Let's Try",
+    "brand_id": "760fe790858298616c52f2c24c5675108d391473",
+    "product_id": "548B5ZKK4W",
+    "variations": [
+      {
+        "id": "RJFBO7QWYF",
+        "display_name": "Let's try peri peri roasted makhana, made in groundnut oil",
+        "price": {
+          "mrp": 160,
+          "store_price": 160,
+          "offer_price": 131,
+          "unit_level_price": "218.3/100 g",
+          "discount_value": 29
+        },
+        "brand": "Let's Try",
+        "brand_id": "760fe790858298616c52f2c24c5675108d391473",
+        "category": "Namkeens",
+        "super_category": "Munchies And Snacks",
+        "sub_category_l3": "Makhana",
+        "sub_category_l4": "Peri Peri",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Let's try peri peri roasted makhana, made in groundnut oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/4fd68198-b0f0-413d-8296-0f21092b6e2d_23996_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/b2afc632-a65f-4658-b49f-d8b27ca3ef5c_23996_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/f5d34bdc-7409-4699-9e2d-f9640bee6e5a_23996_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "60",
+        "sku_quantity_with_combo": "60 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 76,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Farmley Classic Salted Roasted Cashews",
+    "brand": "Farmley",
+    "brand_id": "f64ef856e990a5a9a8e6e6bb14d89ae5e4b4e536",
+    "product_id": "IFNBC8G04F",
+    "variations": [
+      {
+        "id": "CCAZLKWJGJ",
+        "display_name": "Farmley Classic Salted Roasted Cashews",
+        "price": {
+          "mrp": 379,
+          "store_price": 379,
+          "offer_price": 317,
+          "unit_level_price": "",
+          "discount_value": 62
+        },
+        "brand": "Farmley",
+        "brand_id": "f64ef856e990a5a9a8e6e6bb14d89ae5e4b4e536",
+        "category": "Nuts and Makhana",
+        "super_category": "Munchies And Snacks",
+        "sub_category_l3": "Nuts",
+        "sub_category_l4": "Cashew",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Classic Salted Roasted Cashews",
+        "images": [
+          "b1b4a3428064e0da58dd0298b009a2eb",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/ee853862-08ac-4163-b44f-d722a8feaa13_96380_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/08be97e6-fee7-43a9-8869-1505ec1ae805_96380_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/deadfeee-5b16-40f6-8fa5-8b4e7892d1fb_96380_4.png",
+          "0cac5f9a0da69573c68d222e7eb01e69",
+          "bfc7cd30e87b8927e750a99e28c4941b"
+        ],
+        "images_v2": [],
+        "quantity": "150",
+        "sku_quantity_with_combo": "150 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Mr Makhana Black Salt Makhana",
+    "brand": "Mr Makhana",
+    "brand_id": "3c1c2893fe7f750444a70a92df6ad076096ab4d6",
+    "product_id": "SGBD7423DS",
+    "variations": [
+      {
+        "id": "VD1RDQXXVG",
+        "display_name": "Mr Makhana Black Salt Makhana",
+        "price": {
+          "mrp": 150,
+          "store_price": 150,
+          "offer_price": 150,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Mr Makhana",
+        "brand_id": "3c1c2893fe7f750444a70a92df6ad076096ab4d6",
+        "category": "Nuts and Makhana",
+        "super_category": "Munchies And Snacks",
+        "sub_category_l3": "Makhana",
+        "sub_category_l4": "Cheese",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Black Salt Makhana",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/243971c0-20df-421d-8962-a63c2e4f0553_95051_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/8a4ed5e8-44aa-43bc-b5fc-46ba4787e6e9_95051_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/5/7238c865-02c8-4baf-9442-5ae87dfba48d_95051_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/5/b517fe71-ad0e-46a8-8428-064f70205e15_95051_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/13/b3c70faa-0e98-4689-99c4-9e5df8e30caa_95051_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "55",
+        "sku_quantity_with_combo": "55 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 55,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "4700BC Protein Pops Makhana Hawaiian Barbeque",
+    "brand": "4700BC",
+    "brand_id": "3b4d3347a1a7272415171f74c966cb1f8ee7b160",
+    "product_id": "WXXJOYP1WR",
+    "variations": [
+      {
+        "id": "DHXV8924FY",
+        "display_name": "4700BC Protein Pops Makhana Hawaiian Barbeque",
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 59,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "4700BC",
+        "brand_id": "3b4d3347a1a7272415171f74c966cb1f8ee7b160",
+        "category": "Namkeens",
+        "super_category": "Munchies And Snacks",
+        "sub_category_l3": "Makhana",
+        "sub_category_l4": "Barbeque",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Protein Pops Makhana Hawaiian Barbeque",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/2/9181f65a-3aa3-48cc-83cb-8cd21f047b54_28787_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/2/9f6225b2-5510-450d-a874-a6760c1186d0_28787_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/2/4fb7bf07-a011-4163-9936-3b9fc3058782_28787_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "20",
+        "sku_quantity_with_combo": "20 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 28,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Mom Meal Of The Moment Roasted Makhana Himalayan Salt N Pepper Mix",
+    "brand": "Mom Meal Of The Moment",
+    "brand_id": "0cd4e62880710cecdf1fcb15b66c3cbe06e493f5",
+    "product_id": "AX7IWWTFM5",
+    "variations": [
+      {
+        "id": "MB7JZABCF1",
+        "display_name": "Mom Meal Of The Moment Roasted Makhana Himalayan Salt N Pepper Mix",
+        "price": {
+          "mrp": 140,
+          "store_price": 140,
+          "offer_price": 126,
+          "unit_level_price": "",
+          "discount_value": 14
+        },
+        "brand": "Mom Meal Of The Moment",
+        "brand_id": "0cd4e62880710cecdf1fcb15b66c3cbe06e493f5",
+        "category": "Namkeens",
+        "super_category": "Munchies And Snacks",
+        "sub_category_l3": "Makhana",
+        "sub_category_l4": "Salt",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Roasted Makhana Himalayan Salt N Pepper Mix",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/17/37fd3dcd-6098-45c2-afce-ab86bf0255ba_4507_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/17/bf43378f-20d9-48ab-b58c-30e126cff896_4507_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/17/5ca5b7a4-6044-41b6-bb0e-e756eecfdf65_4507_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/17/0370c040-1c52-46ba-bae2-4830486b756a_4507_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "52",
+        "sku_quantity_with_combo": "52 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 52,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Farmley Party Mix Protein Rich Snack",
+    "brand": "Farmley",
+    "brand_id": "f64ef856e990a5a9a8e6e6bb14d89ae5e4b4e536",
+    "product_id": "2X37VQ9H9K",
+    "variations": [
+      {
+        "id": "77ORARYYFS",
+        "display_name": "Farmley Party Mix Protein Rich Snack",
+        "price": {
+          "mrp": 79,
+          "store_price": 79,
+          "offer_price": 64,
+          "unit_level_price": "106.7/100 g",
+          "discount_value": 15
+        },
+        "brand": "Farmley",
+        "brand_id": "f64ef856e990a5a9a8e6e6bb14d89ae5e4b4e536",
+        "category": "Namkeens",
+        "super_category": "Munchies And Snacks",
+        "sub_category_l3": "Nuts",
+        "sub_category_l4": "Cocktail Nuts",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Party Mix Protein Rich Snack",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/1f374235-5477-44e1-91b5-3bbf1c891781_42570_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/7f8c286a-d8ba-4402-bccb-8b9250cd745b_42570_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/b99dd9be-21e3-4250-a082-9d1f5e459f99_42570_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/c9b2fd1c-c36d-42d2-aa13-8ae0e00f9895_42570_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/1f928d4d-69b8-4d02-bc8c-a7363d801608_42570_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/23/77270fe2-1f29-465b-aea5-27df8c182393_42570_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "60",
+        "sku_quantity_with_combo": "60 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 60,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "4700BC Protein Pops Makhana Sea Salt Pouch",
+    "brand": "4700BC",
+    "brand_id": "3b4d3347a1a7272415171f74c966cb1f8ee7b160",
+    "product_id": "GPPHLC6ODV",
+    "variations": [
+      {
+        "id": "KSLMGQ8LPM",
+        "display_name": "4700BC Protein Pops Makhana Sea Salt Pouch",
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 59,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "4700BC",
+        "brand_id": "3b4d3347a1a7272415171f74c966cb1f8ee7b160",
+        "category": "Namkeens",
+        "super_category": "Munchies And Snacks",
+        "sub_category_l3": "Makhana",
+        "sub_category_l4": "Salt",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Protein Pops Makhana Sea Salt Pouch",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/2/20ee1577-5df7-49a7-85e2-806e1d81a18b_28788_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/2/1247d61d-51ee-4086-b67f-719a4c4f0898_28788_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/2/26baf817-4aed-4d59-8843-5d6dbbc9c289_28788_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "20",
+        "sku_quantity_with_combo": "20 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 28,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Let's Try Salted Peanuts (Fasting Special)",
+    "brand": "Let's Try",
+    "brand_id": "760fe790858298616c52f2c24c5675108d391473",
+    "product_id": "W2PGIAZHAF",
+    "variations": [
+      {
+        "id": "9Z3AU91D0O",
+        "display_name": "Let's Try Salted Peanuts (Fasting Special)",
+        "price": {
+          "mrp": 88,
+          "store_price": 88,
+          "offer_price": 75,
+          "unit_level_price": "",
+          "discount_value": 13
+        },
+        "brand": "Let's Try",
+        "brand_id": "760fe790858298616c52f2c24c5675108d391473",
+        "category": "Nuts and Makhana",
+        "super_category": "Munchies And Snacks",
+        "sub_category_l3": "Nuts",
+        "sub_category_l4": "Salted Peanut",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Salted Peanuts (Fasting Special)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/1/0d999a5b-ce36-4478-bca2-4837283d6c46_50423_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/1/3d95b384-aba2-47cb-b8b8-6c3b4c8933bd_50423_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/1/3acd4a38-660a-4a80-bee3-ffe91c72a555_50423_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "160",
+        "sku_quantity_with_combo": "160 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 160,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Chheda's Farali Potato Chivda",
+    "brand": "Chheda's",
+    "brand_id": "cdacd1e9c65330a549431883b5b222c6e54ef033",
+    "product_id": "ENNT8OFZZZ",
+    "variations": [
+      {
+        "id": "ZXXRR0Y45D",
+        "display_name": "Chheda's Farali Potato Chivda",
+        "price": {
+          "mrp": 90,
+          "store_price": 90,
+          "offer_price": 73,
+          "unit_level_price": "",
+          "discount_value": 17
+        },
+        "brand": "Chheda's",
+        "brand_id": "cdacd1e9c65330a549431883b5b222c6e54ef033",
+        "category": "Namkeens",
+        "super_category": "Munchies And Snacks",
+        "sub_category_l3": "Chiwda",
+        "sub_category_l4": "Falhari Chiwda",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Farali Potato Chivda",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/29/4a846eb8-839c-4a8b-8116-f2eb0bf3da81_7127.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/19/8d51ab53-bf7d-4c53-a61f-a2ffbebc25a3_namkeenandsavourysnacks_B2QTQ2TVGS_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/19/4c05703f-f840-4841-a5b8-296614f8f784_namkeenandsavourysnacks_B2QTQ2TVGS_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "170",
+        "sku_quantity_with_combo": "170 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -941,7 +946,13 @@
       {
         "id": "P5NWW1TCS1",
         "display_name": "Farmley Himalayan Salted (Sendha Namak) Makhana Roasted In Olive Oil",
-        "price_mrp": 120,
+        "price": {
+          "mrp": 120,
+          "store_price": 120,
+          "offer_price": 99,
+          "unit_level_price": "",
+          "discount_value": 21
+        },
         "brand": "Farmley",
         "brand_id": "f64ef856e990a5a9a8e6e6bb14d89ae5e4b4e536",
         "category": "Namkeens",
@@ -964,6 +975,7 @@
         "unit_of_measure": "g",
         "weight_in_grams": 51,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -975,32 +987,15 @@
     "product_id": "HM2MRGOP73",
     "variations": [
       {
-        "id": "MIKD9SHA7T",
-        "display_name": "Farmley B2G1 Classic Salted Roasted Cashews",
-        "price_mrp": 297,
-        "brand": "Farmley",
-        "brand_id": "f64ef856e990a5a9a8e6e6bb14d89ae5e4b4e536",
-        "category": "Namkeens",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Nuts",
-        "sub_category_l4": "Cashew",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "B2G1 Classic Salted Roasted Cashews",
-        "images": [
-          "df11f02a4dd89cca4e96af5ad8191140"
-        ],
-        "images_v2": [],
-        "quantity": "3",
-        "sku_quantity_with_combo": "36 g x 3",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 108,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      },
-      {
         "id": "C674WJU5II",
         "display_name": "Farmley Classic Salted Roasted Cashews",
-        "price_mrp": 99,
+        "price": {
+          "mrp": 99,
+          "store_price": 99,
+          "offer_price": 88,
+          "unit_level_price": "244.4/100 g",
+          "discount_value": 11
+        },
         "brand": "Farmley",
         "brand_id": "f64ef856e990a5a9a8e6e6bb14d89ae5e4b4e536",
         "category": "Namkeens",
@@ -1023,41 +1018,7 @@
         "unit_of_measure": "g",
         "weight_in_grams": 36,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Mr Makhana Piri Piri Paradise",
-    "brand": "Mr Makhana",
-    "brand_id": "3c1c2893fe7f750444a70a92df6ad076096ab4d6",
-    "product_id": "RRHLAL1278",
-    "variations": [
-      {
-        "id": "P632162917",
-        "display_name": "Mr Makhana Piri Piri Paradise",
-        "price_mrp": 150,
-        "brand": "Mr Makhana",
-        "brand_id": "3c1c2893fe7f750444a70a92df6ad076096ab4d6",
-        "category": "Nuts and Makhana",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Makhana",
-        "sub_category_l4": "Peri Peri",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Piri Piri Paradise",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/fa5553a7-4811-4a86-b051-f9e9c157cc62_44830_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/737fd072-d41f-4de0-8014-26a28e8a4250_44830_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/10cd0886-70b1-4544-91d1-0ba5f917c5e7_44830_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/ce82a4ae-39c5-44f7-96bb-dd498b3666e0_44830_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/13/83864787-51d9-4ddb-9fdd-6506597e8bbb_44830_5.png"
-        ],
-        "images_v2": [],
-        "quantity": "55",
-        "sku_quantity_with_combo": "55 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 55,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -1069,32 +1030,15 @@
     "product_id": "O0PXSUP8VW",
     "variations": [
       {
-        "id": "08Z4U6T1MA",
-        "display_name": "Chheda's Golden Potato Chips",
-        "price_mrp": 180,
-        "brand": "Chheda's",
-        "brand_id": "cdacd1e9c65330a549431883b5b222c6e54ef033",
-        "category": "Chips",
-        "super_category": "Munchies And Snacks",
-        "sub_category_l3": "Potato Chips",
-        "sub_category_l4": "Golden",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Golden Potato Chips",
-        "images": [
-          "6303b2e7bc6128dcd79fe0f85266dbf0"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "170 g x 2",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 340,
-        "volumetric_weight": 0,
-        "filters_tag": "Combos"
-      },
-      {
         "id": "5M5KHTUM7A",
         "display_name": "Chheda's Golden Potato Chips",
-        "price_mrp": 90,
+        "price": {
+          "mrp": 90,
+          "store_price": 90,
+          "offer_price": 81,
+          "unit_level_price": "47.6/100 g",
+          "discount_value": 9
+        },
         "brand": "Chheda's",
         "brand_id": "cdacd1e9c65330a549431883b5b222c6e54ef033",
         "category": "Chips",
@@ -1114,6 +1058,7 @@
         "unit_of_measure": "g",
         "weight_in_grams": 170,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -1127,7 +1072,13 @@
       {
         "id": "RNROJ6RBNV",
         "display_name": "Chitale Bandhu Potato Chivda",
-        "price_mrp": 135,
+        "price": {
+          "mrp": 135,
+          "store_price": 135,
+          "offer_price": 135,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
         "brand": "Chitale Bandhu",
         "brand_id": "19463d51d878166fd6b23dc3a0d86080fb833f76",
         "category": "Namkeens",
@@ -1147,6 +1098,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 200,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1160,7 +1112,13 @@
       {
         "id": "1R8CN7Z5KB",
         "display_name": "Let's Try Lite Snacks Sticks (Fasting Special)",
-        "price_mrp": 60,
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 54,
+          "unit_level_price": "",
+          "discount_value": 6
+        },
         "brand": "Let's Try",
         "brand_id": "760fe790858298616c52f2c24c5675108d391473",
         "category": "Namkeen Snacks",
@@ -1180,6 +1138,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 60,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1193,7 +1152,13 @@
       {
         "id": "9XJK8R4GMF",
         "display_name": "Chitale Bandhu Lite Chivada",
-        "price_mrp": 80,
+        "price": {
+          "mrp": 80,
+          "store_price": 80,
+          "offer_price": 80,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
         "brand": "Chitale Bandhu",
         "brand_id": "19463d51d878166fd6b23dc3a0d86080fb833f76",
         "category": "Namkeens",
@@ -1213,6 +1178,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 200,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1226,7 +1192,13 @@
       {
         "id": "IO1QX9MJKQ",
         "display_name": "Mr Makhana Pudina Party",
-        "price_mrp": 150,
+        "price": {
+          "mrp": 150,
+          "store_price": 150,
+          "offer_price": 150,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
         "brand": "Mr Makhana",
         "brand_id": "3c1c2893fe7f750444a70a92df6ad076096ab4d6",
         "category": "Nuts and Makhana",
@@ -1248,6 +1220,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 55,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1261,7 +1234,13 @@
       {
         "id": "MXRIFCG7U4",
         "display_name": "Farmley Black Pepper Roasted Makhana",
-        "price_mrp": 239,
+        "price": {
+          "mrp": 239,
+          "store_price": 239,
+          "offer_price": 196,
+          "unit_level_price": "",
+          "discount_value": 43
+        },
         "brand": "Farmley",
         "brand_id": "f64ef856e990a5a9a8e6e6bb14d89ae5e4b4e536",
         "category": "Namkeens",
@@ -1284,6 +1263,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 77,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1297,7 +1277,13 @@
       {
         "id": "8ZKGPGXIU2",
         "display_name": "Haldiram's Nagpur Namkeen Phalhari Chiwda",
-        "price_mrp": 50,
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 50,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
         "brand": "Haldiram's",
         "brand_id": "ef3081d1b3d415e5f10c1c7cc34bb3b939645667",
         "category": "Namkeens",
@@ -1317,6 +1303,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 200,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1330,7 +1317,13 @@
       {
         "id": "THZRZ92MKG",
         "display_name": "Chitale Bandhu Maka Chivda",
-        "price_mrp": 90,
+        "price": {
+          "mrp": 90,
+          "store_price": 90,
+          "offer_price": 90,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
         "brand": "Chitale Bandhu",
         "brand_id": "19463d51d878166fd6b23dc3a0d86080fb833f76",
         "category": "Namkeens",
@@ -1350,6 +1343,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 200,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]

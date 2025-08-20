@@ -1,0 +1,50 @@
+{
+  "product_name": "Millé Millét Pancake Mix (No Sugar, No Maida)",
+  "brand": "Millé",
+  "barcode": null,
+  "net_quantity_value": 250.0,
+  "net_quantity_unit": "g",
+  "nutrition_info_table": [
+    {
+      "nutrient": "protein",
+      "value": 17.0,
+      "unit": "g",
+      "rda_percentage": null
+    },
+    {
+      "nutrient": "dietary_fiber",
+      "value": 8.0,
+      "unit": "g",
+      "rda_percentage": null
+    }
+  ],
+  "nutrition_serving_value": 100.0,
+  "nutrition_serving_unit": "g",
+  "approx_serves_per_pack": null,
+  "ingredients_string": "No ingredients list visible on packaging.",
+  "parsed_ingredients": [],
+  "preservatives": [],
+  "ins_numbers_found": [],
+  "veg_non_veg": "VEG",
+  "additives": [],
+  "allergens": [],
+  "alarming_ingredients": [],
+  "health_rating": 88,
+  "processing_level": "PROCESSED_FOOD",
+  "positive_health_aspects": [
+    "Good source of plant protein",
+    "High in dietary fiber",
+    "No added sugar",
+    "No maida (refined flour)",
+    "No wheat"
+  ],
+  "negative_health_aspects": [
+    "Specific ingredient details not available for full assessment."
+  ],
+  "storage_instructions": null,
+  "cooking_instructions": null,
+  "country_of_origin": null,
+  "certifications": [
+    "Vegetarian (Indian Green Dot)"
+  ]
+}

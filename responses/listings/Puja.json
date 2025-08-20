@@ -1,33 +1,84 @@
 [
   {
-    "display_name": "eCraftIndia Shree Vishnu Chalisa Book",
-    "brand": "eCraftIndia",
-    "brand_id": "eefbb0410d417bb815736715e5560e99e2531fb0",
-    "product_id": "7HWLWJSHY4",
+    "display_name": "Happy Tyohaar Aasan To Place Ganpati Idol (18x18 Inch)",
+    "brand": "Happy Tyohaar",
+    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+    "product_id": "KPSKW9XHXR",
     "variations": [
       {
-        "id": "817K2BHYJX",
-        "display_name": "eCraftIndia Shree Vishnu Chalisa Book",
-        "price_mrp": 59,
-        "brand": "eCraftIndia",
-        "brand_id": "eefbb0410d417bb815736715e5560e99e2531fb0",
+        "id": "HB26Z43TRZ",
+        "display_name": "Happy Tyohaar Aasan To Place Ganpati Idol (18x18 Inch)",
+        "price": {
+          "mrp": 299,
+          "store_price": 299,
+          "offer_price": 135,
+          "unit_level_price": "",
+          "discount_value": 164
+        },
+        "brand": "Happy Tyohaar",
+        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
         "category": "Pooja Needs",
         "super_category": "Home and Kitchen Needs",
         "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Pooja Books",
+        "sub_category_l4": "Deity Idols and Figurines",
         "sub_category_l5": "Medium",
-        "product_name_without_brand": "Shree Vishnu Chalisa Book",
+        "product_name_without_brand": "Aasan To Place Ganpati Idol (18x18 Inch)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/4/23/21e44e69-79c9-4ba9-a8a5-f72da43db52b_60479_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/2/95bd51dd-c74a-41d8-8cdb-4c97e5e0d7df_poojaneeds_C78U2H7KRI_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/2/3ee06ce2-ba3c-4a96-992e-463a53342b88_poojaneeds_C78U2H7KRI_AL2.png"
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/bab090ce-3c09-43df-ba80-5d554a900aa8_620571_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/84ee4ed6-823d-477d-90be-6838c189ad07_620571_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/060f443d-9a81-4f12-b9dc-fd3c751fb308_620571_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/a7da0a2a-4cb7-4b51-a703-e988b61b600f_620571_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/d36cad9d-dfef-452a-a4ca-907a25d10a5d_620571_5.png"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 Piece",
         "unit_of_measure": "Piece",
-        "weight_in_grams": 1,
+        "weight_in_grams": 100,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "DiaCraft Yellow Pearl Laddu Gopal Poshak - Size 3",
+    "brand": "Diacraft",
+    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
+    "product_id": "IW840DA0XY",
+    "variations": [
+      {
+        "id": "1VBJITP98C",
+        "display_name": "DiaCraft Yellow Pearl Laddu Gopal Poshak - Size 3",
+        "price": {
+          "mrp": 219,
+          "store_price": 219,
+          "offer_price": 103,
+          "unit_level_price": "",
+          "discount_value": 116
+        },
+        "brand": "Diacraft",
+        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": null,
+        "product_name_without_brand": "DiaCraft Yellow Pearl Laddu Gopal Poshak - Size 3",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/76ee44f6-22c7-4d1e-b75d-3d057d90ad68_970573_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/6a9a4439-b525-437d-a04f-22c0c5534ca7_970573_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/cbd07e0b-f331-45d6-a883-6c8a3928118e_970573_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/bd955498-72e7-4ba6-8b1d-cdfdef304339_970573_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/53ffe78d-2645-4ae6-99ab-93a7fa809aca_970573_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 22,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -41,7 +92,13 @@
       {
         "id": "IVC01POBFU",
         "display_name": "Shubhkart Nitya Ganesha Sitting On Singhasan 15.8 Cms",
-        "price_mrp": 599,
+        "price": {
+          "mrp": 599,
+          "store_price": 599,
+          "offer_price": 419,
+          "unit_level_price": "",
+          "discount_value": 180
+        },
         "brand": "Shubhkart",
         "brand_id": "d8219e015514a231c73b3234e2eb2828200201de",
         "category": "Pooja Needs",
@@ -64,6 +121,1304 @@
         "unit_of_measure": "Piece",
         "weight_in_grams": 260,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Happy Tyohaar Srimad Bhagwatgita",
+    "brand": "Happy Tyohaar",
+    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+    "product_id": "7G9E0P3IYK",
+    "variations": [
+      {
+        "id": "ZT6YYT1DKK",
+        "display_name": "Happy Tyohaar Srimad Bhagwatgita",
+        "price": {
+          "mrp": 399,
+          "store_price": 399,
+          "offer_price": 203,
+          "unit_level_price": "",
+          "discount_value": 196
+        },
+        "brand": "Happy Tyohaar",
+        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Pooja Books",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Srimad Bhagwatgita",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/365310e2-86d3-4575-9bac-f7dbc352a1a5_130991_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/e9ba8430-6ac6-4f50-81fa-d01023171126_130991_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/216558aa-e04b-4a71-872f-6db59f32ffcb_130991_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/adfb7b4a-a4fe-4af9-bfe0-e25abdcd8ff3_130991_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/11/2f1bd6bb-9772-4fe3-bff2-ccd5580bfb8c_130991_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Happy Tyohaar Lakshami Ganesh Idols",
+    "brand": "Happy Tyohaar",
+    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+    "product_id": "X6U4BSIBRO",
+    "variations": [
+      {
+        "id": "9J9M47UTAS",
+        "display_name": "Happy Tyohaar Lakshami Ganesh Idols",
+        "price": {
+          "mrp": 249,
+          "store_price": 249,
+          "offer_price": 149,
+          "unit_level_price": "",
+          "discount_value": 100
+        },
+        "brand": "Happy Tyohaar",
+        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Lakshami Ganesh Idols",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/9a5acb96-c0de-4d8b-9fc4-aa3332003b94_485577_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/1c44910e-55e5-44a5-8ae2-eb722743e637_485577_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/d03eb6cc-1c45-4cf0-ab73-2230d4fcb088_485577_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/11/cf451d04-139c-4bc5-8659-021a7e651da2_485577_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/11/998561f6-1b59-4e0d-9c9d-a82c48ff4bf8_485577_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Hanuman Chalisa- Hindi",
+    "brand": "Unbranded",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "6Y8WZEXHJ7",
+    "variations": [
+      {
+        "id": "INUL56CAD4",
+        "display_name": "Hanuman Chalisa- Hindi",
+        "price": {
+          "mrp": 99,
+          "store_price": 99,
+          "offer_price": 99,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Unbranded",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Pooja Books",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Hanuman Chalisa- Hindi",
+        "images": [
+          "65f5153fe3eabae4f844eea70bff72b8",
+          "a12d5e792879f06ebabe2912060ed0e2",
+          "49f5f09ef1aa87675a64adf25c1ca0ee",
+          "5c4fe160a0f0e9f4a893fa7a0f23c2cb",
+          "3e6ff68b7a41a170163195457306ceae",
+          "05db907226695f78022d847522180706"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "DiaCraft Peacock Glory Singhasan",
+    "brand": "Diacraft",
+    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
+    "product_id": "E12HU0QSPE",
+    "variations": [
+      {
+        "id": "GKYFCK5SKK",
+        "display_name": "DiaCraft Peacock Glory Singhasan",
+        "price": {
+          "mrp": 899,
+          "store_price": 899,
+          "offer_price": 433,
+          "unit_level_price": "",
+          "discount_value": 466
+        },
+        "brand": "Diacraft",
+        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": null,
+        "product_name_without_brand": "DiaCraft Peacock Glory Singhasan",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/14f8fe2e-ba59-496c-9ff4-552d6cf2c6a3_296685_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/8fc1f459-ced0-43e2-98e0-5d68d494da0c_296685_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/dcd3da47-7e47-4931-9ea6-7a57beafb881_296685_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/dcb20d84-b0b6-49de-b2ac-87c90658b3e9_296685_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/784aae92-1548-410c-8a82-8f126ff87555_296685_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/706629ec-6012-463a-96bb-1e8cd264f1f9_296685_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 50,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Shri Samriddhi Enterprises Mata Chunari For Pooja (1.5M X 0.5M)",
+    "brand": "Shri Samriddhi",
+    "brand_id": "bb5d19f9a1a28bb3d62d1c212a4636fcf3d267ce",
+    "product_id": "YUHCGHMTX4",
+    "variations": [
+      {
+        "id": "NUNOR6CSHF",
+        "display_name": "Shri Samriddhi Enterprises Mata Chunari For Pooja (1.5M X 0.5M)",
+        "price": {
+          "mrp": 199,
+          "store_price": 199,
+          "offer_price": 80,
+          "unit_level_price": "",
+          "discount_value": 119
+        },
+        "brand": "Shri Samriddhi",
+        "brand_id": "bb5d19f9a1a28bb3d62d1c212a4636fcf3d267ce",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Enterprises Mata Chunari For Pooja (1.5M X 0.5M)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/6/11/f6f442d0-ea14-4934-b9ac-5fcf4476f082_poojaneeds_3OJMWQ2Q6A_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/12/741a7400-475a-48dc-a03b-95859704ae41_poojaneeds_3OJMWQ2Q6A_AL1.jpeg",
+          "NI_CATALOG/IMAGES/CIW/2024/6/12/18669da1-f46e-4797-ac4b-f413b68a6c15_poojaneeds_3OJMWQ2Q6A_AL2.jpeg"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Cycle Pure Traditional Singhasan for Bal Gopal | Handcrafted Mini Throne for Home Mandir",
+    "brand": "Cycle",
+    "brand_id": "32a2dc3d45c1bc16d561a5b5c9af3d45fac5caf7",
+    "product_id": "FTV46329OR",
+    "variations": [
+      {
+        "id": "YQ7N4MN4GO",
+        "display_name": "Cycle Pure Traditional Singhasan for Bal Gopal | Handcrafted Mini Throne for Home Mandir",
+        "price": {
+          "mrp": 349,
+          "store_price": 349,
+          "offer_price": 329,
+          "unit_level_price": "",
+          "discount_value": 20
+        },
+        "brand": "Cycle",
+        "brand_id": "32a2dc3d45c1bc16d561a5b5c9af3d45fac5caf7",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Pure Traditional Singhasan for Bal Gopal | Handcrafted Mini Throne for Home Mandir",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/798925b0-d27d-40f9-83a8-98381f45aa96_666682_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/088b67ee-54b1-416b-81c9-2f8f63135a1f_666682_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/58269bb1-ca0e-4831-a244-c7e537e82607_666682_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/9d4d76fd-b493-4bd5-bcbc-8a854149ecd6_666682_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/7ec1be40-ed1a-4183-ac5c-84dc1606161b_666682_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/bac918e9-0bef-4236-bc18-f4dce79c930a_666682_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 266,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "DiaCraft Divine Mayur Singhasan",
+    "brand": "Diacraft",
+    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
+    "product_id": "I064B2LEE7",
+    "variations": [
+      {
+        "id": "X0MUGBHRBF",
+        "display_name": "DiaCraft Divine Mayur Singhasan",
+        "price": {
+          "mrp": 1199,
+          "store_price": 1199,
+          "offer_price": 576,
+          "unit_level_price": "",
+          "discount_value": 623
+        },
+        "brand": "Diacraft",
+        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": null,
+        "product_name_without_brand": "DiaCraft Divine Mayur Singhasan",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/69313c21-2ce8-4630-bbd1-bc4bb9a344b8_484424_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/456e7e2c-e366-442d-943a-b094b46deff4_484424_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/d0a28e63-2f6a-4c69-92ab-034eb4c4902f_484424_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/d6f980a3-04a2-47f2-bcb3-90518d65baed_484424_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/44f5aabc-8e31-42e1-8264-68c18f4efa2b_484424_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/c12e0e7f-a45a-4e7e-88b7-60930240e3e5_484424_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 50,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Cycle Pure Janmashtami Katha Book | Vrat Vidhi, Aarti & Katha for Puja and Worship | Hindi",
+    "brand": "Cycle",
+    "brand_id": "32a2dc3d45c1bc16d561a5b5c9af3d45fac5caf7",
+    "product_id": "3DEULN1UOR",
+    "variations": [
+      {
+        "id": "DUZ2Y9IKUW",
+        "display_name": "Cycle Pure Janmashtami Katha Book | Vrat Vidhi, Aarti & Katha for Puja and Worship | Hindi",
+        "price": {
+          "mrp": 49,
+          "store_price": 49,
+          "offer_price": 39,
+          "unit_level_price": "",
+          "discount_value": 10
+        },
+        "brand": "Cycle",
+        "brand_id": "32a2dc3d45c1bc16d561a5b5c9af3d45fac5caf7",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Pooja Books",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Pure Janmashtami Katha Book | Vrat Vidhi, Aarti & Katha for Puja and Worship | Hindi",
+        "images": [
+          "NI_CATALOG/IMAGES/ciw/2025/8/11/52c3daf4-2dec-40b2-a6e4-3a65e84a8012_NPI-021070_1_20250811_133939.png",
+          "NI_CATALOG/IMAGES/ciw/2025/8/11/77144cf9-f0a2-4431-978b-2b93f712ab36_NPI-021070_2_20250811_133940.png",
+          "NI_CATALOG/IMAGES/ciw/2025/8/11/1e372c85-ade2-4981-8169-20928b4f87db_NPI-021070_3_20250811_133940.png",
+          "NI_CATALOG/IMAGES/ciw/2025/8/11/9859f07f-e528-41ae-afb7-ab7ebfc38058_NPI-021070_4_20250811_133941.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 50,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "SATVIK Lakshami Ganesh Idols",
+    "brand": "SATVIK",
+    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
+    "product_id": "0XMILCFYZG",
+    "variations": [
+      {
+        "id": "62X2SQ2KA8",
+        "display_name": "SATVIK Lakshami Ganesh Idols",
+        "price": {
+          "mrp": 249,
+          "store_price": 249,
+          "offer_price": 162,
+          "unit_level_price": "",
+          "discount_value": 87
+        },
+        "brand": "SATVIK",
+        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Lakshami Ganesh Idols",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/60c04ae3-68a2-41af-88ca-f448f99aa69e_396989_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/f58094d1-fb28-4962-8a38-c97e1fbf5039_396989_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/34236605-dfbb-464e-ab78-8ec4ed7674f2_396989_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/46e441f7-e677-42ea-853c-5135d4202cd2_396989_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/9b966123-202f-4ab2-8c19-f0353b93890d_396989_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/c1d8cc69-6a1d-4663-b026-ab41b318524f_396989_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 101,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Happy Tyohaar Laddu Gopal Poshak Size 0 - Assorted",
+    "brand": "Happy Tyohaar",
+    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+    "product_id": "5UK61SONR1",
+    "variations": [
+      {
+        "id": "6NMIIAMPYM",
+        "display_name": "Happy Tyohaar Laddu Gopal Poshak Size 0 - Assorted",
+        "price": {
+          "mrp": 49,
+          "store_price": 49,
+          "offer_price": 30,
+          "unit_level_price": "",
+          "discount_value": 19
+        },
+        "brand": "Happy Tyohaar",
+        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Laddu Gopal Poshak Size 0 - Assorted",
+        "images": [
+          "NI_CATALOG/IMAGES/ciw/2025/8/12/82c26a57-a4ac-44c7-b019-7a5b101f7117_NPI-022204_1_20250812_065511.png",
+          "NI_CATALOG/IMAGES/ciw/2025/8/12/42465f76-6cbb-41e5-81da-71698c412d7f_NPI-022204_2_20250812_065512.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 2",
+    "brand": "Diacraft",
+    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
+    "product_id": "0HQX92SPST",
+    "variations": [
+      {
+        "id": "4I13I50ATO",
+        "display_name": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 2",
+        "price": {
+          "mrp": 199,
+          "store_price": 199,
+          "offer_price": 92,
+          "unit_level_price": "",
+          "discount_value": 107
+        },
+        "brand": "Diacraft",
+        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": null,
+        "product_name_without_brand": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 2",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/c6fe8041-22a8-4c32-bbf1-f2305c9001ec_272618_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/510617c4-65bc-45d7-ab33-978403563e04_272618_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/39bab7c0-47bb-4712-8f58-b497b3afc539_272618_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/e795b18d-e7de-4ecd-b95e-f20cf432077c_272618_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/1146fd3e-d67e-4cc2-9e4b-591026d9cc48_272618_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 18,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "SATVIK Sunderkand",
+    "brand": "SATVIK",
+    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
+    "product_id": "JCEAJ0H7J1",
+    "variations": [
+      {
+        "id": "LASVHTI1OH",
+        "display_name": "SATVIK Sunderkand",
+        "price": {
+          "mrp": 125,
+          "store_price": 125,
+          "offer_price": 79,
+          "unit_level_price": "",
+          "discount_value": 46
+        },
+        "brand": "SATVIK",
+        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Pooja Books",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Sunderkand",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/5/b263ae85-3eb0-4a8b-a1d3-7cc5137ee634_poojaneeds_VA9478OQG6_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/5/361ad358-ed58-4fc8-bb82-73b7f8cfd599_poojaneeds_VA9478OQG6_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/5/d872f302-778f-4660-8c6e-677714ecdf22_poojaneeds_VA9478OQG6_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/5/1d40035e-1afd-45a0-aeb0-6e5c9ed5dfb7_poojaneeds_VA9478OQG6_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/5/da0f19c8-3330-4a6b-81e0-493b80634c90_poojaneeds_VA9478OQG6_AL4.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 130,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "SATVIK Iron Hawan Kund (Medium Size)",
+    "brand": "SATVIK",
+    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
+    "product_id": "SSC4AAY5FV",
+    "variations": [
+      {
+        "id": "KBK5N0SSIQ",
+        "display_name": "SATVIK Iron Hawan Kund (Medium Size)",
+        "price": {
+          "mrp": 999,
+          "store_price": 999,
+          "offer_price": 619,
+          "unit_level_price": "",
+          "discount_value": 380
+        },
+        "brand": "SATVIK",
+        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Pooja Books",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Iron Hawan Kund (Medium Size)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/17/82efd34f-f980-4fd5-b07b-8ca84c4a2e47_poojaneeds_RKRBQNAXJ2_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/17/5811683c-62b7-4b76-adbc-d6020b1f7480_poojaneeds_RKRBQNAXJ2_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/17/1c902c55-e2f0-459a-ba17-9154ecfc7b39_poojaneeds_RKRBQNAXJ2_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/17/da349f7f-54ee-490b-a50e-d8036f0ce67a_poojaneeds_RKRBQNAXJ2_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/17/b38b9faa-fc78-4a2b-bfa6-bf66427138d5_poojaneeds_RKRBQNAXJ2_AL4.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 1100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 6",
+    "brand": "Diacraft",
+    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
+    "product_id": "4X0G9LK9M2",
+    "variations": [
+      {
+        "id": "I02WL36V32",
+        "display_name": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 6",
+        "price": {
+          "mrp": 419,
+          "store_price": 419,
+          "offer_price": 193,
+          "unit_level_price": "",
+          "discount_value": 226
+        },
+        "brand": "Diacraft",
+        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": null,
+        "product_name_without_brand": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 6",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/ebd86278-75a1-49a3-8322-78e9312670b9_323753_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/d82d2ee6-87a9-4730-92d1-4a721d5aeba5_323753_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/f53dd20e-39b7-44ef-ba82-1f53e60c7bc2_323753_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/3166c2d3-f140-4698-a493-8127da02d7a6_323753_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/cf46a276-4743-43d4-8c22-92ff5e61f7ea_323753_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 38,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Happy Tyohaar Durga Maa Idols",
+    "brand": "Happy Tyohaar",
+    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+    "product_id": "YJNCFVYEJM",
+    "variations": [
+      {
+        "id": "G96ZOWHN0I",
+        "display_name": "Happy Tyohaar Durga Maa Idols",
+        "price": {
+          "mrp": 599,
+          "store_price": 599,
+          "offer_price": 377,
+          "unit_level_price": "",
+          "discount_value": 222
+        },
+        "brand": "Happy Tyohaar",
+        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Durga Maa Idols",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/15/36d76ff7-e1a5-44fd-a18d-483944862dc5_189348_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/15/62fd93fe-eb47-43c0-ae96-a352dda4ecbd_189348_2.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "DiaCraft Yellow Pearl Laddu Gopal Poshak - Size 5",
+    "brand": "Diacraft",
+    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
+    "product_id": "E7OR1NRQPA",
+    "variations": [
+      {
+        "id": "UMQO3ULQF5",
+        "display_name": "DiaCraft Yellow Pearl Laddu Gopal Poshak - Size 5",
+        "price": {
+          "mrp": 349,
+          "store_price": 349,
+          "offer_price": 161,
+          "unit_level_price": "",
+          "discount_value": 188
+        },
+        "brand": "Diacraft",
+        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": null,
+        "product_name_without_brand": "DiaCraft Yellow Pearl Laddu Gopal Poshak - Size 5",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/7100ee99-bf99-427f-b29f-66f9fdf85e6b_162692_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/a8fd5c5c-6199-4db8-8876-d93cade52870_162692_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/7722c945-cdb0-4321-a6b7-023d7ca08f85_162692_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/2c24abfc-d4e7-4995-8673-cbfb82015776_162692_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/5a7c984a-939f-42fe-8ce0-534733ecf3e4_162692_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 33,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Shri Samriddhi Enterprises 55 Chalisa Pooja Book",
+    "brand": "Shri Samriddhi",
+    "brand_id": "bb5d19f9a1a28bb3d62d1c212a4636fcf3d267ce",
+    "product_id": "6KWIUPZT3U",
+    "variations": [
+      {
+        "id": "K4RDN9QCMZ",
+        "display_name": "Shri Samriddhi Enterprises 55 Chalisa Pooja Book",
+        "price": {
+          "mrp": 140,
+          "store_price": 140,
+          "offer_price": 99,
+          "unit_level_price": "",
+          "discount_value": 41
+        },
+        "brand": "Shri Samriddhi",
+        "brand_id": "bb5d19f9a1a28bb3d62d1c212a4636fcf3d267ce",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Pooja Books",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Enterprises 55 Chalisa Pooja Book",
+        "images": [
+          "19151b182cad4fe4bcaa53f2c3b7c02f",
+          "20cebd7d1b63ed97d35b3c46ce9f2cec"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "DiaCraft Yellow Pearl Laddu Gopal Poshak - Size 4",
+    "brand": "Diacraft",
+    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
+    "product_id": "L1EQKKK928",
+    "variations": [
+      {
+        "id": "7SVX5MLKFK",
+        "display_name": "DiaCraft Yellow Pearl Laddu Gopal Poshak - Size 4",
+        "price": {
+          "mrp": 269,
+          "store_price": 269,
+          "offer_price": 126,
+          "unit_level_price": "",
+          "discount_value": 143
+        },
+        "brand": "Diacraft",
+        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": null,
+        "product_name_without_brand": "DiaCraft Yellow Pearl Laddu Gopal Poshak - Size 4",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/3670577b-f057-4aef-8983-d0e18b1ac5e2_168735_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/cacf07cc-7d76-4518-863e-37fd4c1c5ed6_168735_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/6e581838-f7da-4a2a-a14e-9845cfc85d10_168735_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/78b19b96-3365-404f-9bfc-121b098c3fcf_168735_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/6878a233-3f1c-4c23-bf9e-1782600c5774_168735_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 28,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "SATVIK Premium Hanuman Chalisa Book",
+    "brand": "SATVIK",
+    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
+    "product_id": "8HHWO85EHT",
+    "variations": [
+      {
+        "id": "WQC96OAYDC",
+        "display_name": "SATVIK Premium Hanuman Chalisa Book",
+        "price": {
+          "mrp": 499,
+          "store_price": 499,
+          "offer_price": 284,
+          "unit_level_price": "",
+          "discount_value": 215
+        },
+        "brand": "SATVIK",
+        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Pooja Books",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Premium Hanuman Chalisa Book",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/6/13/bf7c8693-2dc3-4c90-a1e7-325ccec9fe55_poojaneeds_LM8B92H143_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/13/9f02a485-1bdd-41d6-9cae-9773749c0f62_poojaneeds_LM8B92H143_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/13/39ca9864-58db-480d-90d1-19f2ef2afb3f_poojaneeds_LM8B92H143_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/13/42059cd1-f345-41cb-9eee-73850e5f4853_poojaneeds_LM8B92H143_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/13/6c459b98-0a67-44f8-b536-82841b691c8c_poojaneeds_LM8B92H143_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/13/65b049e0-f74d-4a76-b9f3-1e3cb1ed67f7_poojaneeds_LM8B92H143_AL5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/13/8e014751-1753-4587-92b8-5ff2a693fbea_poojaneeds_LM8B92H143_AL6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 182,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Happy Tyohaar Sunderkand",
+    "brand": "Happy Tyohaar",
+    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+    "product_id": "HEA6HW4O8Z",
+    "variations": [
+      {
+        "id": "ICOM8Y166H",
+        "display_name": "Happy Tyohaar Sunderkand",
+        "price": {
+          "mrp": 149,
+          "store_price": 149,
+          "offer_price": 85,
+          "unit_level_price": "",
+          "discount_value": 64
+        },
+        "brand": "Happy Tyohaar",
+        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Pooja Books",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Sunderkand",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/ff76420e-e8cb-4f4b-842d-80cffbbe9edb_191374_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/4477d363-4511-4946-806a-2dfa160ec00e_191374_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/3c948754-e669-4c93-a8d8-8c4900b87857_191374_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/19f59d1c-59fc-4b5e-856a-0586003b4886_191374_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/c7d1c989-ec0c-43c3-ab0e-35a74be29e89_191374_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/ea3e3c38-de0c-4f3b-b07f-958a06f132f3_191374_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Happy Tyohaar Laddu Gopal Poshak Size 5 - Assorted",
+    "brand": "Happy Tyohaar",
+    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+    "product_id": "P2XPAT93TG",
+    "variations": [
+      {
+        "id": "JIK1W57WPB",
+        "display_name": "Happy Tyohaar Laddu Gopal Poshak Size 5 - Assorted",
+        "price": {
+          "mrp": 249,
+          "store_price": 249,
+          "offer_price": 162,
+          "unit_level_price": "",
+          "discount_value": 87
+        },
+        "brand": "Happy Tyohaar",
+        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Laddu Gopal Poshak Size 5 - Assorted",
+        "images": [
+          "NI_CATALOG/IMAGES/ciw/2025/8/12/65d61505-ce76-433c-b8cf-5fe5f5685ee8_NPI-022209_1_20250812_071552.png",
+          "NI_CATALOG/IMAGES/ciw/2025/8/12/7f2af92e-ad5a-41a9-8eae-82e6e03aa1ea_NPI-022209_2_20250812_071553.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Happy Tyohaar Laddu Gopal Poshak Size 3 - Assorted",
+    "brand": "Happy Tyohaar",
+    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+    "product_id": "4GWW345DZG",
+    "variations": [
+      {
+        "id": "ZQHCCT7001",
+        "display_name": "Happy Tyohaar Laddu Gopal Poshak Size 3 - Assorted",
+        "price": {
+          "mrp": 179,
+          "store_price": 179,
+          "offer_price": 114,
+          "unit_level_price": "",
+          "discount_value": 65
+        },
+        "brand": "Happy Tyohaar",
+        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Laddu Gopal Poshak Size 3 - Assorted",
+        "images": [
+          "NI_CATALOG/IMAGES/ciw/2025/8/12/c0b59cc9-65fc-4c9f-a6a9-7d9d7326bcf6_NPI-022207_1_20250812_070424.png",
+          "NI_CATALOG/IMAGES/ciw/2025/8/12/10547657-a2f3-4fb0-ba42-db9ba7f2de7a_NPI-022207_2_20250812_070425.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Happy Tyohaar Laddu Gopal Poshak Size 2 - Assorted",
+    "brand": "Happy Tyohaar",
+    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+    "product_id": "LBMARXFPVL",
+    "variations": [
+      {
+        "id": "82RPUDSPZ5",
+        "display_name": "Happy Tyohaar Laddu Gopal Poshak Size 2 - Assorted",
+        "price": {
+          "mrp": 139,
+          "store_price": 139,
+          "offer_price": 85,
+          "unit_level_price": "",
+          "discount_value": 54
+        },
+        "brand": "Happy Tyohaar",
+        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Laddu Gopal Poshak Size 2 - Assorted",
+        "images": [
+          "NI_CATALOG/IMAGES/ciw/2025/8/12/68124f56-00a0-4b84-8a95-be3b34b70c3a_NPI-022206_1_20250812_070130.png",
+          "NI_CATALOG/IMAGES/ciw/2025/8/12/c840d752-7197-4db2-9eb1-4bf553606fd6_NPI-022206_2_20250812_070131.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 4",
+    "brand": "Diacraft",
+    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
+    "product_id": "UFVCR6QQZB",
+    "variations": [
+      {
+        "id": "W8D5K43B91",
+        "display_name": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 4",
+        "price": {
+          "mrp": 279,
+          "store_price": 279,
+          "offer_price": 131,
+          "unit_level_price": "",
+          "discount_value": 148
+        },
+        "brand": "Diacraft",
+        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": null,
+        "product_name_without_brand": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 4",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/363a1d9e-f8ef-4b02-9b62-03914caf6330_816557_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/34e5e87b-4863-4087-a674-815d20e92b55_816557_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/e15d0115-8f0d-4114-b725-d5fc8f79b76e_816557_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/619a1887-f6f4-4ec9-897b-bd2ee66cc377_816557_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/12/27ca8674-7424-4a7a-af24-b315652545c9_816557_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 28,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Happy Tyohaar Shri Satyanarayan Vrat Katha",
+    "brand": "Happy Tyohaar",
+    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+    "product_id": "1Z3GZLJKH4",
+    "variations": [
+      {
+        "id": "S7YVCPK2IC",
+        "display_name": "Happy Tyohaar Shri Satyanarayan Vrat Katha",
+        "price": {
+          "mrp": 49,
+          "store_price": 49,
+          "offer_price": 26,
+          "unit_level_price": "",
+          "discount_value": 23
+        },
+        "brand": "Happy Tyohaar",
+        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Pooja Books",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Shri Satyanarayan Vrat Katha",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/60fd6408-f74a-47bf-9f0f-4a001295fb52_366133_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/ef2d5804-6be6-4750-bef0-a37b6fa34307_366133_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/b2faf1a1-d7a7-410a-a564-fe98ad3a2922_366133_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/a86a7b77-d817-4cf3-a46c-8b700f4ae839_366133_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/11/37a5ed2d-c453-4aed-85ba-cabd4da037a8_366133_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Shubhkart Brass Nitya Laxmi & Ganesh Murti With Diya 10.2 Cms",
+    "brand": "Shubhkart",
+    "brand_id": "d8219e015514a231c73b3234e2eb2828200201de",
+    "product_id": "WQCOQ5QGAX",
+    "variations": [
+      {
+        "id": "6OGQT0Y9L4",
+        "display_name": "Shubhkart Brass Nitya Laxmi & Ganesh Murti With Diya 10.2 Cms",
+        "price": {
+          "mrp": 499,
+          "store_price": 499,
+          "offer_price": 349,
+          "unit_level_price": "",
+          "discount_value": 150
+        },
+        "brand": "Shubhkart",
+        "brand_id": "d8219e015514a231c73b3234e2eb2828200201de",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Brass Nitya Laxmi & Ganesh Murti With Diya 10.2 Cms",
+        "images": [
+          "06768e4ccc36daba74256c52f916c757",
+          "e87bd4499f05ff7d9a01734ec597f7cc",
+          "593b0cf26425683f6dc082e555d11366",
+          "2781ab0373b33981d975f996f19e7957",
+          "6bf67e392dd83b476a2308ef2f9d53ce",
+          "257de86c3840d8c29735b14cd1d6e027"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 210,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "SATVIK 7 Inch Bhuvanpati Eco-Friendly Ganesha Idol",
+    "brand": "SATVIK",
+    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
+    "product_id": "Z74ZSSXIW4",
+    "variations": [
+      {
+        "id": "IHZCDVGPR6",
+        "display_name": "SATVIK 7 Inch Bhuvanpati Eco-Friendly Ganesha Idol",
+        "price": {
+          "mrp": 1499,
+          "store_price": 1499,
+          "offer_price": 629,
+          "unit_level_price": "",
+          "discount_value": 870
+        },
+        "brand": "SATVIK",
+        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": null,
+        "product_name_without_brand": "7 Inch Bhuvanpati Eco-Friendly Ganesha Idol",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/43a305d5-2feb-46f1-80ed-fad1a9d10fcc_918773_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/33e9304f-be11-4418-bbfb-643193bda76a_918773_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/aba72125-c3b6-4cef-b41f-243b0220bfea_918773_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/524d3b2a-aefa-4537-89a5-46e905c947d0_918773_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/b57d82ff-fd76-4eb8-8238-03205d5e18c4_918773_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/6d273b07-efbb-4526-935b-1b90e96fe705_550809_8.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/152a97c2-38c7-47c8-b61c-ab50c1684ca3_918773_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/4ada4de5-9aa2-47aa-a061-42c1a8533944_918773_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 9,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Aarti Sangrah- Hindi",
+    "brand": "",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "90T14SC5OW",
+    "variations": [
+      {
+        "id": "4HAFVUUCXU",
+        "display_name": "Aarti Sangrah- Hindi",
+        "price": {
+          "mrp": 75,
+          "store_price": 75,
+          "offer_price": 75,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Pooja Books",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Aarti Sangrah- Hindi",
+        "images": [
+          "264295f4bd30203aeb41203fbe62607e",
+          "3a344353ffbe23cd10912489c02bdd0f",
+          "32524de95b01ec665b1615cbc2a800c1"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Quace 7.5 Inch Durga Terracotta Idol – (blue)",
+    "brand": "Quace",
+    "brand_id": "260e5cb4af23604cbef199171fefbd1d6927e657",
+    "product_id": "E6XQ0CCF9I",
+    "variations": [
+      {
+        "id": "DZAMN1AYCV",
+        "display_name": "Quace 7.5 Inch Durga Terracotta Idol – (blue)",
+        "price": {
+          "mrp": 999,
+          "store_price": 999,
+          "offer_price": 999,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Quace",
+        "brand_id": "260e5cb4af23604cbef199171fefbd1d6927e657",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "7.5 Inch Durga Terracotta Idol – (blue)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/3/0b311fc1-929e-4946-b9d9-2f0ced4faf13_798328_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/3/b11fcfc4-59be-45d8-8d33-7877eb7233bb_798328_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/3/74f9c7bf-ecf6-464b-a8a5-b83a110fb41e_798328_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/3/c0e39495-15e2-41b6-a46d-af1308a18037_798328_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/3/78c5418e-46df-40fe-90dc-37f3775a769c_798328_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/3/d7510ce2-5886-4329-a530-39fd40f986b6_798328_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 600,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "SATVIK 4 Inch Adorable Colorful Bal Ganesha With Pagdi Idol",
+    "brand": "SATVIK",
+    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
+    "product_id": "P7PL3EFJRP",
+    "variations": [
+      {
+        "id": "8PLIMY14JP",
+        "display_name": "SATVIK 4 Inch Adorable Colorful Bal Ganesha With Pagdi Idol",
+        "price": {
+          "mrp": 999,
+          "store_price": 999,
+          "offer_price": 339,
+          "unit_level_price": "",
+          "discount_value": 660
+        },
+        "brand": "SATVIK",
+        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": null,
+        "product_name_without_brand": "4 Inch Adorable Colorful Bal Ganesha With Pagdi Idol",
+        "images": [
+          "NI_CATALOG/IMAGES/ciw/2025/7/18/77740559-cca8-4799-b1af-58bd2957e530_NPI-013469_1_20250718_031038.png",
+          "NI_CATALOG/IMAGES/ciw/2025/7/18/fb43f3b1-6610-4a49-b477-b8a2e9f2656a_NPI-013469_5_20250718_030508.png",
+          "NI_CATALOG/IMAGES/ciw/2025/7/18/3ec5bcb4-8acd-4082-878c-6526a11271c4_NPI-013469_8_20250718_031113.png",
+          "NI_CATALOG/IMAGES/ciw/2025/7/18/92e0d20e-fda1-4c63-b74e-01b6fd0d6588_NPI-013469_2_20250718_031039.png",
+          "NI_CATALOG/IMAGES/ciw/2025/7/18/06c8a06d-5b6a-4d3f-a5f7-03b5c1a9048f_NPI-013469_3_20250718_031039.png",
+          "NI_CATALOG/IMAGES/ciw/2025/7/18/6edfb9d0-f34e-4529-bd74-816e608748df_NPI-013469_4_20250718_031039.png",
+          "NI_CATALOG/IMAGES/ciw/2025/7/18/b8c530b1-cffd-4448-9e0d-c0ff27a26e51_NPI-013469_5_20250718_031040.png",
+          "NI_CATALOG/IMAGES/ciw/2025/7/18/f7cba710-f1e8-408b-ab80-e5f23005ca01_NPI-013469_6_20250718_030602.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 6,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "SATVIK 4 Inch Charming Colorful Bal Ganesha With Golden Mukut",
+    "brand": "SATVIK",
+    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
+    "product_id": "PTBM69ULLP",
+    "variations": [
+      {
+        "id": "7AV7ALDC29",
+        "display_name": "SATVIK 4 Inch Charming Colorful Bal Ganesha With Golden Mukut",
+        "price": {
+          "mrp": 999,
+          "store_price": 999,
+          "offer_price": 339,
+          "unit_level_price": "",
+          "discount_value": 660
+        },
+        "brand": "SATVIK",
+        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
+        "category": "Pooja Needs",
+        "super_category": "Home and Kitchen Needs",
+        "sub_category_l3": "Pooja Accessories",
+        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l5": null,
+        "product_name_without_brand": "4 Inch Charming Colorful Bal Ganesha With Golden Mukut",
+        "images": [
+          "NI_CATALOG/IMAGES/ciw/2025/7/18/8d62c51c-673e-4b44-b2d5-5e30625fd3cd_NPI-013467_1_20250718_030506.png",
+          "NI_CATALOG/IMAGES/ciw/2025/7/18/f7cba710-f1e8-408b-ab80-e5f23005ca01_NPI-013469_6_20250718_030602.png",
+          "NI_CATALOG/IMAGES/ciw/2025/7/18/fcb12b20-c930-429f-ad38-1dd6dea10675_NPI-013467_2_20250718_030507.png",
+          "NI_CATALOG/IMAGES/ciw/2025/7/18/1fbeea30-5413-40ea-a32f-caabcb5ba779_NPI-013467_3_20250718_030507.png",
+          "NI_CATALOG/IMAGES/ciw/2025/7/18/2efcb51f-bee9-46ef-a622-ded633a9c5bb_NPI-013467_4_20250718_030508.png",
+          "NI_CATALOG/IMAGES/ciw/2025/7/18/e71eb6a2-2f00-48e6-a9f7-e506968ffaae_NPI-013467_7_20250718_030508.png",
+          "NI_CATALOG/IMAGES/ciw/2025/7/18/fb43f3b1-6610-4a49-b477-b8a2e9f2656a_NPI-013469_5_20250718_030508.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 6,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -77,7 +1432,13 @@
       {
         "id": "4JDRKJQA3B",
         "display_name": "Fevicreate Eco Friendly DIY Ganesha Craft DIY Kit 4 Inch",
-        "price_mrp": 375,
+        "price": {
+          "mrp": 375,
+          "store_price": 375,
+          "offer_price": 337,
+          "unit_level_price": "",
+          "discount_value": 38
+        },
         "brand": "Fevicreate",
         "brand_id": "7c4e6f69c155b5ee214529c07541307a3e334dc6",
         "category": "Ganesh Idols",
@@ -104,715 +1465,7 @@
         "unit_of_measure": "Piece",
         "weight_in_grams": 10,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Hanuman Chalisa- Hindi",
-    "brand": "Unbranded",
-    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
-    "product_id": "6Y8WZEXHJ7",
-    "variations": [
-      {
-        "id": "INUL56CAD4",
-        "display_name": "Hanuman Chalisa- Hindi",
-        "price_mrp": 99,
-        "brand": "Unbranded",
-        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Pooja Books",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Hanuman Chalisa- Hindi",
-        "images": [
-          "65f5153fe3eabae4f844eea70bff72b8",
-          "a12d5e792879f06ebabe2912060ed0e2",
-          "49f5f09ef1aa87675a64adf25c1ca0ee",
-          "5c4fe160a0f0e9f4a893fa7a0f23c2cb",
-          "3e6ff68b7a41a170163195457306ceae",
-          "05db907226695f78022d847522180706"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "DiaCraft Yellow Pearl Laddu Gopal Poshak - Size 3",
-    "brand": "Diacraft",
-    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-    "product_id": "IW840DA0XY",
-    "variations": [
-      {
-        "id": "1VBJITP98C",
-        "display_name": "DiaCraft Yellow Pearl Laddu Gopal Poshak - Size 3",
-        "price_mrp": 219,
-        "brand": "Diacraft",
-        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
-        "sub_category_l5": null,
-        "product_name_without_brand": "DiaCraft Yellow Pearl Laddu Gopal Poshak - Size 3",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/76ee44f6-22c7-4d1e-b75d-3d057d90ad68_970573_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/6a9a4439-b525-437d-a04f-22c0c5534ca7_970573_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/cbd07e0b-f331-45d6-a883-6c8a3928118e_970573_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/bd955498-72e7-4ba6-8b1d-cdfdef304339_970573_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/53ffe78d-2645-4ae6-99ab-93a7fa809aca_970573_5.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 22,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "DiaCraft Peacock Glory Singhasan",
-    "brand": "Diacraft",
-    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-    "product_id": "E12HU0QSPE",
-    "variations": [
-      {
-        "id": "GKYFCK5SKK",
-        "display_name": "DiaCraft Peacock Glory Singhasan",
-        "price_mrp": 899,
-        "brand": "Diacraft",
-        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
-        "sub_category_l5": null,
-        "product_name_without_brand": "DiaCraft Peacock Glory Singhasan",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/14f8fe2e-ba59-496c-9ff4-552d6cf2c6a3_296685_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/8fc1f459-ced0-43e2-98e0-5d68d494da0c_296685_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/dcd3da47-7e47-4931-9ea6-7a57beafb881_296685_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/dcb20d84-b0b6-49de-b2ac-87c90658b3e9_296685_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/784aae92-1548-410c-8a82-8f126ff87555_296685_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/706629ec-6012-463a-96bb-1e8cd264f1f9_296685_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 50,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Happy Tyohaar Lakshami Ganesh Idols",
-    "brand": "Happy Tyohaar",
-    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-    "product_id": "X6U4BSIBRO",
-    "variations": [
-      {
-        "id": "9J9M47UTAS",
-        "display_name": "Happy Tyohaar Lakshami Ganesh Idols",
-        "price_mrp": 249,
-        "brand": "Happy Tyohaar",
-        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Lakshami Ganesh Idols",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/9a5acb96-c0de-4d8b-9fc4-aa3332003b94_485577_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/1c44910e-55e5-44a5-8ae2-eb722743e637_485577_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/d03eb6cc-1c45-4cf0-ab73-2230d4fcb088_485577_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/11/cf451d04-139c-4bc5-8659-021a7e651da2_485577_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/11/998561f6-1b59-4e0d-9c9d-a82c48ff4bf8_485577_5.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 300,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Cycle Pure Traditional Singhasan for Bal Gopal | Handcrafted Mini Throne for Home Mandir",
-    "brand": "Cycle",
-    "brand_id": "32a2dc3d45c1bc16d561a5b5c9af3d45fac5caf7",
-    "product_id": "FTV46329OR",
-    "variations": [
-      {
-        "id": "YQ7N4MN4GO",
-        "display_name": "Cycle Pure Traditional Singhasan for Bal Gopal | Handcrafted Mini Throne for Home Mandir",
-        "price_mrp": 349,
-        "brand": "Cycle",
-        "brand_id": "32a2dc3d45c1bc16d561a5b5c9af3d45fac5caf7",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Pure Traditional Singhasan for Bal Gopal | Handcrafted Mini Throne for Home Mandir",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/13/798925b0-d27d-40f9-83a8-98381f45aa96_666682_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/13/088b67ee-54b1-416b-81c9-2f8f63135a1f_666682_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/13/58269bb1-ca0e-4831-a244-c7e537e82607_666682_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/13/9d4d76fd-b493-4bd5-bcbc-8a854149ecd6_666682_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/13/7ec1be40-ed1a-4183-ac5c-84dc1606161b_666682_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/13/bac918e9-0bef-4236-bc18-f4dce79c930a_666682_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 266,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Happy Tyohaar Aasan To Place Ganpati Idol (18x18 Inch)",
-    "brand": "Happy Tyohaar",
-    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-    "product_id": "KPSKW9XHXR",
-    "variations": [
-      {
-        "id": "HB26Z43TRZ",
-        "display_name": "Happy Tyohaar Aasan To Place Ganpati Idol (18x18 Inch)",
-        "price_mrp": 299,
-        "brand": "Happy Tyohaar",
-        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Aasan To Place Ganpati Idol (18x18 Inch)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/bab090ce-3c09-43df-ba80-5d554a900aa8_620571_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/84ee4ed6-823d-477d-90be-6838c189ad07_620571_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/060f443d-9a81-4f12-b9dc-fd3c751fb308_620571_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/a7da0a2a-4cb7-4b51-a703-e988b61b600f_620571_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/d36cad9d-dfef-452a-a4ca-907a25d10a5d_620571_5.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "SATVIK Lakshami Ganesh Idols",
-    "brand": "SATVIK",
-    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-    "product_id": "0XMILCFYZG",
-    "variations": [
-      {
-        "id": "62X2SQ2KA8",
-        "display_name": "SATVIK Lakshami Ganesh Idols",
-        "price_mrp": 249,
-        "brand": "SATVIK",
-        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Lakshami Ganesh Idols",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/8/8/60c04ae3-68a2-41af-88ca-f448f99aa69e_396989_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/8/f58094d1-fb28-4962-8a38-c97e1fbf5039_396989_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/8/34236605-dfbb-464e-ab78-8ec4ed7674f2_396989_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/8/46e441f7-e677-42ea-853c-5135d4202cd2_396989_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/8/9b966123-202f-4ab2-8c19-f0353b93890d_396989_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/8/c1d8cc69-6a1d-4663-b026-ab41b318524f_396989_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 101,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Shri Samriddhi Enterprises Mata Chunari For Pooja (1.5M X 0.5M)",
-    "brand": "Shri Samriddhi",
-    "brand_id": "bb5d19f9a1a28bb3d62d1c212a4636fcf3d267ce",
-    "product_id": "YUHCGHMTX4",
-    "variations": [
-      {
-        "id": "NUNOR6CSHF",
-        "display_name": "Shri Samriddhi Enterprises Mata Chunari For Pooja (1.5M X 0.5M)",
-        "price_mrp": 199,
-        "brand": "Shri Samriddhi",
-        "brand_id": "bb5d19f9a1a28bb3d62d1c212a4636fcf3d267ce",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Enterprises Mata Chunari For Pooja (1.5M X 0.5M)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/6/11/f6f442d0-ea14-4934-b9ac-5fcf4476f082_poojaneeds_3OJMWQ2Q6A_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/12/741a7400-475a-48dc-a03b-95859704ae41_poojaneeds_3OJMWQ2Q6A_AL1.jpeg",
-          "NI_CATALOG/IMAGES/CIW/2024/6/12/18669da1-f46e-4797-ac4b-f413b68a6c15_poojaneeds_3OJMWQ2Q6A_AL2.jpeg"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "DiaCraft Divine Mayur Singhasan",
-    "brand": "Diacraft",
-    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-    "product_id": "I064B2LEE7",
-    "variations": [
-      {
-        "id": "X0MUGBHRBF",
-        "display_name": "DiaCraft Divine Mayur Singhasan",
-        "price_mrp": 1199,
-        "brand": "Diacraft",
-        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
-        "sub_category_l5": null,
-        "product_name_without_brand": "DiaCraft Divine Mayur Singhasan",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/69313c21-2ce8-4630-bbd1-bc4bb9a344b8_484424_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/456e7e2c-e366-442d-943a-b094b46deff4_484424_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/d0a28e63-2f6a-4c69-92ab-034eb4c4902f_484424_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/d6f980a3-04a2-47f2-bcb3-90518d65baed_484424_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/44f5aabc-8e31-42e1-8264-68c18f4efa2b_484424_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/c12e0e7f-a45a-4e7e-88b7-60930240e3e5_484424_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 50,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Cycle Pure Janmashtami Katha Book | Vrat Vidhi, Aarti & Katha for Puja and Worship | Hindi",
-    "brand": "Cycle",
-    "brand_id": "32a2dc3d45c1bc16d561a5b5c9af3d45fac5caf7",
-    "product_id": "3DEULN1UOR",
-    "variations": [
-      {
-        "id": "DUZ2Y9IKUW",
-        "display_name": "Cycle Pure Janmashtami Katha Book | Vrat Vidhi, Aarti & Katha for Puja and Worship | Hindi",
-        "price_mrp": 49,
-        "brand": "Cycle",
-        "brand_id": "32a2dc3d45c1bc16d561a5b5c9af3d45fac5caf7",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Pooja Books",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Pure Janmashtami Katha Book | Vrat Vidhi, Aarti & Katha for Puja and Worship | Hindi",
-        "images": [
-          "NI_CATALOG/IMAGES/ciw/2025/8/11/52c3daf4-2dec-40b2-a6e4-3a65e84a8012_NPI-021070_1_20250811_133939.png",
-          "NI_CATALOG/IMAGES/ciw/2025/8/11/77144cf9-f0a2-4431-978b-2b93f712ab36_NPI-021070_2_20250811_133940.png",
-          "NI_CATALOG/IMAGES/ciw/2025/8/11/1e372c85-ade2-4981-8169-20928b4f87db_NPI-021070_3_20250811_133940.png",
-          "NI_CATALOG/IMAGES/ciw/2025/8/11/9859f07f-e528-41ae-afb7-ab7ebfc38058_NPI-021070_4_20250811_133941.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 50,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "DiaCraft Yellow Pearl Laddu Gopal Poshak - Size 4",
-    "brand": "Diacraft",
-    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-    "product_id": "L1EQKKK928",
-    "variations": [
-      {
-        "id": "7SVX5MLKFK",
-        "display_name": "DiaCraft Yellow Pearl Laddu Gopal Poshak - Size 4",
-        "price_mrp": 269,
-        "brand": "Diacraft",
-        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
-        "sub_category_l5": null,
-        "product_name_without_brand": "DiaCraft Yellow Pearl Laddu Gopal Poshak - Size 4",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/3670577b-f057-4aef-8983-d0e18b1ac5e2_168735_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/cacf07cc-7d76-4518-863e-37fd4c1c5ed6_168735_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/6e581838-f7da-4a2a-a14e-9845cfc85d10_168735_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/78b19b96-3365-404f-9bfc-121b098c3fcf_168735_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/6878a233-3f1c-4c23-bf9e-1782600c5774_168735_5.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 28,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "SATVIK Premium Hanuman Chalisa Book",
-    "brand": "SATVIK",
-    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-    "product_id": "8HHWO85EHT",
-    "variations": [
-      {
-        "id": "WQC96OAYDC",
-        "display_name": "SATVIK Premium Hanuman Chalisa Book",
-        "price_mrp": 499,
-        "brand": "SATVIK",
-        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Pooja Books",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Premium Hanuman Chalisa Book",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/6/13/bf7c8693-2dc3-4c90-a1e7-325ccec9fe55_poojaneeds_LM8B92H143_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/13/9f02a485-1bdd-41d6-9cae-9773749c0f62_poojaneeds_LM8B92H143_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/13/39ca9864-58db-480d-90d1-19f2ef2afb3f_poojaneeds_LM8B92H143_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/13/42059cd1-f345-41cb-9eee-73850e5f4853_poojaneeds_LM8B92H143_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/13/6c459b98-0a67-44f8-b536-82841b691c8c_poojaneeds_LM8B92H143_AL4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/13/65b049e0-f74d-4a76-b9f3-1e3cb1ed67f7_poojaneeds_LM8B92H143_AL5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/13/8e014751-1753-4587-92b8-5ff2a693fbea_poojaneeds_LM8B92H143_AL6.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 182,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Happy Tyohaar Laddu Gopal Poshak Size 6 - Assorted",
-    "brand": "Happy Tyohaar",
-    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-    "product_id": "NOX4Q756WP",
-    "variations": [
-      {
-        "id": "9IFFVIXTSO",
-        "display_name": "Happy Tyohaar Laddu Gopal Poshak Size 6 - Assorted",
-        "price_mrp": 299,
-        "brand": "Happy Tyohaar",
-        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
-        "sub_category_l5": null,
-        "product_name_without_brand": "Laddu Gopal Poshak Size 6 - Assorted",
-        "images": [
-          "NI_CATALOG/IMAGES/ciw/2025/8/12/36788f8c-6b8e-422e-b9fe-76d40eff660b_NPI-022210_1_20250812_072101.png",
-          "NI_CATALOG/IMAGES/ciw/2025/8/12/acca3b67-620d-4645-b6a4-d350a92f4cb2_NPI-022210_2_20250812_072102.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 250,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 4",
-    "brand": "Diacraft",
-    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-    "product_id": "UFVCR6QQZB",
-    "variations": [
-      {
-        "id": "W8D5K43B91",
-        "display_name": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 4",
-        "price_mrp": 279,
-        "brand": "Diacraft",
-        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
-        "sub_category_l5": null,
-        "product_name_without_brand": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 4",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/363a1d9e-f8ef-4b02-9b62-03914caf6330_816557_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/34e5e87b-4863-4087-a674-815d20e92b55_816557_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/e15d0115-8f0d-4114-b725-d5fc8f79b76e_816557_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/619a1887-f6f4-4ec9-897b-bd2ee66cc377_816557_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/27ca8674-7424-4a7a-af24-b315652545c9_816557_5.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 28,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Shubhkart Brass Nitya Laxmi & Ganesh Murti With Diya 10.2 Cms",
-    "brand": "Shubhkart",
-    "brand_id": "d8219e015514a231c73b3234e2eb2828200201de",
-    "product_id": "WQCOQ5QGAX",
-    "variations": [
-      {
-        "id": "6OGQT0Y9L4",
-        "display_name": "Shubhkart Brass Nitya Laxmi & Ganesh Murti With Diya 10.2 Cms",
-        "price_mrp": 499,
-        "brand": "Shubhkart",
-        "brand_id": "d8219e015514a231c73b3234e2eb2828200201de",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Brass Nitya Laxmi & Ganesh Murti With Diya 10.2 Cms",
-        "images": [
-          "06768e4ccc36daba74256c52f916c757",
-          "e87bd4499f05ff7d9a01734ec597f7cc",
-          "593b0cf26425683f6dc082e555d11366",
-          "2781ab0373b33981d975f996f19e7957",
-          "6bf67e392dd83b476a2308ef2f9d53ce",
-          "257de86c3840d8c29735b14cd1d6e027"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 210,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "SATVIK 7 Inch Bhuvanpati Eco-Friendly Ganesha Idol",
-    "brand": "SATVIK",
-    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-    "product_id": "Z74ZSSXIW4",
-    "variations": [
-      {
-        "id": "IHZCDVGPR6",
-        "display_name": "SATVIK 7 Inch Bhuvanpati Eco-Friendly Ganesha Idol",
-        "price_mrp": 1499,
-        "brand": "SATVIK",
-        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
-        "sub_category_l5": null,
-        "product_name_without_brand": "7 Inch Bhuvanpati Eco-Friendly Ganesha Idol",
-        "images": [
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/9fcbeed1-fbbd-4d9d-9e68-be92ba0d51e0_NPI-013487_1_20250718_035235.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/f7cba710-f1e8-408b-ab80-e5f23005ca01_NPI-013469_6_20250718_030602.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/974d6169-43eb-4b1f-8684-ee0d88c608ad_NPI-013487_8_20250718_035305.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/a631f83d-36e5-488c-93d7-c95dea88f227_NPI-013487_2_20250718_035236.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/d50ae6bc-7d58-4ec6-a2f5-e5ab6fd9f1e8_NPI-013487_3_20250718_035236.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/0eba038f-1cec-4935-9fc2-be26d92d25f9_NPI-013487_4_20250718_035237.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/807384c2-d771-4654-beab-b5e36f4e053a_NPI-013487_5_20250718_035237.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/fb43f3b1-6610-4a49-b477-b8a2e9f2656a_NPI-013469_5_20250718_030508.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 9,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Aarti Sangrah- Hindi",
-    "brand": "",
-    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
-    "product_id": "90T14SC5OW",
-    "variations": [
-      {
-        "id": "4HAFVUUCXU",
-        "display_name": "Aarti Sangrah- Hindi",
-        "price_mrp": 75,
-        "brand": "",
-        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Pooja Books",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Aarti Sangrah- Hindi",
-        "images": [
-          "264295f4bd30203aeb41203fbe62607e",
-          "3a344353ffbe23cd10912489c02bdd0f",
-          "32524de95b01ec665b1615cbc2a800c1"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Quace 7.5 Inch Durga Terracotta Idol – (blue)",
-    "brand": "Quace",
-    "brand_id": "260e5cb4af23604cbef199171fefbd1d6927e657",
-    "product_id": "E6XQ0CCF9I",
-    "variations": [
-      {
-        "id": "DZAMN1AYCV",
-        "display_name": "Quace 7.5 Inch Durga Terracotta Idol – (blue)",
-        "price_mrp": 999,
-        "brand": "Quace",
-        "brand_id": "260e5cb4af23604cbef199171fefbd1d6927e657",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "7.5 Inch Durga Terracotta Idol – (blue)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/10/3/0b311fc1-929e-4946-b9d9-2f0ced4faf13_798328_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/3/b11fcfc4-59be-45d8-8d33-7877eb7233bb_798328_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/3/74f9c7bf-ecf6-464b-a8a5-b83a110fb41e_798328_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/3/c0e39495-15e2-41b6-a46d-af1308a18037_798328_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/3/78c5418e-46df-40fe-90dc-37f3775a769c_798328_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/3/d7510ce2-5886-4329-a530-39fd40f986b6_798328_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 600,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "SATVIK 4 Inch Adorable Colorful Bal Ganesha With Pagdi Idol",
-    "brand": "SATVIK",
-    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-    "product_id": "P7PL3EFJRP",
-    "variations": [
-      {
-        "id": "8PLIMY14JP",
-        "display_name": "SATVIK 4 Inch Adorable Colorful Bal Ganesha With Pagdi Idol",
-        "price_mrp": 999,
-        "brand": "SATVIK",
-        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
-        "sub_category_l5": null,
-        "product_name_without_brand": "4 Inch Adorable Colorful Bal Ganesha With Pagdi Idol",
-        "images": [
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/77740559-cca8-4799-b1af-58bd2957e530_NPI-013469_1_20250718_031038.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/fb43f3b1-6610-4a49-b477-b8a2e9f2656a_NPI-013469_5_20250718_030508.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/3ec5bcb4-8acd-4082-878c-6526a11271c4_NPI-013469_8_20250718_031113.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/92e0d20e-fda1-4c63-b74e-01b6fd0d6588_NPI-013469_2_20250718_031039.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/06c8a06d-5b6a-4d3f-a5f7-03b5c1a9048f_NPI-013469_3_20250718_031039.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/6edfb9d0-f34e-4529-bd74-816e608748df_NPI-013469_4_20250718_031039.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/b8c530b1-cffd-4448-9e0d-c0ff27a26e51_NPI-013469_5_20250718_031040.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/f7cba710-f1e8-408b-ab80-e5f23005ca01_NPI-013469_6_20250718_030602.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 6,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "SATVIK 4 Inch Charming Colorful Bal Ganesha With Golden Mukut",
-    "brand": "SATVIK",
-    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-    "product_id": "PTBM69ULLP",
-    "variations": [
-      {
-        "id": "7AV7ALDC29",
-        "display_name": "SATVIK 4 Inch Charming Colorful Bal Ganesha With Golden Mukut",
-        "price_mrp": 999,
-        "brand": "SATVIK",
-        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
-        "sub_category_l5": null,
-        "product_name_without_brand": "4 Inch Charming Colorful Bal Ganesha With Golden Mukut",
-        "images": [
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/8d62c51c-673e-4b44-b2d5-5e30625fd3cd_NPI-013467_1_20250718_030506.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/f7cba710-f1e8-408b-ab80-e5f23005ca01_NPI-013469_6_20250718_030602.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/fcb12b20-c930-429f-ad38-1dd6dea10675_NPI-013467_2_20250718_030507.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/1fbeea30-5413-40ea-a32f-caabcb5ba779_NPI-013467_3_20250718_030507.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/2efcb51f-bee9-46ef-a622-ded633a9c5bb_NPI-013467_4_20250718_030508.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/e71eb6a2-2f00-48e6-a9f7-e506968ffaae_NPI-013467_7_20250718_030508.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/fb43f3b1-6610-4a49-b477-b8a2e9f2656a_NPI-013469_5_20250718_030508.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 6,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -826,7 +1479,13 @@
       {
         "id": "0YF06SCJZ1",
         "display_name": "Oye Happy Gudi For Gudi Padwa - 8 Inch",
-        "price_mrp": 899,
+        "price": {
+          "mrp": 899,
+          "store_price": 899,
+          "offer_price": 899,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
         "brand": "Oye Happy",
         "brand_id": "9a9d6da7b33e704481a1cc941b0b00a5047b3800",
         "category": "Pooja Needs",
@@ -848,6 +1507,7 @@
         "unit_of_measure": "Piece",
         "weight_in_grams": 400,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -861,7 +1521,13 @@
       {
         "id": "YUUHV1L7QU",
         "display_name": "SATVIK 6 Inch Gajavaktra Eco-Friendly Ganesha Idol",
-        "price_mrp": 1299,
+        "price": {
+          "mrp": 1299,
+          "store_price": 1299,
+          "offer_price": 459,
+          "unit_level_price": "",
+          "discount_value": 840
+        },
         "brand": "SATVIK",
         "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
         "category": "Pooja Needs",
@@ -885,6 +1551,7 @@
         "unit_of_measure": "Piece",
         "weight_in_grams": 10,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -898,7 +1565,13 @@
       {
         "id": "7F5UWXK0DN",
         "display_name": "Durga Mata Arti and Katha- Hindi",
-        "price_mrp": 149,
+        "price": {
+          "mrp": 149,
+          "store_price": 149,
+          "offer_price": 149,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
         "brand": "",
         "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
         "category": "Pooja Needs",
@@ -921,6 +1594,7 @@
         "unit_of_measure": "Piece",
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -934,7 +1608,13 @@
       {
         "id": "KQHF0Y7VF4",
         "display_name": "House Of Festivals Eco Friendly Clay Ganesha 4 Inch Padmasana Pose",
-        "price_mrp": 799,
+        "price": {
+          "mrp": 799,
+          "store_price": 799,
+          "offer_price": 799,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
         "brand": "House Of Festivals",
         "brand_id": "4ed430ca2efe4bf737a811879e25d3772265cebd",
         "category": "Pooja Needs",
@@ -958,6 +1638,7 @@
         "unit_of_measure": "Piece",
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -971,7 +1652,13 @@
       {
         "id": "0C8Q1GDVOQ",
         "display_name": "SATVIK 8 Inch Kshipra Eco-Friendly Ganesha Idol",
-        "price_mrp": 1699,
+        "price": {
+          "mrp": 1699,
+          "store_price": 1699,
+          "offer_price": 799,
+          "unit_level_price": "",
+          "discount_value": 900
+        },
         "brand": "SATVIK",
         "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
         "category": "Pooja Needs",
@@ -994,6 +1681,7 @@
         "unit_of_measure": "Piece",
         "weight_in_grams": 9,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -1007,13 +1695,19 @@
       {
         "id": "22WIA82LWT",
         "display_name": "SATVIK 6 Inch God Ganesha Seated with One Leg Folded",
-        "price_mrp": 1299,
+        "price": {
+          "mrp": 1299,
+          "store_price": 1299,
+          "offer_price": 459,
+          "unit_level_price": "",
+          "discount_value": 840
+        },
         "brand": "SATVIK",
         "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
         "category": "Pooja Needs",
         "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
         "sub_category_l5": null,
         "product_name_without_brand": "6 Inch God Ganesha Seated with One Leg Folded",
         "images": [
@@ -1025,12 +1719,13 @@
           "NI_CATALOG/IMAGES/ciw/2025/7/18/564f7d0c-160a-48cc-b957-8922fb041271_NPI-013474_5_20250718_032244.png",
           "NI_CATALOG/IMAGES/ciw/2025/7/18/fb43f3b1-6610-4a49-b477-b8a2e9f2656a_NPI-013469_5_20250718_030508.png"
         ],
-        "images_v2": [],
-        "quantity": "1",
+        "images_v2": null,
+        "quantity": "1 Piece",
         "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
+        "unit_of_measure": null,
         "weight_in_grams": 10,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1044,26 +1739,33 @@
       {
         "id": "APB29MV44X",
         "display_name": "OM Bhakti Durga Puja Book ( English )",
-        "price_mrp": 50,
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 31,
+          "unit_level_price": "",
+          "discount_value": 19
+        },
         "brand": "OM BHAKTI",
         "brand_id": "83d092f4558df040d08e16e413fe23a0a987b8ff",
         "category": "Pooja Needs",
         "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Pooja Books",
-        "sub_category_l5": "Medium",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
         "product_name_without_brand": "OM Bhakti Durga Puja Book ( English )",
         "images": [
           "NI_CATALOG/IMAGES/CIW/2024/9/25/706b0a5f-ce9c-46f2-9606-1f1459d2a80f_573792_1.png",
           "NI_CATALOG/IMAGES/CIW/2024/9/25/c0e3d02b-55e6-4e09-87d2-6a1a857549fd_573792_2.png",
           "NI_CATALOG/IMAGES/CIW/2024/9/25/859915e0-1eed-49da-a906-ec0e2066870c_573792_3.png"
         ],
-        "images_v2": [],
-        "quantity": "1",
+        "images_v2": null,
+        "quantity": "1 Piece",
         "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
+        "unit_of_measure": null,
         "weight_in_grams": 100,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1077,13 +1779,19 @@
       {
         "id": "OPPNYR8YR1",
         "display_name": "SATVIK 7 Inch Devendrashika Eco-Friendly Ganesha Idol",
-        "price_mrp": 1499,
+        "price": {
+          "mrp": 1499,
+          "store_price": 1499,
+          "offer_price": 629,
+          "unit_level_price": "",
+          "discount_value": 870
+        },
         "brand": "SATVIK",
         "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
         "category": "Pooja Needs",
         "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
         "sub_category_l5": null,
         "product_name_without_brand": "7 Inch Devendrashika Eco-Friendly Ganesha Idol",
         "images": [
@@ -1095,12 +1803,13 @@
           "NI_CATALOG/IMAGES/CIW/2025/8/19/0d84f2b3-cbc3-4a28-b35d-71e792c2469d_296181_7.png",
           "NI_CATALOG/IMAGES/CIW/2025/8/19/8258d3bf-c51c-408d-a933-9e932cab6a88_972434_7.png"
         ],
-        "images_v2": [],
-        "quantity": "1",
+        "images_v2": null,
+        "quantity": "1 Piece",
         "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
+        "unit_of_measure": null,
         "weight_in_grams": 9,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1114,14 +1823,20 @@
       {
         "id": "RYQAUBL867",
         "display_name": "House Of Festivals Eco Friendly Clay Ganesha 6 Inch Padmasana Pose",
-        "price_mrp": 1099,
+        "price": {
+          "mrp": 1099,
+          "store_price": 1099,
+          "offer_price": 1099,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
         "brand": "House Of Festivals",
         "brand_id": "4ed430ca2efe4bf737a811879e25d3772265cebd",
         "category": "Pooja Needs",
         "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
-        "sub_category_l5": "Small",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
         "product_name_without_brand": "Eco Friendly Clay Ganesha 6 Inch Padmasana Pose",
         "images": [
           "NI_CATALOG/IMAGES/CIW/2024/9/6/3b5ec24b-9a50-47ba-89a8-ff769e2b5565_265880_1.png",
@@ -1132,12 +1847,13 @@
           "NI_CATALOG/IMAGES/CIW/2024/9/6/8d54676a-f703-4f18-a923-ea01554a64f7_590810_6.png",
           "NI_CATALOG/IMAGES/CIW/2024/9/6/7c9055db-128f-46ed-8cd4-8b5632be393c_265880_7.png"
         ],
-        "images_v2": [],
-        "quantity": "1",
+        "images_v2": null,
+        "quantity": "1 Piece",
         "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
+        "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1151,25 +1867,32 @@
       {
         "id": "8PC9H013WA",
         "display_name": "Sri Saraswathi Nitya Pooja Book (Telugu)",
-        "price_mrp": 24,
+        "price": {
+          "mrp": 24,
+          "store_price": 24,
+          "offer_price": 24,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
         "brand": "",
         "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
         "category": "Pooja Needs",
         "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Pooja Books",
-        "sub_category_l5": "Medium",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
         "product_name_without_brand": "Sri Saraswathi Nitya Pooja Book (Telugu)",
         "images": [
           "3d1f75ed151be27a72736a4d7cc4a674",
           "b57db1fbb37033fb7c6038db2f57f3e7"
         ],
-        "images_v2": [],
-        "quantity": "1",
+        "images_v2": null,
+        "quantity": "1 Piece",
         "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
+        "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1183,13 +1906,19 @@
       {
         "id": "YIHH4T0COV",
         "display_name": "SATVIK 6 inch Colorful Eco-friendly Ganesha idol",
-        "price_mrp": 1299,
+        "price": {
+          "mrp": 1299,
+          "store_price": 1299,
+          "offer_price": 599,
+          "unit_level_price": "",
+          "discount_value": 700
+        },
         "brand": "SATVIK",
         "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
         "category": "Pooja Needs",
         "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
         "sub_category_l5": null,
         "product_name_without_brand": "6 inch Colorful Eco-friendly Ganesha idol",
         "images": [
@@ -1201,47 +1930,13 @@
           "NI_CATALOG/IMAGES/CIW/2025/8/19/0d84f2b3-cbc3-4a28-b35d-71e792c2469d_296181_7.png",
           "NI_CATALOG/IMAGES/CIW/2025/8/19/4b50bc62-0d3b-4bd5-888b-396725861660_382053_7.png"
         ],
-        "images_v2": [],
-        "quantity": "1",
+        "images_v2": null,
+        "quantity": "1 Piece",
         "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
+        "unit_of_measure": null,
         "weight_in_grams": 10,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Happy Tyohaar Srimad Bhagwatgita",
-    "brand": "Happy Tyohaar",
-    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-    "product_id": "7G9E0P3IYK",
-    "variations": [
-      {
-        "id": "ZT6YYT1DKK",
-        "display_name": "Happy Tyohaar Srimad Bhagwatgita",
-        "price_mrp": 399,
-        "brand": "Happy Tyohaar",
-        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Pooja Books",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Srimad Bhagwatgita",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/365310e2-86d3-4575-9bac-f7dbc352a1a5_130991_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/e9ba8430-6ac6-4f50-81fa-d01023171126_130991_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/216558aa-e04b-4a71-872f-6db59f32ffcb_130991_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/adfb7b4a-a4fe-4af9-bfe0-e25abdcd8ff3_130991_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/11/2f1bd6bb-9772-4fe3-bff2-ccd5580bfb8c_130991_5.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1255,13 +1950,19 @@
       {
         "id": "OVKM213NDW",
         "display_name": "SATVIK Handcrafted 5-Inch Eco Ganesha Idol for Home & Puja",
-        "price_mrp": 1199,
+        "price": {
+          "mrp": 1199,
+          "store_price": 1199,
+          "offer_price": 365,
+          "unit_level_price": "",
+          "discount_value": 834
+        },
         "brand": "SATVIK",
         "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
         "category": "Pooja Needs",
         "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
         "sub_category_l5": null,
         "product_name_without_brand": "Handcrafted 5-Inch Eco Ganesha Idol for Home & Puja",
         "images": [
@@ -1274,12 +1975,13 @@
           "NI_CATALOG/IMAGES/ciw/2025/7/18/b9224695-6f8a-4cd7-ab44-e6fb4c2a510c_NPI-013470_5_20250718_031318.png",
           "NI_CATALOG/IMAGES/ciw/2025/7/18/f7cba710-f1e8-408b-ab80-e5f23005ca01_NPI-013469_6_20250718_030602.png"
         ],
-        "images_v2": [],
-        "quantity": "1",
+        "images_v2": null,
+        "quantity": "1 Piece",
         "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
+        "unit_of_measure": null,
         "weight_in_grams": 418,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1293,13 +1995,19 @@
       {
         "id": "9DB8HSAV2Y",
         "display_name": "SATVIK 10 INCH COLORED GANPATI",
-        "price_mrp": 1999,
+        "price": {
+          "mrp": 1999,
+          "store_price": 1999,
+          "offer_price": 1199,
+          "unit_level_price": "",
+          "discount_value": 800
+        },
         "brand": "SATVIK",
         "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
         "category": "Pooja Needs",
         "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
         "sub_category_l5": null,
         "product_name_without_brand": "10 INCH COLORED GANPATI",
         "images": [
@@ -1312,12 +2020,13 @@
           "NI_CATALOG/IMAGES/CIW/2025/8/19/0d84f2b3-cbc3-4a28-b35d-71e792c2469d_296181_7.png",
           "NI_CATALOG/IMAGES/CIW/2025/8/19/b0e2e457-135c-4803-bbe7-d9e6d539f024_296181_8.png"
         ],
-        "images_v2": [],
-        "quantity": "1",
+        "images_v2": null,
+        "quantity": "1 Piece",
         "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
+        "unit_of_measure": null,
         "weight_in_grams": 9,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1331,13 +2040,19 @@
       {
         "id": "9B4OBMRVYI",
         "display_name": "Oye Happy Gangaur Katha book",
-        "price_mrp": 249,
+        "price": {
+          "mrp": 249,
+          "store_price": 249,
+          "offer_price": 93,
+          "unit_level_price": "",
+          "discount_value": 156
+        },
         "brand": "Oye Happy",
         "brand_id": "9a9d6da7b33e704481a1cc941b0b00a5047b3800",
         "category": "Pooja Needs",
         "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Pooja Books",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
         "sub_category_l5": null,
         "product_name_without_brand": "Gangaur Katha book",
         "images": [
@@ -1346,12 +2061,13 @@
           "NI_CATALOG/IMAGES/CIW/2025/3/25/2dba8762-8e61-4ba8-9f54-be1ef40b49a4_927049_3.png",
           "NI_CATALOG/IMAGES/CIW/2025/3/25/238622ac-cd16-4da8-a856-79fe1f6a960e_927049_4.png"
         ],
-        "images_v2": [],
-        "quantity": "1",
+        "images_v2": null,
+        "quantity": "1 Piece",
         "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
+        "unit_of_measure": null,
         "weight_in_grams": 200,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1365,14 +2081,20 @@
       {
         "id": "5RH69X686O",
         "display_name": "DiaCraft Satya Narayan Vrat Katha Pooja Book",
-        "price_mrp": 30,
+        "price": {
+          "mrp": 30,
+          "store_price": 30,
+          "offer_price": 18,
+          "unit_level_price": "",
+          "discount_value": 12
+        },
         "brand": "Diacraft",
         "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
         "category": "Pooja Needs",
         "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Pooja Books",
-        "sub_category_l5": "Medium",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
         "product_name_without_brand": "DiaCraft Satya Narayan Vrat Katha Pooja Book",
         "images": [
           "NI_CATALOG/IMAGES/CIW/2024/7/31/d500f259-5b74-419c-9640-bf8032d2f1ad_FestiveAssortment_UI85KXH7HC_MN.png",
@@ -1381,12 +2103,13 @@
           "NI_CATALOG/IMAGES/CIW/2024/7/31/f6c88523-87bb-47b3-a7f2-bda01ec087a4_FestiveAssortment_UI85KXH7HC_AL3.png",
           "NI_CATALOG/IMAGES/CIW/2024/7/31/46a22150-70b7-4008-b69b-51a5f49b96ba_FestiveAssortment_UI85KXH7HC_AL4.png"
         ],
-        "images_v2": [],
-        "quantity": "1",
+        "images_v2": null,
+        "quantity": "1 Piece",
         "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
+        "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1400,13 +2123,19 @@
       {
         "id": "VKDN3PC12Z",
         "display_name": "SATVIK 10 Inch Eco-Friendly Ganesha Idol in Raja Pose",
-        "price_mrp": 1999,
+        "price": {
+          "mrp": 1999,
+          "store_price": 1999,
+          "offer_price": 1199,
+          "unit_level_price": "",
+          "discount_value": 800
+        },
         "brand": "SATVIK",
         "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
         "category": "Pooja Needs",
         "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": "Pooja Accessories",
-        "sub_category_l4": "Deity Idols and Figurines",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
         "sub_category_l5": null,
         "product_name_without_brand": "10 Inch Eco-Friendly Ganesha Idol in Raja Pose",
         "images": [
@@ -1417,46 +2146,13 @@
           "NI_CATALOG/IMAGES/CIW/2025/8/19/a546bf91-6431-41c5-b511-a8d05ce0e161_564671_5.png",
           "NI_CATALOG/IMAGES/CIW/2025/8/19/0914a985-c500-4fb5-9cba-872be115b2ad_564671_6.png"
         ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 9,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "SATVIK Shri Satyanarayan Vrat Katha",
-    "brand": "SATVIK",
-    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-    "product_id": "ELZASF3HWW",
-    "variations": [
-      {
-        "id": "MPLX9L4UAB",
-        "display_name": "SATVIK Shri Satyanarayan Vrat Katha",
-        "price_mrp": 30,
-        "brand": "SATVIK",
-        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Shri Satyanarayan Vrat Katha",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/7/5/f0decaa8-52aa-417a-a856-59eb1d58e369_poojaneeds_VQUUUA9MM0_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/5/b46495d5-3b82-416f-9c8e-bb93bd8bf2e6_poojaneeds_VQUUUA9MM0_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/5/cf7a7660-2f9b-429b-bf7f-50835d95d54b_poojaneeds_VQUUUA9MM0_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/5/4437459b-ee58-401a-b9bf-cd18d5ae5450_poojaneeds_VQUUUA9MM0_AL3.png"
-        ],
         "images_v2": null,
         "quantity": "1 Piece",
         "sku_quantity_with_combo": "1 Piece",
         "unit_of_measure": null,
-        "weight_in_grams": 32,
+        "weight_in_grams": 9,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1470,7 +2166,13 @@
       {
         "id": "6B6QTDQAPB",
         "display_name": "SATVIK 6 Inch Eco-Friendly Kamal Ganesha Idol",
-        "price_mrp": 1299,
+        "price": {
+          "mrp": 1299,
+          "store_price": 1299,
+          "offer_price": 459,
+          "unit_level_price": "",
+          "discount_value": 840
+        },
         "brand": "SATVIK",
         "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
         "category": "Pooja Needs",
@@ -1495,41 +2197,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 10,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "DiaCraft Yellow Pearl Laddu Gopal Poshak - Size 5",
-    "brand": "Diacraft",
-    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-    "product_id": "E7OR1NRQPA",
-    "variations": [
-      {
-        "id": "UMQO3ULQF5",
-        "display_name": "DiaCraft Yellow Pearl Laddu Gopal Poshak - Size 5",
-        "price_mrp": 349,
-        "brand": "Diacraft",
-        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "DiaCraft Yellow Pearl Laddu Gopal Poshak - Size 5",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/7100ee99-bf99-427f-b29f-66f9fdf85e6b_162692_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/a8fd5c5c-6199-4db8-8876-d93cade52870_162692_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/7722c945-cdb0-4321-a6b7-023d7ca08f85_162692_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/2c24abfc-d4e7-4995-8673-cbfb82015776_162692_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/5a7c984a-939f-42fe-8ce0-534733ecf3e4_162692_5.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 33,
-        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1543,7 +2211,13 @@
       {
         "id": "I1ZNIYUXWM",
         "display_name": "OM Bhakti Saraswati Puja Book ( English)",
-        "price_mrp": 50,
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 31,
+          "unit_level_price": "",
+          "discount_value": 19
+        },
         "brand": "OM BHAKTI",
         "brand_id": "83d092f4558df040d08e16e413fe23a0a987b8ff",
         "category": "Pooja Needs",
@@ -1563,6 +2237,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 100,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1576,7 +2251,13 @@
       {
         "id": "CC2RQFQ78K",
         "display_name": "SATVIK Colorful Eco-Friendly Ganesh Idol with golden Crown 4 Inches",
-        "price_mrp": 999,
+        "price": {
+          "mrp": 999,
+          "store_price": 999,
+          "offer_price": 339,
+          "unit_level_price": "",
+          "discount_value": 660
+        },
         "brand": "SATVIK",
         "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
         "category": "Pooja Needs",
@@ -1586,11 +2267,12 @@
         "sub_category_l5": null,
         "product_name_without_brand": "Colorful Eco-Friendly Ganesh Idol with golden Crown 4 Inches",
         "images": [
-          "NI_CATALOG/IMAGES/ciw/2025/7/29/16ab7ac0-dd5f-4a6f-909a-28d8c5b2cec2_NPI-015099_1_20250729_064248.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/29/4723fe76-6e18-4f32-90ad-110237207c22_NPI-015099_2_20250729_064248.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/29/e21dc257-b94f-433c-b157-4a1fbbe452de_NPI-015099_3_20250729_064249.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/29/f536d941-8870-4497-8ccf-dcd54b1d8f5b_NPI-015099_4_20250729_064249.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/29/2b8c2dbe-9d88-404c-aceb-98c694ca437a_NPI-015099_5_20250729_064249.png"
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/c5ccf1bd-ddc9-411e-abcb-392b9a1fa2eb_145307_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/f8840ea2-bfeb-4f04-a17e-ec842c858bf7_145307_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/ea3d4b81-7561-4e37-b945-5256d170b2bf_145307_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/40cc5145-bd07-4bd3-b88c-41088a9e9e37_145307_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/d1182bf7-f8b1-49c8-b69a-96618b2cb0e3_145307_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/4a00a5b6-3a00-4e78-b8fc-7ecfbaccd0ea_145307_6.png"
         ],
         "images_v2": null,
         "quantity": "1 Piece",
@@ -1598,6 +2280,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 10,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1611,7 +2294,13 @@
       {
         "id": "I5WRUJF7J2",
         "display_name": "House Of Festivals Eco Friendly Colourful Ganpati Murti - 10\"",
-        "price_mrp": 2499,
+        "price": {
+          "mrp": 2499,
+          "store_price": 2499,
+          "offer_price": 899,
+          "unit_level_price": "",
+          "discount_value": 1600
+        },
         "brand": "House Of Festivals",
         "brand_id": "4ed430ca2efe4bf737a811879e25d3772265cebd",
         "category": "Pooja Needs",
@@ -1633,6 +2322,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1646,7 +2336,13 @@
       {
         "id": "QPLZ6TXW9W",
         "display_name": "SATVIK 6 Inch Colorful Eco-Friendly Ganesha Idol Sitting on Shinghasan",
-        "price_mrp": 1299,
+        "price": {
+          "mrp": 1299,
+          "store_price": 1299,
+          "offer_price": 599,
+          "unit_level_price": "",
+          "discount_value": 700
+        },
         "brand": "SATVIK",
         "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
         "category": "Pooja Needs",
@@ -1670,41 +2366,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 10,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Diacraft Laddu Gopal Murti - Size 2 (6.5CM)",
-    "brand": "Diacraft",
-    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-    "product_id": "990GHTYXU5",
-    "variations": [
-      {
-        "id": "C0ZZSTCOP2",
-        "display_name": "Diacraft Laddu Gopal Murti - Size 2 (6.5CM)",
-        "price_mrp": 500,
-        "brand": "Diacraft",
-        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Laddu Gopal Murti - Size 2 (6.5CM)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/6/26/4cb738dd-251e-46e3-bf45-e84ec72b68b8_poojaneeds_XU4FVLNO3M_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/26/03f1e869-3a5e-40b3-8c2a-56fb475b4660_poojaneeds_XU4FVLNO3M_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/26/74b052e9-3724-4349-be07-652c0706fbd3_poojaneeds_XU4FVLNO3M_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/26/da9afd9f-33d1-4ea9-80de-779ae809522e_poojaneeds_XU4FVLNO3M_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/26/44597247-b392-4afa-a33b-8f69fbeea685_poojaneeds_XU4FVLNO3M_AL4.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1718,7 +2380,13 @@
       {
         "id": "UWOP9VX3Z4",
         "display_name": "Quace 6 Inch Saraswati Terracotta Idol",
-        "price_mrp": 549,
+        "price": {
+          "mrp": 549,
+          "store_price": 549,
+          "offer_price": 549,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
         "brand": "Quace",
         "brand_id": "260e5cb4af23604cbef199171fefbd1d6927e657",
         "category": "Pooja Needs",
@@ -1741,76 +2409,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 480,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Oye Happy Gudi For Gudi Padwa - 6 Inch",
-    "brand": "Oye Happy",
-    "brand_id": "9a9d6da7b33e704481a1cc941b0b00a5047b3800",
-    "product_id": "YK19NY6N6W",
-    "variations": [
-      {
-        "id": "62AUNCUIKD",
-        "display_name": "Oye Happy Gudi For Gudi Padwa - 6 Inch",
-        "price_mrp": 299,
-        "brand": "Oye Happy",
-        "brand_id": "9a9d6da7b33e704481a1cc941b0b00a5047b3800",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Gudi For Gudi Padwa - 6 Inch",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/25/82f53b1e-9848-465c-96b1-e09b6d2dd46e_500254_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/25/8b7b61ad-b053-4fe3-bd8b-6d8f07a3f3e2_500254_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/25/32342df2-23d5-4025-8c08-9f4504056ba1_500254_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/25/6489bd9d-408e-4a3a-b21f-7ccd33388b25_500254_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/25/1e496113-e407-4ac8-bdf3-7463ad68fe7d_500254_5.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 400,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Diacraft Laddu Gopal Murti - Size 3 (7.6CM)",
-    "brand": "Diacraft",
-    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-    "product_id": "D92N3X3YUH",
-    "variations": [
-      {
-        "id": "0LSR6DKS8X",
-        "display_name": "Diacraft Laddu Gopal Murti - Size 3 (7.6CM)",
-        "price_mrp": 999,
-        "brand": "Diacraft",
-        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Laddu Gopal Murti - Size 3 (7.6CM)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/6/26/4cb738dd-251e-46e3-bf45-e84ec72b68b8_poojaneeds_XU4FVLNO3M_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/26/03f1e869-3a5e-40b3-8c2a-56fb475b4660_poojaneeds_XU4FVLNO3M_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/26/74b052e9-3724-4349-be07-652c0706fbd3_poojaneeds_XU4FVLNO3M_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/26/da9afd9f-33d1-4ea9-80de-779ae809522e_poojaneeds_XU4FVLNO3M_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/19/35d615be-af97-400d-a640-258d8af9f7e6_poojaneeds_7VVSHT2OX9_AL4.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 200,
-        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1824,7 +2423,13 @@
       {
         "id": "TFNU498NVQ",
         "display_name": "Festive Kathas- Hinglish",
-        "price_mrp": 199,
+        "price": {
+          "mrp": 199,
+          "store_price": 199,
+          "offer_price": 199,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
         "brand": "",
         "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
         "category": "Pooja Needs",
@@ -1846,6 +2451,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1859,7 +2465,13 @@
       {
         "id": "BSRFJV91R0",
         "display_name": "SATVIK 8-Inch Colorful Eco-Friendly Ganesha Idol",
-        "price_mrp": 1699,
+        "price": {
+          "mrp": 1699,
+          "store_price": 1699,
+          "offer_price": 799,
+          "unit_level_price": "",
+          "discount_value": 900
+        },
         "brand": "SATVIK",
         "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
         "category": "Pooja Needs",
@@ -1882,42 +2494,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 9,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Happy Tyohaar Premium Hanuman Chalisa Book",
-    "brand": "Happy Tyohaar",
-    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-    "product_id": "DXPY4TH5N4",
-    "variations": [
-      {
-        "id": "MXB55AJP93",
-        "display_name": "Happy Tyohaar Premium Hanuman Chalisa Book",
-        "price_mrp": 499,
-        "brand": "Happy Tyohaar",
-        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Premium Hanuman Chalisa Book",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/30/d61efbe7-aa90-4aa9-a766-718d26c006c8_747256_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/30/003d740d-5d9e-42fe-be30-c74fa6ff2b9c_747256_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/30/f89fdd01-dcbc-4dee-b118-0b27c2874e2a_747256_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/30/b48fc15d-f23a-4c83-8629-c30fcaf59b8d_747256_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/30/2f391cc5-265e-4fee-92c2-063bf34c15cc_747256_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/30/3925cf7b-375f-4dca-a5fc-39e115bca51a_747256_6.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1931,7 +2508,13 @@
       {
         "id": "1TN9AVHD94",
         "display_name": "SATVIK 4 Inch Colorful Eco - Friendly Ganesh Idol with golden mukut",
-        "price_mrp": 999,
+        "price": {
+          "mrp": 999,
+          "store_price": 999,
+          "offer_price": 339,
+          "unit_level_price": "",
+          "discount_value": 660
+        },
         "brand": "SATVIK",
         "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
         "category": "Pooja Needs",
@@ -1941,10 +2524,11 @@
         "sub_category_l5": null,
         "product_name_without_brand": "4 Inch Colorful Eco - Friendly Ganesh Idol with golden mukut",
         "images": [
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/ab535715-f3ba-430e-9614-84819108dfe3_NPI-013465_1_20250718_025458.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/1d198274-c535-4b2d-a0c7-9d10de43e54a_NPI-013465_2_20250718_025459.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/d3c2d0a0-6440-4533-8f63-ade8c3d481e2_NPI-013465_3_20250718_025500.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/4721c36c-a3bc-4080-a402-7839225832be_NPI-013465_4_20250718_025500.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/db99c191-52bf-45ab-8d49-faab216c434f_570062_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/ca5b0e85-1211-4731-88a1-aaaedcb60d38_570062_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/e3d8ac69-43b0-4ac3-80d4-10e0f78cbe5d_570062_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/78334f4d-3bc9-4232-903d-9756a3558790_570062_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/70748330-48f5-4df0-91db-0c9fcb98347b_570062_5.png",
           "NI_CATALOG/IMAGES/ciw/2025/7/18/11afda2c-583e-4d50-98b4-b0fe35d7d18d_NPI-013465_5_20250718_025501.png"
         ],
         "images_v2": null,
@@ -1953,972 +2537,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 6,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Happy Tyohaar Premium Arti Sangrah Book",
-    "brand": "Happy Tyohaar",
-    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-    "product_id": "Q3CT1VAA40",
-    "variations": [
-      {
-        "id": "4LMDVS9FMI",
-        "display_name": "Happy Tyohaar Premium Arti Sangrah Book",
-        "price_mrp": 499,
-        "brand": "Happy Tyohaar",
-        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Premium Arti Sangrah Book",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/3/68ec05f4-9453-4b94-b46a-6371b61aa0c1_845401_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/3/3bb82ebe-a8e3-4d6b-8e29-09478c1ba488_845401_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/3/60353aed-ded1-4be4-91a1-34057f57c2a4_845401_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/3/dc110826-b49e-46dd-86a1-1e363ff77ffa_845401_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/3/f620db83-beb8-4955-ad99-c3d7c809b656_845401_5.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 200,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "SVASTI - Varmahalakshmi Plain Body Baby (7inch)",
-    "brand": "SVASTI",
-    "brand_id": "43825c464b9c6b768ab18a9187eb78d7f804cfad",
-    "product_id": "83QXXF15Y9",
-    "variations": [
-      {
-        "id": "TRC4JOZM2T",
-        "display_name": "SVASTI - Varmahalakshmi Plain Body Baby (7inch)",
-        "price_mrp": 1440,
-        "brand": "SVASTI",
-        "brand_id": "43825c464b9c6b768ab18a9187eb78d7f804cfad",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "- Varmahalakshmi Plain Body Baby (7inch)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/8/73b7fd04-1999-4148-aa9f-ad5d4c5e6eb1_358289_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/8/19e4ae15-dc6c-4455-bda0-6fd1238b9b0d_358289_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/8/a5ba9873-e86b-4021-9c46-59c5b7f22145_358289_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/8/5c506d93-c720-4013-a4d6-590a2cabdbcb_358289_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/8/b98b952f-510d-49fe-8b59-9be009835553_358289_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/8/afd8429c-d2ab-46de-b52b-39f8e4096e47_358289_6.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/8/7352ab11-0a0e-47a8-896f-a62469499452_358289_7.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 242,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Pooja Book - Lalitha Sahasranaam - Malyalam",
-    "brand": "",
-    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
-    "product_id": "V8LT3UAL3V",
-    "variations": [
-      {
-        "id": "M6R5M73VRW",
-        "display_name": "Pooja Book - Lalitha Sahasranaam - Malyalam",
-        "price_mrp": 60,
-        "brand": "",
-        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Pooja Book - Lalitha Sahasranaam - Malyalam",
-        "images": [
-          "d16425abe013a052a28d2eaec0d18471",
-          "436573fd73cd70dead03d6cdf8ed904a"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "eCraftIndia Indiraga Shri Shiv Chalisa Book in Hindi",
-    "brand": "eCraftIndia",
-    "brand_id": "eefbb0410d417bb815736715e5560e99e2531fb0",
-    "product_id": "QG31R7XSW9",
-    "variations": [
-      {
-        "id": "P9QH3DSGCS",
-        "display_name": "eCraftIndia Indiraga Shri Shiv Chalisa Book in Hindi",
-        "price_mrp": 99,
-        "brand": "eCraftIndia",
-        "brand_id": "eefbb0410d417bb815736715e5560e99e2531fb0",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Indiraga Shri Shiv Chalisa Book in Hindi",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/2/16/81eb1445-617e-4247-8a23-9b0bc94466d4_348727_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/2/16/28dc2958-8874-4d21-9e3d-43de385892e8_348727_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/2/16/50513cf8-19a0-43d4-9f8a-f63f280cda2f_348727_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/2/16/e1cde34a-2576-41d0-9209-8903e77197f4_348727_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/2/16/110a29c0-5df1-4adf-a26e-03c2aab6bc35_348727_5.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 20,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Happy Tyohaar Laddu Gopal Poshak Size 3 - Assorted",
-    "brand": "Happy Tyohaar",
-    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-    "product_id": "4GWW345DZG",
-    "variations": [
-      {
-        "id": "ZQHCCT7001",
-        "display_name": "Happy Tyohaar Laddu Gopal Poshak Size 3 - Assorted",
-        "price_mrp": 179,
-        "brand": "Happy Tyohaar",
-        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Laddu Gopal Poshak Size 3 - Assorted",
-        "images": [
-          "NI_CATALOG/IMAGES/ciw/2025/8/12/c0b59cc9-65fc-4c9f-a6a9-7d9d7326bcf6_NPI-022207_1_20250812_070424.png",
-          "NI_CATALOG/IMAGES/ciw/2025/8/12/10547657-a2f3-4fb0-ba42-db9ba7f2de7a_NPI-022207_2_20250812_070425.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 250,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Happy Tyohaar Ram Darbar",
-    "brand": "Happy Tyohaar",
-    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-    "product_id": "8J4T3AK2T4",
-    "variations": [
-      {
-        "id": "KOFYHIOJO4",
-        "display_name": "Happy Tyohaar Ram Darbar",
-        "price_mrp": 495,
-        "brand": "Happy Tyohaar",
-        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Ram Darbar",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/6639038e-7c13-48ab-82d0-1fc1ee729492_141338_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/42e08a69-0113-49e4-9687-bcbab89cb7b8_141338_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/bc0bc0f3-9ba0-4b2b-93b8-78b53de381af_141338_3.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 300,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "DiaCraft Hartalika Teej Vrat Katha Pooja Book 1pc",
-    "brand": "Diacraft",
-    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-    "product_id": "D8RBEOG52L",
-    "variations": [
-      {
-        "id": "5LYL5V5CM8",
-        "display_name": "DiaCraft Hartalika Teej Vrat Katha Pooja Book 1pc",
-        "price_mrp": 25,
-        "brand": "Diacraft",
-        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "DiaCraft Hartalika Teej Vrat Katha Pooja Book 1pc",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/8/29/8449d419-2b6b-4f44-a3cb-c287ed86e79c_955095_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/29/24f67cb2-055d-4e8e-8877-a07be972a00e_955095_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/29/7ef19d0a-5514-4f65-852d-82f5b1ffc13d_955095_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/29/8e540a78-cef2-4600-802c-719bd0459e29_955095_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/29/4a782ed9-0c82-49a9-a59b-ac87a9073f47_955095_5.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Pooja Book - Lalitha Sahasranaam Kannada",
-    "brand": "",
-    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
-    "product_id": "RXM2QXG5N8",
-    "variations": [
-      {
-        "id": "06M9WMN57K",
-        "display_name": "Pooja Book - Lalitha Sahasranaam Kannada",
-        "price_mrp": 70,
-        "brand": "",
-        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Pooja Book - Lalitha Sahasranaam Kannada",
-        "images": [
-          "7ab1fd01475cde57d619928f9bfc50a9",
-          "8cae42c12271f11045889ae41fe9da8b",
-          "eae6b7246c12f1fff87944c77c875828"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "SATVIK Auspicious 6-Inch Eco-Friendly Ganesha Idol",
-    "brand": "SATVIK",
-    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-    "product_id": "OQG2LZ0JY9",
-    "variations": [
-      {
-        "id": "3GVX89I3HA",
-        "display_name": "SATVIK Auspicious 6-Inch Eco-Friendly Ganesha Idol",
-        "price_mrp": 1299,
-        "brand": "SATVIK",
-        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Auspicious 6-Inch Eco-Friendly Ganesha Idol",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/833a6570-5173-459d-990e-39a15833f800_807791_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/961531f2-f952-484c-a947-55b1848df739_807791_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/cd330200-b068-49cb-8a92-e90aecc9c14d_807791_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/ef03e8f4-ba4d-481f-9fd8-894078bf0a86_807791_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/ef612ee1-d082-4ff3-a7ca-e517ace7df6a_296181_6.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/0d84f2b3-cbc3-4a28-b35d-71e792c2469d_296181_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/937d1613-1f70-4d9a-aae5-fa8a20392db0_807791_7.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 10,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "SATVIK 4 Inch Colorful Eco-Friendly Ganesha Idol with golden mukut",
-    "brand": "SATVIK",
-    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-    "product_id": "7XQOADOAPG",
-    "variations": [
-      {
-        "id": "47V0XOLFWC",
-        "display_name": "SATVIK 4 Inch Colorful Eco-Friendly Ganesha Idol with golden mukut",
-        "price_mrp": 999,
-        "brand": "SATVIK",
-        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "4 Inch Colorful Eco-Friendly Ganesha Idol with golden mukut",
-        "images": [
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/ab535715-f3ba-430e-9614-84819108dfe3_NPI-013465_1_20250718_025458.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/1d198274-c535-4b2d-a0c7-9d10de43e54a_NPI-013465_2_20250718_025459.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/d3c2d0a0-6440-4533-8f63-ade8c3d481e2_NPI-013465_3_20250718_025500.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/4721c36c-a3bc-4080-a402-7839225832be_NPI-013465_4_20250718_025500.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/11afda2c-583e-4d50-98b4-b0fe35d7d18d_NPI-013465_5_20250718_025501.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 6,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "SATVIK 6 Inch Vibrant Eco-Friendly Ganesha Idol in Padmasana Pose",
-    "brand": "SATVIK",
-    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-    "product_id": "30HW6KGH85",
-    "variations": [
-      {
-        "id": "JV0JAV0KLD",
-        "display_name": "SATVIK 6 Inch Vibrant Eco-Friendly Ganesha Idol in Padmasana Pose",
-        "price_mrp": 1299,
-        "brand": "SATVIK",
-        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "6 Inch Vibrant Eco-Friendly Ganesha Idol in Padmasana Pose",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/5a6572cb-210d-4611-93fc-14a62f3fcb85_615417_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/931510b0-a5c9-4262-975f-b1ec105d11db_615417_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/1e16c96c-758c-4e9d-bbff-a5aac84d7bd2_615417_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/45c8143c-0978-4556-b86a-d4a7dec4111c_615417_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/7329489c-7feb-407c-8e1d-f35381814cdb_615417_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/628b60e8-f079-4cad-a456-de7b9fa47ed2_615417_6.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/73fb31b3-643a-4c93-b341-9fa37d3ab9ab_615417_7.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 10,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "SATVIK 9 Inch Eco-Friendly Ganesh Ji Sitting on Shinghasan",
-    "brand": "SATVIK",
-    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-    "product_id": "ATM0866TPO",
-    "variations": [
-      {
-        "id": "QJ9GTQ3FN7",
-        "display_name": "SATVIK 9 Inch Eco-Friendly Ganesh Ji Sitting on Shinghasan",
-        "price_mrp": 1799,
-        "brand": "SATVIK",
-        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "9 Inch Eco-Friendly Ganesh Ji Sitting on Shinghasan",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/c9118f76-e944-403a-8f53-d9a440870e75_571368_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/4b93225a-1404-420d-9f0f-cb9464d67216_571368_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/5b7d614a-4a30-490f-9ccb-b8739b12fb34_571368_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/6430c5ef-d40f-47f2-8000-2cb985058da1_571368_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/ef612ee1-d082-4ff3-a7ca-e517ace7df6a_296181_6.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/0d84f2b3-cbc3-4a28-b35d-71e792c2469d_296181_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/58968d62-d44b-44de-9494-e1d50c18e621_571368_7.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 9,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "SATVIK 8 Inch Tarun Eco Friendly Ganpati Ganesha Murti in Raja Pose",
-    "brand": "SATVIK",
-    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-    "product_id": "XRT3Z98S5H",
-    "variations": [
-      {
-        "id": "VSDHUM5GVC",
-        "display_name": "SATVIK 8 Inch Tarun Eco Friendly Ganpati Ganesha Murti in Raja Pose",
-        "price_mrp": 1699,
-        "brand": "SATVIK",
-        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "8 Inch Tarun Eco Friendly Ganpati Ganesha Murti in Raja Pose",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/45ef73b4-d128-4766-a2db-054744c7fc98_318374_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/08f64831-44b4-41f4-a8e1-1ca65b2913aa_318374_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/98cf9386-1a11-4c64-9897-c4ac646b435c_318374_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/b1248c8b-ebc3-486b-80e8-618d9cb05477_318374_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/bb794ef5-eaeb-47d3-8ecf-c170a382f4d7_318374_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/2b86d4a0-a69b-4992-8a10-d5c9e77e9288_318374_6.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/dbb15c9f-8651-435c-b63f-b2e5f18ba04f_318374_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/19/6bcaac28-a049-462d-b7a7-c43b431c0e1a_318374_8.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 9,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "SATVIK 6 Inch Vighnaharta Eco-Friendly Ganesha Idol",
-    "brand": "SATVIK",
-    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-    "product_id": "O3NEIAFS6V",
-    "variations": [
-      {
-        "id": "0CYSWF6LID",
-        "display_name": "SATVIK 6 Inch Vighnaharta Eco-Friendly Ganesha Idol",
-        "price_mrp": 1299,
-        "brand": "SATVIK",
-        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "6 Inch Vighnaharta Eco-Friendly Ganesha Idol",
-        "images": [
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/b90b1547-2ffa-4cfe-ae95-13510f989e2e_NPI-013472_1_20250718_031815.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/54011484-fc94-466f-8ec6-6f535e4a8c0a_NPI-013472_2_20250718_031816.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/fcf79dcf-e887-40dd-b5d6-213dc9008a6a_NPI-013472_3_20250718_031816.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/7d05ddd4-5fc7-4845-8674-d41dc1567ac7_NPI-013472_4_20250718_031816.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/b6454df8-9e03-4570-87cf-62022508acd4_NPI-013472_5_20250718_031817.png",
-          "NI_CATALOG/IMAGES/ciw/2025/7/18/e677ee63-49d6-488e-8bf5-23c40c11744b_NPI-013472_6_20250718_031817.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 10,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Happy Tyohaar Laddu Gopal Poshak Size 0 - Assorted",
-    "brand": "Happy Tyohaar",
-    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-    "product_id": "5UK61SONR1",
-    "variations": [
-      {
-        "id": "6NMIIAMPYM",
-        "display_name": "Happy Tyohaar Laddu Gopal Poshak Size 0 - Assorted",
-        "price_mrp": 49,
-        "brand": "Happy Tyohaar",
-        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Laddu Gopal Poshak Size 0 - Assorted",
-        "images": [
-          "NI_CATALOG/IMAGES/ciw/2025/8/12/82c26a57-a4ac-44c7-b019-7a5b101f7117_NPI-022204_1_20250812_065511.png",
-          "NI_CATALOG/IMAGES/ciw/2025/8/12/42465f76-6cbb-41e5-81da-71698c412d7f_NPI-022204_2_20250812_065512.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 250,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 2",
-    "brand": "Diacraft",
-    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-    "product_id": "0HQX92SPST",
-    "variations": [
-      {
-        "id": "4I13I50ATO",
-        "display_name": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 2",
-        "price_mrp": 199,
-        "brand": "Diacraft",
-        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 2",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/c6fe8041-22a8-4c32-bbf1-f2305c9001ec_272618_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/510617c4-65bc-45d7-ab33-978403563e04_272618_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/39bab7c0-47bb-4712-8f58-b497b3afc539_272618_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/e795b18d-e7de-4ecd-b95e-f20cf432077c_272618_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/1146fd3e-d67e-4cc2-9e4b-591026d9cc48_272618_5.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 18,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "SATVIK Sunderkand",
-    "brand": "SATVIK",
-    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-    "product_id": "JCEAJ0H7J1",
-    "variations": [
-      {
-        "id": "LASVHTI1OH",
-        "display_name": "SATVIK Sunderkand",
-        "price_mrp": 125,
-        "brand": "SATVIK",
-        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Sunderkand",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/7/5/b263ae85-3eb0-4a8b-a1d3-7cc5137ee634_poojaneeds_VA9478OQG6_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/5/361ad358-ed58-4fc8-bb82-73b7f8cfd599_poojaneeds_VA9478OQG6_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/5/d872f302-778f-4660-8c6e-677714ecdf22_poojaneeds_VA9478OQG6_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/5/1d40035e-1afd-45a0-aeb0-6e5c9ed5dfb7_poojaneeds_VA9478OQG6_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/5/da0f19c8-3330-4a6b-81e0-493b80634c90_poojaneeds_VA9478OQG6_AL4.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 130,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "SATVIK Iron Hawan Kund (Medium Size)",
-    "brand": "SATVIK",
-    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-    "product_id": "SSC4AAY5FV",
-    "variations": [
-      {
-        "id": "KBK5N0SSIQ",
-        "display_name": "SATVIK Iron Hawan Kund (Medium Size)",
-        "price_mrp": 999,
-        "brand": "SATVIK",
-        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Iron Hawan Kund (Medium Size)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/7/17/82efd34f-f980-4fd5-b07b-8ca84c4a2e47_poojaneeds_RKRBQNAXJ2_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/17/5811683c-62b7-4b76-adbc-d6020b1f7480_poojaneeds_RKRBQNAXJ2_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/17/1c902c55-e2f0-459a-ba17-9154ecfc7b39_poojaneeds_RKRBQNAXJ2_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/17/da349f7f-54ee-490b-a50e-d8036f0ce67a_poojaneeds_RKRBQNAXJ2_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/17/b38b9faa-fc78-4a2b-bfa6-bf66427138d5_poojaneeds_RKRBQNAXJ2_AL4.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 1100,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 6",
-    "brand": "Diacraft",
-    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-    "product_id": "4X0G9LK9M2",
-    "variations": [
-      {
-        "id": "I02WL36V32",
-        "display_name": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 6",
-        "price_mrp": 419,
-        "brand": "Diacraft",
-        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 6",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/ebd86278-75a1-49a3-8322-78e9312670b9_323753_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/d82d2ee6-87a9-4730-92d1-4a721d5aeba5_323753_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/f53dd20e-39b7-44ef-ba82-1f53e60c7bc2_323753_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/3166c2d3-f140-4698-a493-8127da02d7a6_323753_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/cf46a276-4743-43d4-8c22-92ff5e61f7ea_323753_5.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 38,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Happy Tyohaar Durga Maa Idols",
-    "brand": "Happy Tyohaar",
-    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-    "product_id": "YJNCFVYEJM",
-    "variations": [
-      {
-        "id": "G96ZOWHN0I",
-        "display_name": "Happy Tyohaar Durga Maa Idols",
-        "price_mrp": 599,
-        "brand": "Happy Tyohaar",
-        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Durga Maa Idols",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/4/15/36d76ff7-e1a5-44fd-a18d-483944862dc5_189348_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/15/62fd93fe-eb47-43c0-ae96-a352dda4ecbd_189348_2.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 400,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Shri Samriddhi Enterprises 55 Chalisa Pooja Book",
-    "brand": "Shri Samriddhi",
-    "brand_id": "bb5d19f9a1a28bb3d62d1c212a4636fcf3d267ce",
-    "product_id": "6KWIUPZT3U",
-    "variations": [
-      {
-        "id": "K4RDN9QCMZ",
-        "display_name": "Shri Samriddhi Enterprises 55 Chalisa Pooja Book",
-        "price_mrp": 140,
-        "brand": "Shri Samriddhi",
-        "brand_id": "bb5d19f9a1a28bb3d62d1c212a4636fcf3d267ce",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Enterprises 55 Chalisa Pooja Book",
-        "images": [
-          "19151b182cad4fe4bcaa53f2c3b7c02f",
-          "20cebd7d1b63ed97d35b3c46ce9f2cec"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "SATVIK Durga Maa Idols",
-    "brand": "SATVIK",
-    "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-    "product_id": "8FCMUEGKXC",
-    "variations": [
-      {
-        "id": "GWSTBFG96M",
-        "display_name": "SATVIK Durga Maa Idols",
-        "price_mrp": 599,
-        "brand": "SATVIK",
-        "brand_id": "076c6bbac7ee3d3f5df420d812aaa7bea8f1f626",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Durga Maa Idols",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/8/21/2b52f981-aede-478c-ae93-2366ae873ae9_826551_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/21/e9ca78ca-0512-4617-b72d-f2beffc0b82a_826551_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/21/a4e5df8f-d464-4d3a-bd12-967bf09217d1_826551_3.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 245,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Happy Tyohaar Sunderkand",
-    "brand": "Happy Tyohaar",
-    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-    "product_id": "HEA6HW4O8Z",
-    "variations": [
-      {
-        "id": "ICOM8Y166H",
-        "display_name": "Happy Tyohaar Sunderkand",
-        "price_mrp": 149,
-        "brand": "Happy Tyohaar",
-        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Sunderkand",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/ff76420e-e8cb-4f4b-842d-80cffbbe9edb_191374_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/4477d363-4511-4946-806a-2dfa160ec00e_191374_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/3c948754-e669-4c93-a8d8-8c4900b87857_191374_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/19f59d1c-59fc-4b5e-856a-0586003b4886_191374_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/c7d1c989-ec0c-43c3-ab0e-35a74be29e89_191374_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/ea3e3c38-de0c-4f3b-b07f-958a06f132f3_191374_6.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Happy Tyohaar Laddu Gopal Poshak Size 5 - Assorted",
-    "brand": "Happy Tyohaar",
-    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-    "product_id": "P2XPAT93TG",
-    "variations": [
-      {
-        "id": "JIK1W57WPB",
-        "display_name": "Happy Tyohaar Laddu Gopal Poshak Size 5 - Assorted",
-        "price_mrp": 249,
-        "brand": "Happy Tyohaar",
-        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Laddu Gopal Poshak Size 5 - Assorted",
-        "images": [
-          "NI_CATALOG/IMAGES/ciw/2025/8/12/65d61505-ce76-433c-b8cf-5fe5f5685ee8_NPI-022209_1_20250812_071552.png",
-          "NI_CATALOG/IMAGES/ciw/2025/8/12/7f2af92e-ad5a-41a9-8eae-82e6e03aa1ea_NPI-022209_2_20250812_071553.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 250,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 3",
-    "brand": "Diacraft",
-    "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-    "product_id": "VDGU6MQTJE",
-    "variations": [
-      {
-        "id": "DJTDD4KR4Q",
-        "display_name": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 3",
-        "price_mrp": 249,
-        "brand": "Diacraft",
-        "brand_id": "bab8cc294a25ac0e1b17171d9eabcc2bce7c5b6f",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "DiaCraft Morpankh Pink Laddu Gopal Dress - Size 3",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/5493d01e-0ec8-4e02-a2b0-a82082bf0a55_161119_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/9005beb8-ce81-4f8a-80c5-4891b8351297_161119_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/003694c6-3ca7-4365-b496-fc3e83d68934_161119_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/12/8c759d22-6081-4dc6-a789-291e8317560d_161119_4.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 22,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Happy Tyohaar Laddu Gopal Poshak Size 2 - Assorted",
-    "brand": "Happy Tyohaar",
-    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-    "product_id": "LBMARXFPVL",
-    "variations": [
-      {
-        "id": "82RPUDSPZ5",
-        "display_name": "Happy Tyohaar Laddu Gopal Poshak Size 2 - Assorted",
-        "price_mrp": 139,
-        "brand": "Happy Tyohaar",
-        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Laddu Gopal Poshak Size 2 - Assorted",
-        "images": [
-          "NI_CATALOG/IMAGES/ciw/2025/8/12/68124f56-00a0-4b84-8a95-be3b34b70c3a_NPI-022206_1_20250812_070130.png",
-          "NI_CATALOG/IMAGES/ciw/2025/8/12/c840d752-7197-4db2-9eb1-4bf553606fd6_NPI-022206_2_20250812_070131.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 250,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Happy Tyohaar Shri Satyanarayan Vrat Katha",
-    "brand": "Happy Tyohaar",
-    "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-    "product_id": "1Z3GZLJKH4",
-    "variations": [
-      {
-        "id": "S7YVCPK2IC",
-        "display_name": "Happy Tyohaar Shri Satyanarayan Vrat Katha",
-        "price_mrp": 49,
-        "brand": "Happy Tyohaar",
-        "brand_id": "067b3823955263bc36635078482e0fed5c844ed7",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Shri Satyanarayan Vrat Katha",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/60fd6408-f74a-47bf-9f0f-4a001295fb52_366133_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/ef2d5804-6be6-4750-bef0-a37b6fa34307_366133_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/b2faf1a1-d7a7-410a-a564-fe98ad3a2922_366133_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/a86a7b77-d817-4cf3-a46c-8b700f4ae839_366133_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/11/37a5ed2d-c453-4aed-85ba-cabd4da037a8_366133_5.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Jumbo Wall Calendar Ganesh Ji",
-    "brand": "",
-    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
-    "product_id": "1OJ16G9WQN",
-    "variations": [
-      {
-        "id": "FG13B2F0BY",
-        "display_name": "Jumbo Wall Calendar Ganesh Ji",
-        "price_mrp": 350,
-        "brand": "",
-        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
-        "category": "Pooja Needs",
-        "super_category": "Home and Kitchen Needs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Jumbo Wall Calendar Ganesh Ji",
-        "images": [
-          "0633250d47857f508999629650b1f31c",
-          "1ed650b95dd0f8dd5610b60e431c67d0",
-          "2ebb08c76ee0dcc9d4c2d88376695342",
-          "85fc6c60e593e27fcf8249401c8199d7",
-          "b9d2d387f23b77d6f34ed62ade876a04",
-          "8ce441f0c6cac5f0673e2ea619c2284d"
-        ],
-        "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": null,
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]

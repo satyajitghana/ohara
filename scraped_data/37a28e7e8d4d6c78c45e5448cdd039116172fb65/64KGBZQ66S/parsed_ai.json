@@ -1,0 +1,210 @@
+{
+  "product_name": "Millé Millet Pancake Mix (No Sugar, No Maida)",
+  "brand": "Millé",
+  "barcode": "8906131681243",
+  "net_quantity_value": 250.0,
+  "net_quantity_unit": "g",
+  "nutrition_info_table": [
+    {
+      "nutrient": "energy",
+      "value": 365.0,
+      "unit": "kcal",
+      "rda_percentage": 7.0
+    },
+    {
+      "nutrient": "protein",
+      "value": 17.0,
+      "unit": "g",
+      "rda_percentage": 14.0
+    },
+    {
+      "nutrient": "carbohydrate",
+      "value": 61.7,
+      "unit": "g",
+      "rda_percentage": 8.0
+    },
+    {
+      "nutrient": "total_sugar",
+      "value": 0.8,
+      "unit": "g",
+      "rda_percentage": null
+    },
+    {
+      "nutrient": "added_sugar",
+      "value": 0.0,
+      "unit": "g",
+      "rda_percentage": 0.0
+    },
+    {
+      "nutrient": "dietary_fibre",
+      "value": 7.7,
+      "unit": "g",
+      "rda_percentage": 12.0
+    },
+    {
+      "nutrient": "sodium",
+      "value": 329.0,
+      "unit": "mg",
+      "rda_percentage": 7.0
+    },
+    {
+      "nutrient": "total_fat",
+      "value": 4.6,
+      "unit": "g",
+      "rda_percentage": 3.0
+    },
+    {
+      "nutrient": "saturated_fat",
+      "value": 0.6,
+      "unit": "g",
+      "rda_percentage": 1.0
+    },
+    {
+      "nutrient": "trans_fat",
+      "value": 0.0,
+      "unit": "g",
+      "rda_percentage": 0.0
+    },
+    {
+      "nutrient": "cholesterol",
+      "value": 0.0,
+      "unit": "mg",
+      "rda_percentage": 0.0
+    }
+  ],
+  "nutrition_serving_value": 100.0,
+  "nutrition_serving_unit": "g",
+  "approx_serves_per_pack": 6,
+  "ingredients_string": "INGREDIENTS: Supergrain Blend (Sorghum (Jowar), Oat, Foxtail Millet) (84%), Protein Blend (Mung Bean Protein, Pea Protein)(12%), Nature Identical Flavours, Baking Powder, Flaxseed Powder, Baking Soda. Food Additives - None",
+  "parsed_ingredients": [
+    {
+      "name": "Supergrain Blend",
+      "percentage": 84.0,
+      "ins_numbers": [],
+      "additives": [],
+      "is_alarming": false,
+      "alarming_reason": null
+    },
+    {
+      "name": "Sorghum (Jowar)",
+      "percentage": null,
+      "ins_numbers": [],
+      "additives": [],
+      "is_alarming": false,
+      "alarming_reason": null
+    },
+    {
+      "name": "Oat",
+      "percentage": null,
+      "ins_numbers": [],
+      "additives": [],
+      "is_alarming": false,
+      "alarming_reason": null
+    },
+    {
+      "name": "Foxtail Millet",
+      "percentage": null,
+      "ins_numbers": [],
+      "additives": [],
+      "is_alarming": false,
+      "alarming_reason": null
+    },
+    {
+      "name": "Protein Blend",
+      "percentage": 12.0,
+      "ins_numbers": [],
+      "additives": [],
+      "is_alarming": false,
+      "alarming_reason": null
+    },
+    {
+      "name": "Mung Bean Protein",
+      "percentage": null,
+      "ins_numbers": [],
+      "additives": [],
+      "is_alarming": false,
+      "alarming_reason": null
+    },
+    {
+      "name": "Pea Protein",
+      "percentage": null,
+      "ins_numbers": [],
+      "additives": [],
+      "is_alarming": false,
+      "alarming_reason": null
+    },
+    {
+      "name": "Nature Identical Flavours",
+      "percentage": null,
+      "ins_numbers": [],
+      "additives": [
+        "Flavour"
+      ],
+      "is_alarming": true,
+      "alarming_reason": "These are highly processed synthetic compounds that mimic natural flavors."
+    },
+    {
+      "name": "Baking Powder",
+      "percentage": null,
+      "ins_numbers": [],
+      "additives": [
+        "Raising Agent"
+      ],
+      "is_alarming": false,
+      "alarming_reason": null
+    },
+    {
+      "name": "Flaxseed Powder",
+      "percentage": null,
+      "ins_numbers": [],
+      "additives": [],
+      "is_alarming": false,
+      "alarming_reason": null
+    },
+    {
+      "name": "Baking Soda",
+      "percentage": null,
+      "ins_numbers": [],
+      "additives": [
+        "Raising Agent"
+      ],
+      "is_alarming": false,
+      "alarming_reason": null
+    }
+  ],
+  "preservatives": [],
+  "ins_numbers_found": [],
+  "veg_non_veg": "VEGAN",
+  "additives": [
+    "Flavour",
+    "Raising Agent"
+  ],
+  "allergens": [
+    "Oat",
+    "Wheat",
+    "Nuts"
+  ],
+  "alarming_ingredients": [
+    "Nature Identical Flavours"
+  ],
+  "health_rating": 85,
+  "processing_level": "ULTRA_PROCESSED",
+  "positive_health_aspects": [
+    "No added sugar",
+    "High in protein (17g/100g)",
+    "High in dietary fiber (7.7g/100g)",
+    "Made with supergrains (Sorghum, Oat, Foxtail Millet)",
+    "No Maida (refined flour)",
+    "No trans fat and cholesterol"
+  ],
+  "negative_health_aspects": [
+    "Contains nature identical flavors"
+  ],
+  "storage_instructions": "STORE IN COOL DRY PLACE AWAY FROM DIRECT SUNLIGHT.",
+  "cooking_instructions": "MIX, POUR & FLIP! 1. To 1/2 cup of Millé Pancake Mix add 1/2 cup milk or water to make a thin batter. 2. Add butter/oil to the pan. Pour the batter onto the pan to form small circles. 3. Flip when the pancakes are cooked till golden brown on both sides. Serve hot with honey, syrup or peanut butter.",
+  "country_of_origin": "India",
+  "certifications": [
+    "FSSAI",
+    "Whole Grains Council Stamp"
+  ]
+}

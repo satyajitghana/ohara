@@ -1,145 +1,131 @@
 [
   {
-    "display_name": "You Bella Four Afghani Kashmiri Jhumka Earrings Combo",
+    "display_name": "You Bella 24 Pairs Jewellery Gold Plated Earrings for Girls and Women (Gold Plated, Daily Use)",
     "brand": "You Bella",
     "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
-    "product_id": "VNS3W5QC7H",
+    "product_id": "DTM0UHROPR",
     "variations": [
       {
-        "id": "Z2GHVX0WBM",
-        "display_name": "You Bella Four Afghani Kashmiri Jhumka Earrings Combo",
-        "price_mrp": 2499,
+        "id": "BK8KOKHO95",
+        "display_name": "You Bella 24 Pairs Jewellery Gold Plated Earrings for Girls and Women (Gold Plated, Daily Use)",
+        "price": {
+          "mrp": 1199,
+          "store_price": 1199,
+          "offer_price": 319,
+          "unit_level_price": "",
+          "discount_value": 880
+        },
         "brand": "You Bella",
         "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
         "category": "Women's Jewellery",
         "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Ethnic",
+        "sub_category_l3": "Casual",
         "sub_category_l4": "Earrings",
         "sub_category_l5": "Multipack",
-        "product_name_without_brand": "Four Afghani Kashmiri Jhumka Earrings Combo",
+        "product_name_without_brand": "24 Pairs Jewellery Gold Plated Earrings for Girls and Women (Gold Plated, Daily Use)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/4/23/d06347ca-9452-4efc-87a5-b32123a36044_68734_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/23/2cd33edf-08b7-49fa-88c1-9eaa183f999e_68734_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/23/f88daa84-137f-49cb-b336-791debae47c8_68734_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/23/46723346-4b8f-4ce2-9221-1b1afa501544_68734_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/23/853b0611-2831-4bd7-ba68-82045da34448_68734_5.png"
+          "NI_CATALOG/IMAGES/CIW/2025/1/16/b8a4933f-a23b-4112-a06d-9a2d642f00cb_62045_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/1/16/798bf8cf-b4e7-4b0c-bfa4-7f8c6af7edd8_62045_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/1/16/5cbbf52b-1075-4e7f-b257-5b44f642e571_62045_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/1/16/3bbbec7e-e2c4-4c9d-8050-d0c00d9fcfac_62045_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/1/16/7309bec1-8c10-4d34-88de-0a118dd996d2_62045_5.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/1/16/3744a2ac-e9f6-482a-a810-862374611d79_62045_6.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/1/16/dcf6d7b7-a4f2-4dda-ae7f-f680f47c0ab6_62045_7.jpg"
         ],
         "images_v2": [],
-        "quantity": "4",
-        "sku_quantity_with_combo": "4 Pair",
-        "unit_of_measure": "Pair",
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": "pack",
         "weight_in_grams": 70,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "You Bella Afghani Oxidised Silver Jhumka Earrings (Girls & Women)",
-    "brand": "You Bella",
-    "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
-    "product_id": "Y761ZH0QCB",
+    "display_name": "EverstylishThe Frosty Wreath Oxidised Jhumka Earrings",
+    "brand": "Everstylish",
+    "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
+    "product_id": "BXANEEYHET",
     "variations": [
       {
-        "id": "TMRTDN9X0J",
-        "display_name": "You Bella Afghani Oxidised Silver Jhumka Earrings (Girls & Women)",
-        "price_mrp": 1599,
-        "brand": "You Bella",
-        "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
+        "id": "9TIR0M1IHS",
+        "display_name": "EverstylishThe Frosty Wreath Oxidised Jhumka Earrings",
+        "price": {
+          "mrp": 249,
+          "store_price": 249,
+          "offer_price": 89,
+          "unit_level_price": "",
+          "discount_value": 160
+        },
+        "brand": "Everstylish",
+        "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
         "category": "Earrings",
         "super_category": "Jewelry and Hair Accessories",
         "sub_category_l3": "Jhumkas and Chandbalis",
         "sub_category_l4": "Jhumkas",
         "sub_category_l5": "Medium",
-        "product_name_without_brand": "Afghani Oxidised Silver Jhumka Earrings (Girls & Women)",
+        "product_name_without_brand": "The Frosty Wreath Oxidised Jhumka Earrings",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/7/25/67b3c1a0-294e-47a2-83b9-07fa64adaa26_JewelleryandCoins_KSTA17ZG4G_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/25/47ebf4df-1bba-41e1-bb9f-1d9117cc5dbf_JewelleryandCoins_KSTA17ZG4G_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/25/13a35526-7ecb-4ef6-8514-1edd5d14b7c7_JewelleryandCoins_KSTA17ZG4G_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/25/a8da2005-89c2-4a48-a32f-bda39c361b5e_JewelleryandCoins_KSTA17ZG4G_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/25/f6ab9deb-7592-4c90-b91a-c7f9682d5f04_JewelleryandCoins_KSTA17ZG4G_AL4.png"
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/609f63c2-f5c0-4003-970b-b19865506ff8_529577_1(1).jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/fc7bbd18-84d3-4a59-bfb8-4858e51c18eb_529577_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/64e63335-98d3-4e30-90e3-2ec9b3fcf53d_529577_6.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/304239db-6f69-4c08-ad11-e5c391e634d3_529577_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/cdaa0408-f0a0-4558-a95b-660a35a6e2dc_529577_3(1).jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/6f82d7df-5686-4d4a-be8f-6d4b1df41896_529577_5.jpg"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 Pair",
         "unit_of_measure": "Pair",
-        "weight_in_grams": 25,
+        "weight_in_grams": 0,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Minutiae Gold Toned Solitaire Earrings (Clip on Heart)",
-    "brand": "Minutiae",
-    "brand_id": "50752bbfdc640353a297307a64be90fee5db50b3",
-    "product_id": "8SRPHJHFNQ",
+    "display_name": "Everstylish Little Cubic bow Earrings",
+    "brand": "Everstylish",
+    "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
+    "product_id": "JHN1DR12F2",
     "variations": [
       {
-        "id": "QHM56B94ZX",
-        "display_name": "Minutiae Gold Toned Solitaire Earrings (Clip on Heart)",
-        "price_mrp": 1999,
-        "brand": "Minutiae",
-        "brand_id": "50752bbfdc640353a297307a64be90fee5db50b3",
+        "id": "JPUUIC2U90",
+        "display_name": "Everstylish Little Cubic bow Earrings",
+        "price": {
+          "mrp": 499,
+          "store_price": 499,
+          "offer_price": 129,
+          "unit_level_price": "",
+          "discount_value": 370
+        },
+        "brand": "Everstylish",
+        "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
         "category": "Earrings",
         "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Hoop Earrings",
+        "sub_category_l3": "Studs",
         "sub_category_l4": "women",
         "sub_category_l5": "Medium",
-        "product_name_without_brand": "Gold Toned Solitaire Earrings (Clip on Heart)",
+        "product_name_without_brand": "Little Cubic bow Earrings",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/8/29/a91f7964-7ce5-417a-870e-fb8c442479b8_551617_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/29/443ef5bf-a755-4308-ab90-7a7213e1529c_551617_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/29/04d24793-a133-4e77-843a-44a11220347f_551617_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/29/7b04d9fc-53e9-4b9b-94bf-a5bead2cb58c_551617_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/29/74a1be2b-3eb9-4724-b474-0e29e67f770b_551617_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/9/d7540a76-5cf5-4129-b581-ac149d27252a_551617_6.png"
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/e8ed4c69-2d60-4de7-aaa9-655d01e14f87_820641_1(1).jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/c8d93b9a-2e65-4c97-ac7d-57384a0555f8_820641_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/a4afb2e6-b2c0-41ac-b80e-b79bbe02e4bf_820641_2(1).jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/1b73e5ee-6f69-422c-a3ae-cc886cdab05e_820641_4(1).jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/3a8323f7-d930-4eca-aa0c-7b1a3be03715_820641_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/89fe133f-91b6-44d0-9079-ce34f58e8da6_820641_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/a599cfc7-71d2-4d39-b6da-65a2287de7c3_820641_5.jpg"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 Pair",
         "unit_of_measure": "Pair",
-        "weight_in_grams": 50,
+        "weight_in_grams": 0,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "GIVA Rose Gold Princess Earrings",
-    "brand": "GIVA",
-    "brand_id": "e9265fcca1d7ff89c4f2007efc4c6f6dbf48edcb",
-    "product_id": "O4K6Z07UJF",
-    "variations": [
-      {
-        "id": "BWMG006DH5",
-        "display_name": "GIVA Rose Gold Princess Earrings",
-        "price_mrp": 3399,
-        "brand": "GIVA",
-        "brand_id": "e9265fcca1d7ff89c4f2007efc4c6f6dbf48edcb",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Drop Earrings",
-        "sub_category_l4": "women",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Rose Gold Princess Earrings",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/b18b17e4-610a-4f3c-a7b1-d2c008dd7084_98195_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/621766e2-88ee-4990-9d17-7dacb9442e4c_98195_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/13/181791a6-3ac0-44c8-af6a-e74024bea057_98195_9.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/89e66106-0c21-456a-ae7e-d7d58d12aafe_98195_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/fef4c13a-d6fe-4c14-86ae-0fe9415fceeb_98195_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/fde0899a-fe32-453e-891d-bc2d37770324_98195_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/1429e186-a936-4718-b01e-018c79688613_93371_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/8aedf263-2d1f-4b3e-8261-368c617b0dfc_361889_6.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/3b553880-90c7-4f75-85a2-1eb2562201b0_93371_9.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -153,7 +139,13 @@
       {
         "id": "402QQOKW2D",
         "display_name": "GIVA Golden Butterfly Studded Affair Earrings",
-        "price_mrp": 1999,
+        "price": {
+          "mrp": 1999,
+          "store_price": 1999,
+          "offer_price": 1059,
+          "unit_level_price": "",
+          "discount_value": 940
+        },
         "brand": "GIVA",
         "brand_id": "e9265fcca1d7ff89c4f2007efc4c6f6dbf48edcb",
         "category": "Earrings",
@@ -178,378 +170,94 @@
         "unit_of_measure": "Pair",
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "You Bella Organizer (Black Leather, No Plating Jewellery Box 34)",
-    "brand": "You Bella",
-    "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
-    "product_id": "VOF1LFPXKB",
+    "display_name": "Awestuffs S Jewelry Storage Box Green (4 Compartments)",
+    "brand": "Awestuffs",
+    "brand_id": "03dec28121eaa454ebe14b156bd3597847fdaeb3",
+    "product_id": "1NUFNS9PSM",
     "variations": [
       {
-        "id": "VXVP7MRW3M",
-        "display_name": "You Bella Organizer (Black Leather, No Plating Jewellery Box 34)",
-        "price_mrp": 1999,
-        "brand": "You Bella",
-        "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
+        "id": "BAXAX4Y2MQ",
+        "display_name": "Awestuffs S Jewelry Storage Box Green (4 Compartments)",
+        "price": {
+          "mrp": 500,
+          "store_price": 500,
+          "offer_price": 199,
+          "unit_level_price": "",
+          "discount_value": 301
+        },
+        "brand": "Awestuffs",
+        "brand_id": "03dec28121eaa454ebe14b156bd3597847fdaeb3",
         "category": "Earrings",
         "super_category": "Jewelry and Hair Accessories",
         "sub_category_l3": "Jewellery Storage and Organizer",
         "sub_category_l4": "Women",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Organizer (Black Leather, No Plating Jewellery Box 34)",
+        "sub_category_l5": null,
+        "product_name_without_brand": "S Jewelry Storage Box Green (4 Compartments)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/24/9c95c938-63a9-44bb-9c9c-0f10f3f90c0f_L21RMOU3PB.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/22/a3ddc3d1-f76e-41c0-bc16-b2ada6d8cd3f_88803_1.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/6/24/b8a8da68-3172-415b-ab6d-70eefbfeffd2_AA_L21RMOU3PB_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/24/bdb07de3-2e1e-4644-b724-8e61925665a1_AA_L21RMOU3PB_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/24/a65d7ac1-9846-4d1b-a7a6-89aa67dbeff4_AA_L21RMOU3PB_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/24/63626a46-634a-4bb4-8422-5efc8d0dbe62_AA_L21RMOU3PB_MN.png"
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/f7acb407-13a6-4833-8847-162858339270_675161_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/6a51c8c9-41ee-4d8a-8bca-ab49a571cb91_675161_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/5efe8c9b-0c40-4de6-b432-e8966378717d_675161_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/0ddc048c-06fe-4ec6-88ba-a1dc55bffe39_675161_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/6888ca23-c500-463b-9e51-88259573097d_675161_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/cf44b05a-d524-420b-9141-986f9420a39f_675161_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/7/d285976c-4982-4447-959d-2a256a1cd99b_675161_7.png"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 Piece",
         "unit_of_measure": "Piece",
-        "weight_in_grams": 350,
+        "weight_in_grams": 100,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Everstylish Blingy Bows Earrings",
-    "brand": "Everstylish",
-    "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
-    "product_id": "FL3864DHHY",
-    "variations": [
-      {
-        "id": "M762B76S9S",
-        "display_name": "Everstylish Blingy Bows Earrings",
-        "price_mrp": 599,
-        "brand": "Everstylish",
-        "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Drop Earrings",
-        "sub_category_l4": "women",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Blingy Bows Earrings",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/0fdff1d7-e4de-42df-872e-bb04d275bd97_590700_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/873c06a4-5059-4559-beb7-51f81500673e_590700_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/28/867feaf6-75f6-4908-8dbf-68945ab16dd4_590700_11.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/28/9ab4ef6c-f47d-4cd7-8355-19048ffcc91a_590700_12.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/28/8127df94-2be0-45a1-9c66-959e3f77bd3d_590700_13.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/643afb75-faae-44b4-a8e7-cef1b0044d99_590700_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/b2e4053d-4f06-4dfe-a737-442156f5ce8e_590700_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/6fd5c92e-bcda-45f3-a0b8-c2e897a744e6_590700_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/28/4607e964-62e2-4eb0-aa13-80f53e621525_590700_6.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/28/5321363e-6059-4d6c-99df-cab4ec624484_590700_7.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/28/2c6387fc-36ff-4487-938a-da7e19495cc8_590700_8.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/28/d7849a57-f372-4a0d-a581-6ffd45f876bd_590700_9.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/28/b3c56e8b-aa38-4958-a99f-1443670a9b9f_590700_10.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Pair",
-        "unit_of_measure": "Pair",
-        "weight_in_grams": 0,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Just Lil Things Gold Pin Earrings (JLT11541)",
-    "brand": "Just Lil Things",
-    "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
-    "product_id": "2ERO7MLGZE",
-    "variations": [
-      {
-        "id": "Y9V0VOCXPP",
-        "display_name": "Just Lil Things Gold Pin Earrings (JLT11541)",
-        "price_mrp": 299,
-        "brand": "Just Lil Things",
-        "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Studs",
-        "sub_category_l4": "women",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Gold Pin Earrings (JLT11541)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/8/31/4786b241-9cda-4a78-a3aa-082fd7ccaf29_566568_1.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/9/063d4a28-b027-4bf1-8da7-541a1aa0fd90_566568_6.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/31/b55e8c5a-da07-4462-a7b6-e8ef6fcf09ac_566568_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/8/31/a1dae455-b513-463a-9871-80d17f562abb_566568_3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/8/31/c1e24569-a86f-4184-9a47-c0235374a80c_566568_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/31/75129256-68c5-46ab-9be1-430b78fdf102_566568_5.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Pair",
-        "unit_of_measure": "Pair",
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "GIVA Silver Mini Star Hoop Earrings",
-    "brand": "GIVA",
-    "brand_id": "e9265fcca1d7ff89c4f2007efc4c6f6dbf48edcb",
-    "product_id": "LVOEB5XOX7",
-    "variations": [
-      {
-        "id": "DMTI9HLHDN",
-        "display_name": "GIVA Silver Mini Star Hoop Earrings",
-        "price_mrp": 1999,
-        "brand": "GIVA",
-        "brand_id": "e9265fcca1d7ff89c4f2007efc4c6f6dbf48edcb",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Hoop Earrings",
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Silver Mini Star Hoop Earrings",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/9395d167-c98b-48e3-8686-cdd754f160ff_64879_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/11/5e00efa8-6af0-4f0b-a4d4-4c9b6e56c262_FashionJewelleryinstamax_UO1LP5FNRX_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/13/8be84628-a419-47f3-bf33-ea76ce8b0ecf_64879_9.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/5f7949ec-b83a-4bc4-b195-42acec95c7ec_64879_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/20dcdf80-2904-40c8-840a-1fedf4f7e567_64879_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/7a5f3224-9ee6-4f55-a721-a9defb9a19a5_64879_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/43bfa5ad-c1be-4b9b-b5b9-107788a6dc0e_64002_9.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/d5a1c8b4-0850-4385-a8cd-83e4aae72739_64879_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/30fde609-ef2e-4b8d-b129-9209c14468c7_64879_8.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Pair",
-        "unit_of_measure": "Pair",
-        "weight_in_grams": 150,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Everstylish The Cute Little Dome Jhumkis (Tiny Trinket Earrings)",
-    "brand": "Everstylish",
-    "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
-    "product_id": "86DG5O81PO",
-    "variations": [
-      {
-        "id": "7AJBKASWXO",
-        "display_name": "Everstylish The Cute Little Dome Jhumkis (Tiny Trinket Earrings)",
-        "price_mrp": 399,
-        "brand": "Everstylish",
-        "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Jhumkas and Chandbalis",
-        "sub_category_l4": "Jhumkas",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "The Cute Little Dome Jhumkis (Tiny Trinket Earrings)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/0b73239b-53de-4c79-9a01-9632258ee754_295555_1.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/d6d8d502-8cd3-49aa-9e97-9cea56730a7c_295555_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/f2a87385-fe56-4298-9914-3bb157c2514a_295555_3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/faa0681e-0896-4321-901f-de8d1519234c_295555_4.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/12f1ff83-12cb-4f52-bd8a-49fde0faab8f_295555_6.jpg"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Pair",
-        "unit_of_measure": "Pair",
-        "weight_in_grams": 0,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "You Bella Bohemian Multicolour Earrings for Girls And Women",
-    "brand": "You Bella",
-    "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
-    "product_id": "44KQOVZV3T",
-    "variations": [
-      {
-        "id": "QFXYIVJVAA",
-        "display_name": "You Bella Bohemian Multicolour Earrings for Girls And Women",
-        "price_mrp": 1999,
-        "brand": "You Bella",
-        "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Drop Earrings",
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Bohemian Multicolour Earrings for Girls And Women",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/7/26/d2e7ac87-194e-414c-946c-7969d486b192_FashionAccessories_UJ0TU8AUFQ_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/26/68e0e502-fcd6-4ef6-9461-55a2f835007a_FashionAccessories_UJ0TU8AUFQ_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/20/67ffdec3-d6c1-40a3-9726-b577a91449f1_FashionAccessories_UJ0TU8AUFQ_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/20/1217ee77-03eb-46cd-a1fb-a947f548dab7_FashionAccessories_UJ0TU8AUFQ_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/20/c3366fc4-ab94-46b7-bd0b-af6864f864cf_FashionAccessories_UJ0TU8AUFQ_AL4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/20/ddb88e5d-4064-4eb5-b397-f6dd28ef54a1_FashionAccessories_UJ0TU8AUFQ_AL5.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Pair",
-        "unit_of_measure": "Pair",
-        "weight_in_grams": 25,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "You Bella Gold Plated Pearl Jhumka/Jhumki Earrings",
-    "brand": "You Bella",
-    "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
-    "product_id": "HSF0VR1P8K",
-    "variations": [
-      {
-        "id": "36RAU01MCT",
-        "display_name": "You Bella Gold Plated Pearl Jhumka/Jhumki Earrings",
-        "price_mrp": 1599,
-        "brand": "You Bella",
-        "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Jhumkas and Chandbalis",
-        "sub_category_l4": "Jhumkas",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Gold Plated Pearl Jhumka/Jhumki Earrings",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/4/24/9d6c37f8-9c9a-494c-8542-11313c3df9b1_90396_1.PNG",
-          "NI_CATALOG/IMAGES/CIW/2025/4/24/e05dd4f9-b948-430d-861b-6e6fb60d45da_90396_2.PNG",
-          "NI_CATALOG/IMAGES/CIW/2025/4/24/46984dbe-b009-4fe5-aaab-debdc3c79401_90396_3.PNG",
-          "NI_CATALOG/IMAGES/CIW/2025/4/24/1f2592d5-743d-4733-aaa6-3075f65daa45_90396_4.PNG",
-          "NI_CATALOG/IMAGES/CIW/2025/4/24/9f9881de-db8a-4aec-be66-8b3c6815d912_90396_5.PNG",
-          "NI_CATALOG/IMAGES/CIW/2025/4/24/6cfb9956-64bd-4b1d-8cd6-6d9f9eeff171_90396_6.PNG"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 18,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Everstylish Triangle Earrings (Gorgeous, Pearl Embedded, Gold)",
-    "brand": "Everstylish",
-    "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
-    "product_id": "BW3JSH45HW",
-    "variations": [
-      {
-        "id": "IND1ZK3XOX",
-        "display_name": "Everstylish Triangle Earrings (Gorgeous, Pearl Embedded, Gold)",
-        "price_mrp": 799,
-        "brand": "Everstylish",
-        "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Studs",
-        "sub_category_l4": "women",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Triangle Earrings (Gorgeous, Pearl Embedded, Gold)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/a09c8e8f-6bb7-4599-bfc1-5dad7ae57fff_328390_1.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/29215817-bee5-4fca-88a9-e7556886b437_328390_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/5d283542-4f14-40ae-ace4-189d6ef9f647_328390_3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/36f9e6b3-5557-4243-a003-c36d1986934d_328390_4.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/0ca04013-1d7e-46b2-9a40-18dc063efdb5_328390_5.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/2b276680-ca67-4828-83e1-11ff3c93011e_328390_6.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/22805f03-3867-4a14-8936-f9ce8a4331d7_328390_7.jpeg"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Pair",
-        "unit_of_measure": "Pair",
-        "weight_in_grams": 0,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "GIVA Silver Zircon Drizzle Drop Earrings",
-    "brand": "GIVA",
-    "brand_id": "e9265fcca1d7ff89c4f2007efc4c6f6dbf48edcb",
-    "product_id": "O2DTCO9CRI",
-    "variations": [
-      {
-        "id": "7NI75VO5XY",
-        "display_name": "GIVA Silver Zircon Drizzle Drop Earrings",
-        "price_mrp": 2999,
-        "brand": "GIVA",
-        "brand_id": "e9265fcca1d7ff89c4f2007efc4c6f6dbf48edcb",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Drop Earrings",
-        "sub_category_l4": "Women",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Silver Zircon Drizzle Drop Earrings",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/9ab48b9c-0e64-4c4b-9541-ff098dc25ef6_48838_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/cf689432-7083-4b76-93e3-ac3330ae8e1e_48838_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/13/9b9adc13-74dd-4330-a7f0-499a0ca80edd_48838_9.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/1498b2e2-a030-469a-937f-d6a7d894b727_48838_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/100956fb-0534-4eae-9443-83e9146586d6_48838_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/2347d599-ab02-4e8c-8559-8a35b7ef93cf_48838_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/43bfa5ad-c1be-4b9b-b5b9-107788a6dc0e_64002_9.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/ae12ed5b-22b5-4ab5-963b-bb4cc231a01d_70888_6.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/30fde609-ef2e-4b8d-b129-9209c14468c7_64879_8.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pairs",
-        "unit_of_measure": "pairs",
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Voylla Rangabati Pink Embellisheds Jhumka Earrings",
+    "display_name": "Voylla Rava Ball Oxidized Dangle Earrings (Gold)",
     "brand": "Voylla",
     "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
-    "product_id": "NCG489GX4Y",
+    "product_id": "O1SSHJAZ5N",
     "variations": [
       {
-        "id": "QK264ORSQF",
-        "display_name": "Voylla Rangabati Pink Embellisheds Jhumka Earrings",
-        "price_mrp": 849,
+        "id": "9IV91TWDNJ",
+        "display_name": "Voylla Rava Ball Oxidized Dangle Earrings (Gold)",
+        "price": {
+          "mrp": 599,
+          "store_price": 599,
+          "offer_price": 419,
+          "unit_level_price": "",
+          "discount_value": 180
+        },
         "brand": "Voylla",
         "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
         "category": "Earrings",
         "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Jhumkas and Chandbalis",
-        "sub_category_l4": "Jhumkas",
+        "sub_category_l3": "Drop Earrings",
+        "sub_category_l4": "women",
         "sub_category_l5": "Medium",
-        "product_name_without_brand": "Rangabati Pink Embellisheds Jhumka Earrings",
+        "product_name_without_brand": "Rava Ball Oxidized Dangle Earrings (Gold)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/22/964e4049-3a40-4a26-9ecb-290f90425029_70026_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/22/18387fb4-d97d-451f-93e5-f00e0b8f2a10_70026_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/22/bfd6e7a4-b96f-4f8c-b194-0b28075a5cae_70026_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/22/7fb69cbd-22f1-419b-a01a-c1e91d2a28ca_70026_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/22/ffc4a527-a295-4457-bd58-97f7dd543b55_70026_5.png"
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/1c03243e-31b6-49ef-9416-0f3fa8d7a5ec_887811_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/2b56a1b5-900c-43bf-b681-6c3b3e25afc7_887811_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/28b19d9c-291b-49e0-94d5-1c749ff1368e_887811_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/19f619d9-ab5b-41f5-9297-304d4170ccc4_887811_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/15e87cc8-ab16-448c-81b8-3fcd1e1e545e_887811_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/eb319206-6c44-421f-9c96-721747c043ce_887811_6.png"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 Pair",
         "unit_of_measure": "Pair",
-        "weight_in_grams": 0,
+        "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -563,7 +271,13 @@
       {
         "id": "97ROHDG96O",
         "display_name": "GIVA Silver Drop Earrings (Small Heart)",
-        "price_mrp": 1799,
+        "price": {
+          "mrp": 1799,
+          "store_price": 1799,
+          "offer_price": 1279,
+          "unit_level_price": "",
+          "discount_value": 520
+        },
         "brand": "GIVA",
         "brand_id": "e9265fcca1d7ff89c4f2007efc4c6f6dbf48edcb",
         "category": "Earrings",
@@ -589,79 +303,661 @@
         "unit_of_measure": "Pair",
         "weight_in_grams": 150,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Awestuffs S Jewelry Storage Box Green (4 Compartments)",
-    "brand": "Awestuffs",
-    "brand_id": "03dec28121eaa454ebe14b156bd3597847fdaeb3",
-    "product_id": "1NUFNS9PSM",
+    "display_name": "GIVA Rose Gold Princess Earrings",
+    "brand": "GIVA",
+    "brand_id": "e9265fcca1d7ff89c4f2007efc4c6f6dbf48edcb",
+    "product_id": "O4K6Z07UJF",
     "variations": [
       {
-        "id": "BAXAX4Y2MQ",
-        "display_name": "Awestuffs S Jewelry Storage Box Green (4 Compartments)",
-        "price_mrp": 500,
-        "brand": "Awestuffs",
-        "brand_id": "03dec28121eaa454ebe14b156bd3597847fdaeb3",
+        "id": "BWMG006DH5",
+        "display_name": "GIVA Rose Gold Princess Earrings",
+        "price": {
+          "mrp": 3399,
+          "store_price": 3399,
+          "offer_price": 2199,
+          "unit_level_price": "",
+          "discount_value": 1200
+        },
+        "brand": "GIVA",
+        "brand_id": "e9265fcca1d7ff89c4f2007efc4c6f6dbf48edcb",
         "category": "Earrings",
         "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Jewellery Storage and Organizer",
-        "sub_category_l4": "Women",
-        "sub_category_l5": null,
-        "product_name_without_brand": "S Jewelry Storage Box Green (4 Compartments)",
+        "sub_category_l3": "Drop Earrings",
+        "sub_category_l4": "women",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Rose Gold Princess Earrings",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/9/7/f7acb407-13a6-4833-8847-162858339270_675161_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/7/6a51c8c9-41ee-4d8a-8bca-ab49a571cb91_675161_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/7/5efe8c9b-0c40-4de6-b432-e8966378717d_675161_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/7/0ddc048c-06fe-4ec6-88ba-a1dc55bffe39_675161_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/7/6888ca23-c500-463b-9e51-88259573097d_675161_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/7/cf44b05a-d524-420b-9141-986f9420a39f_675161_6.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/7/d285976c-4982-4447-959d-2a256a1cd99b_675161_7.png"
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/b18b17e4-610a-4f3c-a7b1-d2c008dd7084_98195_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/621766e2-88ee-4990-9d17-7dacb9442e4c_98195_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/13/181791a6-3ac0-44c8-af6a-e74024bea057_98195_9.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/89e66106-0c21-456a-ae7e-d7d58d12aafe_98195_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/fef4c13a-d6fe-4c14-86ae-0fe9415fceeb_98195_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/fde0899a-fe32-453e-891d-bc2d37770324_98195_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/1429e186-a936-4718-b01e-018c79688613_93371_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/8aedf263-2d1f-4b3e-8261-368c617b0dfc_361889_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/3b553880-90c7-4f75-85a2-1eb2562201b0_93371_9.png"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 Piece",
         "unit_of_measure": "Piece",
-        "weight_in_grams": 100,
+        "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Voylla Nayantara Circles Geometric Pattern Earrings",
-    "brand": "Voylla",
-    "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
-    "product_id": "H1K6LMCIW9",
+    "display_name": "You Bella Afghani Oxidised Silver Jhumka Earrings (Girls & Women)",
+    "brand": "You Bella",
+    "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
+    "product_id": "Y761ZH0QCB",
     "variations": [
       {
-        "id": "R3QK991IGG",
-        "display_name": "Voylla Nayantara Circles Geometric Pattern Earrings",
-        "price_mrp": 599,
-        "brand": "Voylla",
-        "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
+        "id": "TMRTDN9X0J",
+        "display_name": "You Bella Afghani Oxidised Silver Jhumka Earrings (Girls & Women)",
+        "price": {
+          "mrp": 1599,
+          "store_price": 1599,
+          "offer_price": 199,
+          "unit_level_price": "",
+          "discount_value": 1400
+        },
+        "brand": "You Bella",
+        "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
         "category": "Earrings",
         "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Drop Earrings",
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Nayantara Circles Geometric Pattern Earrings",
+        "sub_category_l3": "Jhumkas and Chandbalis",
+        "sub_category_l4": "Jhumkas",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Afghani Oxidised Silver Jhumka Earrings (Girls & Women)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/8c232b88-2204-4f49-97d1-9eff77a85b2e_70456_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/22/40480d56-4434-403e-a8af-ebe00c31de79_70456_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/22/f40583ca-bd4c-42d6-9b81-854951106000_70456_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/22/996b5e09-8db9-4518-bb88-6f128007ee17_70456_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/22/1eea3d91-c776-450d-8cd6-b3c93e96f6be_70456_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/22/2dfc0d52-161f-4196-90b9-a2b219607b46_70456_6.png"
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/67b3c1a0-294e-47a2-83b9-07fa64adaa26_JewelleryandCoins_KSTA17ZG4G_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/47ebf4df-1bba-41e1-bb9f-1d9117cc5dbf_JewelleryandCoins_KSTA17ZG4G_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/13a35526-7ecb-4ef6-8514-1edd5d14b7c7_JewelleryandCoins_KSTA17ZG4G_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/a8da2005-89c2-4a48-a32f-bda39c361b5e_JewelleryandCoins_KSTA17ZG4G_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/f6ab9deb-7592-4c90-b91a-c7f9682d5f04_JewelleryandCoins_KSTA17ZG4G_AL4.png"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 Pair",
         "unit_of_measure": "Pair",
-        "weight_in_grams": 19,
+        "weight_in_grams": 25,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Everstylish Silver Oxidised Earrings (Moonlit Beams)",
+    "brand": "Everstylish",
+    "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
+    "product_id": "DAZC9LNW3R",
+    "variations": [
+      {
+        "id": "XNAA0T3GZA",
+        "display_name": "Everstylish Silver Oxidised Earrings (Moonlit Beams)",
+        "price": {
+          "mrp": 399,
+          "store_price": 399,
+          "offer_price": 129,
+          "unit_level_price": "",
+          "discount_value": 270
+        },
+        "brand": "Everstylish",
+        "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": "Jhumkas and Chandbalis",
+        "sub_category_l4": "Jhumkas",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Silver Oxidised Earrings (Moonlit Beams)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/22/1a9c2e4b-c91d-42ca-90d1-bdf34ed10c81_270221_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/22/0d826c5c-f676-48eb-b5af-e93e34047bf6_270221_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/22/d709fccd-9219-4a06-97ac-b522373c0120_270221_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/22/43ab93ab-c599-47ec-b510-085389a9c737_270221_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/22/7cbad164-f886-4b8b-a416-1422e9648e03_270221_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/01733eeb-7fab-4123-8770-10cc35883b2a_270221_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/8aeafd6f-1131-4452-846b-ffd03599313b_270221_7.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/0305b1c9-b81f-457b-b0a2-681db99e1f79_270221_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Pair",
+        "unit_of_measure": "Pair",
+        "weight_in_grams": 0,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "CLARA 925 Sterling Silver Hoop Bali Earrings Gift For Women & Girls (Gold Rhodium Plated, Swiss Zirconia, Twisted)",
+    "brand": "CLARA",
+    "brand_id": "6adcdff184fe1386072a4132aa37e7bdc6c4166c",
+    "product_id": "JMGFYIZMEU",
+    "variations": [
+      {
+        "id": "T66X672IWC",
+        "display_name": "CLARA 925 Sterling Silver Hoop Bali Earrings Gift For Women & Girls (Gold Rhodium Plated, Swiss Zirconia, Twisted)",
+        "price": {
+          "mrp": 3198,
+          "store_price": 3198,
+          "offer_price": 1606,
+          "unit_level_price": "",
+          "discount_value": 1592
+        },
+        "brand": "CLARA",
+        "brand_id": "6adcdff184fe1386072a4132aa37e7bdc6c4166c",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": "Hoop Earrings",
+        "sub_category_l4": "women",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "925 Sterling Silver Hoop Bali Earrings Gift For Women & Girls (Gold Rhodium Plated, Swiss Zirconia, Twisted)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/22/d992d7de-9f4b-4730-bb83-1f758fa2c0b7_917863_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/22/9a490d46-ea54-4f64-8201-8c082ac93a3f_917863_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/22/930ffbe0-9b6a-4586-8d1b-e5523c5f8635_917863_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/22/e061acd2-0a34-4754-afa0-15cb47233f11_917863_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/22/cdf51083-b6d2-4aac-90e6-45fc119f8605_917863_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/22/11d26c1a-d5af-4fc6-bcaf-0027d16d4cb7_490007_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Pair",
+        "unit_of_measure": "Pair",
+        "weight_in_grams": 0,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "You Bella Organizer (Black Leather, No Plating Jewellery Box 34)",
+    "brand": "You Bella",
+    "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
+    "product_id": "VOF1LFPXKB",
+    "variations": [
+      {
+        "id": "VXVP7MRW3M",
+        "display_name": "You Bella Organizer (Black Leather, No Plating Jewellery Box 34)",
+        "price": {
+          "mrp": 1999,
+          "store_price": 1999,
+          "offer_price": 419,
+          "unit_level_price": "",
+          "discount_value": 1580
+        },
+        "brand": "You Bella",
+        "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": "Jewellery Storage and Organizer",
+        "sub_category_l4": "Women",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Organizer (Black Leather, No Plating Jewellery Box 34)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/9c95c938-63a9-44bb-9c9c-0f10f3f90c0f_L21RMOU3PB.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/22/a3ddc3d1-f76e-41c0-bc16-b2ada6d8cd3f_88803_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/6/24/b8a8da68-3172-415b-ab6d-70eefbfeffd2_AA_L21RMOU3PB_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/24/bdb07de3-2e1e-4644-b724-8e61925665a1_AA_L21RMOU3PB_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/24/a65d7ac1-9846-4d1b-a7a6-89aa67dbeff4_AA_L21RMOU3PB_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/24/63626a46-634a-4bb4-8422-5efc8d0dbe62_AA_L21RMOU3PB_MN.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 350,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Just Lil Things Gold Pin Earrings (JLT11541)",
+    "brand": "Just Lil Things",
+    "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
+    "product_id": "2ERO7MLGZE",
+    "variations": [
+      {
+        "id": "Y9V0VOCXPP",
+        "display_name": "Just Lil Things Gold Pin Earrings (JLT11541)",
+        "price": {
+          "mrp": 299,
+          "store_price": 299,
+          "offer_price": 209,
+          "unit_level_price": "",
+          "discount_value": 90
+        },
+        "brand": "Just Lil Things",
+        "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": "Studs",
+        "sub_category_l4": "women",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Gold Pin Earrings (JLT11541)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/31/4786b241-9cda-4a78-a3aa-082fd7ccaf29_566568_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/9/063d4a28-b027-4bf1-8da7-541a1aa0fd90_566568_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/31/b55e8c5a-da07-4462-a7b6-e8ef6fcf09ac_566568_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/31/a1dae455-b513-463a-9871-80d17f562abb_566568_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/31/c1e24569-a86f-4184-9a47-c0235374a80c_566568_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/31/75129256-68c5-46ab-9be1-430b78fdf102_566568_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Pair",
+        "unit_of_measure": "Pair",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "You Bella Bohemian Multicolour Earrings for Girls And Women",
+    "brand": "You Bella",
+    "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
+    "product_id": "44KQOVZV3T",
+    "variations": [
+      {
+        "id": "QFXYIVJVAA",
+        "display_name": "You Bella Bohemian Multicolour Earrings for Girls And Women",
+        "price": {
+          "mrp": 1999,
+          "store_price": 1999,
+          "offer_price": 202,
+          "unit_level_price": "",
+          "discount_value": 1797
+        },
+        "brand": "You Bella",
+        "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": "Drop Earrings",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Bohemian Multicolour Earrings for Girls And Women",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/d2e7ac87-194e-414c-946c-7969d486b192_FashionAccessories_UJ0TU8AUFQ_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/68e0e502-fcd6-4ef6-9461-55a2f835007a_FashionAccessories_UJ0TU8AUFQ_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/20/67ffdec3-d6c1-40a3-9726-b577a91449f1_FashionAccessories_UJ0TU8AUFQ_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/20/1217ee77-03eb-46cd-a1fb-a947f548dab7_FashionAccessories_UJ0TU8AUFQ_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/20/c3366fc4-ab94-46b7-bd0b-af6864f864cf_FashionAccessories_UJ0TU8AUFQ_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/20/ddb88e5d-4064-4eb5-b397-f6dd28ef54a1_FashionAccessories_UJ0TU8AUFQ_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Pair",
+        "unit_of_measure": "Pair",
+        "weight_in_grams": 25,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "You Bella Gold Plated Pearl Jhumka/Jhumki Earrings",
+    "brand": "You Bella",
+    "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
+    "product_id": "HSF0VR1P8K",
+    "variations": [
+      {
+        "id": "36RAU01MCT",
+        "display_name": "You Bella Gold Plated Pearl Jhumka/Jhumki Earrings",
+        "price": {
+          "mrp": 1599,
+          "store_price": 1599,
+          "offer_price": 378,
+          "unit_level_price": "",
+          "discount_value": 1221
+        },
+        "brand": "You Bella",
+        "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": "Jhumkas and Chandbalis",
+        "sub_category_l4": "Jhumkas",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Gold Plated Pearl Jhumka/Jhumki Earrings",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/24/9d6c37f8-9c9a-494c-8542-11313c3df9b1_90396_1.PNG",
+          "NI_CATALOG/IMAGES/CIW/2025/4/24/e05dd4f9-b948-430d-861b-6e6fb60d45da_90396_2.PNG",
+          "NI_CATALOG/IMAGES/CIW/2025/4/24/46984dbe-b009-4fe5-aaab-debdc3c79401_90396_3.PNG",
+          "NI_CATALOG/IMAGES/CIW/2025/4/24/1f2592d5-743d-4733-aaa6-3075f65daa45_90396_4.PNG",
+          "NI_CATALOG/IMAGES/CIW/2025/4/24/9f9881de-db8a-4aec-be66-8b3c6815d912_90396_5.PNG",
+          "NI_CATALOG/IMAGES/CIW/2025/4/24/6cfb9956-64bd-4b1d-8cd6-6d9f9eeff171_90396_6.PNG"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 18,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Just Lil Things delight-heart-with-half-hoop-earrings-jlt11231",
+    "brand": "Just Lil Things",
+    "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
+    "product_id": "O8X90XZIEU",
+    "variations": [
+      {
+        "id": "Q8KQGUAUGV",
+        "display_name": "Just Lil Things delight-heart-with-half-hoop-earrings-jlt11231",
+        "price": {
+          "mrp": 1999,
+          "store_price": 1999,
+          "offer_price": 232,
+          "unit_level_price": "",
+          "discount_value": 1767
+        },
+        "brand": "Just Lil Things",
+        "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": "Hoop Earrings",
+        "sub_category_l4": "women",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "delight-heart-with-half-hoop-earrings-jlt11231",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/22/26fd292c-1982-4139-ac2e-130d86d692b9_896225_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/15/f47532af-5367-41ef-a235-c6f24c4ea915_896225_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/15/992f4c0c-5540-4422-8d01-fc765e5eae5b_896225_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/29/50967bb3-1930-4e96-921d-25a20cde46e3_896225_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/29/6337c7f3-3dac-4331-828c-ad6a84e54a40_896225_7.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/29/3254a09c-a4da-4d7d-9232-991f753570ed_896225_9.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/29/05f1655d-7f4d-4398-ae2a-0504885102e1_896225_10.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/29/e15e836f-6249-436c-89d1-5ac76b14ca38_896225_11.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Pair",
+        "unit_of_measure": "Pair",
+        "weight_in_grams": 25,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Everstylish The Cute Little Dome Jhumkis (Tiny Trinket Earrings)",
+    "brand": "Everstylish",
+    "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
+    "product_id": "86DG5O81PO",
+    "variations": [
+      {
+        "id": "7AJBKASWXO",
+        "display_name": "Everstylish The Cute Little Dome Jhumkis (Tiny Trinket Earrings)",
+        "price": {
+          "mrp": 399,
+          "store_price": 399,
+          "offer_price": 119,
+          "unit_level_price": "",
+          "discount_value": 280
+        },
+        "brand": "Everstylish",
+        "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": "Jhumkas and Chandbalis",
+        "sub_category_l4": "Jhumkas",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "The Cute Little Dome Jhumkis (Tiny Trinket Earrings)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/0b73239b-53de-4c79-9a01-9632258ee754_295555_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/d6d8d502-8cd3-49aa-9e97-9cea56730a7c_295555_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/f2a87385-fe56-4298-9914-3bb157c2514a_295555_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/faa0681e-0896-4321-901f-de8d1519234c_295555_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/12f1ff83-12cb-4f52-bd8a-49fde0faab8f_295555_6.jpg"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Pair",
+        "unit_of_measure": "Pair",
+        "weight_in_grams": 0,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Voylla Rangabati Pink Embellisheds Jhumka Earrings",
+    "brand": "Voylla",
+    "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
+    "product_id": "NCG489GX4Y",
+    "variations": [
+      {
+        "id": "QK264ORSQF",
+        "display_name": "Voylla Rangabati Pink Embellisheds Jhumka Earrings",
+        "price": {
+          "mrp": 849,
+          "store_price": 849,
+          "offer_price": 389,
+          "unit_level_price": "",
+          "discount_value": 460
+        },
+        "brand": "Voylla",
+        "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": "Jhumkas and Chandbalis",
+        "sub_category_l4": "Jhumkas",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Rangabati Pink Embellisheds Jhumka Earrings",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/964e4049-3a40-4a26-9ecb-290f90425029_70026_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/18387fb4-d97d-451f-93e5-f00e0b8f2a10_70026_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/bfd6e7a4-b96f-4f8c-b194-0b28075a5cae_70026_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/7fb69cbd-22f1-419b-a01a-c1e91d2a28ca_70026_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/ffc4a527-a295-4457-bd58-97f7dd543b55_70026_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Pair",
+        "unit_of_measure": "Pair",
+        "weight_in_grams": 0,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Everstylish Triangle Earrings (Gorgeous, Pearl Embedded, Gold)",
+    "brand": "Everstylish",
+    "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
+    "product_id": "BW3JSH45HW",
+    "variations": [
+      {
+        "id": "IND1ZK3XOX",
+        "display_name": "Everstylish Triangle Earrings (Gorgeous, Pearl Embedded, Gold)",
+        "price": {
+          "mrp": 799,
+          "store_price": 799,
+          "offer_price": 110,
+          "unit_level_price": "",
+          "discount_value": 689
+        },
+        "brand": "Everstylish",
+        "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": "Studs",
+        "sub_category_l4": "women",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Triangle Earrings (Gorgeous, Pearl Embedded, Gold)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/a09c8e8f-6bb7-4599-bfc1-5dad7ae57fff_328390_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/29215817-bee5-4fca-88a9-e7556886b437_328390_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/5d283542-4f14-40ae-ace4-189d6ef9f647_328390_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/36f9e6b3-5557-4243-a003-c36d1986934d_328390_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/0ca04013-1d7e-46b2-9a40-18dc063efdb5_328390_5.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/2b276680-ca67-4828-83e1-11ff3c93011e_328390_6.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/22805f03-3867-4a14-8936-f9ce8a4331d7_328390_7.jpeg"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Pair",
+        "unit_of_measure": "Pair",
+        "weight_in_grams": 0,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Just Lil Things Gold Hoop Earrings (JLT11568)",
+    "brand": "Just Lil Things",
+    "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
+    "product_id": "V061Q5LADQ",
+    "variations": [
+      {
+        "id": "ND9X8D5UB0",
+        "display_name": "Just Lil Things Gold Hoop Earrings (JLT11568)",
+        "price": {
+          "mrp": 399,
+          "store_price": 399,
+          "offer_price": 319,
+          "unit_level_price": "",
+          "discount_value": 80
+        },
+        "brand": "Just Lil Things",
+        "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": "Hoop Earrings",
+        "sub_category_l4": "women",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Gold Hoop Earrings (JLT11568)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/2/5a1d2a3c-f0f9-41df-9515-6217e14533ed_940356_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/8a5b4bb6-7eb7-491c-ba5b-458455e46136_940356_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/2/d950bd2a-6dbc-40a8-b368-33f42d2434a8_940356_3.JPG",
+          "NI_CATALOG/IMAGES/CIW/2024/9/2/c98350b9-27f6-4ff6-9c01-51cda3e064b3_940356_4.JPG",
+          "NI_CATALOG/IMAGES/CIW/2024/9/2/8207ce5b-ba63-4f9e-98cb-9a0000b2b4c1_940356_5.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/9/2/30952183-14a0-477e-b092-0247aa1b39e6_940356_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/11/44b6fb8b-e37f-48b2-8ff0-14d056bec046_940356_7.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Pair",
+        "unit_of_measure": "Pair",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "GIVA Silver Zircon Drizzle Drop Earrings",
+    "brand": "GIVA",
+    "brand_id": "e9265fcca1d7ff89c4f2007efc4c6f6dbf48edcb",
+    "product_id": "O2DTCO9CRI",
+    "variations": [
+      {
+        "id": "7NI75VO5XY",
+        "display_name": "GIVA Silver Zircon Drizzle Drop Earrings",
+        "price": {
+          "mrp": 2999,
+          "store_price": 2999,
+          "offer_price": 2059,
+          "unit_level_price": "",
+          "discount_value": 940
+        },
+        "brand": "GIVA",
+        "brand_id": "e9265fcca1d7ff89c4f2007efc4c6f6dbf48edcb",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": "Drop Earrings",
+        "sub_category_l4": "Women",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Silver Zircon Drizzle Drop Earrings",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/9ab48b9c-0e64-4c4b-9541-ff098dc25ef6_48838_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/cf689432-7083-4b76-93e3-ac3330ae8e1e_48838_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/13/9b9adc13-74dd-4330-a7f0-499a0ca80edd_48838_9.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/1498b2e2-a030-469a-937f-d6a7d894b727_48838_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/100956fb-0534-4eae-9443-83e9146586d6_48838_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/2347d599-ab02-4e8c-8559-8a35b7ef93cf_48838_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/43bfa5ad-c1be-4b9b-b5b9-107788a6dc0e_64002_9.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/ae12ed5b-22b5-4ab5-963b-bb4cc231a01d_70888_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/30fde609-ef2e-4b8d-b129-9209c14468c7_64879_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 pairs",
+        "unit_of_measure": "pairs",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Voylla Ethnic Hoop Earrings",
+    "brand": "Voylla",
+    "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
+    "product_id": "IMMFRW30BH",
+    "variations": [
+      {
+        "id": "63MUPBYKUQ",
+        "display_name": "Voylla Ethnic Hoop Earrings",
+        "price": {
+          "mrp": 449,
+          "store_price": 449,
+          "offer_price": 229,
+          "unit_level_price": "",
+          "discount_value": 220
+        },
+        "brand": "Voylla",
+        "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": "Hoop Earrings",
+        "sub_category_l4": "Ethnic",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Ethnic Hoop Earrings",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/cce999ec-7b42-40a2-9bb9-9754d8b7fa79_60358_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/b8f9d9de-12a4-46f5-92cd-c741b6d59afb_60358_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/033f7f0d-d7c5-4d1a-bf24-64704aad0c39_60358_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/68510f5f-77e3-4050-878d-c87108525e41_60358_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/fe207fc6-3726-4279-89f1-1a9459c8bcd7_60358_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/8dbcdddf-820a-4ffe-884c-cdaeab1fb440_60358_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Pair",
+        "unit_of_measure": "Pair",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -675,7 +971,13 @@
       {
         "id": "4RZAG5PUM1",
         "display_name": "GIVA Silver Petals Earring",
-        "price_mrp": 1999,
+        "price": {
+          "mrp": 1999,
+          "store_price": 1999,
+          "offer_price": 1179,
+          "unit_level_price": "",
+          "discount_value": 820
+        },
         "brand": "GIVA",
         "brand_id": "e9265fcca1d7ff89c4f2007efc4c6f6dbf48edcb",
         "category": "Earrings",
@@ -701,80 +1003,50 @@
         "unit_of_measure": "Pair",
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Everstylish Little Cubic bow Earrings",
-    "brand": "Everstylish",
-    "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
-    "product_id": "JHN1DR12F2",
+    "display_name": "Minutiae Gold Toned Solitaire Earrings (Clip on Heart)",
+    "brand": "Minutiae",
+    "brand_id": "50752bbfdc640353a297307a64be90fee5db50b3",
+    "product_id": "8SRPHJHFNQ",
     "variations": [
       {
-        "id": "JPUUIC2U90",
-        "display_name": "Everstylish Little Cubic bow Earrings",
-        "price_mrp": 499,
-        "brand": "Everstylish",
-        "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Studs",
-        "sub_category_l4": "women",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Little Cubic bow Earrings",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/e8ed4c69-2d60-4de7-aaa9-655d01e14f87_820641_1(1).jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/c8d93b9a-2e65-4c97-ac7d-57384a0555f8_820641_4.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/a4afb2e6-b2c0-41ac-b80e-b79bbe02e4bf_820641_2(1).jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/1b73e5ee-6f69-422c-a3ae-cc886cdab05e_820641_4(1).jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/3a8323f7-d930-4eca-aa0c-7b1a3be03715_820641_3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/89fe133f-91b6-44d0-9079-ce34f58e8da6_820641_1.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/a599cfc7-71d2-4d39-b6da-65a2287de7c3_820641_5.jpg"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Pair",
-        "unit_of_measure": "Pair",
-        "weight_in_grams": 0,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Just Lil Things Emerald Cluster Hoops Earrings (Jlt11480)",
-    "brand": "Just Lil Things",
-    "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
-    "product_id": "OW9730BDE4",
-    "variations": [
-      {
-        "id": "FYRUGBBPAB",
-        "display_name": "Just Lil Things Emerald Cluster Hoops Earrings (Jlt11480)",
-        "price_mrp": 1999,
-        "brand": "Just Lil Things",
-        "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
+        "id": "QHM56B94ZX",
+        "display_name": "Minutiae Gold Toned Solitaire Earrings (Clip on Heart)",
+        "price": {
+          "mrp": 1999,
+          "store_price": 1999,
+          "offer_price": 489,
+          "unit_level_price": "",
+          "discount_value": 1510
+        },
+        "brand": "Minutiae",
+        "brand_id": "50752bbfdc640353a297307a64be90fee5db50b3",
         "category": "Earrings",
         "super_category": "Jewelry and Hair Accessories",
         "sub_category_l3": "Hoop Earrings",
         "sub_category_l4": "women",
         "sub_category_l5": "Medium",
-        "product_name_without_brand": "Emerald Cluster Hoops Earrings (Jlt11480)",
+        "product_name_without_brand": "Gold Toned Solitaire Earrings (Clip on Heart)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/94ce5558-7cfb-4fc2-b27c-a675aadd3f73_179028_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/8/3a792efd-df8a-4cda-aee9-b6edad7052b3_179028_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/29/8f78d982-5089-414f-8ed6-69e853f9ec25_179028_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/29/4cb779c0-3706-427e-8e08-fdf4c995a549_179028_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/29/26a46d14-5dcd-4fed-8524-652f73210156_179028_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/29/b017a9bf-037b-4c57-9280-f35f8190ad9d_179028_6.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/29/0193f1cf-0383-4871-b6e0-cd9f40001a00_179028_7.png"
+          "NI_CATALOG/IMAGES/CIW/2024/8/29/a91f7964-7ce5-417a-870e-fb8c442479b8_551617_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/29/443ef5bf-a755-4308-ab90-7a7213e1529c_551617_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/29/04d24793-a133-4e77-843a-44a11220347f_551617_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/29/7b04d9fc-53e9-4b9b-94bf-a5bead2cb58c_551617_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/29/74a1be2b-3eb9-4724-b474-0e29e67f770b_551617_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/9/d7540a76-5cf5-4129-b581-ac149d27252a_551617_6.png"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 Pair",
         "unit_of_measure": "Pair",
-        "weight_in_grams": 25,
+        "weight_in_grams": 50,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -788,7 +1060,13 @@
       {
         "id": "FI7M94WADA",
         "display_name": "Everstylish The Glistening Drops Classy Gold Stud Earrings",
-        "price_mrp": 599,
+        "price": {
+          "mrp": 599,
+          "store_price": 599,
+          "offer_price": 149,
+          "unit_level_price": "",
+          "discount_value": 450
+        },
         "brand": "Everstylish",
         "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
         "category": "Earrings",
@@ -812,115 +1090,140 @@
         "unit_of_measure": "Pair",
         "weight_in_grams": 0,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Just Lil Things Gold Hoop Earrings (JLT11568)",
-    "brand": "Just Lil Things",
-    "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
-    "product_id": "V061Q5LADQ",
+    "display_name": "Estele Rose Gold Plated Drop Earring With Pearl (Cz Attractive Designer)",
+    "brand": "Estele",
+    "brand_id": "af02aca491d4d47727472df14750860cf7a1f3dd",
+    "product_id": "G8F1GS4KWU",
     "variations": [
       {
-        "id": "ND9X8D5UB0",
-        "display_name": "Just Lil Things Gold Hoop Earrings (JLT11568)",
-        "price_mrp": 399,
-        "brand": "Just Lil Things",
-        "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
+        "id": "QZXUADL6PX",
+        "display_name": "Estele Rose Gold Plated Drop Earring With Pearl (Cz Attractive Designer)",
+        "price": {
+          "mrp": 3499,
+          "store_price": 3499,
+          "offer_price": 1609,
+          "unit_level_price": "",
+          "discount_value": 1890
+        },
+        "brand": "Estele",
+        "brand_id": "af02aca491d4d47727472df14750860cf7a1f3dd",
         "category": "Earrings",
         "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Hoop Earrings",
-        "sub_category_l4": "women",
+        "sub_category_l3": "Jhumkas and Chandbalis",
+        "sub_category_l4": "Chandbalis",
         "sub_category_l5": "Medium",
-        "product_name_without_brand": "Gold Hoop Earrings (JLT11568)",
+        "product_name_without_brand": "Rose Gold Plated Drop Earring With Pearl (Cz Attractive Designer)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/9/2/5a1d2a3c-f0f9-41df-9515-6217e14533ed_940356_1.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/8a5b4bb6-7eb7-491c-ba5b-458455e46136_940356_6.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/2/d950bd2a-6dbc-40a8-b368-33f42d2434a8_940356_3.JPG",
-          "NI_CATALOG/IMAGES/CIW/2024/9/2/c98350b9-27f6-4ff6-9c01-51cda3e064b3_940356_4.JPG",
-          "NI_CATALOG/IMAGES/CIW/2024/9/2/8207ce5b-ba63-4f9e-98cb-9a0000b2b4c1_940356_5.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/9/2/30952183-14a0-477e-b092-0247aa1b39e6_940356_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/44b6fb8b-e37f-48b2-8ff0-14d056bec046_940356_7.png"
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/122603fe-f6c4-4bd7-a892-38033e37a18b_JewelleryandCoins_0O7GYBMLAH_AL3.jpeg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/5501a0a3-730c-4727-bf81-0303f46da4e8_JewelleryandCoins_0O7GYBMLAH_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/5/8651878c-7d6f-4c2c-95a1-c5d7f8115be9_JewelleryandCoins_0O7GYBMLAH_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/5/47c51305-4158-496b-9401-3a67acc4292b_JewelleryandCoins_0O7GYBMLAH_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/5/1221eba3-f73b-412e-92d8-6c9896b674b1_JewelleryandCoins_0O7GYBMLAH_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/5/8c574014-6ebf-44d4-aa77-19fddf48ca46_JewelleryandCoins_0O7GYBMLAH_AL5.png"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 Pair",
         "unit_of_measure": "Pair",
-        "weight_in_grams": 1,
+        "weight_in_grams": 0,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Voylla 925 Sterling Silver Square CZ Stud Earrings",
-    "brand": "Voylla",
-    "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
-    "product_id": "E90MBNAFPA",
+    "display_name": "CLARA 925 Sterling Silver Earrings Gift For Women And Girls (Swiss Zirconia, Pearl)",
+    "brand": "CLARA",
+    "brand_id": "6adcdff184fe1386072a4132aa37e7bdc6c4166c",
+    "product_id": "O0EGFH5Y19",
     "variations": [
       {
-        "id": "7GZO6FX2G4",
-        "display_name": "Voylla 925 Sterling Silver Square CZ Stud Earrings",
-        "price_mrp": 2049,
-        "brand": "Voylla",
-        "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
+        "id": "UATFXKOZ3A",
+        "display_name": "CLARA 925 Sterling Silver Earrings Gift For Women And Girls (Swiss Zirconia, Pearl)",
+        "price": {
+          "mrp": 3798,
+          "store_price": 3798,
+          "offer_price": 2259,
+          "unit_level_price": "",
+          "discount_value": 1539
+        },
+        "brand": "CLARA",
+        "brand_id": "6adcdff184fe1386072a4132aa37e7bdc6c4166c",
         "category": "Earrings",
         "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Studs",
+        "sub_category_l3": "Drop Earrings",
         "sub_category_l4": "women",
         "sub_category_l5": "Medium",
-        "product_name_without_brand": "925 Sterling Silver Square CZ Stud Earrings",
+        "product_name_without_brand": "925 Sterling Silver Earrings Gift For Women And Girls (Swiss Zirconia, Pearl)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/b72b6bd6-4ad7-44c9-8b9b-67356c431605_128360_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/74edb495-271f-4908-8511-b433c7d3da59_128360_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/4abec4a0-d6f3-4af1-b0d5-231ce12176b5_128360_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/21e47f7b-04da-4291-9b1b-e6c1bee15c00_128360_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/4fc0bee5-3778-4888-80e8-50fc094f4608_128360_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/f948b3a0-0789-405d-92a4-3cf6ff3f9c41_128360_6.png"
+          "NI_CATALOG/IMAGES/CIW/2025/6/29/07f72d3d-917c-45c6-ad87-314106e293ac_675152_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/29/eaf6666a-3b56-491e-b82b-db4d706ed8eb_675152_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/29/6586c679-1508-4252-969c-3158c5e2892e_675152_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/29/307d7c5a-626d-4a08-b09f-a38e1b6f148d_675152_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/29/0d47feac-04f1-4b31-9f97-b6d2754dffc2_675152_5.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/29/9c77ca3c-65bd-43f4-9005-2cbfa832e7a0_675152_6.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/29/2c5fe42c-d7ef-4d04-ad22-06c15f94d1aa_675152_7.jpg"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 Pair",
         "unit_of_measure": "Pair",
-        "weight_in_grams": 2,
+        "weight_in_grams": 7,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Voylla Ethnic Hoop Earrings",
-    "brand": "Voylla",
-    "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
-    "product_id": "IMMFRW30BH",
+    "display_name": "GIVA Silver Mini Star Hoop Earrings",
+    "brand": "GIVA",
+    "brand_id": "e9265fcca1d7ff89c4f2007efc4c6f6dbf48edcb",
+    "product_id": "LVOEB5XOX7",
     "variations": [
       {
-        "id": "63MUPBYKUQ",
-        "display_name": "Voylla Ethnic Hoop Earrings",
-        "price_mrp": 449,
-        "brand": "Voylla",
-        "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
+        "id": "DMTI9HLHDN",
+        "display_name": "GIVA Silver Mini Star Hoop Earrings",
+        "price": {
+          "mrp": 1999,
+          "store_price": 1999,
+          "offer_price": 1819,
+          "unit_level_price": "",
+          "discount_value": 180
+        },
+        "brand": "GIVA",
+        "brand_id": "e9265fcca1d7ff89c4f2007efc4c6f6dbf48edcb",
         "category": "Earrings",
         "super_category": "Jewelry and Hair Accessories",
         "sub_category_l3": "Hoop Earrings",
-        "sub_category_l4": "Ethnic",
+        "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Ethnic Hoop Earrings",
+        "product_name_without_brand": "Silver Mini Star Hoop Earrings",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/22/cce999ec-7b42-40a2-9bb9-9754d8b7fa79_60358_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/22/b8f9d9de-12a4-46f5-92cd-c741b6d59afb_60358_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/22/033f7f0d-d7c5-4d1a-bf24-64704aad0c39_60358_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/22/68510f5f-77e3-4050-878d-c87108525e41_60358_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/22/fe207fc6-3726-4279-89f1-1a9459c8bcd7_60358_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/22/8dbcdddf-820a-4ffe-884c-cdaeab1fb440_60358_6.png"
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/9395d167-c98b-48e3-8686-cdd754f160ff_64879_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/11/5e00efa8-6af0-4f0b-a4d4-4c9b6e56c262_FashionJewelleryinstamax_UO1LP5FNRX_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/13/8be84628-a419-47f3-bf33-ea76ce8b0ecf_64879_9.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/5f7949ec-b83a-4bc4-b195-42acec95c7ec_64879_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/20dcdf80-2904-40c8-840a-1fedf4f7e567_64879_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/7a5f3224-9ee6-4f55-a721-a9defb9a19a5_64879_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/43bfa5ad-c1be-4b9b-b5b9-107788a6dc0e_64002_9.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/d5a1c8b4-0850-4385-a8cd-83e4aae72739_64879_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/30fde609-ef2e-4b8d-b129-9209c14468c7_64879_8.png"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 Pair",
         "unit_of_measure": "Pair",
-        "weight_in_grams": 1,
+        "weight_in_grams": 150,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -934,7 +1237,13 @@
       {
         "id": "521AZADT47",
         "display_name": "Awestuffs Jewelry Storage Tray Box With Clear Glass Lid (9 Compartments, Velvet, Grey)",
-        "price_mrp": 1000,
+        "price": {
+          "mrp": 1000,
+          "store_price": 1000,
+          "offer_price": 356,
+          "unit_level_price": "",
+          "discount_value": 644
+        },
         "brand": "Awestuffs",
         "brand_id": "03dec28121eaa454ebe14b156bd3597847fdaeb3",
         "category": "Earrings",
@@ -963,111 +1272,44 @@
         "unit_of_measure": "Piece",
         "weight_in_grams": 300,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "You Bella Crystal Tassel Handmade Earrings for Girls and Women (Blue)",
-    "brand": "You Bella",
-    "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
-    "product_id": "SMB6GKWI6Z",
-    "variations": [
-      {
-        "id": "SU9AHGSR1X",
-        "display_name": "You Bella Crystal Tassel Handmade Earrings for Girls and Women (Blue)",
-        "price_mrp": 1599,
-        "brand": "You Bella",
-        "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Drop Earrings",
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Crystal Tassel Handmade Earrings for Girls and Women (Blue)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/7/25/95efc264-62e2-4a60-b88c-999e3f920379_FashionAccessories_TIBYW8R52M_AL4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/25/a4fb85ba-c8a4-47ff-8fd5-002ebb244996_FashionAccessories_TIBYW8R52M_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/25/5478fe7f-b00b-43f9-b30a-983fa62de4ae_FashionAccessories_TIBYW8R52M_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/25/192e356e-d7d5-472f-bf5f-78fdcd47cc88_FashionAccessories_TIBYW8R52M_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/25/c292e806-69b5-4c9c-ab4d-1041e622d14d_FashionAccessories_TIBYW8R52M_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/25/ee0cc10b-3811-46dc-bcde-e57b2ee0a4f6_FashionAccessories_TIBYW8R52M_AL5.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Pair",
-        "unit_of_measure": "Pair",
-        "weight_in_grams": 20,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Everstylish Silver Oxidised Earrings (Moonlit Beams)",
-    "brand": "Everstylish",
-    "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
-    "product_id": "DAZC9LNW3R",
-    "variations": [
-      {
-        "id": "XNAA0T3GZA",
-        "display_name": "Everstylish Silver Oxidised Earrings (Moonlit Beams)",
-        "price_mrp": 399,
-        "brand": "Everstylish",
-        "brand_id": "ace6bbe4fd51d7f55038693f0f6637ec82e8247f",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Jhumkas and Chandbalis",
-        "sub_category_l4": "Jhumkas",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Silver Oxidised Earrings (Moonlit Beams)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/1a9c2e4b-c91d-42ca-90d1-bdf34ed10c81_270221_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/0d826c5c-f676-48eb-b5af-e93e34047bf6_270221_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/d709fccd-9219-4a06-97ac-b522373c0120_270221_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/43ab93ab-c599-47ec-b510-085389a9c737_270221_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/7cbad164-f886-4b8b-a416-1422e9648e03_270221_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/01733eeb-7fab-4123-8770-10cc35883b2a_270221_6.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/8aeafd6f-1131-4452-846b-ffd03599313b_270221_7.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/11/0305b1c9-b81f-457b-b0a2-681db99e1f79_270221_8.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Pair",
-        "unit_of_measure": "Pair",
-        "weight_in_grams": 0,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Just Lil Things delight-heart-with-half-hoop-earrings-jlt11231",
+    "display_name": "Just Lil Things Pink Lotus Radiance earrings-jlt11348",
     "brand": "Just Lil Things",
     "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
-    "product_id": "O8X90XZIEU",
+    "product_id": "8Z4CPEQK6J",
     "variations": [
       {
-        "id": "Q8KQGUAUGV",
-        "display_name": "Just Lil Things delight-heart-with-half-hoop-earrings-jlt11231",
-        "price_mrp": 1999,
+        "id": "I0XW6R8BIY",
+        "display_name": "Just Lil Things Pink Lotus Radiance earrings-jlt11348",
+        "price": {
+          "mrp": 1999,
+          "store_price": 1999,
+          "offer_price": 194,
+          "unit_level_price": "",
+          "discount_value": 1805
+        },
         "brand": "Just Lil Things",
         "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
         "category": "Earrings",
         "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Hoop Earrings",
+        "sub_category_l3": "Drop Earrings",
         "sub_category_l4": "women",
         "sub_category_l5": "Medium",
-        "product_name_without_brand": "delight-heart-with-half-hoop-earrings-jlt11231",
+        "product_name_without_brand": "Pink Lotus Radiance earrings-jlt11348",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/26fd292c-1982-4139-ac2e-130d86d692b9_896225_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/15/f47532af-5367-41ef-a235-c6f24c4ea915_896225_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/15/992f4c0c-5540-4422-8d01-fc765e5eae5b_896225_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/29/50967bb3-1930-4e96-921d-25a20cde46e3_896225_6.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/29/6337c7f3-3dac-4331-828c-ad6a84e54a40_896225_7.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/29/3254a09c-a4da-4d7d-9232-991f753570ed_896225_9.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/29/05f1655d-7f4d-4398-ae2a-0504885102e1_896225_10.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/29/e15e836f-6249-436c-89d1-5ac76b14ca38_896225_11.png"
+          "NI_CATALOG/IMAGES/CIW/2024/8/22/59c66456-d9eb-4814-992f-50e8214e9337_346826_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/29/600ba328-1669-4d78-abb1-180506add080_346826_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/29/3556e3f0-8216-4595-88f8-d6df8b3c765a_346826_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/29/ec7d9ae0-a25e-4042-8c71-a6694deba94b_346826_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/29/55e6a278-38a4-4f29-b645-42fd4197fe83_346826_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/29/14e769f3-e19a-4332-a980-77a507746e64_346826_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/29/d7583533-7a12-4238-a891-bbfea78cd1d6_346826_7.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/29/94cf84bf-2042-4522-9096-85748d0e7dc3_346826_8.png"
         ],
         "images_v2": [],
         "quantity": "1",
@@ -1075,6 +1317,50 @@
         "unit_of_measure": "Pair",
         "weight_in_grams": 25,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Voylla Nayantara Circles Geometric Pattern Earrings",
+    "brand": "Voylla",
+    "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
+    "product_id": "H1K6LMCIW9",
+    "variations": [
+      {
+        "id": "R3QK991IGG",
+        "display_name": "Voylla Nayantara Circles Geometric Pattern Earrings",
+        "price": {
+          "mrp": 599,
+          "store_price": 599,
+          "offer_price": 309,
+          "unit_level_price": "",
+          "discount_value": 290
+        },
+        "brand": "Voylla",
+        "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": "Drop Earrings",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Nayantara Circles Geometric Pattern Earrings",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/8c232b88-2204-4f49-97d1-9eff77a85b2e_70456_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/40480d56-4434-403e-a8af-ebe00c31de79_70456_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/f40583ca-bd4c-42d6-9b81-854951106000_70456_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/996b5e09-8db9-4518-bb88-6f128007ee17_70456_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/1eea3d91-c776-450d-8cd6-b3c93e96f6be_70456_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/2dfc0d52-161f-4196-90b9-a2b219607b46_70456_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Pair",
+        "unit_of_measure": "Pair",
+        "weight_in_grams": 19,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -1088,7 +1374,13 @@
       {
         "id": "PLC1434UO6",
         "display_name": "Estele Gold Plated Meenakari Jhumki Earrings with Pearls (Traditional, Green)",
-        "price_mrp": 999,
+        "price": {
+          "mrp": 999,
+          "store_price": 999,
+          "offer_price": 699,
+          "unit_level_price": "",
+          "discount_value": 300
+        },
         "brand": "Estele",
         "brand_id": "af02aca491d4d47727472df14750860cf7a1f3dd",
         "category": "Earrings",
@@ -1112,115 +1404,7 @@
         "unit_of_measure": "Pair",
         "weight_in_grams": 30,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Rubans Silver Plated Glamorous Earrings (Crystal & AD Studded Shoulder Duster)",
-    "brand": "Rubans",
-    "brand_id": "8fb530853c7d6a1cbf9b40d701c2a7b115d689fc",
-    "product_id": "C0617BSV7K",
-    "variations": [
-      {
-        "id": "0QRJ69OQDV",
-        "display_name": "Rubans Silver Plated Glamorous Earrings (Crystal & AD Studded Shoulder Duster)",
-        "price_mrp": 2800,
-        "brand": "Rubans",
-        "brand_id": "8fb530853c7d6a1cbf9b40d701c2a7b115d689fc",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Drop Earrings",
-        "sub_category_l4": "women",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Silver Plated Glamorous Earrings (Crystal & AD Studded Shoulder Duster)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/31/000fc893-2307-49c7-9003-89a4c3cee788_KBWSCWCC6X.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/11/6d5d85f5-f255-430c-975c-60dc9e120c83_615413_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/11/e78bd964-0528-466e-85a1-b2e9b7245f8f_615413_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/11/6a0a2e18-4f22-4f9a-a181-3ec6221d9c13_615413_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/10/96ea8d85-f120-4a9f-869e-50937f040b75_615413_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/10/721a2cab-f1da-4a87-8427-8ffef291f0c5_615413_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Pair",
-        "unit_of_measure": "Pair",
-        "weight_in_grams": 10,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Accessorize Raw Facet Beaded Hoops Earring (Women, Girls, Pink )",
-    "brand": "Accessorize",
-    "brand_id": "7c8a3a32574eb7cafd1c28c3c42f02e92184ba57",
-    "product_id": "RXTNKY97C1",
-    "variations": [
-      {
-        "id": "GBFGKVP4AR",
-        "display_name": "Accessorize Raw Facet Beaded Hoops Earring (Women, Girls, Pink )",
-        "price_mrp": 1645,
-        "brand": "Accessorize",
-        "brand_id": "7c8a3a32574eb7cafd1c28c3c42f02e92184ba57",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Hoop Earrings",
-        "sub_category_l4": "women",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Raw Facet Beaded Hoops Earring (Women, Girls, Pink )",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/10/23/0e27de19-7147-43d3-b7cc-2fec015725da_325361_MN.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/10/23/48350a61-3a48-47f2-aa20-082f547142ba_325361_1.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/10/23/cc771f3b-1083-4109-bb5a-ec85d5a7c6d3_325361_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/10/23/00ae2823-dce3-4f08-aa48-4c5bbc01eeb9_325361_3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/10/23/a110c3d8-3f4e-491e-874f-7430e379ec74_325361_4.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/10/23/bb9f9320-89f9-4754-8ef2-e271b326487a_325361_5.jpg"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Pair",
-        "unit_of_measure": "Pair",
-        "weight_in_grams": 3,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Estele Gold Plated Dangle Earrings with Crystals (Magnificent)",
-    "brand": "Estele",
-    "brand_id": "af02aca491d4d47727472df14750860cf7a1f3dd",
-    "product_id": "WMKM2ZS8XU",
-    "variations": [
-      {
-        "id": "YQ6KHXGUOW",
-        "display_name": "Estele Gold Plated Dangle Earrings with Crystals (Magnificent)",
-        "price_mrp": 899,
-        "brand": "Estele",
-        "brand_id": "af02aca491d4d47727472df14750860cf7a1f3dd",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Drop Earrings",
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Gold Plated Dangle Earrings with Crystals (Magnificent)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/7/26/70d3d378-a00f-4b0a-8db1-0e225b1fa447_JewelleryandCoins_4N4338IWW2_AL5.jpeg",
-          "NI_CATALOG/IMAGES/CIW/2024/7/26/dbeee24c-bd7b-42c8-9157-8e22e05d0157_JewelleryandCoins_4N4338IWW2_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/5/ca6947a6-6f95-48ac-8a80-1542471bf10c_JewelleryandCoins_4N4338IWW2_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/5/5392460d-da06-4bd7-8d9e-a08ac7ae962d_JewelleryandCoins_4N4338IWW2_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/5/2e5fee40-2416-40db-abb4-9e2fcfb95636_JewelleryandCoins_4N4338IWW2_AL4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/5/7d7a9a85-3e05-4554-8a2d-ecb6db22d3cb_JewelleryandCoins_4N4338IWW2_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/28/c210a786-11b2-41fd-ac14-e6ee841e2848_JewelleryandCoins_4N4338IWW2_AL6.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Pair",
-        "unit_of_measure": "Pair",
-        "weight_in_grams": 0,
-        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -1234,7 +1418,13 @@
       {
         "id": "QC86Q5PDZ8",
         "display_name": "GIVA Silver Drop Earrings (Zircon Drizzle)",
-        "price_mrp": 2799,
+        "price": {
+          "mrp": 2799,
+          "store_price": 2799,
+          "offer_price": 1638,
+          "unit_level_price": "",
+          "discount_value": 1161
+        },
         "brand": "GIVA",
         "brand_id": "e9265fcca1d7ff89c4f2007efc4c6f6dbf48edcb",
         "category": "Earrings",
@@ -1258,121 +1448,94 @@
         "unit_of_measure": "Pair",
         "weight_in_grams": 150,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Estele Rose Gold Plated Drop Earring With Pearl (Cz Attractive Designer)",
-    "brand": "Estele",
-    "brand_id": "af02aca491d4d47727472df14750860cf7a1f3dd",
-    "product_id": "G8F1GS4KWU",
+    "display_name": "Voylla 925 Sterling Silver Square CZ Stud Earrings",
+    "brand": "Voylla",
+    "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
+    "product_id": "E90MBNAFPA",
     "variations": [
       {
-        "id": "QZXUADL6PX",
-        "display_name": "Estele Rose Gold Plated Drop Earring With Pearl (Cz Attractive Designer)",
-        "price_mrp": 3499,
-        "brand": "Estele",
-        "brand_id": "af02aca491d4d47727472df14750860cf7a1f3dd",
+        "id": "7GZO6FX2G4",
+        "display_name": "Voylla 925 Sterling Silver Square CZ Stud Earrings",
+        "price": {
+          "mrp": 2049,
+          "store_price": 2049,
+          "offer_price": 959,
+          "unit_level_price": "",
+          "discount_value": 1090
+        },
+        "brand": "Voylla",
+        "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
         "category": "Earrings",
         "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Jhumkas and Chandbalis",
-        "sub_category_l4": "Chandbalis",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Rose Gold Plated Drop Earring With Pearl (Cz Attractive Designer)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/7/26/122603fe-f6c4-4bd7-a892-38033e37a18b_JewelleryandCoins_0O7GYBMLAH_AL3.jpeg",
-          "NI_CATALOG/IMAGES/CIW/2024/7/26/5501a0a3-730c-4727-bf81-0303f46da4e8_JewelleryandCoins_0O7GYBMLAH_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/5/8651878c-7d6f-4c2c-95a1-c5d7f8115be9_JewelleryandCoins_0O7GYBMLAH_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/5/47c51305-4158-496b-9401-3a67acc4292b_JewelleryandCoins_0O7GYBMLAH_AL4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/5/1221eba3-f73b-412e-92d8-6c9896b674b1_JewelleryandCoins_0O7GYBMLAH_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/5/8c574014-6ebf-44d4-aa77-19fddf48ca46_JewelleryandCoins_0O7GYBMLAH_AL5.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Pair",
-        "unit_of_measure": "Pair",
-        "weight_in_grams": 0,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Jewels Galaxy Gold Toned Studs & Hoop Earrings (Circular, 1 Pack 9 Pairs)",
-    "brand": "Jewels Galaxy",
-    "brand_id": "942051c66bf1405b63c762f4bb76a155ee8c3c6b",
-    "product_id": "2UY92276DW",
-    "variations": [
-      {
-        "id": "DPR2XN8659",
-        "display_name": "Jewels Galaxy Gold Toned Studs & Hoop Earrings (Circular, 1 Pack 9 Pairs)",
-        "price_mrp": 1499,
-        "brand": "Jewels Galaxy",
-        "brand_id": "942051c66bf1405b63c762f4bb76a155ee8c3c6b",
-        "category": "Women's Jewellery",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Casual",
-        "sub_category_l4": "Earrings",
-        "sub_category_l5": "Multipack",
-        "product_name_without_brand": "Gold Toned Studs & Hoop Earrings (Circular, 1 Pack 9 Pairs)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/4/6/47967b0f-19c4-4bc1-bdc8-e89e4e089767_FashionAccessories_217SAPOCB3_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/28/1e823324-5d56-48bf-b4a2-12f4a858f40c_86820_11.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/28/1f0b855a-aeb6-4eb7-a646-46e7cc51f7c1_86820_13.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/28/34cc96fc-e8e7-428c-abcb-a7e3e9ae8121_86820_14.png",
-          "NI_CATALOG/IMAGES/CIW/2024/4/6/54bf9825-0c69-42e5-9759-bcd046afe3a4_FashionAccessories_217SAPOCB3_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/28/4fd1e7b4-b123-478e-b647-ceb48fc66e4a_86820_6.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/28/fe82035a-72ad-4e3f-be13-2302e4c5fdda_86820_7.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/28/b9bd5816-5792-4ac5-ba3a-1062e2a2f52e_86820_8.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/28/f77fccf3-2efa-40f4-a4f1-68bbe9e02d1a_86820_9.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/28/4a6bf0ae-e1a7-4b41-8a81-856d1e222462_86820_10.png",
-          "NI_CATALOG/IMAGES/CIW/2024/4/6/2fce50d7-602a-4555-809d-44380ee3d4df_FashionAccessories_217SAPOCB3_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/28/f913afa3-3da8-4093-9164-087ab6d7a581_86820_12.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": "pack",
-        "weight_in_grams": 18,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "CLARA 925 Sterling Silver Earrings Gift For Women And Girls (Swiss Zirconia, Pearl)",
-    "brand": "CLARA",
-    "brand_id": "6adcdff184fe1386072a4132aa37e7bdc6c4166c",
-    "product_id": "O0EGFH5Y19",
-    "variations": [
-      {
-        "id": "UATFXKOZ3A",
-        "display_name": "CLARA 925 Sterling Silver Earrings Gift For Women And Girls (Swiss Zirconia, Pearl)",
-        "price_mrp": 3798,
-        "brand": "CLARA",
-        "brand_id": "6adcdff184fe1386072a4132aa37e7bdc6c4166c",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": "Drop Earrings",
+        "sub_category_l3": "Studs",
         "sub_category_l4": "women",
         "sub_category_l5": "Medium",
-        "product_name_without_brand": "925 Sterling Silver Earrings Gift For Women And Girls (Swiss Zirconia, Pearl)",
+        "product_name_without_brand": "925 Sterling Silver Square CZ Stud Earrings",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/29/07f72d3d-917c-45c6-ad87-314106e293ac_675152_1.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/6/29/eaf6666a-3b56-491e-b82b-db4d706ed8eb_675152_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/6/29/6586c679-1508-4252-969c-3158c5e2892e_675152_3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/6/29/307d7c5a-626d-4a08-b09f-a38e1b6f148d_675152_4.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/6/29/0d47feac-04f1-4b31-9f97-b6d2754dffc2_675152_5.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/6/29/9c77ca3c-65bd-43f4-9005-2cbfa832e7a0_675152_6.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/6/29/2c5fe42c-d7ef-4d04-ad22-06c15f94d1aa_675152_7.jpg"
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/b72b6bd6-4ad7-44c9-8b9b-67356c431605_128360_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/74edb495-271f-4908-8511-b433c7d3da59_128360_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/4abec4a0-d6f3-4af1-b0d5-231ce12176b5_128360_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/21e47f7b-04da-4291-9b1b-e6c1bee15c00_128360_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/4fc0bee5-3778-4888-80e8-50fc094f4608_128360_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/f948b3a0-0789-405d-92a4-3cf6ff3f9c41_128360_6.png"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 Pair",
         "unit_of_measure": "Pair",
-        "weight_in_grams": 7,
+        "weight_in_grams": 2,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Just Lil Things Emerald Cluster Hoops Earrings (Jlt11480)",
+    "brand": "Just Lil Things",
+    "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
+    "product_id": "OW9730BDE4",
+    "variations": [
+      {
+        "id": "FYRUGBBPAB",
+        "display_name": "Just Lil Things Emerald Cluster Hoops Earrings (Jlt11480)",
+        "price": {
+          "mrp": 1999,
+          "store_price": 1999,
+          "offer_price": 259,
+          "unit_level_price": "",
+          "discount_value": 1740
+        },
+        "brand": "Just Lil Things",
+        "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": "Hoop Earrings",
+        "sub_category_l4": "women",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Emerald Cluster Hoops Earrings (Jlt11480)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/22/94ce5558-7cfb-4fc2-b27c-a675aadd3f73_179028_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/8/3a792efd-df8a-4cda-aee9-b6edad7052b3_179028_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/29/8f78d982-5089-414f-8ed6-69e853f9ec25_179028_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/29/4cb779c0-3706-427e-8e08-fdf4c995a549_179028_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/29/26a46d14-5dcd-4fed-8524-652f73210156_179028_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/29/b017a9bf-037b-4c57-9280-f35f8190ad9d_179028_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/29/0193f1cf-0383-4871-b6e0-cd9f40001a00_179028_7.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Pair",
+        "unit_of_measure": "Pair",
+        "weight_in_grams": 25,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -1386,7 +1549,13 @@
       {
         "id": "SYM8NQ7DMS",
         "display_name": "You Bella Inspired Gold Plated Earrings for Girls and Women (9 Pairs)",
-        "price_mrp": 1299,
+        "price": {
+          "mrp": 1299,
+          "store_price": 1299,
+          "offer_price": 239,
+          "unit_level_price": "",
+          "discount_value": 1060
+        },
         "brand": "You Bella",
         "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
         "category": "Women's Jewellery",
@@ -1409,6 +1578,7 @@
         "unit_of_measure": "Pair",
         "weight_in_grams": 70,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
@@ -1422,7 +1592,13 @@
       {
         "id": "9Q1QI3YHZK",
         "display_name": "Just Lil Things Blush Cherry Discs earrings-jlt11438",
-        "price_mrp": 1999,
+        "price": {
+          "mrp": 1999,
+          "store_price": 1999,
+          "offer_price": 232,
+          "unit_level_price": "",
+          "discount_value": 1767
+        },
         "brand": "Just Lil Things",
         "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
         "category": "Earrings",
@@ -1446,35 +1622,126 @@
         "unit_of_measure": "Pair",
         "weight_in_grams": 25,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Voylla Rava Ball Oxidized Dangle Earrings (Gold)",
-    "brand": "Voylla",
-    "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
-    "product_id": "O1SSHJAZ5N",
+    "display_name": "Mia by Tanishq Whispering Pearl Silver Drop Earrings (Women, Girls)",
+    "brand": "Mia By Tanishq",
+    "brand_id": "39daddcbc5444f235b41b47d91baea34126cb7ec",
+    "product_id": "D5XW0MJ9QJ",
     "variations": [
       {
-        "id": "9IV91TWDNJ",
-        "display_name": "Voylla Rava Ball Oxidized Dangle Earrings (Gold)",
-        "price_mrp": 599,
-        "brand": "Voylla",
-        "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
+        "id": "OMFS363CTJ",
+        "display_name": "Mia by Tanishq Whispering Pearl Silver Drop Earrings (Women, Girls)",
+        "price": {
+          "mrp": 1999,
+          "store_price": 1999,
+          "offer_price": 1799,
+          "unit_level_price": "",
+          "discount_value": 200
+        },
+        "brand": "Mia By Tanishq",
+        "brand_id": "39daddcbc5444f235b41b47d91baea34126cb7ec",
         "category": "Earrings",
         "super_category": "Jewelry and Hair Accessories",
         "sub_category_l3": "Drop Earrings",
         "sub_category_l4": "women",
         "sub_category_l5": "Medium",
-        "product_name_without_brand": "Rava Ball Oxidized Dangle Earrings (Gold)",
+        "product_name_without_brand": "Mia by Tanishq Whispering Pearl Silver Drop Earrings (Women, Girls)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/1c03243e-31b6-49ef-9416-0f3fa8d7a5ec_887811_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/2b56a1b5-900c-43bf-b681-6c3b3e25afc7_887811_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/28b19d9c-291b-49e0-94d5-1c749ff1368e_887811_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/19f619d9-ab5b-41f5-9297-304d4170ccc4_887811_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/15e87cc8-ab16-448c-81b8-3fcd1e1e545e_887811_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/eb319206-6c44-421f-9c96-721747c043ce_887811_6.png"
+          "NI_CATALOG/IMAGES/CIW/2025/7/27/bc418fab-236f-46ab-ae84-11a5344c66a7_2DBUGN5306.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/23/b45958eb-3ebf-4b3f-b804-6bde3fc1a146_590962_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/10/23/bbc24842-b993-4687-9b2e-3bbbae0b1929_590962_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/10/23/b1fd85a9-59a2-4ba8-b144-6a3a559d827b_590962_4.jpg"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Pair",
+        "unit_of_measure": "Pair",
+        "weight_in_grams": 0,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Voylla Rava Ball Oxidized Jhumka Style Earrings",
+    "brand": "Voylla",
+    "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
+    "product_id": "YN0Y62QOLW",
+    "variations": [
+      {
+        "id": "P8VCWTIF05",
+        "display_name": "Voylla Rava Ball Oxidized Jhumka Style Earrings",
+        "price": {
+          "mrp": 1199,
+          "store_price": 1199,
+          "offer_price": 539,
+          "unit_level_price": "",
+          "discount_value": 660
+        },
+        "brand": "Voylla",
+        "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": "Jhumkas and Chandbalis",
+        "sub_category_l4": "Jhumkas",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Rava Ball Oxidized Jhumka Style Earrings",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/80533f9f-f33e-4c97-9c9b-a1debd33704c_99451_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/910babef-bbe0-4f8a-9539-3f613ccd818c_99451_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/0ea2efde-7004-4ad9-8725-a844d826eb34_99451_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/6dc5e02a-e564-433e-860a-1eff66f90830_99451_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/4e649538-3663-4fb3-98bf-a84c9658844f_99451_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/3d175128-1277-475a-9342-11df51b44f80_99451_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Pair",
+        "unit_of_measure": "Pair",
+        "weight_in_grams": 11,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Voylla Nazakat Nazuk Pearl Drop Hoop",
+    "brand": "Voylla",
+    "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
+    "product_id": "QDD20HBPKH",
+    "variations": [
+      {
+        "id": "WSIHNWAGXV",
+        "display_name": "Voylla Nazakat Nazuk Pearl Drop Hoop",
+        "price": {
+          "mrp": 2149,
+          "store_price": 2149,
+          "offer_price": 1006,
+          "unit_level_price": "",
+          "discount_value": 1143
+        },
+        "brand": "Voylla",
+        "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": "Hoop Earrings",
+        "sub_category_l4": "women",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Nazakat Nazuk Pearl Drop Hoop",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/5c652752-2132-437a-999e-0fe8d2fb357d_93157_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/b4afc0a2-6019-49d7-8ee7-4d68f466a0da_93157_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/e639c3fc-4f74-44f3-81e3-7c2ae84588de_93157_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/78a1646c-b531-429c-b524-a58985db612f_93157_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/28497975-3157-4c5f-9bb7-e0d5b203176c_93157_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/283912c1-e554-4bf4-ac83-5fbd735b1f31_93157_6.png"
         ],
         "images_v2": [],
         "quantity": "1",
@@ -1482,6 +1749,186 @@
         "unit_of_measure": "Pair",
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Rubans Silver Plated Glamorous Earrings (Crystal & AD Studded Shoulder Duster)",
+    "brand": "Rubans",
+    "brand_id": "8fb530853c7d6a1cbf9b40d701c2a7b115d689fc",
+    "product_id": "C0617BSV7K",
+    "variations": [
+      {
+        "id": "0QRJ69OQDV",
+        "display_name": "Rubans Silver Plated Glamorous Earrings (Crystal & AD Studded Shoulder Duster)",
+        "price": {
+          "mrp": 2800,
+          "store_price": 2800,
+          "offer_price": 552,
+          "unit_level_price": "",
+          "discount_value": 2248
+        },
+        "brand": "Rubans",
+        "brand_id": "8fb530853c7d6a1cbf9b40d701c2a7b115d689fc",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Silver Plated Glamorous Earrings (Crystal & AD Studded Shoulder Duster)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/31/000fc893-2307-49c7-9003-89a4c3cee788_KBWSCWCC6X.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/11/6d5d85f5-f255-430c-975c-60dc9e120c83_615413_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/11/e78bd964-0528-466e-85a1-b2e9b7245f8f_615413_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/11/6a0a2e18-4f22-4f9a-a181-3ec6221d9c13_615413_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/10/96ea8d85-f120-4a9f-869e-50937f040b75_615413_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/10/721a2cab-f1da-4a87-8427-8ffef291f0c5_615413_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 Pair",
+        "sku_quantity_with_combo": "1 Pair",
+        "unit_of_measure": null,
+        "weight_in_grams": 10,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Accessorize Raw Facet Beaded Hoops Earring (Women, Girls, Pink )",
+    "brand": "Accessorize",
+    "brand_id": "7c8a3a32574eb7cafd1c28c3c42f02e92184ba57",
+    "product_id": "RXTNKY97C1",
+    "variations": [
+      {
+        "id": "GBFGKVP4AR",
+        "display_name": "Accessorize Raw Facet Beaded Hoops Earring (Women, Girls, Pink )",
+        "price": {
+          "mrp": 1645,
+          "store_price": 1645,
+          "offer_price": 740,
+          "unit_level_price": "",
+          "discount_value": 905
+        },
+        "brand": "Accessorize",
+        "brand_id": "7c8a3a32574eb7cafd1c28c3c42f02e92184ba57",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Raw Facet Beaded Hoops Earring (Women, Girls, Pink )",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/23/0e27de19-7147-43d3-b7cc-2fec015725da_325361_MN.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/10/23/48350a61-3a48-47f2-aa20-082f547142ba_325361_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/10/23/cc771f3b-1083-4109-bb5a-ec85d5a7c6d3_325361_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/10/23/00ae2823-dce3-4f08-aa48-4c5bbc01eeb9_325361_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/10/23/a110c3d8-3f4e-491e-874f-7430e379ec74_325361_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/10/23/bb9f9320-89f9-4754-8ef2-e271b326487a_325361_5.jpg"
+        ],
+        "images_v2": null,
+        "quantity": "1 Pair",
+        "sku_quantity_with_combo": "1 Pair",
+        "unit_of_measure": null,
+        "weight_in_grams": 3,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Estele Gold Plated Dangle Earrings with Crystals (Magnificent)",
+    "brand": "Estele",
+    "brand_id": "af02aca491d4d47727472df14750860cf7a1f3dd",
+    "product_id": "WMKM2ZS8XU",
+    "variations": [
+      {
+        "id": "YQ6KHXGUOW",
+        "display_name": "Estele Gold Plated Dangle Earrings with Crystals (Magnificent)",
+        "price": {
+          "mrp": 899,
+          "store_price": 899,
+          "offer_price": 640,
+          "unit_level_price": "",
+          "discount_value": 259
+        },
+        "brand": "Estele",
+        "brand_id": "af02aca491d4d47727472df14750860cf7a1f3dd",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Gold Plated Dangle Earrings with Crystals (Magnificent)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/70d3d378-a00f-4b0a-8db1-0e225b1fa447_JewelleryandCoins_4N4338IWW2_AL5.jpeg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/dbeee24c-bd7b-42c8-9157-8e22e05d0157_JewelleryandCoins_4N4338IWW2_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/5/ca6947a6-6f95-48ac-8a80-1542471bf10c_JewelleryandCoins_4N4338IWW2_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/5/5392460d-da06-4bd7-8d9e-a08ac7ae962d_JewelleryandCoins_4N4338IWW2_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/5/2e5fee40-2416-40db-abb4-9e2fcfb95636_JewelleryandCoins_4N4338IWW2_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/5/7d7a9a85-3e05-4554-8a2d-ecb6db22d3cb_JewelleryandCoins_4N4338IWW2_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/28/c210a786-11b2-41fd-ac14-e6ee841e2848_JewelleryandCoins_4N4338IWW2_AL6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 Pair",
+        "sku_quantity_with_combo": "1 Pair",
+        "unit_of_measure": null,
+        "weight_in_grams": 0,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "Jewels Galaxy Gold Toned Studs & Hoop Earrings (Circular, 1 Pack 9 Pairs)",
+    "brand": "Jewels Galaxy",
+    "brand_id": "942051c66bf1405b63c762f4bb76a155ee8c3c6b",
+    "product_id": "2UY92276DW",
+    "variations": [
+      {
+        "id": "DPR2XN8659",
+        "display_name": "Jewels Galaxy Gold Toned Studs & Hoop Earrings (Circular, 1 Pack 9 Pairs)",
+        "price": {
+          "mrp": 1499,
+          "store_price": 1499,
+          "offer_price": 269,
+          "unit_level_price": "",
+          "discount_value": 1230
+        },
+        "brand": "Jewels Galaxy",
+        "brand_id": "942051c66bf1405b63c762f4bb76a155ee8c3c6b",
+        "category": "Women's Jewellery",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Gold Toned Studs & Hoop Earrings (Circular, 1 Pack 9 Pairs)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/4/6/47967b0f-19c4-4bc1-bdc8-e89e4e089767_FashionAccessories_217SAPOCB3_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/28/1e823324-5d56-48bf-b4a2-12f4a858f40c_86820_11.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/28/1f0b855a-aeb6-4eb7-a646-46e7cc51f7c1_86820_13.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/28/34cc96fc-e8e7-428c-abcb-a7e3e9ae8121_86820_14.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/6/54bf9825-0c69-42e5-9759-bcd046afe3a4_FashionAccessories_217SAPOCB3_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/28/4fd1e7b4-b123-478e-b647-ceb48fc66e4a_86820_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/28/fe82035a-72ad-4e3f-be13-2302e4c5fdda_86820_7.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/28/b9bd5816-5792-4ac5-ba3a-1062e2a2f52e_86820_8.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/28/f77fccf3-2efa-40f4-a4f1-68bbe9e02d1a_86820_9.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/28/4a6bf0ae-e1a7-4b41-8a81-856d1e222462_86820_10.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/6/2fce50d7-602a-4555-809d-44380ee3d4df_FashionAccessories_217SAPOCB3_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/28/f913afa3-3da8-4093-9164-087ab6d7a581_86820_12.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 pack",
+        "sku_quantity_with_combo": "1 pack",
+        "unit_of_measure": null,
+        "weight_in_grams": 18,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1495,7 +1942,13 @@
       {
         "id": "U8LZ81BNLH",
         "display_name": "Rubans Voguish Gold Toned Drop Earrings (Classic, 5 Pairs)",
-        "price_mrp": 1200,
+        "price": {
+          "mrp": 1200,
+          "store_price": 1200,
+          "offer_price": 398,
+          "unit_level_price": "",
+          "discount_value": 802
+        },
         "brand": "Rubans",
         "brand_id": "8fb530853c7d6a1cbf9b40d701c2a7b115d689fc",
         "category": "Earrings",
@@ -1519,44 +1972,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 0,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Just Lil Things Pink Lotus Radiance earrings-jlt11348",
-    "brand": "Just Lil Things",
-    "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
-    "product_id": "8Z4CPEQK6J",
-    "variations": [
-      {
-        "id": "I0XW6R8BIY",
-        "display_name": "Just Lil Things Pink Lotus Radiance earrings-jlt11348",
-        "price_mrp": 1999,
-        "brand": "Just Lil Things",
-        "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Pink Lotus Radiance earrings-jlt11348",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/59c66456-d9eb-4814-992f-50e8214e9337_346826_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/29/600ba328-1669-4d78-abb1-180506add080_346826_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/29/3556e3f0-8216-4595-88f8-d6df8b3c765a_346826_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/29/ec7d9ae0-a25e-4042-8c71-a6694deba94b_346826_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/29/55e6a278-38a4-4f29-b645-42fd4197fe83_346826_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/29/14e769f3-e19a-4332-a980-77a507746e64_346826_6.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/29/d7583533-7a12-4238-a891-bbfea78cd1d6_346826_7.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/29/94cf84bf-2042-4522-9096-85748d0e7dc3_346826_8.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Pair",
-        "sku_quantity_with_combo": "1 Pair",
-        "unit_of_measure": null,
-        "weight_in_grams": 25,
-        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1570,7 +1986,13 @@
       {
         "id": "B4HUWFJOWD",
         "display_name": "Rubans Voguish Gold-Plated Drop Earrings (Classic, Pack of 6 Pairs, Women, Girls)",
-        "price_mrp": 1125,
+        "price": {
+          "mrp": 1125,
+          "store_price": 1125,
+          "offer_price": 373,
+          "unit_level_price": "",
+          "discount_value": 752
+        },
         "brand": "Rubans",
         "brand_id": "8fb530853c7d6a1cbf9b40d701c2a7b115d689fc",
         "category": "Earrings",
@@ -1594,112 +2016,49 @@
         "unit_of_measure": null,
         "weight_in_grams": 0,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
   },
   {
-    "display_name": "Mia by Tanishq Whispering Pearl Silver Drop Earrings (Women, Girls)",
-    "brand": "Mia By Tanishq",
-    "brand_id": "39daddcbc5444f235b41b47d91baea34126cb7ec",
-    "product_id": "D5XW0MJ9QJ",
+    "display_name": "You Bella Four Afghani Kashmiri Jhumka Earrings Combo",
+    "brand": "You Bella",
+    "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
+    "product_id": "VNS3W5QC7H",
     "variations": [
       {
-        "id": "OMFS363CTJ",
-        "display_name": "Mia by Tanishq Whispering Pearl Silver Drop Earrings (Women, Girls)",
-        "price_mrp": 1999,
-        "brand": "Mia By Tanishq",
-        "brand_id": "39daddcbc5444f235b41b47d91baea34126cb7ec",
-        "category": "Earrings",
+        "id": "Z2GHVX0WBM",
+        "display_name": "You Bella Four Afghani Kashmiri Jhumka Earrings Combo",
+        "price": {
+          "mrp": 2499,
+          "store_price": 2499,
+          "offer_price": 339,
+          "unit_level_price": "",
+          "discount_value": 2160
+        },
+        "brand": "You Bella",
+        "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
+        "category": "Women's Jewellery",
         "super_category": "Jewelry and Hair Accessories",
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Mia by Tanishq Whispering Pearl Silver Drop Earrings (Women, Girls)",
+        "product_name_without_brand": "Four Afghani Kashmiri Jhumka Earrings Combo",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/27/bc418fab-236f-46ab-ae84-11a5344c66a7_2DBUGN5306.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/23/b45958eb-3ebf-4b3f-b804-6bde3fc1a146_590962_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/10/23/bbc24842-b993-4687-9b2e-3bbbae0b1929_590962_3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/10/23/b1fd85a9-59a2-4ba8-b144-6a3a559d827b_590962_4.jpg"
+          "NI_CATALOG/IMAGES/CIW/2025/4/23/d06347ca-9452-4efc-87a5-b32123a36044_68734_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/23/2cd33edf-08b7-49fa-88c1-9eaa183f999e_68734_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/23/f88daa84-137f-49cb-b336-791debae47c8_68734_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/23/46723346-4b8f-4ce2-9221-1b1afa501544_68734_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/23/853b0611-2831-4bd7-ba68-82045da34448_68734_5.png"
         ],
         "images_v2": null,
-        "quantity": "1 Pair",
-        "sku_quantity_with_combo": "1 Pair",
+        "quantity": "4 Pair",
+        "sku_quantity_with_combo": "4 Pair",
         "unit_of_measure": null,
-        "weight_in_grams": 0,
+        "weight_in_grams": 70,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "CLARA 925 Sterling Silver Hoop Bali Earrings Gift For Women & Girls (Gold Rhodium Plated, Swiss Zirconia, Twisted)",
-    "brand": "CLARA",
-    "brand_id": "6adcdff184fe1386072a4132aa37e7bdc6c4166c",
-    "product_id": "JMGFYIZMEU",
-    "variations": [
-      {
-        "id": "T66X672IWC",
-        "display_name": "CLARA 925 Sterling Silver Hoop Bali Earrings Gift For Women & Girls (Gold Rhodium Plated, Swiss Zirconia, Twisted)",
-        "price_mrp": 3198,
-        "brand": "CLARA",
-        "brand_id": "6adcdff184fe1386072a4132aa37e7bdc6c4166c",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "925 Sterling Silver Hoop Bali Earrings Gift For Women & Girls (Gold Rhodium Plated, Swiss Zirconia, Twisted)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/d992d7de-9f4b-4730-bb83-1f758fa2c0b7_917863_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/9a490d46-ea54-4f64-8201-8c082ac93a3f_917863_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/930ffbe0-9b6a-4586-8d1b-e5523c5f8635_917863_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/e061acd2-0a34-4754-afa0-15cb47233f11_917863_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/cdf51083-b6d2-4aac-90e6-45fc119f8605_917863_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/8/22/11d26c1a-d5af-4fc6-bcaf-0027d16d4cb7_490007_6.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Pair",
-        "sku_quantity_with_combo": "1 Pair",
-        "unit_of_measure": null,
-        "weight_in_grams": 0,
-        "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Voylla Rava Ball Oxidized Jhumka Style Earrings",
-    "brand": "Voylla",
-    "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
-    "product_id": "YN0Y62QOLW",
-    "variations": [
-      {
-        "id": "P8VCWTIF05",
-        "display_name": "Voylla Rava Ball Oxidized Jhumka Style Earrings",
-        "price_mrp": 1199,
-        "brand": "Voylla",
-        "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Rava Ball Oxidized Jhumka Style Earrings",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/80533f9f-f33e-4c97-9c9b-a1debd33704c_99451_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/910babef-bbe0-4f8a-9539-3f613ccd818c_99451_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/0ea2efde-7004-4ad9-8725-a844d826eb34_99451_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/6dc5e02a-e564-433e-860a-1eff66f90830_99451_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/4e649538-3663-4fb3-98bf-a84c9658844f_99451_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/3d175128-1277-475a-9342-11df51b44f80_99451_6.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Pair",
-        "sku_quantity_with_combo": "1 Pair",
-        "unit_of_measure": null,
-        "weight_in_grams": 11,
-        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1713,7 +2072,13 @@
       {
         "id": "RXGYWTQ6GX",
         "display_name": "Just Lil Things Gold Pin Earrings (JLT11683)",
-        "price_mrp": 499,
+        "price": {
+          "mrp": 499,
+          "store_price": 499,
+          "offer_price": 419,
+          "unit_level_price": "",
+          "discount_value": 80
+        },
         "brand": "Just Lil Things",
         "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
         "category": "Earrings",
@@ -1738,6 +2103,50 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ]
+  },
+  {
+    "display_name": "You Bella Crystal Tassel Handmade Earrings for Girls and Women (Blue)",
+    "brand": "You Bella",
+    "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
+    "product_id": "SMB6GKWI6Z",
+    "variations": [
+      {
+        "id": "SU9AHGSR1X",
+        "display_name": "You Bella Crystal Tassel Handmade Earrings for Girls and Women (Blue)",
+        "price": {
+          "mrp": 1599,
+          "store_price": 1599,
+          "offer_price": 389,
+          "unit_level_price": "",
+          "discount_value": 1210
+        },
+        "brand": "You Bella",
+        "brand_id": "a8b5310127c321b8a368d536ca9e4758533ab9d0",
+        "category": "Earrings",
+        "super_category": "Jewelry and Hair Accessories",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Crystal Tassel Handmade Earrings for Girls and Women (Blue)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/95efc264-62e2-4a60-b88c-999e3f920379_FashionAccessories_TIBYW8R52M_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/a4fb85ba-c8a4-47ff-8fd5-002ebb244996_FashionAccessories_TIBYW8R52M_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/5478fe7f-b00b-43f9-b30a-983fa62de4ae_FashionAccessories_TIBYW8R52M_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/192e356e-d7d5-472f-bf5f-78fdcd47cc88_FashionAccessories_TIBYW8R52M_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/c292e806-69b5-4c9c-ab4d-1041e622d14d_FashionAccessories_TIBYW8R52M_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/ee0cc10b-3811-46dc-bcde-e57b2ee0a4f6_FashionAccessories_TIBYW8R52M_AL5.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 Pair",
+        "sku_quantity_with_combo": "1 Pair",
+        "unit_of_measure": null,
+        "weight_in_grams": 20,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1751,7 +2160,13 @@
       {
         "id": "T08PZIDZNH",
         "display_name": "Voylla 925 Sterling Silver CZ Drop Earrings With White Stone",
-        "price_mrp": 2099,
+        "price": {
+          "mrp": 2099,
+          "store_price": 2099,
+          "offer_price": 979,
+          "unit_level_price": "",
+          "discount_value": 1120
+        },
         "brand": "Voylla",
         "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
         "category": "Earrings",
@@ -1774,6 +2189,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 2,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1787,7 +2203,13 @@
       {
         "id": "PLN4XLRFIC",
         "display_name": "Rubans Kundan Jhumkas with Pearls (Off-White & Pink Enamel)",
-        "price_mrp": 2125,
+        "price": {
+          "mrp": 2125,
+          "store_price": 2125,
+          "offer_price": 392,
+          "unit_level_price": "",
+          "discount_value": 1733
+        },
         "brand": "Rubans",
         "brand_id": "8fb530853c7d6a1cbf9b40d701c2a7b115d689fc",
         "category": "Earrings",
@@ -1811,42 +2233,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 15,
         "volumetric_weight": 0,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Voylla Nazakat Nazuk Pearl Drop Hoop",
-    "brand": "Voylla",
-    "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
-    "product_id": "QDD20HBPKH",
-    "variations": [
-      {
-        "id": "WSIHNWAGXV",
-        "display_name": "Voylla Nazakat Nazuk Pearl Drop Hoop",
-        "price_mrp": 2149,
-        "brand": "Voylla",
-        "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
-        "category": "Earrings",
-        "super_category": "Jewelry and Hair Accessories",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Nazakat Nazuk Pearl Drop Hoop",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/5c652752-2132-437a-999e-0fe8d2fb357d_93157_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/b4afc0a2-6019-49d7-8ee7-4d68f466a0da_93157_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/e639c3fc-4f74-44f3-81e3-7c2ae84588de_93157_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/78a1646c-b531-429c-b524-a58985db612f_93157_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/28497975-3157-4c5f-9bb7-e0d5b203176c_93157_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/283912c1-e554-4bf4-ac83-5fbd735b1f31_93157_6.png"
-        ],
-        "images_v2": null,
-        "quantity": "1 Pair",
-        "sku_quantity_with_combo": "1 Pair",
-        "unit_of_measure": null,
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1860,7 +2247,13 @@
       {
         "id": "KUO8C77RF4",
         "display_name": "Voylla Bagh E Fiza Half Moon Earrings",
-        "price_mrp": 1399,
+        "price": {
+          "mrp": 1399,
+          "store_price": 1399,
+          "offer_price": 707,
+          "unit_level_price": "",
+          "discount_value": 692
+        },
         "brand": "Voylla",
         "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
         "category": "Earrings",
@@ -1884,6 +2277,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1897,7 +2291,13 @@
       {
         "id": "LW3VS4GF14",
         "display_name": "Voylla Heer Pankhuri Chandbaali",
-        "price_mrp": 2499,
+        "price": {
+          "mrp": 2499,
+          "store_price": 2499,
+          "offer_price": 1499,
+          "unit_level_price": "",
+          "discount_value": 1000
+        },
         "brand": "Voylla",
         "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
         "category": "Earrings",
@@ -1921,6 +2321,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1934,7 +2335,13 @@
       {
         "id": "HR9DA7HPCK",
         "display_name": "Just Lil Things Silver Drop Earrings (JLT11576)",
-        "price_mrp": 399,
+        "price": {
+          "mrp": 399,
+          "store_price": 399,
+          "offer_price": 319,
+          "unit_level_price": "",
+          "discount_value": 80
+        },
         "brand": "Just Lil Things",
         "brand_id": "c9b61d1f5999c08776905e0c625599137fbd4fb8",
         "category": "Earrings",
@@ -1958,6 +2365,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -1971,7 +2379,13 @@
       {
         "id": "02ARJZ93DW",
         "display_name": "Voylla Rangabati Filigree Pattern Earrings",
-        "price_mrp": 599,
+        "price": {
+          "mrp": 599,
+          "store_price": 599,
+          "offer_price": 303,
+          "unit_level_price": "",
+          "discount_value": 296
+        },
         "brand": "Voylla",
         "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
         "category": "Earrings",
@@ -1994,6 +2408,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2007,7 +2422,13 @@
       {
         "id": "RK2UJN4NQD",
         "display_name": "Voylla Bagh E Fiza Metal Embellisheds Earrings",
-        "price_mrp": 749,
+        "price": {
+          "mrp": 749,
+          "store_price": 749,
+          "offer_price": 333,
+          "unit_level_price": "",
+          "discount_value": 416
+        },
         "brand": "Voylla",
         "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
         "category": "Earrings",
@@ -2030,6 +2451,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2043,7 +2465,13 @@
       {
         "id": "AWZPOW6IOC",
         "display_name": "Voylla Starry Ombre Yellow Gold Earrings For Women",
-        "price_mrp": 949,
+        "price": {
+          "mrp": 949,
+          "store_price": 949,
+          "offer_price": 949,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
         "brand": "Voylla",
         "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
         "category": "Earrings",
@@ -2065,6 +2493,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2078,7 +2507,13 @@
       {
         "id": "97G5RUMI4R",
         "display_name": "Voylla Nazakat Gul Oversized Stud",
-        "price_mrp": 1249,
+        "price": {
+          "mrp": 1249,
+          "store_price": 1249,
+          "offer_price": 630,
+          "unit_level_price": "",
+          "discount_value": 619
+        },
         "brand": "Voylla",
         "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
         "category": "Earrings",
@@ -2101,6 +2536,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2114,7 +2550,13 @@
       {
         "id": "3T9L1R73TG",
         "display_name": "Voylla Amaira Ethnic Hoop Earrings",
-        "price_mrp": 799,
+        "price": {
+          "mrp": 799,
+          "store_price": 799,
+          "offer_price": 689,
+          "unit_level_price": "",
+          "discount_value": 110
+        },
         "brand": "Voylla",
         "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
         "category": "Earrings",
@@ -2138,6 +2580,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2151,7 +2594,13 @@
       {
         "id": "RO8JN65JAP",
         "display_name": "Voylla Abharan Red Stones And Pearls Opulent Drop Earrings",
-        "price_mrp": 2399,
+        "price": {
+          "mrp": 2399,
+          "store_price": 2399,
+          "offer_price": 1211,
+          "unit_level_price": "",
+          "discount_value": 1188
+        },
         "brand": "Voylla",
         "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
         "category": "Earrings",
@@ -2174,6 +2623,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2187,7 +2637,13 @@
       {
         "id": "29XHY3WLQB",
         "display_name": "Voylla Abharan Ethnic White Pearls And Green Stones Filigree Earrings",
-        "price_mrp": 3049,
+        "price": {
+          "mrp": 3049,
+          "store_price": 3049,
+          "offer_price": 3049,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
         "brand": "Voylla",
         "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
         "category": "Earrings",
@@ -2210,6 +2666,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]
@@ -2223,7 +2680,13 @@
       {
         "id": "OC5LQFY0ZP",
         "display_name": "Voylla forever More Lotus Inspired Hoop Earings",
-        "price_mrp": 1399,
+        "price": {
+          "mrp": 1399,
+          "store_price": 1399,
+          "offer_price": 469,
+          "unit_level_price": "",
+          "discount_value": 930
+        },
         "brand": "Voylla",
         "brand_id": "bcf09d85555bcdf71ebb5f6d10a0eaa5f5a95b7f",
         "category": "Earrings",
@@ -2246,6 +2709,7 @@
         "unit_of_measure": null,
         "weight_in_grams": 1,
         "volumetric_weight": 0,
+        "scm_item_type": null,
         "filters_tag": null
       }
     ]

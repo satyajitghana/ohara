@@ -1,97 +1,87 @@
-import httpx
-import json
 import asyncio
-import os
+import json
 from pathlib import Path
-from rich.progress import Progress, BarColumn, TextColumn, TimeRemainingColumn
-from rich.console import Console
-
-# Hardcoded list of categories to process
-CATEGORIES_TO_PROCESS = [
-    "Biscuits_and_Cakes.json",
-    "Cereals_and_Breakfast.json",
-    "Chips_and_Namkeens.json",
-    "Chocolates.json",
-    "Cold_Drinks_and_Juices.json",
-    "Dairy,_Bread_and_Eggs.json",
-    "Dry_Fruits_and_Seeds_Mix.json",
-    "Frozen_Food.json",
-    "Ice_Creams_and_Frozen_Desserts.json",
-    "Meat_and_Seafood.json",
-    "Masalas.json",
-    "Noodles,_Pasta,_Vermicelli.json",
-    "Oils_and_Ghee.json",
-    "Protein_and_Supplements.json",
-    "Sauces_and_Spreads.json",
-    "Sweets.json",
-    "Tea,_Coffee_and_Milk_drinks.json"
-]
-
-async def download_image(client, image_id, download_path, semaphore):
-    """
-    Downloads an image from Swiggy's CDN.
-    """
-    async with semaphore:
-        base_url = "https://instamart-media-assets.swiggy.com/swiggy/image/upload/"
-        image_url = f"{base_url}{image_id}"
-        
-        try:
-            response = await client.get(image_url, timeout=20.0)
-            response.raise_for_status()
-            
-            with open(download_path, 'wb') as f:
-                f.write(response.content)
-            return True
-        except httpx.HTTPStatusError as e:
-            # This will be visible below the progress bar
-            Console().print(f"  [bold red]❌ HTTP ERROR[/bold red] downloading {image_url}: {e.response.status_code}")
-            return False
-        except Exception as e:
-            Console().print(f"  [bold red]❌ Unexpected error[/bold red] downloading {image_url}: {type(e).__name__} - {e}")
-            return False
-
-def clean_image_id(image_id):
-    """
-    Cleans the image ID to be used as a filename.
-    e.g., NI_CATALOG/IMAGES/CIW/2025/4/10/xyz.png -> xyz.png
-    e.g., 5b0f010e1c9b2ebce6a965512a896ba6 -> 5b0f010e1c9b2ebce6a965512a896ba6.png
-    """
-    filename = Path(image_id).name
-    if not Path(filename).suffix:
-        filename += ".png"
-    return filename
+from utils.config import get_api_config, get_directories_config, get_categories_to_process
+from utils.http_client import create_http_client, download_image
+from utils.file_operations import save_json, load_json, clean_image_id
+from utils.data_processing import extract_products_from_data
+from utils.console_utils import (
+    get_console, get_progress_bar, print_success, print_warning, log_message,
+    create_header, print_banner, create_summary_table, print_info, print_error
+)
 
 
 async def process_product(product_data, output_dir, client, semaphore, progress, task_id):
     """
     Processes a single product, saves its data, and downloads its images.
+    Uses brand_id/variation_id folder structure.
     """
     try:
         product_id = product_data.get("product_id")
-        if not product_id:
-            # Using console.log to avoid interfering with the progress bar
-            Console().log("[yellow]⚠️ Skipping product with no product_id.[/yellow]")
+        brand_id = product_data.get("brand_id")
+        brand_name = product_data.get("brand")
+        
+        if not product_id or not brand_id:
+            log_message("[yellow]⚠️ Skipping product with missing product_id or brand_id.[/yellow]")
             return
 
-        product_dir = output_dir / product_id
-        product_dir.mkdir(exist_ok=True)
+        # Create brand directory
+        brand_dir = output_dir / brand_id
+        brand_dir.mkdir(exist_ok=True)
+        
+        # Save/update brand information
+        brand_info_path = brand_dir / "brand_info.json"
+        brand_info = {
+            "brand_id": brand_id,
+            "brand_name": brand_name,
+            "last_updated": None  # Could add timestamp if needed
+        }
+        save_json(brand_info, str(brand_info_path))
+        
+        # Load or create products list for this brand
+        products_list_path = brand_dir / "products_list.json"
+        try:
+            products_list = load_json(products_list_path)
+        except (FileNotFoundError, json.JSONDecodeError):
+            products_list = {"product_ids": [], "products_info": {}}
+        
+        # Add product to the list if not already present
+        if product_id not in products_list["product_ids"]:
+            products_list["product_ids"].append(product_id)
+        
+        # Store product-level info (without variations to avoid duplication)
+        products_list["products_info"][product_id] = {
+            "display_name": product_data.get("display_name"),
+            "brand": brand_name,
+            "brand_id": brand_id,
+            "product_id": product_id,
+            "variation_count": len(product_data.get("variations", []))
+        }
+        
+        # Save updated products list
+        save_json(products_list, str(products_list_path))
 
-        # Save all product data (including variations)
-        with open(product_dir / "data.json", 'w', encoding='utf-8') as f:
-            json.dump(product_data, f, indent=2, ensure_ascii=False)
-
+        # Process each variation
         for variation in product_data.get("variations", []):
             variation_id = variation.get("id")
             if not variation_id:
-                Console().log(f"[yellow]⚠️ Skipping variation with no id for product {product_id}.[/yellow]")
+                log_message(f"[yellow]⚠️ Skipping variation with no id for product {product_id}.[/yellow]")
                 continue
             
-            variation_dir = product_dir / variation_id
+            variation_dir = brand_dir / variation_id
             variation_dir.mkdir(exist_ok=True)
             
-            # Save variation-specific data
-            with open(variation_dir / "data.json", 'w', encoding='utf-8') as f:
-                json.dump(variation, f, indent=2, ensure_ascii=False)
+            # Save variation data with parent product info for context
+            variation_data = {
+                "variation": variation,
+                "parent_product": {
+                    "product_id": product_id,
+                    "display_name": product_data.get("display_name"),
+                    "brand": brand_name,
+                    "brand_id": brand_id
+                }
+            }
+            save_json(variation_data, str(variation_dir / "data.json"))
                 
             images_dir = variation_dir / "images"
             images_dir.mkdir(exist_ok=True)
@@ -101,8 +91,8 @@ async def process_product(product_data, output_dir, client, semaphore, progress,
             for image_id in image_ids:
                 cleaned_filename = clean_image_id(image_id)
                 download_path = images_dir / cleaned_filename
-                if not download_path.exists(): # Avoid re-downloading
-                    download_tasks.append(download_image(client, image_id, download_path, semaphore))
+                if not download_path.exists():  # Avoid re-downloading
+                    download_tasks.append(download_image(client, image_id, str(download_path), semaphore))
             
             if download_tasks:
                 await asyncio.gather(*download_tasks)
@@ -114,82 +104,105 @@ async def process_category_file(filepath, output_dir, client, semaphore, progres
     """
     Reads a category JSON file and processes each product within it.
     """
-    with open(filepath, 'r', encoding='utf-8') as f:
-        try:
-            data = json.load(f)
-            products = []
-            if isinstance(data, list):
-                products = data
-            elif isinstance(data, dict):
-                # This handles the nested structure seen in some files
-                products = data.get("data", {}).get("widgets", [{}])[0].get("data", {}).get("products", [])
-            
-            if not products:
-                Console().log(f"[yellow]  ⚠️  No products found in {filepath.name}[/yellow]")
-                return
+    try:
+        data = load_json(filepath)
+        products = extract_products_from_data(data)
+        
+        if not products:
+            log_message(f"No products found in {filepath.name}", "warning")
+            return
 
-            tasks = [process_product(product, output_dir, client, semaphore, progress, task_id) for product in products]
-            await asyncio.gather(*tasks)
+        tasks = [process_product(product, output_dir, client, semaphore, progress, task_id) for product in products]
+        await asyncio.gather(*tasks)
 
-        except json.JSONDecodeError:
-            Console().print(f"[bold red]  ❌ Error decoding JSON from {filepath.name}[/bold red]")
-        except (IndexError, KeyError) as e:
-            Console().print(f"[bold red]  ❌ Could not find products in {filepath.name}, structure might have changed. Error: {e}[/bold red]")
+    except Exception as e:
+        log_message(f"Error processing {filepath.name}: {str(e)}", "error")
 
 
 async def main():
     """
     Main function to orchestrate the processing of product listings.
     """
-    console = Console()
-    listings_dir = Path("responses/listings")
-    output_dir = Path("scraped_data")
-    output_dir.mkdir(exist_ok=True)
-
-    console.print("[bold green]🚀 Starting data processing and image download...[/bold green]")
+    console = get_console()
     
-    semaphore = asyncio.Semaphore(10) # Concurrency limit for downloads
+    # Print beautiful header
+    header = create_header(
+        "🎯 Swiggy Data Processor & Image Downloader", 
+        "Processing product data and downloading images"
+    )
+    console.print(header)
+    
+    directories = get_directories_config()
+    api_config = get_api_config()
+    categories_to_process = get_categories_to_process()
+    
+    listings_dir = Path(directories['listings'])
+    output_dir = Path(directories['scraped_data'])
+    output_dir.mkdir(parents=True, exist_ok=True)
 
-    # Define the progress bar columns
-    progress_columns = [
-        TextColumn("[progress.description]{task.description}"),
-        BarColumn(),
-        TextColumn("[progress.percentage]{task.percentage:>3.0f}%"),
-        TextColumn("({task.completed} of {task.total})"),
-        TimeRemainingColumn(),
-    ]
+    print_info("Initialization complete", f"Processing {len(categories_to_process)} categories")
+    
+    # Concurrency limit for downloads
+    concurrency_limit = api_config.get('concurrency_limit', 10)
+    semaphore = asyncio.Semaphore(concurrency_limit)
+    
+    total_products = 0
+    total_images = 0
+    processed_categories = 0
 
-    with Progress(*progress_columns, console=console) as progress:
-        async with httpx.AsyncClient() as client:
-            for category_file in CATEGORIES_TO_PROCESS:
+    print_banner("Starting Data Processing")
+
+    with get_progress_bar(show_speed=True) as progress:
+        overall_task = progress.add_task(
+            "[bold green]Processing categories...", 
+            total=len(categories_to_process)
+        )
+        
+        async with await create_http_client() as client:
+            for category_file in categories_to_process:
                 filepath = listings_dir / category_file
                 if filepath.exists():
-                    console.log(f"Processing [bold cyan]{filepath.name}[/bold cyan]...")
                     
-                    # First, read the file to count products for the progress bar
-                    with open(filepath, 'r', encoding='utf-8') as f:
-                        try:
-                            data = json.load(f)
-                            products = []
-                            if isinstance(data, list):
-                                products = data
-                            elif isinstance(data, dict):
-                                products = data.get("data", {}).get("widgets", [{}])[0].get("data", {}).get("products", [])
+                    try:
+                        data = load_json(filepath)
+                        products = extract_products_from_data(data)
+                        
+                        if products:
+                            category_name = Path(category_file).stem.replace('_', ' ')
+                            task_id = progress.add_task(
+                                f"[cyan]  └─ {category_name}", 
+                                total=len(products)
+                            )
                             
-                            if products:
-                                category_name = Path(category_file).stem.replace('_', ' ')
-                                task_id = progress.add_task(f"  [green]{category_name}[/green]", total=len(products))
-                                await process_category_file(filepath, output_dir, client, semaphore, progress, task_id)
-                            else:
-                                console.log(f"[yellow]  ⚠️  No products found in {filepath.name}[/yellow]")
+                            log_message(f"Processing {category_name}: {len(products)} products", "info")
+                            await process_category_file(filepath, output_dir, client, semaphore, progress, task_id)
+                            
+                            total_products += len(products)
+                            processed_categories += 1
+                            
+                            progress.remove_task(task_id)
+                            log_message(f"Completed {category_name}", "success")
+                        else:
+                            log_message(f"No products in {filepath.name}", "warning")
 
-                        except json.JSONDecodeError:
-                            console.print(f"[bold red]  ❌ Error decoding JSON from {filepath.name}[/bold red]")
+                    except Exception as e:
+                        log_message(f"Error reading {filepath.name}: {str(e)}", "error")
 
                 else:
-                    console.log(f"[yellow]⚠️ File not found: {filepath.name}[/yellow]")
-        
-    console.print("[bold green]✅ All categories processed.[/bold green]")
+                    log_message(f"File not found: {filepath.name}", "warning")
+                
+                progress.update(overall_task, advance=1)
+    
+    # Final summary
+    print_banner("Processing Complete")
+    stats = {
+        "Categories Processed": processed_categories,
+        "Total Products": total_products,
+        "Concurrency Limit": concurrency_limit,
+        "Output Directory": str(output_dir)
+    }
+    console.print(create_summary_table(stats))
+    print_success("All processing completed successfully")
 
 if __name__ == "__main__":
     asyncio.run(main())

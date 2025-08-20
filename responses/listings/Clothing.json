@@ -8,7 +8,13 @@
       {
         "id": "POL3KPYSV8",
         "display_name": "Jockey AW88 Women Cotton Rich Half Sleeve T-Shirt (Black) -L",
-        "price_mrp": 549,
+        "price": {
+          "mrp": 549,
+          "store_price": 549,
+          "offer_price": 549,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
         "brand": "Jockey",
         "brand_id": "52e0e57950d1238fb67698cbf56ce0681dec2c3b",
         "category": "Women's Clothing",
@@ -33,12 +39,19 @@
         "unit_of_measure": "Large",
         "weight_in_grams": 154,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       },
       {
         "id": "HTTJGXQHKT",
         "display_name": "Jockey AW88 Women Cotton Rich Half Sleeve T-Shirt (Black) -M",
-        "price_mrp": 549,
+        "price": {
+          "mrp": 549,
+          "store_price": 549,
+          "offer_price": 549,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
         "brand": "Jockey",
         "brand_id": "52e0e57950d1238fb67698cbf56ce0681dec2c3b",
         "category": "Women's Clothing",
@@ -63,6 +76,7 @@
         "unit_of_measure": "Medium",
         "weight_in_grams": 150,
         "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
     ]
