@@ -1,0 +1,157 @@
+{
+  "categories": [
+    {
+      "id": "6822eeebed32000001e25a46",
+      "display_name": "Cold Drinks and Juices",
+      "product_count": 1960,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/ba386d44-a570-47cb-9b7d-9c02554b06ef_3977c023-7f0f-45f0-aea5-11bc873a5546",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a57",
+      "display_name": "Ice Creams and Frozen Desserts",
+      "product_count": 1084,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/4fe55f10-32b9-4762-8d41-be76ea7f67a8_cc703675-e18b-4331-9617-db8a881f0ab2",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a62",
+      "display_name": "Chips and Namkeens",
+      "product_count": 4163,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/70be19a4-dc51-4ab3-969b-65736cd2cdf6_c0031c9c-5f6e-422c-a84b-1428e1787d28",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a70",
+      "display_name": "Chocolates",
+      "product_count": 1285,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/a5c36315-21b0-4dd9-8afc-80210e95df0c_77305056-9bb7-47a4-822d-6ee188bd00f6",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a7c",
+      "display_name": "Noodles, Pasta, Vermicelli",
+      "product_count": 987,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/da9542e9-0c6b-4fc3-bd65-422ab537a4aa_ac5adc39-bf55-492f-94d4-1c0ac65dea46",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a87",
+      "display_name": "Frozen Food",
+      "product_count": 742,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/7e355480-0793-4ac0-a0d7-ca7236109bf7_6bf77c55-7d76-4a96-ab88-9d0690dbd822",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a90",
+      "display_name": "Sweets",
+      "product_count": 360,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/f028cb2e-9593-48c0-95c5-86af909d7198_5ef3e945-a61d-4487-a50f-f5e341b1eee4",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a98",
+      "display_name": "Paan Corner",
+      "product_count": 602,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/9cd93ba2-f843-4b57-9c08-56b9a78bcd50_b45772ad-2905-4b44-9c02-fbcbe43bc67a",
+      "age_consent_required": true
+    }
+  ],
+  "selected_category": {
+    "id": "6822eeebed32000001e25a70",
+    "name": "Chocolates"
+  },
+  "filters": [
+    {
+      "id": "6822eeebed32000001e25a72",
+      "name": "Gift Boxes",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/6/19/f5c693ad-e5ae-4128-ac3b-f274f32b1894_2df8e655-2f30-42d2-8115-2fa6af7d4362",
+      "type": "Speciality taxonomy 3",
+      "product_count": 117
+    },
+    {
+      "id": "687b4e8ab32c800001dea7c7",
+      "name": "Top Deals",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/19/6e82fb5f-c76b-4e52-a0ed-9091db3dffc7_39edba76-be69-4f5d-b2b8-81726d784c56",
+      "type": "Speciality taxonomy 3",
+      "product_count": 62
+    },
+    {
+      "id": "6822eeebed32000001e25a71",
+      "name": "Bestsellers",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/23/04a91098-e989-41d3-bd04-acc31ca3f9b9_46afa547-23d6-40fe-a53a-c18e331279a9",
+      "type": "Speciality taxonomy 3",
+      "product_count": 109
+    },
+    {
+      "id": "6822eeebed32000001e25a75",
+      "name": "Dark Chocolates",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/23/e6b2d286-d23d-48f9-b86d-5e628dbb8b66_13bbd38b-500a-414f-ab10-2ca01ece5645",
+      "type": "Speciality taxonomy 3",
+      "product_count": 90
+    },
+    {
+      "id": "6822eeebed32000001e25a74",
+      "name": "Premium",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/23/668c5661-be57-4c69-8974-2844031a1624_de5c853d-2aad-42a8-a9bb-5a2181c2401d",
+      "type": "Speciality taxonomy 3",
+      "product_count": 212
+    },
+    {
+      "id": "6822eeebed32000001e25a76",
+      "name": "Newly Added",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/68d7e7ef-eb28-4332-b6b7-870519454f6a_b8cf1cb8-410c-4654-b53b-18ffaa7bd416",
+      "type": "Speciality taxonomy 3",
+      "product_count": 96
+    },
+    {
+      "id": "6822eeebed32000001e25a73",
+      "name": "Milk Chocolates",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/23/331f5d64-b2b1-45cd-b642-f2f877a657a4_c3317ecc-ea14-472e-b7de-107248a39655",
+      "type": "Speciality taxonomy 3",
+      "product_count": 221
+    },
+    {
+      "id": "6822eeebed32000001e25a77",
+      "name": "Shared Packs",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/23/b42fc506-cc83-4f82-b985-c54b1417eae8_1c8b409a-3738-4cdb-8bc8-f5239812b726",
+      "type": "Speciality taxonomy 3",
+      "product_count": 107
+    },
+    {
+      "id": "6822eeebed32000001e25a78",
+      "name": "Imported Chocolates",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/23/40017d3c-51ce-40b9-b3ad-2bbdd44199e9_94a4f8dc-2bae-4ff2-a940-2887744caf61",
+      "type": "Speciality taxonomy 3",
+      "product_count": 35
+    },
+    {
+      "id": "687b4e8ab32c800001dea7c8",
+      "name": "Gourmet collection",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/19/e9f05dd6-cf6d-4e3d-8d6d-f558967e083b_1bb32be9-adf4-4a43-9db4-b16a6517c3b8",
+      "type": "Speciality taxonomy 3",
+      "product_count": 64
+    },
+    {
+      "id": "6822eeebed32000001e25a79",
+      "name": "Wafers",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/23/331f5d64-b2b1-45cd-b642-f2f877a657a4_c3317ecc-ea14-472e-b7de-107248a39655",
+      "type": "Speciality taxonomy 3",
+      "product_count": 72
+    },
+    {
+      "id": "6822eeebed32000001e25a7a",
+      "name": "Candies & More",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/23/75ef8d2a-c939-48f7-994a-345ee445fcc6_d7642eef-09bb-49b4-bcdc-590c6eb22ea9",
+      "type": "Speciality taxonomy 3",
+      "product_count": 65
+    },
+    {
+      "id": "6822eeebed32000001e25a7b",
+      "name": "Gums & Mint",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/23/fcccd61d-9ea8-43b5-8761-b745b31f3edc_f348632b-26e5-49fa-accb-e1eba9d9dd1c",
+      "type": "Speciality taxonomy 3",
+      "product_count": 35
+    }
+  ]
+}

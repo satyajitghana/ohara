@@ -7,7 +7,7 @@ from fastapi import APIRouter, HTTPException, Response, Depends
 from fastapi.responses import FileResponse
 
 from ..database import SessionDep
-from ..models import Product
+from ..models import Product, ProductImagesResponse, ImageInfo
 from ..auth import get_current_active_user
 
 router = APIRouter(prefix="/images", tags=["images"])
@@ -56,27 +56,48 @@ def serve_image(image_path: str):
         raise HTTPException(status_code=500, detail=f"Error serving image: {str(e)}")
 
 
-@router.get("/product/{product_id}/images")
+@router.get("/product/{product_id}/images", response_model=ProductImagesResponse)
 def get_product_images(
     product_id: int,
     session: SessionDep,
     _: Optional[str] = Depends(get_current_active_user)
-) -> List[str]:
-    """Get list of image URLs for a product."""
+) -> ProductImagesResponse:
+    """Get detailed image information for a product."""
     # Get product
     product = session.get(Product, product_id)
     if not product:
         raise HTTPException(status_code=404, detail="Product not found")
     
-    # Parse image paths
-    if not product.image_paths:
-        return []
+    images = []
     
-    try:
-        image_paths = json.loads(product.image_paths)
-        # Convert relative paths to full URLs
-        base_url = "/images/"  # This should match your API base URL
-        image_urls = [f"{base_url}{path}" for path in image_paths]
-        return image_urls
-    except json.JSONDecodeError:
-        return []
+    # Parse image paths and catalog images
+    image_paths = []
+    catalog_images = []
+    
+    if product.image_paths:
+        try:
+            image_paths = json.loads(product.image_paths)
+        except json.JSONDecodeError:
+            pass
+    
+    if product.catalog_images:
+        try:
+            catalog_images = json.loads(product.catalog_images)
+        except json.JSONDecodeError:
+            pass
+    
+    # Create image info objects
+    for i, image_path in enumerate(image_paths):
+        filename = Path(image_path).name
+        catalog_name = catalog_images[i] if i < len(catalog_images) else None
+        
+        images.append(ImageInfo(
+            url=f"/images/{image_path}",
+            filename=filename,
+            catalog_name=catalog_name
+        ))
+    
+    return ProductImagesResponse(
+        product_id=product_id,
+        images=images
+    )

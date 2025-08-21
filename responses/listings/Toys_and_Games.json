@@ -1,1 +1,2877 @@
-[]
+[
+  {
+    "display_name": "HUG 'n' FEEL Avocado Giant Life Size Teddy Bear Non Toxic (Green)",
+    "brand": "HUG 'n' FEEL",
+    "brand_id": "b2f76bd5463229707876374925d7a80e3164bbae",
+    "product_id": "27S12HKVOL",
+    "variations": [
+      {
+        "id": "UBKBN6POJ2",
+        "display_name": "HUG 'n' FEEL Avocado Giant Life Size Teddy Bear Non Toxic (Green)",
+        "price": {
+          "mrp": 899,
+          "store_price": 899,
+          "offer_price": 419,
+          "unit_level_price": "",
+          "discount_value": 480
+        },
+        "brand": "HUG 'n' FEEL",
+        "brand_id": "b2f76bd5463229707876374925d7a80e3164bbae",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Cartoon Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Avocado Giant Life Size Teddy Bear Non Toxic (Green)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/26/6c96a317-5811-4785-8ca8-c2719eef4ef3_79757_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/26/669cbec5-d1d2-48fd-8431-0e9958e273e7_79757_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/26/9b509ae2-b4bd-4cb0-bbfb-34f91f84a9b4_79757_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/26/3cfb52ed-eadd-467d-9474-fda20b754221_79757_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/26/6ccc464f-aa01-4ab0-b40f-dccbd9df5e44_79757_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/26/b8aece51-e4e5-4241-9949-f7d92d016c35_79757_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 399,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Babique 17cm Sitting Octopus Plush Soft Toy",
+    "brand": "Babique",
+    "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+    "product_id": "FD82DJ6QGR",
+    "variations": [
+      {
+        "id": "WT8V3ASH76",
+        "display_name": "Babique 17cm Sitting Octopus Plush Soft Toy",
+        "price": {
+          "mrp": 378,
+          "store_price": 378,
+          "offer_price": 179,
+          "unit_level_price": "",
+          "discount_value": 199
+        },
+        "brand": "Babique",
+        "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "17cm Sitting Octopus Plush Soft Toy",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/7ca72e06-4adb-4938-b452-4a16b9c244d0_90963_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/0067955e-b5d7-40ac-b68d-bdb2e8041efb_90963_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/8e71f9d9-45f5-4d7e-89ca-0c539ab50f7a_90963_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/e240047c-2e07-42b7-b12d-87f3225adee4_90963_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/977b4c4e-59b9-45c2-a154-3429f10f9f02_90963_5.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/5f5f0986-5f1f-400b-bef9-e5526fe4aaa2_90963_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 60,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "HUG 'n' FEEL Teddy Bear Non Toxic (Black, White, Green)",
+    "brand": "HUG 'n' FEEL",
+    "brand_id": "b2f76bd5463229707876374925d7a80e3164bbae",
+    "product_id": "0U6UDOMYRH",
+    "variations": [
+      {
+        "id": "VQBUZOO74V",
+        "display_name": "HUG 'n' FEEL Teddy Bear Non Toxic (Black, White, Green)",
+        "price": {
+          "mrp": 999,
+          "store_price": 999,
+          "offer_price": 469,
+          "unit_level_price": "",
+          "discount_value": 530
+        },
+        "brand": "HUG 'n' FEEL",
+        "brand_id": "b2f76bd5463229707876374925d7a80e3164bbae",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Teddy Bear Non Toxic (Black, White, Green)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/b97db1f8-c33b-499a-8072-871a1e3e45ce_ToysandGames_9P6IN2AY5P_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/b31100e2-e598-4e35-a91a-1ec4c565e317_ToysandGames_9P6IN2AY5P_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/6375f8ff-7e62-4da3-b6cd-932d7ab793d1_ToysandGames_9P6IN2AY5P_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Webby Soft Animal Plush Elephant Toy Non Toxic (Grey and Pink)",
+    "brand": "Webby",
+    "brand_id": "da458967a353a3e57c06ca12b39fbaac6effb0c9",
+    "product_id": "2I4MBTVDBA",
+    "variations": [
+      {
+        "id": "48ZLSAU9NQ",
+        "display_name": "Webby Soft Animal Plush Elephant Toy Non Toxic (Grey and Pink)",
+        "price": {
+          "mrp": 349,
+          "store_price": 349,
+          "offer_price": 229,
+          "unit_level_price": "",
+          "discount_value": 120
+        },
+        "brand": "Webby",
+        "brand_id": "da458967a353a3e57c06ca12b39fbaac6effb0c9",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Soft Animal Plush Elephant Toy Non Toxic (Grey and Pink)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/6/10/4a1d59b2-6256-4a68-8312-200b68960425_Toysinstamax_1YZM40UQYW_MN.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/ce276ad2-3204-4084-9407-851f4f2d6543_49842_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/03ec760d-2495-43ed-9c65-a94e088264c3_49842_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/99556913-2a65-4399-bf30-854d5ac71d26_49842_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/f4d988ab-a2fe-408f-ae65-a0f0e0db1bab_49842_5.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/9311138c-9a27-4747-b058-edb77f04b265_49842_6.jpg"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 175,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Webby Soft Dinosaur Plush Stuffed Toy Non Toxic (Green)",
+    "brand": "Webby",
+    "brand_id": "da458967a353a3e57c06ca12b39fbaac6effb0c9",
+    "product_id": "FO8HHY7GWV",
+    "variations": [
+      {
+        "id": "SSFZZDGX31",
+        "display_name": "Webby Soft Dinosaur Plush Stuffed Toy Non Toxic (Green)",
+        "price": {
+          "mrp": 499,
+          "store_price": 499,
+          "offer_price": 339,
+          "unit_level_price": "",
+          "discount_value": 160
+        },
+        "brand": "Webby",
+        "brand_id": "da458967a353a3e57c06ca12b39fbaac6effb0c9",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Soft Dinosaur Plush Stuffed Toy Non Toxic (Green)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/31/81391645-81f0-44e0-8c52-5890f0a49300_ToysandGames_VCOB80VFKU_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/31/bc347be7-b517-465a-9613-13018c430178_ToysandGames_VCOB80VFKU_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/31/cf299fdc-6cf9-4da7-9e25-39b95e2392ad_ToysandGames_VCOB80VFKU_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/31/524ea482-3b6e-4d7b-9425-edc5dab46f9c_ToysandGames_VCOB80VFKU_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/31/4b0bb435-cd75-46b7-891d-22d96f458614_ToysandGames_VCOB80VFKU_AL4.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Babique Dog Cute Plush Soft Non Toxic (White & Brown)",
+    "brand": "Babique",
+    "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+    "product_id": "EF0OVNKPQ7",
+    "variations": [
+      {
+        "id": "DUBPBX61RN",
+        "display_name": "Babique Dog Cute Plush Soft Non Toxic (White & Brown)",
+        "price": {
+          "mrp": 378,
+          "store_price": 378,
+          "offer_price": 199,
+          "unit_level_price": "",
+          "discount_value": 179
+        },
+        "brand": "Babique",
+        "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Dog Cute Plush Soft Non Toxic (White & Brown)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/941fe2e6-3705-461a-8a8d-efe492a2c83c_53587_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/fc9bc47b-22a3-4d37-b9e0-e727588afb33_53587_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/b8a34a4f-ed07-4a20-b63e-c8e9458b7d32_53587_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/842c01bf-98bb-4bbb-a558-9221311bc808_53587_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/05673aff-7bd8-4479-8921-26306ca012da_53587_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/c13ce3c4-dad7-4bca-a123-73eb00545d94_53587_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/915fec76-583c-4cc7-a66b-df42c47ee66b_53587_7.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/30c6e107-5235-4da1-a3b3-5fe1e6e7c37d_53587_8.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/7e163630-8f1d-40c7-9ac9-5eb56c8e8161_53587_9.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Babique 25cm Numeric Ball Plush Soft Toy",
+    "brand": "Babique",
+    "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+    "product_id": "S8A6FIHK7E",
+    "variations": [
+      {
+        "id": "NAFNZJD309",
+        "display_name": "Babique 25cm Numeric Ball Plush Soft Toy",
+        "price": {
+          "mrp": 378,
+          "store_price": 378,
+          "offer_price": 179,
+          "unit_level_price": "",
+          "discount_value": 199
+        },
+        "brand": "Babique",
+        "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "25cm Numeric Ball Plush Soft Toy",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/333718b0-8ad8-4896-aa75-5afc3083d827_ToysandGames_GPHFAMXQQ9_MN.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 190,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Webby Plush Husky Dog Stuffed Animal Puppy Soft Toy Non Toxic (Grey)",
+    "brand": "Webby",
+    "brand_id": "da458967a353a3e57c06ca12b39fbaac6effb0c9",
+    "product_id": "AMFX19VIRD",
+    "variations": [
+      {
+        "id": "N7XMMCADAJ",
+        "display_name": "Webby Plush Husky Dog Stuffed Animal Puppy Soft Toy Non Toxic (Grey)",
+        "price": {
+          "mrp": 599,
+          "store_price": 599,
+          "offer_price": 409,
+          "unit_level_price": "",
+          "discount_value": 190
+        },
+        "brand": "Webby",
+        "brand_id": "da458967a353a3e57c06ca12b39fbaac6effb0c9",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Plush Husky Dog Stuffed Animal Puppy Soft Toy Non Toxic (Grey)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/7ffa3a40-be68-48c0-9f0f-c795e7a26e86_47038_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/92241b20-dfbf-4514-ba03-5c3ccdc32e8f_47038_5.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/1dea137f-47f2-4a61-a8e6-ddcc83ac046f_47038_6.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/0616ba46-581a-4588-8906-44f13e5d4feb_47038_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/52b88637-a4d9-401e-b781-335d46e5ab27_47038_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/0696692a-db9d-4829-b7e1-29580e3c76c8_47038_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/cd540d19-bd6b-42df-ad9b-cbd8feebbd4a_47038_7.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/24b7e962-d1dc-4482-9a8d-45826a4ccc40_47038_8.jpg"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 230,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Babique Unicorn Plush Soft Toy Non Toxic (Pink)",
+    "brand": "Babique",
+    "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+    "product_id": "BZ7WN7T5AC",
+    "variations": [
+      {
+        "id": "KBD5MW4NGS",
+        "display_name": "Babique Unicorn Plush Soft Toy Non Toxic (Pink)",
+        "price": {
+          "mrp": 364,
+          "store_price": 364,
+          "offer_price": 199,
+          "unit_level_price": "",
+          "discount_value": 165
+        },
+        "brand": "Babique",
+        "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Unicorn Plush Soft Toy Non Toxic (Pink)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/6de027af-dce0-48ac-9043-c58b1b48f744_ToysandGames_ASO3Y4DT1R_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/3cbbc4ea-bd35-4516-8565-6bb78dc433a3_ToysandGames_ASO3Y4DT1R_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/acf0213b-b9b6-46ee-9588-3bd116862441_ToysandGames_ASO3Y4DT1R_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/8963f0ef-b112-4bf7-ba5e-e84dc3898d5d_ToysandGames_ASO3Y4DT1R_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/5e54634c-9ab4-400a-a787-dbd4f55c9db2_ToysandGames_ASO3Y4DT1R_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/01005c58-13bd-4887-b0c4-6699d3d30e41_ToysandGames_ASO3Y4DT1R_AL5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/1491d190-4dd0-472d-b255-f59988eab9c8_ToysandGames_ASO3Y4DT1R_AL6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 160,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "HUG 'n' FEEL Tom Stuffed Soft Toy - 30cm",
+    "brand": "HUG 'n' FEEL",
+    "brand_id": "b2f76bd5463229707876374925d7a80e3164bbae",
+    "product_id": "MM66541COB",
+    "variations": [
+      {
+        "id": "G3ZH14PXRG",
+        "display_name": "HUG 'n' FEEL Tom Stuffed Soft Toy - 30cm",
+        "price": {
+          "mrp": 699,
+          "store_price": 699,
+          "offer_price": 329,
+          "unit_level_price": "",
+          "discount_value": 370
+        },
+        "brand": "HUG 'n' FEEL",
+        "brand_id": "b2f76bd5463229707876374925d7a80e3164bbae",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Cartoon Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Tom Stuffed Soft Toy - 30cm",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/593fb7d9-0555-4af2-8ebf-967a281651d1_56042_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/d5747bc1-8a55-4fa7-969c-b91d572ea74c_56042_2.png",
+          "22912b342253db70dd7a723b15f766d2",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/42549ed5-db93-4332-a1ee-3ede772815ee_56042_4.jpg",
+          "c1b4719cf49e1ef85e127689b8a62b76",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/4f4edf4d-f573-4518-be87-b1f5564b294c_56042_6.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/e46d33af-c1e9-40d9-b371-75efaeb7e7b9_56042_7.jpg"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 399,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Babique Penguin Teddy Bear Plush Soft Toy Non Toxic (Black, White, Orange)",
+    "brand": "Babique",
+    "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+    "product_id": "TK0OQT8HD6",
+    "variations": [
+      {
+        "id": "2XRAN93ZVT",
+        "display_name": "Babique Penguin Teddy Bear Plush Soft Toy Non Toxic (Black, White, Orange)",
+        "price": {
+          "mrp": 398,
+          "store_price": 398,
+          "offer_price": 219,
+          "unit_level_price": "",
+          "discount_value": 179
+        },
+        "brand": "Babique",
+        "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Penguin Teddy Bear Plush Soft Toy Non Toxic (Black, White, Orange)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/47016537-5f11-45fd-9987-e48d2753751e_80472_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/b9477282-57a6-4456-9d8f-661fe95193d0_80472_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/a5195bc1-8e50-4813-9bc0-b4e427929d7e_80472_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/0dbe6e10-deee-4149-b47d-f03dd4156c8a_80472_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/ad629cd4-ccf6-449a-a888-c39f23b17460_80472_5.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/9440b5bc-6c64-4380-9d83-123d2bc39eb1_80472_6.jpg"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 160,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Babique Rabbit Plush Cute Soft Toy Non Toxic (Pink)",
+    "brand": "Babique",
+    "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+    "product_id": "7F63MPPCUV",
+    "variations": [
+      {
+        "id": "L96K7XM25U",
+        "display_name": "Babique Rabbit Plush Cute Soft Toy Non Toxic (Pink)",
+        "price": {
+          "mrp": 378,
+          "store_price": 378,
+          "offer_price": 199,
+          "unit_level_price": "",
+          "discount_value": 179
+        },
+        "brand": "Babique",
+        "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Rabbit Plush Cute Soft Toy Non Toxic (Pink)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/53d54004-3b95-4687-b6ea-1b616409a6f4_ToysandGames_OQQP3WVL0C_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/6854e92d-6fbe-4070-851a-10751414e967_ToysandGames_OQQP3WVL0C_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/b435588c-6a25-4457-847c-9209ae3353d6_ToysandGames_OQQP3WVL0C_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/05835878-11a8-4b54-9594-633348d115f8_ToysandGames_OQQP3WVL0C_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/007f8744-03c4-4faa-ae4e-25efc7d66b25_ToysandGames_OQQP3WVL0C_AL4.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Babique Teddy Bear Plush Soft Toy Non Toxic (Pink)",
+    "brand": "Babique",
+    "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+    "product_id": "2U4Q0H0NZP",
+    "variations": [
+      {
+        "id": "3RCUI0M8V7",
+        "display_name": "Babique Teddy Bear Plush Soft Toy Non Toxic (Pink)",
+        "price": {
+          "mrp": 358,
+          "store_price": 358,
+          "offer_price": 199,
+          "unit_level_price": "",
+          "discount_value": 159
+        },
+        "brand": "Babique",
+        "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Teddy Bear Plush Soft Toy Non Toxic (Pink)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/05d83a6a-5978-4829-8669-d2c5f6dd5a0d_99641_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/3b06719e-1f2d-4271-ba3f-9c9e1bc2dc22_99641_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/9a6f633a-43fe-43c8-b4fc-2ca5cd50e317_99641_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/f6ef8265-51a6-4fda-9279-056278d6f2a4_99641_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/a4d9bef1-7b50-4c78-8f3d-6cf791eefe9b_99641_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/e81e9770-4573-4e26-b7b4-987de9a708ff_99641_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Babique Monkey Plush Stuffed Soft Toy Non Toxic (Brown)",
+    "brand": "Babique",
+    "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+    "product_id": "IORKU3J9R3",
+    "variations": [
+      {
+        "id": "58Y82I96GQ",
+        "display_name": "Babique Monkey Plush Stuffed Soft Toy Non Toxic (Brown)",
+        "price": {
+          "mrp": 378,
+          "store_price": 378,
+          "offer_price": 219,
+          "unit_level_price": "",
+          "discount_value": 159
+        },
+        "brand": "Babique",
+        "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Monkey Plush Stuffed Soft Toy Non Toxic (Brown)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/5f4504e5-f92a-46b2-a7ce-7a53e140d3e8_97882_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/c37781de-aaf8-44ef-beb1-b2a968d62bfd_97882_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/c1f2064c-c22c-4fb9-a0c3-83e1b515309d_97882_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/c314cf74-700c-44db-9a6f-4b15f0bdd74a_97882_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/badccb72-9f4a-4ba7-9449-ff5a46ea580b_97882_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/1f08d814-9e06-4ce2-b2b5-955689b4df00_97882_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 170,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Webby Plush Cute Sitting Teddy Bear Soft Toys With Neck Bow and Foot Print Non Toxic (Pink)",
+    "brand": "Webby",
+    "brand_id": "da458967a353a3e57c06ca12b39fbaac6effb0c9",
+    "product_id": "VJNV98YHLG",
+    "variations": [
+      {
+        "id": "Q0PXJOXYNV",
+        "display_name": "Webby Plush Cute Sitting Teddy Bear Soft Toys With Neck Bow and Foot Print Non Toxic (Pink)",
+        "price": {
+          "mrp": 499,
+          "store_price": 499,
+          "offer_price": 389,
+          "unit_level_price": "",
+          "discount_value": 110
+        },
+        "brand": "Webby",
+        "brand_id": "da458967a353a3e57c06ca12b39fbaac6effb0c9",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Plush Cute Sitting Teddy Bear Soft Toys With Neck Bow and Foot Print Non Toxic (Pink)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/a3a1f56e-0292-4eb5-a2fc-bc1c7b1c052c_ToysandGames_40RHW7RSHQ_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/8c6dcf5f-7625-4725-9767-229ebeae608c_ToysandGames_40RHW7RSHQ_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/b66a3ce7-330f-4183-9c05-109982299b6d_ToysandGames_40RHW7RSHQ_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/ac8b3c9f-e1d5-48b1-8f4b-dc8a685d2884_ToysandGames_40RHW7RSHQ_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/413766ec-4698-4669-afb6-acbb7d8bbac1_ToysandGames_40RHW7RSHQ_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/87df21ce-6ecd-4b72-8cb0-6399c5a2da29_ToysandGames_40RHW7RSHQ_AL5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/05aa0ec5-dbfd-4923-82bd-3c059aec4b87_ToysandGames_40RHW7RSHQ_AL6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/221ea071-66bc-4d78-9522-fa1fdc933246_ToysandGames_40RHW7RSHQ_AL7.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/8bb03f34-6ab0-4a96-bfb8-4b6345685071_ToysandGames_40RHW7RSHQ_AL8.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/a5308bb0-93f7-41f9-9de8-1d6c4a62ada6_ToysandGames_40RHW7RSHQ_AL9.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "HUG 'n' FEEL Panther Soft Toy Non Toxic (Pink)",
+    "brand": "HUG 'n' FEEL",
+    "brand_id": "b2f76bd5463229707876374925d7a80e3164bbae",
+    "product_id": "2SJVWM9097",
+    "variations": [
+      {
+        "id": "Z93Q1PNCC6",
+        "display_name": "HUG 'n' FEEL Panther Soft Toy Non Toxic (Pink)",
+        "price": {
+          "mrp": 699,
+          "store_price": 699,
+          "offer_price": 399,
+          "unit_level_price": "",
+          "discount_value": 300
+        },
+        "brand": "HUG 'n' FEEL",
+        "brand_id": "b2f76bd5463229707876374925d7a80e3164bbae",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Cartoon Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Panther Soft Toy Non Toxic (Pink)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/3/b534d392-3cb8-40f0-af3d-8f3d931cfe88_76432_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/2e28f379-4bf1-4ff4-a530-99110ec9fde1_76432_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/333f7051-b203-4677-9b2d-977acf240086_76432_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/ef9ddcb2-bfdd-43d7-86b0-0283af6663ff_76432_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/d13c61df-7448-4f59-9505-cd0065c32009_76432_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/8e989668-8d03-49bd-8e45-f3fc09c8dc1e_76432_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 399,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Babique Elephant Sitting Plush Soft Toy Non Toxic (Blue)",
+    "brand": "Babique",
+    "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+    "product_id": "KV2AJ9FQCM",
+    "variations": [
+      {
+        "id": "LAZWZ6O2OM",
+        "display_name": "Babique Elephant Sitting Plush Soft Toy Non Toxic (Blue)",
+        "price": {
+          "mrp": 698,
+          "store_price": 698,
+          "offer_price": 319,
+          "unit_level_price": "",
+          "discount_value": 379
+        },
+        "brand": "Babique",
+        "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Elephant Sitting Plush Soft Toy Non Toxic (Blue)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/8a5aff27-9a44-47d1-873f-865cbf52504e_ToysandGames_CF52QSIHPR_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/6293672b-4a15-4688-808f-c4c86a4e2726_ToysandGames_CF52QSIHPR_AL1.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 230,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Webby Plush Adorable Standing Cow With Smiling Face Stuffed Soft Doll Non Toxic (White, Black, Brown)",
+    "brand": "Webby",
+    "brand_id": "da458967a353a3e57c06ca12b39fbaac6effb0c9",
+    "product_id": "Q7H127KSQD",
+    "variations": [
+      {
+        "id": "JK0GJFL76K",
+        "display_name": "Webby Plush Adorable Standing Cow With Smiling Face Stuffed Soft Doll Non Toxic (White, Black, Brown)",
+        "price": {
+          "mrp": 399,
+          "store_price": 399,
+          "offer_price": 289,
+          "unit_level_price": "",
+          "discount_value": 110
+        },
+        "brand": "Webby",
+        "brand_id": "da458967a353a3e57c06ca12b39fbaac6effb0c9",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Plush Adorable Standing Cow With Smiling Face Stuffed Soft Doll Non Toxic (White, Black, Brown)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/7052b6ee-7640-4d8d-bfe6-bf9159ba8044_ToysandGames_ITP8N34N6T_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/a37a14b3-47e9-42d9-9be9-6462b4fa25d8_ToysandGames_ITP8N34N6T_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/60082336-7b53-43c2-8b2c-45662009cb05_ToysandGames_ITP8N34N6T_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/1d4b527d-35ac-4dad-bd01-b3c27fa925fa_ToysandGames_ITP8N34N6T_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/5dbe1077-c617-456a-aea9-c858b618a437_ToysandGames_ITP8N34N6T_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/063f5faf-f684-413d-bccd-1ab96ccc6ec9_ToysandGames_ITP8N34N6T_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 120,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Babique Sitting Dog Plush Soft Toy Non Toxic (White)",
+    "brand": "Babique",
+    "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+    "product_id": "HW0DL4QKGR",
+    "variations": [
+      {
+        "id": "URJ2D4T29R",
+        "display_name": "Babique Sitting Dog Plush Soft Toy Non Toxic (White)",
+        "price": {
+          "mrp": 398,
+          "store_price": 398,
+          "offer_price": 219,
+          "unit_level_price": "",
+          "discount_value": 179
+        },
+        "brand": "Babique",
+        "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Sitting Dog Plush Soft Toy Non Toxic (White)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/cf5c0c1a-1f83-4114-8d4e-71cb47ad8322_87447_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/16fd55b5-04ad-4e68-b42f-7aececf33d02_87447_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/af4e966a-22c3-4a0a-b2af-bbeab4722bb6_87447_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/76ba65aa-4792-4c2c-b964-2458cf9beadc_87447_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/d60b2726-4236-4015-9e96-d91bb1432d99_87447_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/d5bd6c78-d0bd-4efc-90ef-e08465622389_87447_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 130,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Barbie Chelsea Assortment Dolls and Accessories Non Toxic (Multicolor)",
+    "brand": "Mattel",
+    "brand_id": "f224e0461cd4abbfb5d09aebf51d75baf88b70c2",
+    "product_id": "48BMN9KFUP",
+    "variations": [
+      {
+        "id": "7HT8GI49XW",
+        "display_name": "Barbie Chelsea Assortment Dolls and Accessories Non Toxic (Multicolor)",
+        "price": {
+          "mrp": 599,
+          "store_price": 599,
+          "offer_price": 489,
+          "unit_level_price": "",
+          "discount_value": 110
+        },
+        "brand": "Mattel",
+        "brand_id": "f224e0461cd4abbfb5d09aebf51d75baf88b70c2",
+        "category": "Dolls & Pretend Kits",
+        "super_category": "Toys",
+        "sub_category_l3": "Dolls",
+        "sub_category_l4": "Fashion Dolls",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Barbie Chelsea Assortment Dolls and Accessories Non Toxic (Multicolor)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/16/98f4b375-d1cf-4f87-8d49-936d2903a611_70388_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/4/16/c66db216-5d1d-4cd2-9036-403f505e42ff_70388_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/4/16/701335ef-1723-400a-8522-1e1a29f64cdb_70388_11.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/4/16/03850498-2a40-4950-99db-450d53d7472f_70388_12.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/4/16/bad8c06e-abfe-4fe9-a57f-dab3bc79a2b7_70388_13.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/4/16/fd0d1529-2767-46f1-b041-fffb436c5223_70388_14.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/4/16/2cb3db8e-6f88-4cc9-974b-dd29d665ab93_70388_15.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/4/16/ac327433-c159-4a36-bc47-a8a860be4fdf_70388_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/4/16/9e37c56a-1969-4b51-8d65-09903a4e6626_70388_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/4/16/56ffc6fa-4dc0-443a-9f6b-d0920b968557_70388_5.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/4/16/79415d6e-f708-4fb9-85b8-bf9f98850789_70388_6.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/4/16/242c4b04-e7d6-42f6-aaad-c8d86eb1264a_70388_7.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/4/16/64a42a21-5805-4c4b-88a3-e54d7d1a87b5_70388_8.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/4/16/ba44572e-1d9f-40d5-854f-021a3fcee669_70388_9.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/4/16/eb401853-d05b-4dec-827f-fcf422b194fb_70388_10.jpg"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Babique Cuddly Monkeys Couple Soft Toy Non Toxic (Pink,Blue,Red)",
+    "brand": "Babique",
+    "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+    "product_id": "9WBUXMPK0U",
+    "variations": [
+      {
+        "id": "Y51L091J6K",
+        "display_name": "Babique Cuddly Monkeys Couple Soft Toy Non Toxic (Pink,Blue,Red)",
+        "price": {
+          "mrp": 638,
+          "store_price": 638,
+          "offer_price": 319,
+          "unit_level_price": "",
+          "discount_value": 319
+        },
+        "brand": "Babique",
+        "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cuddly Monkeys Couple Soft Toy Non Toxic (Pink,Blue,Red)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/5d4e1759-4615-4868-b7d6-964e0fc9d76e_83889_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/4b997fac-c118-4f70-b965-763cfa987083_83889_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/d9bdad7b-7705-49f2-8054-a9c10b444a09_83889_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/60d8d12b-59e4-4d65-a517-867cbd268a43_83889_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/347eb525-4911-41f1-a778-fd22196a13be_83889_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/babcbb76-22cf-4198-adda-523ec46dc69d_83889_6.jpg"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 180,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "HUG 'n' FEEL Elephant Soft Toy Non Toxic (Grey)",
+    "brand": "HUG 'n' FEEL",
+    "brand_id": "b2f76bd5463229707876374925d7a80e3164bbae",
+    "product_id": "T1YRC7W1KQ",
+    "variations": [
+      {
+        "id": "ND8CSAAYOX",
+        "display_name": "HUG 'n' FEEL Elephant Soft Toy Non Toxic (Grey)",
+        "price": {
+          "mrp": 999,
+          "store_price": 999,
+          "offer_price": 469,
+          "unit_level_price": "",
+          "discount_value": 530
+        },
+        "brand": "HUG 'n' FEEL",
+        "brand_id": "b2f76bd5463229707876374925d7a80e3164bbae",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Elephant Soft Toy Non Toxic (Grey)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/b51a78b1-fcd4-4091-96fc-2ac918fe9a14_ToysandGames_JBI3GWQADN_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/dfe6c53a-116f-4d63-8e53-04caf75c1bb9_ToysandGames_JBI3GWQADN_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/3db6f173-96eb-43e9-894c-4aeb79be8d32_ToysandGames_JBI3GWQADN_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/dfcbf815-0c81-42a2-9c29-9e3742f44ead_ToysandGames_JBI3GWQADN_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/19e099a8-d19c-4a47-b2b4-ec529a45182c_ToysandGames_JBI3GWQADN_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/1937bb13-5866-479d-aaa1-6859beb350c0_ToysandGames_JBI3GWQADN_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 399,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "HUG 'n' FEEL Kangaroo Soft Toy Non Toxic (Brown)",
+    "brand": "HUG 'n' FEEL",
+    "brand_id": "b2f76bd5463229707876374925d7a80e3164bbae",
+    "product_id": "WVM8ZIFMET",
+    "variations": [
+      {
+        "id": "RWWSJVFHDP",
+        "display_name": "HUG 'n' FEEL Kangaroo Soft Toy Non Toxic (Brown)",
+        "price": {
+          "mrp": 799,
+          "store_price": 799,
+          "offer_price": 379,
+          "unit_level_price": "",
+          "discount_value": 420
+        },
+        "brand": "HUG 'n' FEEL",
+        "brand_id": "b2f76bd5463229707876374925d7a80e3164bbae",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Kangaroo Soft Toy Non Toxic (Brown)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/89a9a396-c80f-467f-9f9b-02f874179844_ToysandGames_HUUYVJKB35_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/160ada98-d593-49ef-a1d5-a9b27e549a83_ToysandGames_HUUYVJKB35_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/de513af1-beff-4028-b4a7-d5f1fe07f151_ToysandGames_HUUYVJKB35_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/222d6d39-7cdd-4525-900c-94b9a0ff5463_ToysandGames_HUUYVJKB35_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/2f9aedea-e1e3-4936-aab2-da174ef3454d_ToysandGames_HUUYVJKB35_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/3ea27092-bdae-4c29-94f2-5c494b03ab55_ToysandGames_HUUYVJKB35_AL5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/a2ffef69-6dae-4e77-a001-3e707664f3e9_ToysandGames_HUUYVJKB35_AL6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/3349e13b-713b-4cc7-9ad7-96f01a5f8e8d_ToysandGames_HUUYVJKB35_AL7.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/2311db57-c727-4af3-a7ab-d7051cdc0247_ToysandGames_HUUYVJKB35_AL8.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 399,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Webby Plush Cute Sitting Teddy Bear Soft Toys With Neck Bow and Foot Print Non Toxic (Brown)",
+    "brand": "Webby",
+    "brand_id": "da458967a353a3e57c06ca12b39fbaac6effb0c9",
+    "product_id": "SLHMZKU4PA",
+    "variations": [
+      {
+        "id": "2VPR6PWM9X",
+        "display_name": "Webby Plush Cute Sitting Teddy Bear Soft Toys With Neck Bow and Foot Print Non Toxic (Brown)",
+        "price": {
+          "mrp": 499,
+          "store_price": 499,
+          "offer_price": 389,
+          "unit_level_price": "",
+          "discount_value": 110
+        },
+        "brand": "Webby",
+        "brand_id": "da458967a353a3e57c06ca12b39fbaac6effb0c9",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Plush Cute Sitting Teddy Bear Soft Toys With Neck Bow and Foot Print Non Toxic (Brown)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/cc6bca42-a278-44da-b88e-ffe06ccbc538_ToysandGames_LG7XIV9SHJ_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/4f838674-ff7b-4470-a7a4-ee5bb2559285_ToysandGames_LG7XIV9SHJ_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/d90b1f04-fe7b-4b62-af22-064c0ccc516a_ToysandGames_LG7XIV9SHJ_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/d2e0938b-cd9b-4e45-bc4b-a75597d1477d_ToysandGames_LG7XIV9SHJ_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/95bc3690-db0f-403c-9c93-f74a1f29338a_ToysandGames_LG7XIV9SHJ_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/30/6c57aba7-4206-44ad-bb02-27d4f847e58b_ToysandGames_LG7XIV9SHJ_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 440,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Babique 28cm Sitting Octopus Plush Soft Toy",
+    "brand": "Babique",
+    "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+    "product_id": "HB6C5TGXFU",
+    "variations": [
+      {
+        "id": "J7L71O55G5",
+        "display_name": "Babique 28cm Sitting Octopus Plush Soft Toy",
+        "price": {
+          "mrp": 428,
+          "store_price": 428,
+          "offer_price": 199,
+          "unit_level_price": "",
+          "discount_value": 229
+        },
+        "brand": "Babique",
+        "brand_id": "fad6cad7fc0a7a9d1848812cf9a247c44bad2ca0",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "28cm Sitting Octopus Plush Soft Toy",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/1169d5ed-82b3-4232-8467-f1b810eefeeb_59342_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/dd80bfa7-6d97-4417-a62a-786bb66c7c9f_59342_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/4d0e43de-1793-4656-b439-04196698d0f1_59342_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/de1b698a-8d52-4060-8698-32f5ec68569d_59342_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/1e20f76d-1078-46c6-967a-ffb73e9fa5f4_59342_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/162a1f56-d7cb-4fb4-b27d-8137e25ff853_59342_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/04027083-abc4-4c85-9cbb-af923baf5947_59342_7.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Mirada 23cm Standing Unicorn with Glitter Horn - Multicolor",
+    "brand": "Mirada",
+    "brand_id": "d877a5162024c4d2208e5800ca40b8367b94c176",
+    "product_id": "BGT72MYK0Q",
+    "variations": [
+      {
+        "id": "2JGNNHPIX4",
+        "display_name": "Mirada 23cm Standing Unicorn with Glitter Horn - Multicolor",
+        "price": {
+          "mrp": 699,
+          "store_price": 699,
+          "offer_price": 589,
+          "unit_level_price": "",
+          "discount_value": 110
+        },
+        "brand": "Mirada",
+        "brand_id": "d877a5162024c4d2208e5800ca40b8367b94c176",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Cartoon Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "23cm Standing Unicorn with Glitter Horn - Multicolor",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/878f642e-9bd6-4a13-83de-fd8962bdfcf4_96326_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/089a4cc3-a015-480a-9ef5-da68b8f61e1b_96326_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/4683b79c-ba84-41b6-973c-5f39f2a122a9_96326_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/791ad20c-9b59-43b9-8475-db15b48fbc86_96326_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/a64d9d38-dbae-4148-a2fc-a2adb43e3586_96326_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/8de191db-be0b-4268-8d14-7f51fe1e7968_96326_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/51e803fa-61f3-4943-b693-a038ed98bb6f_96326_7.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/607c2d0e-9fdd-4446-95ed-e9bca01ccf2a_96326_8.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/ed612501-cd34-4bfa-bfaa-48c0bf017492_96326_9.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Mirada 25cm Plush Stuffed Animal Grey Cute Husky Dog Soft Toy With Glitter Eyes",
+    "brand": "Mirada",
+    "brand_id": "d877a5162024c4d2208e5800ca40b8367b94c176",
+    "product_id": "AGQTVUCN3T",
+    "variations": [
+      {
+        "id": "NSLL4554LI",
+        "display_name": "Mirada 25cm Plush Stuffed Animal Grey Cute Husky Dog Soft Toy With Glitter Eyes",
+        "price": {
+          "mrp": 599,
+          "store_price": 599,
+          "offer_price": 489,
+          "unit_level_price": "",
+          "discount_value": 110
+        },
+        "brand": "Mirada",
+        "brand_id": "d877a5162024c4d2208e5800ca40b8367b94c176",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "25cm Plush Stuffed Animal Grey Cute Husky Dog Soft Toy With Glitter Eyes",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/31/f1bfdc5d-ff17-4765-a451-8e143d21595a_6HWWMRAHD5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/16/2ecff1aa-b9b2-410d-828d-807638469421_87622_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/16/37895556-ae31-4988-8644-c00d87b8e477_87622_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/16/38a294a3-ae99-452c-891c-412d39b30c25_87622_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/16/6daaefeb-d2bd-4a6b-85ad-76e7fbc216f8_87622_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 350,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Mirada Monkey with Glitter Eye Non Toxic (Brown)",
+    "brand": "Mirada",
+    "brand_id": "d877a5162024c4d2208e5800ca40b8367b94c176",
+    "product_id": "MRG1WURUE3",
+    "variations": [
+      {
+        "id": "UWIC1FLV3Q",
+        "display_name": "Mirada Monkey with Glitter Eye Non Toxic (Brown)",
+        "price": {
+          "mrp": 599,
+          "store_price": 599,
+          "offer_price": 489,
+          "unit_level_price": "",
+          "discount_value": 110
+        },
+        "brand": "Mirada",
+        "brand_id": "d877a5162024c4d2208e5800ca40b8367b94c176",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Monkey with Glitter Eye Non Toxic (Brown)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/a86b7cfb-159d-4ba2-9c1a-0095370b1cc7_94527_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/997c28d7-058f-4bc2-b85c-1b184d90b23c_94527_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/f9ca32f1-0ac3-49da-a9c3-a7f0fc6bcc49_94527_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/5f0d0e48-53f0-4ecf-a218-07c85f636241_94527_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/c86ac632-1c88-4479-a407-6ac563556cf4_94527_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/25/9dd69fff-05fc-4e30-9be3-1435296670ee_87622_6.jpg"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Jasco 22cm Koala with Muffler - Animals & Birds",
+    "brand": "Jasco",
+    "brand_id": "1cc3deff44075987a0e3c0804d8f9b03f0888d6e",
+    "product_id": "BT2ZFLJZMI",
+    "variations": [
+      {
+        "id": "MQX1ZLC6FT",
+        "display_name": "Jasco 22cm Koala with Muffler - Animals & Birds",
+        "price": {
+          "mrp": 399,
+          "store_price": 399,
+          "offer_price": 329,
+          "unit_level_price": "",
+          "discount_value": 70
+        },
+        "brand": "Jasco",
+        "brand_id": "1cc3deff44075987a0e3c0804d8f9b03f0888d6e",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Cartoon Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "22cm Koala with Muffler - Animals & Birds",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/14/5f459580-31fe-4c0a-bf41-60f7c9755ab0_63815_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/bc866566-bc84-4ad9-82ce-8f1ae27c7fbd_ToysandGames_0LNVPO2VF8_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/ea580eb0-e7fe-4906-b9f4-fc8ca10c3a8a_ToysandGames_0LNVPO2VF8_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/ffc87618-c68b-45f6-abc6-55040448c433_ToysandGames_0LNVPO2VF8_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/c8f013d0-1c98-406c-9087-741e0d1d62c1_ToysandGames_0LNVPO2VF8_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/07efa7ec-c793-47e8-8a0b-3fc1f1d38294_ToysandGames_0LNVPO2VF8_AL4.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Mirada Sitting Lion Plush Stuffed Soft Toy Non Toxic (Brown)",
+    "brand": "Mirada",
+    "brand_id": "d877a5162024c4d2208e5800ca40b8367b94c176",
+    "product_id": "TBCJW4HRN4",
+    "variations": [
+      {
+        "id": "SJASVXM4KC",
+        "display_name": "Mirada Sitting Lion Plush Stuffed Soft Toy Non Toxic (Brown)",
+        "price": {
+          "mrp": 799,
+          "store_price": 799,
+          "offer_price": 739,
+          "unit_level_price": "",
+          "discount_value": 60
+        },
+        "brand": "Mirada",
+        "brand_id": "d877a5162024c4d2208e5800ca40b8367b94c176",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Sitting Lion Plush Stuffed Soft Toy Non Toxic (Brown)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/22/254cbcfd-4928-4e82-8b2b-18d53f250a83_45974_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/22/d0cc2acd-6dcd-490c-a46a-d14b4ddff1b5_45974_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/22/be3c1ccc-0341-4eec-a436-b90bb0d6fb06_45974_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/22/82f99655-9de7-4e1a-8872-7a84274edf02_45974_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/22/d25cc69b-f92a-4869-aa25-8b358d388e4d_45974_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/22/0a32cb7f-7c12-430b-a716-a7b0254fae61_45974_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/22/c1174d93-47b1-4d2d-bbd4-a589e630e8b3_45974_7.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 270,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Mirada Super Soft Hippo with Scarf Non Toxic (Pink)",
+    "brand": "Mirada",
+    "brand_id": "d877a5162024c4d2208e5800ca40b8367b94c176",
+    "product_id": "NGW0QIFT29",
+    "variations": [
+      {
+        "id": "A9ZLFHPCGF",
+        "display_name": "Mirada Super Soft Hippo with Scarf Non Toxic (Pink)",
+        "price": {
+          "mrp": 599,
+          "store_price": 599,
+          "offer_price": 549,
+          "unit_level_price": "",
+          "discount_value": 50
+        },
+        "brand": "Mirada",
+        "brand_id": "d877a5162024c4d2208e5800ca40b8367b94c176",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Super Soft Hippo with Scarf Non Toxic (Pink)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/22/830d294e-e92a-44be-8be0-deb9c84eadc3_97888_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/22/771f952a-1e38-4e9a-a2a9-8de11ec08e58_97888_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/22/c83b46ec-5b40-493a-b7a0-cc1ebf6eb32c_97888_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/22/a444dda5-373f-4c92-be04-49c5082f95fe_97888_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/22/a192d44d-86a7-480d-8b15-9aacf463dcaf_97888_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/22/022168e4-252c-4c5d-83b3-254a0327fd25_97888_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/22/6e2df4bc-787f-4751-a988-504a58fabf82_97888_7.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Simba Masha and The Bear Doll Non Toxic (Multicolor)",
+    "brand": "Simba",
+    "brand_id": "9bb1de9cf625a84dafc3fde8ce5e589aa74b405d",
+    "product_id": "82463L9OE5",
+    "variations": [
+      {
+        "id": "VTMQAK4O10",
+        "display_name": "Simba Masha and The Bear Doll Non Toxic (Multicolor)",
+        "price": {
+          "mrp": 899,
+          "store_price": 899,
+          "offer_price": 839,
+          "unit_level_price": "",
+          "discount_value": 60
+        },
+        "brand": "Simba",
+        "brand_id": "9bb1de9cf625a84dafc3fde8ce5e589aa74b405d",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Cartoon Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Masha and The Bear Doll Non Toxic (Multicolor)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/14/e32db3ff-5976-40e2-9d25-0813d2735433_68451_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/6/76bc89d9-76c9-48b4-a91c-1ad2c3169486_68451_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/6/b25335b9-82a7-4ee9-aa0a-b184e22cc787_68451_2.jpg",
+          "ad7aa35f2b36e40f0f9f306f29e7b54a",
+          "4b289fee0f51d7fc0e56c73d4bddaf5d",
+          "84a54fc3961c36d314a739f9d7d350b8",
+          "5b33a548580a331a54a49212bfdb7a66",
+          "NI_CATALOG/IMAGES/CIW/2024/8/5/bcb4c3e2-2974-4095-b52d-102fc6ef6f55_57502_7.png"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "2 pcs",
+        "unit_of_measure": "pcs",
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Fuzzbuzz Huggable Cuddly Ms Goldie Walking Dog Stuffed Soft Toys , Multicolour, 3Y+",
+    "brand": "Fuzzbuzz",
+    "brand_id": "c9006aa6d5cdfbf310d0db29719212c905877970",
+    "product_id": "6AY7EKLBXR",
+    "variations": [
+      {
+        "id": "I00S6N0501",
+        "display_name": "Fuzzbuzz Huggable Cuddly Ms Goldie Walking Dog Stuffed Soft Toys , Multicolour, 3Y+",
+        "price": {
+          "mrp": 1299,
+          "store_price": 1299,
+          "offer_price": 1059,
+          "unit_level_price": "",
+          "discount_value": 240
+        },
+        "brand": "Fuzzbuzz",
+        "brand_id": "c9006aa6d5cdfbf310d0db29719212c905877970",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Huggable Cuddly Ms Goldie Walking Dog Stuffed Soft Toys , Multicolour, 3Y+",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/fb619e7d-2c42-4e3e-ad78-76b96194b812_756848_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/e897f762-938a-4408-bd5c-f997e2b61c3b_756848_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/9c8d0ea3-2808-4f9e-9d90-e8c36ff3a4ce_756848_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/80a40f2e-7d8a-41ba-9c33-0fc8a6b9b040_756848_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/4883997d-d6d8-4f21-a969-bda9de8ae6df_756848_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/0e916e0a-1f88-4dda-852e-a9e30b53b6d1_756848_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 190,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Wild Republic Tiger Soft Toy Non Toxic (Brown)",
+    "brand": "Wild Republic",
+    "brand_id": "8d1f77f6c69a7e27ada4f2d4acf227187eb1a627",
+    "product_id": "W87E929I3Z",
+    "variations": [
+      {
+        "id": "2MR2P4LVLC",
+        "display_name": "Wild Republic Tiger Soft Toy Non Toxic (Brown)",
+        "price": {
+          "mrp": 999,
+          "store_price": 999,
+          "offer_price": 959,
+          "unit_level_price": "",
+          "discount_value": 40
+        },
+        "brand": "Wild Republic",
+        "brand_id": "8d1f77f6c69a7e27ada4f2d4acf227187eb1a627",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Tiger Soft Toy Non Toxic (Brown)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/8f740258-494d-475e-8596-0b11a4d1c115_48788_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/29770837-d5de-42a7-afab-33d9e7bd1f62_48788_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/e47904d0-2d86-4e2b-b761-8941a43ce9bf_48788_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/f9ea9d1e-1c48-4ae6-a87b-2d136eeb56f2_48788_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/63ea3d2a-df87-4ee4-9ccf-aa0c6d096beb_48788_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/bf11ac0f-8f0c-4471-8b35-8cd3d61bc223_48788_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/3f6bfea6-a41f-4aa1-9daf-99d600443f2e_48788_7.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/21/af839607-d89a-40d0-89f4-88aaa083f767_48788_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Teddy Bear With Heart Soft Toy 20 Cm",
+    "brand": "",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "WP475X9SGG",
+    "variations": [
+      {
+        "id": "DGTUB9AHHH",
+        "display_name": "Teddy Bear With Heart Soft Toy 20 Cm",
+        "price": {
+          "mrp": 1200,
+          "store_price": 1200,
+          "offer_price": 960,
+          "unit_level_price": "",
+          "discount_value": 240
+        },
+        "brand": "",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Teddy Bear With Heart Soft Toy 20 Cm",
+        "images": [
+          "b3dddc41a1da13ae873f574e0e617c1c",
+          "47b4fcebeb72b786d69fe9feef7a5ae5",
+          "ef79c7b1771531bacdb1ec579d888bd2",
+          "a0f840d12d1c0cc2d61529ccf3f5b8a8",
+          "ef9a4658dcf698dfa852bf7426f30cff",
+          "9e0eada6d504320708fa83c5df9c939c",
+          "c6f0bc6519fb5efa32b75e1d31c0d682"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "HUG 'n' FEEL Koya Stuffed Plush Soft Toy 30Cm",
+    "brand": "HUG 'n' FEEL",
+    "brand_id": "b2f76bd5463229707876374925d7a80e3164bbae",
+    "product_id": "69Q2W3HK5Z",
+    "variations": [
+      {
+        "id": "8R4724D1L0",
+        "display_name": "HUG 'n' FEEL Koya Stuffed Plush Soft Toy 30Cm",
+        "price": {
+          "mrp": 699,
+          "store_price": 699,
+          "offer_price": 559,
+          "unit_level_price": "",
+          "discount_value": 140
+        },
+        "brand": "HUG 'n' FEEL",
+        "brand_id": "b2f76bd5463229707876374925d7a80e3164bbae",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Koya Stuffed Plush Soft Toy 30Cm",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/bbb9ae55-6e96-43d5-bd62-21dd7a3a3b55_ToysandGames_KSZKVFWTP0_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/af77b68d-f564-4319-b92c-d7912c2595fe_ToysandGames_KSZKVFWTP0_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/fae2c768-9b92-4b09-8a5b-797d22df56ac_ToysandGames_KSZKVFWTP0_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/da1e6baa-4d42-4ca1-b458-8d33dd4b086a_ToysandGames_KSZKVFWTP0_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/018a4c44-9ba5-4048-8427-29a2b8005d68_ToysandGames_KSZKVFWTP0_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/fa8d7705-b7ba-4325-b443-4b7098bc0cfb_ToysandGames_KSZKVFWTP0_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Jeannie Magic Wool Whimsy Sheep Farm Animal Soft And Cuddly Toy, 0M+",
+    "brand": "jeannie magic",
+    "brand_id": "0ef7f28224166a6d8782ab3a01664c6a43e71816",
+    "product_id": "9JP7XDPGEL",
+    "variations": [
+      {
+        "id": "U2GG5LW3KP",
+        "display_name": "Jeannie Magic Wool Whimsy Sheep Farm Animal Soft And Cuddly Toy, 0M+",
+        "price": {
+          "mrp": 599,
+          "store_price": 599,
+          "offer_price": 489,
+          "unit_level_price": "",
+          "discount_value": 110
+        },
+        "brand": "jeannie magic",
+        "brand_id": "0ef7f28224166a6d8782ab3a01664c6a43e71816",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Jeannie Magic Wool Whimsy Sheep Farm Animal Soft And Cuddly Toy, 0M+",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/b739ccbb-9027-41b1-8a8b-81d9843b0256_200846_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/b370d68b-56ce-4111-915c-25a4ca46ceff_200846_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/484e67f7-4885-49dd-a02c-8cd35e3b9066_200846_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/c585af1d-396e-4da3-8bb5-8813f47a8c02_200846_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/3f9b6ec3-7c6c-45f5-a4ed-7641547da642_200846_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/c22db703-0d56-46a9-bd6f-ae56eab1b980_200846_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 168,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Ganji Chudail Doll",
+    "brand": "Unbranded",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "ZOR4N672Z4",
+    "variations": [
+      {
+        "id": "03UKZ5VZ7G",
+        "display_name": "Ganji Chudail Doll",
+        "price": {
+          "mrp": 1999,
+          "store_price": 1999,
+          "offer_price": 699,
+          "unit_level_price": "",
+          "discount_value": 1300
+        },
+        "brand": "Unbranded",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Ganji Chudail Doll",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/24/d84edf59-3429-441d-81b7-b43c6d430689_111567_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/24/e306857a-38c4-4af7-b49e-8d1473ec9ad5_111567_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/24/a6e7bff2-d180-478b-8396-b6342c0d54bf_111567_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/24/dcb7a6bc-1e03-4bdc-88a4-a673c51d3657_111567_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Fun Kids Spirit The Horse Soft Toy",
+    "brand": "Fun Kids",
+    "brand_id": "9fb391cd51e720f4ab4933750c2dee011ce331b8",
+    "product_id": "9JRGE8M8ZA",
+    "variations": [
+      {
+        "id": "LC4J7KZGSF",
+        "display_name": "Fun Kids Spirit The Horse Soft Toy",
+        "price": {
+          "mrp": 430,
+          "store_price": 430,
+          "offer_price": 161,
+          "unit_level_price": "",
+          "discount_value": 269
+        },
+        "brand": "Fun Kids",
+        "brand_id": "9fb391cd51e720f4ab4933750c2dee011ce331b8",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Spirit The Horse Soft Toy",
+        "images": [
+          "c26a5d23660cc6bbedd33f6f37e21825",
+          "afc8db848af9ba7656d01bc8b282cc70",
+          "00a41282baa8ec24d0c4b1e483959742",
+          "25d72fcd6cd14ff251c59f4f4de3834d",
+          "1a9804c5327732c1be6770c4262a93c1"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 160,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Fuzzbuzz Huggable Cuddly Bella Walking Cat Stuffed Soft Toy,Multicolour, 3Y+",
+    "brand": "Fuzzbuzz",
+    "brand_id": "c9006aa6d5cdfbf310d0db29719212c905877970",
+    "product_id": "7WM0JLSSXL",
+    "variations": [
+      {
+        "id": "0GX7YB7NNS",
+        "display_name": "Fuzzbuzz Huggable Cuddly Bella Walking Cat Stuffed Soft Toy,Multicolour, 3Y+",
+        "price": {
+          "mrp": 1299,
+          "store_price": 1299,
+          "offer_price": 975,
+          "unit_level_price": "",
+          "discount_value": 324
+        },
+        "brand": "Fuzzbuzz",
+        "brand_id": "c9006aa6d5cdfbf310d0db29719212c905877970",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": "Animal Soft Toys",
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Huggable Cuddly Bella Walking Cat Stuffed Soft Toy,Multicolour, 3Y+",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/7a957e9a-d05f-44fe-92ef-462820f7cf99_360135_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/37feb10e-bf77-4707-bdf5-6019657c7f63_360135_2.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 190,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Mirada Plush Stuffed Grey Batman Soft Toy - 35cm",
+    "brand": "Mirada",
+    "brand_id": "d877a5162024c4d2208e5800ca40b8367b94c176",
+    "product_id": "7LRG5W5HQE",
+    "variations": [
+      {
+        "id": "QGJ5YYYMU2",
+        "display_name": "Mirada Plush Stuffed Grey Batman Soft Toy - 35cm",
+        "price": {
+          "mrp": 699,
+          "store_price": 699,
+          "offer_price": 629,
+          "unit_level_price": "",
+          "discount_value": 70
+        },
+        "brand": "Mirada",
+        "brand_id": "d877a5162024c4d2208e5800ca40b8367b94c176",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Plush Stuffed Grey Batman Soft Toy - 35cm",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/31/58ff75c7-43b8-4630-8215-a5e5025d8d83_63K0I2T0NF.png",
+          "8a1ee17066419a38f1668048b15388d6",
+          "c36502505a87f1496599dcf59bb059f6",
+          "b71f3ff9ee0769188031ac2caa027b21",
+          "eb5698fb20eae765a5b9210222022281"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 350,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Webby Soft Animal Plush Elephant Toy Non Toxic (Blue & Grey)",
+    "brand": "Webby",
+    "brand_id": "da458967a353a3e57c06ca12b39fbaac6effb0c9",
+    "product_id": "WALV3WQNPE",
+    "variations": [
+      {
+        "id": "9M1T7L7YSA",
+        "display_name": "Webby Soft Animal Plush Elephant Toy Non Toxic (Blue & Grey)",
+        "price": {
+          "mrp": 349,
+          "store_price": 349,
+          "offer_price": 239,
+          "unit_level_price": "",
+          "discount_value": 110
+        },
+        "brand": "Webby",
+        "brand_id": "da458967a353a3e57c06ca12b39fbaac6effb0c9",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Soft Animal Plush Elephant Toy Non Toxic (Blue & Grey)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/8cae1e0e-ee60-4151-a84e-7c740dc3ac7a_45964_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/69f2d3c8-32ed-448d-ad5d-a622283cd009_45964_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/ac5bafb0-888a-439a-8c09-9261183a2754_45964_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/bee93ef0-aff0-4ddb-9041-fec0e5968a27_45964_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/a616b795-6e81-4c76-81c9-1fbecd82022b_45964_5.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/28995f70-8899-405b-b7cb-93e73c741578_45964_6.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/d9df46be-2be0-4a0e-8968-676a2503a126_45964_7.jpg"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 175,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Oye Happy Snuggle Panda Love (Non Toxic, Multicolour)-25 CM",
+    "brand": "Oye Happy",
+    "brand_id": "9a9d6da7b33e704481a1cc941b0b00a5047b3800",
+    "product_id": "WI8WMCS4UM",
+    "variations": [
+      {
+        "id": "Z1L22O9U6Y",
+        "display_name": "Oye Happy Snuggle Panda Love (Non Toxic, Multicolour)-25 CM",
+        "price": {
+          "mrp": 1119,
+          "store_price": 1119,
+          "offer_price": 426,
+          "unit_level_price": "",
+          "discount_value": 693
+        },
+        "brand": "Oye Happy",
+        "brand_id": "9a9d6da7b33e704481a1cc941b0b00a5047b3800",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Snuggle Panda Love (Non Toxic, Multicolour)-25 CM",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/25/62f76343-95e2-4e20-9372-b22ae3910e43_699719_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/25/f9d76c7e-edb0-4bc0-aed1-262c3f8808cc_699719_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/25/87386ea1-6b54-4075-8a42-ec8a8b52c93d_699719_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/25/e77e69c0-eee1-4987-9b17-edcf7fcc3ed4_699719_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/25/e1648495-deb6-42d7-866d-0c9257a52163_699719_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/25/a0878cce-5cec-4531-a409-9e36c87ab74a_699719_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Fuzzbuzz Huggable Cuddly Hopper Jumping Rabbit Stuffed Soft Toy, Multicolour, 3Y+",
+    "brand": "Fuzzbuzz",
+    "brand_id": "c9006aa6d5cdfbf310d0db29719212c905877970",
+    "product_id": "8CSTNB5J2Y",
+    "variations": [
+      {
+        "id": "QC10M1A9SF",
+        "display_name": "Fuzzbuzz Huggable Cuddly Hopper Jumping Rabbit Stuffed Soft Toy, Multicolour, 3Y+",
+        "price": {
+          "mrp": 1299,
+          "store_price": 1299,
+          "offer_price": 1059,
+          "unit_level_price": "",
+          "discount_value": 240
+        },
+        "brand": "Fuzzbuzz",
+        "brand_id": "c9006aa6d5cdfbf310d0db29719212c905877970",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Huggable Cuddly Hopper Jumping Rabbit Stuffed Soft Toy, Multicolour, 3Y+",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/43b9b06e-4bdb-4d11-b2c8-fecb7308a926_362096_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/fd2c73b3-8aec-4345-9560-3e859cc33d59_362096_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/0295f974-9511-4a43-b3fd-0a4d1b292861_362096_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/bd244ebc-7656-484d-837a-900ffc89208f_362096_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 190,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Jeannie Magic Rainbow Pink Whimsy Bunny Cute, Soft And Cuddly Toy For 0, Age",
+    "brand": "jeannie magic",
+    "brand_id": "0ef7f28224166a6d8782ab3a01664c6a43e71816",
+    "product_id": "DBFEUEQZF4",
+    "variations": [
+      {
+        "id": "LYTSJZYOVP",
+        "display_name": "Jeannie Magic Rainbow Pink Whimsy Bunny Cute, Soft And Cuddly Toy For 0, Age",
+        "price": {
+          "mrp": 599,
+          "store_price": 599,
+          "offer_price": 509,
+          "unit_level_price": "",
+          "discount_value": 90
+        },
+        "brand": "jeannie magic",
+        "brand_id": "0ef7f28224166a6d8782ab3a01664c6a43e71816",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Jeannie Magic Rainbow Pink Whimsy Bunny Cute, Soft And Cuddly Toy For 0, Age",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/5a92dc47-a740-4d9d-8b72-3a1b803e68f5_232166_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/c17a35ec-96e4-4878-8687-8f06556b01df_232166_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/11c6764a-ef09-462b-90f8-c10bf8818d82_232166_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/d9308b9a-095e-479f-a3dc-919e3d2965fc_232166_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/8c88947f-f60f-4b5f-a6db-41c1b8d5a772_232166_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/0fd07904-799c-4f98-b1ce-99f2594c9dc9_232166_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 137,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Itoys Spiderman Bowling Set, Multicolour, 3Y+",
+    "brand": "Itoys",
+    "brand_id": "72142ddf1919e3f0e95f924bf5ffbb43a92fd999",
+    "product_id": "EI52UR72NB",
+    "variations": [
+      {
+        "id": "5HYLQZBB57",
+        "display_name": "Itoys Spiderman Bowling Set, Multicolour, 3Y+",
+        "price": {
+          "mrp": 499,
+          "store_price": 499,
+          "offer_price": 409,
+          "unit_level_price": "",
+          "discount_value": 90
+        },
+        "brand": "Itoys",
+        "brand_id": "72142ddf1919e3f0e95f924bf5ffbb43a92fd999",
+        "category": "Dolls & Pretend Kits",
+        "super_category": "Toys",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Spiderman Bowling Set, Multicolour, 3Y+",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/cc8a96b3-a5a9-4a57-a8ad-ce722bebdd5b_171458_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/419c0650-9ed5-433c-93b7-ba9ecf01c978_171458_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/a542ecf4-697f-48ac-b0de-777a776ca39a_171458_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/e823ceba-8a68-4c85-81cd-36064701f33a_171458_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/bfb01d68-0819-44c4-b428-670ded3efd9a_171458_5.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 458,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Oye Happy Sweetheart Couple Bears-25 CM",
+    "brand": "Oye Happy",
+    "brand_id": "9a9d6da7b33e704481a1cc941b0b00a5047b3800",
+    "product_id": "ROOO524RW0",
+    "variations": [
+      {
+        "id": "YSRBYVZ3DK",
+        "display_name": "Oye Happy Sweetheart Couple Bears-25 CM",
+        "price": {
+          "mrp": 2329,
+          "store_price": 2329,
+          "offer_price": 886,
+          "unit_level_price": "",
+          "discount_value": 1443
+        },
+        "brand": "Oye Happy",
+        "brand_id": "9a9d6da7b33e704481a1cc941b0b00a5047b3800",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Sweetheart Couple Bears-25 CM",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/adce3f1d-fcdf-473a-b36b-1f43d0ca083b_977230_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/3f1fb2b0-aad5-4a06-b337-81b200034363_977230_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/a1bb514b-b214-47c1-9b1a-3a3ac439f490_977230_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/6b8be1ec-aba6-4d93-b834-bd6e708577d4_977230_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 300,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Disney Winnie The Pooh 8 Inches Plush Huggable Stuffed Toy",
+    "brand": "Disney",
+    "brand_id": "ed592fd763d20de7c5cfe6ae5eb4be7638f951de",
+    "product_id": "QJYTOPDA5W",
+    "variations": [
+      {
+        "id": "ZIWO2BC54F",
+        "display_name": "Disney Winnie The Pooh 8 Inches Plush Huggable Stuffed Toy",
+        "price": {
+          "mrp": 499,
+          "store_price": 499,
+          "offer_price": 439,
+          "unit_level_price": "",
+          "discount_value": 60
+        },
+        "brand": "Disney",
+        "brand_id": "ed592fd763d20de7c5cfe6ae5eb4be7638f951de",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Winnie The Pooh 8 Inches Plush Huggable Stuffed Toy",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/ae023ca1-b8a3-4495-8192-5a2708348889_541972_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/680a1cd2-982c-49c7-9ad3-e347524e8d19_541972_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/7074fde0-fd35-4c4b-91f8-0e3c1e0c44bc_541972_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/f741c085-7a3f-4302-8f1d-07a4390a59e7_541972_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/6a0fc764-431f-4ff2-9c6e-dbada05b53f1_541972_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/79f90531-5ade-48cf-95a5-6c7cce269e58_541972_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/31/e7251648-9733-434f-a678-72b6849c9e84_541972_7.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Archies Cute Couple Teddy Bears In A Basket",
+    "brand": "Archies",
+    "brand_id": "0fefa6363f6fe8dc3cb64009dede77f4b0d2b787",
+    "product_id": "PPHGBU2C29",
+    "variations": [
+      {
+        "id": "GY647IKBP2",
+        "display_name": "Archies Cute Couple Teddy Bears In A Basket",
+        "price": {
+          "mrp": 999,
+          "store_price": 999,
+          "offer_price": 799,
+          "unit_level_price": "",
+          "discount_value": 200
+        },
+        "brand": "Archies",
+        "brand_id": "0fefa6363f6fe8dc3cb64009dede77f4b0d2b787",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cute Couple Teddy Bears In A Basket",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/809cc992-69cf-4bf7-9866-2f00defc653e_miscellaneous_IL209RDNTR_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/f69aacea-e825-4fb2-a695-5a60844032c2_miscellaneous_IL209RDNTR_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/70a33956-1342-41d6-81a7-babb58c3c48d_miscellaneous_IL209RDNTR_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/9c4ecb8d-13a5-4dee-b0f0-7595ddfd333c_miscellaneous_IL209RDNTR_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/20f1f8ef-e0d6-490a-a5fb-53b62d35bf3a_miscellaneous_IL209RDNTR_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/2fe40017-11c6-4da4-b43a-f221e58e5884_miscellaneous_IL209RDNTR_AL5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/25/ab653122-3c2c-4223-be32-320b7f10120e_miscellaneous_IL209RDNTR_AL6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Teddy with Rose Heart Shape Box (4*4 inches)",
+    "brand": "",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "F910777L7A",
+    "variations": [
+      {
+        "id": "QGFOW4226H",
+        "display_name": "Teddy with Rose Heart Shape Box (4*4 inches)",
+        "price": {
+          "mrp": 399,
+          "store_price": 399,
+          "offer_price": 190,
+          "unit_level_price": "",
+          "discount_value": 209
+        },
+        "brand": "",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Teddy with Rose Heart Shape Box (4*4 inches)",
+        "images": [
+          "acf1cbdca34d9ded91e9722fd83e6ca9",
+          "d21b6eef2bfcd7a626199bf1c320fbbf",
+          "630c8c6f77bc6fdc6fcafdabf4ae0556",
+          "c732df8956956518f2c698c864c50724",
+          "b3d141211f1f725011b651d8d6006513",
+          "f8397e76886c3a89b1caf1dbe948924d",
+          "e50ba5bdea999b0b2d01f51d4bec6698",
+          "262192947aa87f8987a4080d2eca2714",
+          "7f9c7ac3ca03366042d75ef56c8d703f"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Pink Love Teddy Bear Stuffed Toy With Love Red Heart (7 Inches)",
+    "brand": "",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "QALDHURWRC",
+    "variations": [
+      {
+        "id": "XLJKB6I0RV",
+        "display_name": "Pink Love Teddy Bear Stuffed Toy With Love Red Heart (7 Inches)",
+        "price": {
+          "mrp": 500,
+          "store_price": 500,
+          "offer_price": 280,
+          "unit_level_price": "",
+          "discount_value": 220
+        },
+        "brand": "",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Pink Love Teddy Bear Stuffed Toy With Love Red Heart (7 Inches)",
+        "images": [
+          "dfb9b1679df8d837a115e98186d5fd4e",
+          "b71fe7deecbdca42ab48665491f38eec",
+          "0e4744eb3fb7fd2f0f4a9ac0ab092805",
+          "6954a7f86dee89b0fe4fc909d454768c",
+          "2acac89638b32a7219a25dd7ccd7b998",
+          "baf77f8187e6e1a40d2bc4f1d041744a",
+          "d16335917e88cc2751789e0c2c4c118a"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Quace Red & White Heart Shaped Valentine Gift Box With Teddy And Artificial Flowers",
+    "brand": "Quace",
+    "brand_id": "260e5cb4af23604cbef199171fefbd1d6927e657",
+    "product_id": "WKPDPPD4L2",
+    "variations": [
+      {
+        "id": "3YGWOPTG23",
+        "display_name": "Quace Red & White Heart Shaped Valentine Gift Box With Teddy And Artificial Flowers",
+        "price": {
+          "mrp": 699,
+          "store_price": 699,
+          "offer_price": 129,
+          "unit_level_price": "",
+          "discount_value": 570
+        },
+        "brand": "Quace",
+        "brand_id": "260e5cb4af23604cbef199171fefbd1d6927e657",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Red & White Heart Shaped Valentine Gift Box With Teddy And Artificial Flowers",
+        "images": [
+          "8299e9c5f64ac77135bb1ccc6715ee01",
+          "cd2d3bce6abe908145a59c91834c1de7",
+          "3a6aa2502f634886d05116509443b13b",
+          "6d130831fc7abb4533ca9eb53c40c4cd",
+          "db93a37ae32df6585a67dec99e5c3f0c",
+          "9b897168d774929e9ccc5e7b6bc99a92",
+          "01e8902013552965ed2dfa6a66c3169e",
+          "c69853f9a04d3743abd86186be55a23a",
+          "4334acc30b7ccc3f907f1dc85f73ca8c"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Pichai Red & Gold Sequin Cushion (8 Inch)",
+    "brand": "Pichai",
+    "brand_id": "49f33f03dd9417d63c210d49f1ea2819f3fe77c7",
+    "product_id": "O4P3LBCUP1",
+    "variations": [
+      {
+        "id": "31VKZNZL4H",
+        "display_name": "Pichai Red & Gold Sequin Cushion (8 Inch)",
+        "price": {
+          "mrp": 499,
+          "store_price": 499,
+          "offer_price": 253,
+          "unit_level_price": "",
+          "discount_value": 246
+        },
+        "brand": "Pichai",
+        "brand_id": "49f33f03dd9417d63c210d49f1ea2819f3fe77c7",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Red & Gold Sequin Cushion (8 Inch)",
+        "images": [
+          "b4d564847510f5d59950d6a6a522afb9",
+          "86c5256ba1c09fecb27b31b58f6e8ac1",
+          "33bacd8412fe72333ab27fd32cc73dd3",
+          "8f981ae048a125628bd14c5fe2516f06",
+          "28c75fb62ca069ee3176420818d80e1c",
+          "f2b2c75ec51f6d191eecc4283c5507eb",
+          "32abdaf09789885fbc833dfb6988e41e"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Archies Teddy Bear With Heart, Beige (6 Inches)",
+    "brand": "Archies",
+    "brand_id": "0fefa6363f6fe8dc3cb64009dede77f4b0d2b787",
+    "product_id": "GX5O707ZJ1",
+    "variations": [
+      {
+        "id": "LYOVKNMFM8",
+        "display_name": "Archies Teddy Bear With Heart, Beige (6 Inches)",
+        "price": {
+          "mrp": 899,
+          "store_price": 899,
+          "offer_price": 719,
+          "unit_level_price": "",
+          "discount_value": 180
+        },
+        "brand": "Archies",
+        "brand_id": "0fefa6363f6fe8dc3cb64009dede77f4b0d2b787",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Teddy Bear With Heart, Beige (6 Inches)",
+        "images": [
+          "1b4ceedc10a3746d17081ee155c81a1a",
+          "afc720fd7c508c02c5772bc89fd67573",
+          "3de606e003e2afe8b5e99d4202ba8833",
+          "5cc6ff66a85d24d9b7e8eb5914d81afd",
+          "748262264b3c7aea43cd77c9facfee7b",
+          "32973930fa26a468cd7d8d27b3cb029f",
+          "0902b28f2af5713166a8f1a18c9c7657",
+          "daaa472abcc05dbef367eac602196181"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Pichai Huggy Bear Plush Soft Toy 30Cm",
+    "brand": "Pichai",
+    "brand_id": "49f33f03dd9417d63c210d49f1ea2819f3fe77c7",
+    "product_id": "O8NTDKJ05S",
+    "variations": [
+      {
+        "id": "5B7RLORZ8I",
+        "display_name": "Pichai Huggy Bear Plush Soft Toy 30Cm",
+        "price": {
+          "mrp": 1099,
+          "store_price": 1099,
+          "offer_price": 417,
+          "unit_level_price": "",
+          "discount_value": 682
+        },
+        "brand": "Pichai",
+        "brand_id": "49f33f03dd9417d63c210d49f1ea2819f3fe77c7",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Huggy Bear Plush Soft Toy 30Cm",
+        "images": [
+          "243da071ddc7a874c87ceea453477ef0",
+          "007653ff38f8d5b5eef08defc8307b70",
+          "6ec5b2c84e893779f2040a5b69da7822",
+          "57a853566ba0dcaacf17c3ee505d8f5c",
+          "b2366adc655b0c27016ee9b63589d3b5",
+          "8170407877fb0d83f4d76c54841ffe4a",
+          "954c1857531f64d39761c8f179e2632b"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "Pichai Red Heart Plush Soft Toy (8 Inch)",
+    "brand": "Pichai",
+    "brand_id": "49f33f03dd9417d63c210d49f1ea2819f3fe77c7",
+    "product_id": "20X47JWCVY",
+    "variations": [
+      {
+        "id": "MRHJ0KUANY",
+        "display_name": "Pichai Red Heart Plush Soft Toy (8 Inch)",
+        "price": {
+          "mrp": 299,
+          "store_price": 299,
+          "offer_price": 116,
+          "unit_level_price": "",
+          "discount_value": 183
+        },
+        "brand": "Pichai",
+        "brand_id": "49f33f03dd9417d63c210d49f1ea2819f3fe77c7",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Red Heart Plush Soft Toy (8 Inch)",
+        "images": [
+          "f6b44440c8af3817f1c8a43c0150d625",
+          "326e1dad7f0c7be48af97e7c320a2f8e",
+          "96c492a53a2e3c267edbe9e4d60c05f4",
+          "a7109fd4c8ef603af8f5c965a33a6cff",
+          "77bb10ce507262cfc0fa714d66ee6995",
+          "e7168e6246feebb2799afb904005dfde",
+          "7ce24ea3d7b5b833657799044ac2422e"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  },
+  {
+    "display_name": "eCraftIndia Valentine Gift Box (Teddy Bear, Single Red & Gold Artificial Rose With Stem & 6 Mini Roses)",
+    "brand": "eCraftIndia",
+    "brand_id": "eefbb0410d417bb815736715e5560e99e2531fb0",
+    "product_id": "L65T3SP1JZ",
+    "variations": [
+      {
+        "id": "NQ6957A1Z9",
+        "display_name": "eCraftIndia Valentine Gift Box (Teddy Bear, Single Red & Gold Artificial Rose With Stem & 6 Mini Roses)",
+        "price": {
+          "mrp": 999,
+          "store_price": 999,
+          "offer_price": 269,
+          "unit_level_price": "",
+          "discount_value": 730
+        },
+        "brand": "eCraftIndia",
+        "brand_id": "eefbb0410d417bb815736715e5560e99e2531fb0",
+        "category": "Soft Toys",
+        "super_category": "Toys",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Valentine Gift Box (Teddy Bear, Single Red & Gold Artificial Rose With Stem & 6 Mini Roses)",
+        "images": [
+          "dfa58b7458fd6bd5eace3b0b465fedcf",
+          "bdcfd8550217c8ac30279e9b63a114c5",
+          "d437a0ca0b6de9959cc6bfdd4390164a",
+          "3de67698fa0e9e1b6e360c66d4f7b1bf",
+          "1de4c248d9736a6420a1cb9e9322b827",
+          "d2cdc3f449495af777a54b2f210e7866",
+          "ce2d50332a5cadf5c03f73d93bb50c8e",
+          "22081375d3db1d5003e7549348a73751",
+          "842bb1eed4c418a5398eec4d31b8d793",
+          "eddf97112e7a858959eb059b49cf8984"
+        ],
+        "images_v2": null,
+        "quantity": "8 pcs",
+        "sku_quantity_with_combo": "8 pcs",
+        "unit_of_measure": null,
+        "weight_in_grams": 8,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa670",
+        "name": "Toys and Games"
+      },
+      "category_name_from_url": "Toys and Games"
+    }
+  }
+]

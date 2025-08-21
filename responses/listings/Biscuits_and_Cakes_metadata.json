@@ -1,0 +1,206 @@
+{
+  "categories": [
+    {
+      "id": "6822eeeded32000001e25aa1",
+      "display_name": "Fresh Vegetables",
+      "product_count": 582,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/e9395c2f-a316-4899-8a05-c08afa34de5a_9ada60fa-2794-45d7-b780-50015de09230",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25aae",
+      "display_name": "Fresh Fruits",
+      "product_count": 567,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/7e47a6e7-f40d-457f-9b46-fa23e3e015d6_3954cc97-e485-4725-b595-3a6e7029211f",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25abb",
+      "display_name": "Dairy, Bread and Eggs",
+      "product_count": 1319,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/a8042459-6e03-40b7-88e6-5d7acb437880_1f641338-2306-4841-97aa-cb65b497d132",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25aca",
+      "display_name": "Cereals and Breakfast",
+      "product_count": 1758,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/1f081643-e392-4585-a8e7-04ace4ace1ef_2e314d6c-ed11-49af-8927-e3eadde4dbad",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25add",
+      "display_name": "Atta, Rice and Dal",
+      "product_count": 1225,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/fe25fe8b-a26f-49dc-af50-c748fff09475_165b10b8-00b7-4837-a27e-6399a3c99c29",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25aec",
+      "display_name": "Oils and Ghee",
+      "product_count": 810,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/b5e07c24-ed2b-4101-a87d-aeed35b4e2e7_30d06ae8-5347-4961-8d68-02b189159321",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25af9",
+      "display_name": "Masalas",
+      "product_count": 1218,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/5fb9f911-93e8-47d2-afd3-a9c876bbffe2_f00a60a1-de42-4132-808e-dc1136c27bac",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b06",
+      "display_name": "Dry Fruits and Seeds Mix",
+      "product_count": 917,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/49c9852b-967f-40ef-8ff1-6c28a4282c65_9dcb6679-51f7-45ae-a367-eb056a8713e2",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b13",
+      "display_name": "Biscuits and Cakes",
+      "product_count": 1201,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/93e396cf-71df-4ed3-9015-af13fa3c9081_ccdcba8a-aa86-4ff9-9229-ed8f6c53cac0",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b24",
+      "display_name": "Tea, Coffee and Milk drinks",
+      "product_count": 1231,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/c54610b9-868e-4fdd-83d5-4d723ee93261_d0ee1b6c-dd6a-45fc-8f99-929a56764014",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b31",
+      "display_name": "Sauces and Spreads",
+      "product_count": 584,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/49f512f4-5613-45af-bbd4-2eaa13906240_a026b538-95c9-4060-8cd0-0f44e0c2742f",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b3c",
+      "display_name": "Meat and Seafood",
+      "product_count": 692,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/774ad667-efe6-4145-ad58-3362632508fd_b8600286-4ff0-45bf-bfc6-45f4098cec35",
+      "age_consent_required": false
+    }
+  ],
+  "selected_category": {
+    "id": "6822eeeded32000001e25b13",
+    "name": "Biscuits and Cakes"
+  },
+  "filters": [
+    {
+      "id": "687a33b4031e8f00014f1ee3",
+      "name": "Top Deals",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/19/6e82fb5f-c76b-4e52-a0ed-9091db3dffc7_39edba76-be69-4f5d-b2b8-81726d784c56",
+      "type": "Speciality taxonomy 1",
+      "product_count": 101
+    },
+    {
+      "id": "6822eeeded32000001e25b14",
+      "name": "Value Packs",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/18/e37afc91-ed81-4e43-a9a6-f4cf9d5b6b3e_a922730a-152d-4aaa-ba98-d8c15567165c",
+      "type": "Speciality taxonomy 1",
+      "product_count": 77
+    },
+    {
+      "id": "6822eeeded32000001e25b15",
+      "name": "Cakes & Pies",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/23/01d129bb-7c2d-4523-a72f-272849ac9f08_07051edb-4fc4-4afd-9077-7fa6a0cdd070",
+      "type": "Speciality taxonomy 1",
+      "product_count": 219
+    },
+    {
+      "id": "6822eeeded32000001e25b16",
+      "name": "Cookies",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/7da7258b-1b17-4eed-a13f-1098387a7689_d5c8b697-745a-482f-8297-10fc31183a5b",
+      "type": "Speciality taxonomy 1",
+      "product_count": 181
+    },
+    {
+      "id": "6822eeeded32000001e25b21",
+      "name": "Gift Boxes",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/f4b6c620-3d1f-477d-adfd-2def4198e611_0c834638-a1a5-4f53-93ef-c5dd0de399fa",
+      "type": "Speciality taxonomy 1",
+      "product_count": 15
+    },
+    {
+      "id": "6822eeeded32000001e25b17",
+      "name": "Cream Biscuits",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/8/8/5c45c021-67a2-4c3a-8034-482f7a676af8_6c6c62f6-4c31-4a76-b023-4b7db8ad8721",
+      "type": "Speciality taxonomy 1",
+      "product_count": 74
+    },
+    {
+      "id": "6822eeeded32000001e25b1a",
+      "name": "Newly Added",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/68d7e7ef-eb28-4332-b6b7-870519454f6a_b8cf1cb8-410c-4654-b53b-18ffaa7bd416",
+      "type": "Speciality taxonomy 1",
+      "product_count": 109
+    },
+    {
+      "id": "6822eeeded32000001e25b18",
+      "name": "Marie & Digestive",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/b4161391-ff0d-46c0-aaa3-da0b48d693d5_3b358e98-e172-4333-b35b-bb7e5d736bfa",
+      "type": "Speciality taxonomy 1",
+      "product_count": 56
+    },
+    {
+      "id": "6822eeeded32000001e25b19",
+      "name": "Salted & Plain",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/46d52df5-f004-412c-b4cc-e29bc89d4c84_e0cd8652-0dc2-46e7-9598-0cdd786fe098",
+      "type": "Speciality taxonomy 1",
+      "product_count": 51
+    },
+    {
+      "id": "6822eeeded32000001e25b1b",
+      "name": "Wafers",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/5c7fce4e-e83e-43da-9971-11dcb3c46c31_1324c419-5012-453f-9e7b-3d7be8d7d188",
+      "type": "Speciality taxonomy 1",
+      "product_count": 50
+    },
+    {
+      "id": "6822eeeded32000001e25b1c",
+      "name": "Rusk",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/460dab35-977a-43ea-8e93-e61a9d1578c6_de281df3-ea29-49ca-978c-0f6b79710bfe",
+      "type": "Speciality taxonomy 1",
+      "product_count": 30
+    },
+    {
+      "id": "6822eeeded32000001e25b1d",
+      "name": "Dessert Mixes",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/26/38a2be68-bc5f-47b9-8f54-7ec710a69ac2_6d609196-22cb-4678-b635-14b73f705202",
+      "type": "Speciality taxonomy 1",
+      "product_count": 31
+    },
+    {
+      "id": "6822eeeded32000001e25b1e",
+      "name": "Baking Ingredients",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/26/c9bcf7e2-5503-42bf-8fc3-703933813fa6_2037b643-2ff2-4321-8384-23fa54e8479a",
+      "type": "Speciality taxonomy 1",
+      "product_count": 47
+    },
+    {
+      "id": "6822eeeded32000001e25b1f",
+      "name": "Flavouring Agents",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/26/8eee74d7-0102-4eae-9991-15d0ae6838ae_a7f294a9-bace-45c4-85e5-691ae43e8f74",
+      "type": "Speciality taxonomy 1",
+      "product_count": 6
+    },
+    {
+      "id": "6822eeeded32000001e25b20",
+      "name": "Pancake Mixes",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/26/7e507d93-7d9d-4767-989f-0eeeb84cd45f_21aed124-ebc8-4f0e-818d-f5df5722a71e",
+      "type": "Speciality taxonomy 1",
+      "product_count": 48
+    },
+    {
+      "id": "6822eeeded32000001e25b22",
+      "name": "Healthy Snacking",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/12/5/f21dcf0c-85d4-4f20-b80e-9c34791450ee_16ae2c15-e075-4222-94a7-30fe7e888403",
+      "type": "Speciality taxonomy 1",
+      "product_count": 106
+    }
+  ]
+}

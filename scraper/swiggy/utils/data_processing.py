@@ -45,6 +45,50 @@ def find_products_recursively(data_blob: Union[Dict, List]) -> List[Dict[str, An
     return products
 
 
+def extract_categories_from_listing_response(data: Dict[str, Any]) -> Dict[str, Any]:
+    """Extract category information from listing response."""
+    category_info = {
+        "categories": [],
+        "selected_category": {},
+        "filters": []
+    }
+    
+    data_section = data.get("data", {})
+    
+    # Extract all categories (super categories)
+    categories = data_section.get("categories", [])
+    for cat in categories:
+        category_info["categories"].append({
+            "id": cat.get("id"),
+            "display_name": cat.get("displayName"),
+            "product_count": cat.get("productCount"),
+            "image_id": cat.get("imageId"),
+            "age_consent_required": cat.get("ageConsentRequired", False)
+        })
+    
+    # Extract selected category info
+    selected_cat_id = data_section.get("selectedCategoryId")
+    selected_cat_name = data_section.get("selectedCategoryName")
+    if selected_cat_id and selected_cat_name:
+        category_info["selected_category"] = {
+            "id": selected_cat_id,
+            "name": selected_cat_name
+        }
+    
+    # Extract filters (sub-categories)
+    filters = data_section.get("filters", [])
+    for filter_item in filters:
+        category_info["filters"].append({
+            "id": filter_item.get("id"),
+            "name": filter_item.get("name"),
+            "image_id": filter_item.get("imageId"),
+            "type": filter_item.get("type"),
+            "product_count": filter_item.get("productCount")
+        })
+    
+    return category_info
+
+
 def is_combo_item(variation: Dict[str, Any]) -> bool:
     """Check if a variation is a combo item that should be skipped."""
     scm_item_type = variation.get("scm_item_type")
@@ -89,7 +133,7 @@ def extract_variation_details(variation: Dict[str, Any]) -> Dict[str, Any]:
     }
 
 
-def format_product_info(item: Dict[str, Any]) -> Dict[str, Any]:
+def format_product_info(item: Dict[str, Any], category_context: Dict[str, Any] = None) -> Dict[str, Any]:
     """Format product information with variations, filtering out combo items."""
     product_info = {
         "display_name": item.get("display_name"),
@@ -98,6 +142,10 @@ def format_product_info(item: Dict[str, Any]) -> Dict[str, Any]:
         "product_id": item.get("product_id"),
         "variations": []
     }
+    
+    # Add category context if provided
+    if category_context:
+        product_info["category_context"] = category_context
     
     for variation in item.get("variations", []):
         # Skip combo items

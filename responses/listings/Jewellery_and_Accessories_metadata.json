@@ -1,0 +1,234 @@
+{
+  "categories": [
+    {
+      "id": "6822eef009ab2e00019aa5e2",
+      "display_name": "Home and Furnishing",
+      "product_count": 2318,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/c34ad44b-5b83-4b51-a254-f472c175fd4e_4a8b97f3-6a60-4404-a0ec-93eb72db73e1",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa5f3",
+      "display_name": "Kitchen and Dining",
+      "product_count": 868,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/c416dbf8-210d-480e-94ca-805ddb720a77_925991fe-2da3-49b0-b0d1-3d29a07174d2",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa601",
+      "display_name": "Cleaning Essentials",
+      "product_count": 1202,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/6976d426-ca5f-4071-8ae2-ab684888645a_e83f0668-cdd1-40f7-950c-11f51b43f351",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa614",
+      "display_name": "Clothing",
+      "product_count": 150,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/11bdd409-0389-4572-9d4b-06d3235c7aaf_7434539d-4963-49d6-8234-3a85d1d7ec76",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa621",
+      "display_name": "Mobiles and Electronics ",
+      "product_count": 871,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/dd815b3d-ce43-454a-aef0-846a8fca399c_4ce8b093-a81e-484b-a35c-6ca079145ac8",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa630",
+      "display_name": "Appliances",
+      "product_count": 238,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/ae055b85-221c-42dc-87cb-efae5e048e9a_8f020cc6-fea1-4a9c-9235-7cec4b0206b2",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa63f",
+      "display_name": "Books and Stationery",
+      "product_count": 424,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/fa971c1e-4344-41a4-85e5-10d921df0818_13beb56f-0d66-403d-839f-eb63fdf25a83",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa649",
+      "display_name": "Jewellery and Accessories",
+      "product_count": 293,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/1e2fd208-7180-46bc-954f-db70777eba12_556f0a21-db31-41f3-bcc0-c48a33e1afd6",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa65d",
+      "display_name": "Puja",
+      "product_count": 867,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/3accc5d4-38b2-4487-b3b5-5891bf4806ea_a9c87ee0-3dbb-4cb3-9ee2-a4b421823f45",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa670",
+      "display_name": "Toys and Games",
+      "product_count": 509,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/26e9ad5c-4299-42a1-8536-c72dfdf419c0_be8dbebf-8cff-4118-9e81-6085959c39b0",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa67f",
+      "display_name": "Sports and Fitness",
+      "product_count": 173,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/65126402-7605-4caf-974e-4acc8514fb41_6660a2f1-7912-4432-b9dd-90a23fa99b6b",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa68e",
+      "display_name": "Pet Supplies",
+      "product_count": 468,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/f00fffd7-11da-402f-bf95-17b07b8c0fda_5745df60-e848-427e-af64-abb9a91d6949",
+      "age_consent_required": false
+    }
+  ],
+  "selected_category": {
+    "id": "6822eef009ab2e00019aa649",
+    "name": "Jewellery and Accessories"
+  },
+  "filters": [
+    {
+      "id": "6822eef009ab2e00019aa64a",
+      "name": "Earrings",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/26/7b8181e1-96c6-4bd2-a726-486107f85e29_0ce16445-8663-40ec-ad7f-3731751e2832",
+      "type": "Health and Wellness Stores",
+      "product_count": 61
+    },
+    {
+      "id": "6822eef009ab2e00019aa64b",
+      "name": "Chains & Necklace",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/26/25305bec-63c3-47b4-93f0-dd2c8a7ccea0_2e386c7e-09c7-4984-acd9-503f4d45ad49",
+      "type": "Health and Wellness Stores",
+      "product_count": 27
+    },
+    {
+      "id": "6822eef009ab2e00019aa64c",
+      "name": "Bracelets & Bangles",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/26/a9afc690-8eee-459c-a534-322c784cc0a6_9305131c-a6fd-47b8-bdd4-32c036f5285e",
+      "type": "Health and Wellness Stores",
+      "product_count": 16
+    },
+    {
+      "id": "6822eef009ab2e00019aa64d",
+      "name": "Jewelry Sets & Gift Boxes",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/26/1134e20c-dded-47e3-82ea-3f9915f2e118_cb92e67c-89ce-40cd-bdb6-1255d10df52f",
+      "type": "Health and Wellness Stores",
+      "product_count": 31
+    },
+    {
+      "id": "6822eef009ab2e00019aa64e",
+      "name": "Rings",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/25/0014fbeb-8d7d-4128-a060-dd6d480c070a_7a601203-1517-4429-a97b-340beeb63d5c",
+      "type": "Health and Wellness Stores",
+      "product_count": 3
+    },
+    {
+      "id": "683ec01dfc89680001bc372e",
+      "name": "Newly Added",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/68d7e7ef-eb28-4332-b6b7-870519454f6a_b8cf1cb8-410c-4654-b53b-18ffaa7bd416",
+      "type": "Health and Wellness Stores",
+      "product_count": 49
+    },
+    {
+      "id": "6822eef009ab2e00019aa64f",
+      "name": "Anklets & Toe Rings",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/ac7d0264-307d-4fe3-b35b-ef271a4a4010_f327ab82-42ad-472c-ab62-928fc5eb309d",
+      "type": "Health and Wellness Stores",
+      "product_count": 3
+    },
+    {
+      "id": "6822eef009ab2e00019aa650",
+      "name": "Nose Pins & Rings",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/fe17f103-9f19-4c94-b715-c0d210ed20ba_ce683847-06be-4a25-9a0e-a3c500cac3c6",
+      "type": "Health and Wellness Stores",
+      "product_count": 3
+    },
+    {
+      "id": "6822eef009ab2e00019aa651",
+      "name": "Handbags & Purses",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/ac5cd206-fa3f-46d9-81d3-e094ed118c92_638ccf7f-597a-43f9-abd8-550d06c611a4",
+      "type": "Health and Wellness Stores",
+      "product_count": 12
+    },
+    {
+      "id": "6822eef009ab2e00019aa652",
+      "name": "Backpacks & Laptop Bags",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/c10ce4f6-3abf-4a50-bb1c-8b65fc89c614_650e2b9c-c505-4b3e-9308-80011faafe13",
+      "type": "Health and Wellness Stores",
+      "product_count": 5
+    },
+    {
+      "id": "6822eef009ab2e00019aa653",
+      "name": "Belts & Wallets",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/17/28d2a17f-9936-4309-9caa-b6926cbb5664_1214ce79-13d1-4726-b529-ff6e4aa85148",
+      "type": "Health and Wellness Stores",
+      "product_count": 8
+    },
+    {
+      "id": "6822eef009ab2e00019aa654",
+      "name": "Men's Jewellery",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/2c381dee-08be-4e15-83b7-b919536d3dfd_b90188fb-aee0-4fb4-9003-7963ff80780c",
+      "type": "Health and Wellness Stores",
+      "product_count": 4
+    },
+    {
+      "id": "6822eef009ab2e00019aa655",
+      "name": "Watch, Eyewear & Caps",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/25/7f8d985b-d9fb-48fb-b372-316f4205ef57_5f049758-1429-4daa-8b83-9869c60a5b5c",
+      "type": "Health and Wellness Stores",
+      "product_count": 3
+    },
+    {
+      "id": "6822eef009ab2e00019aa656",
+      "name": "Footwear",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/26/635f11b5-32c8-47a4-a3c0-59e171df12f0_c719585e-4b9b-42cc-9ff8-411bbfc71c12",
+      "type": "Health and Wellness Stores",
+      "product_count": 12
+    },
+    {
+      "id": "6822eef009ab2e00019aa657",
+      "name": "Hair Accessories",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/26/e4a063dc-353c-47ef-942b-08c279c22bae_72f21b13-a887-4a4a-96d9-62beeb0005fc",
+      "type": "Health and Wellness Stores",
+      "product_count": 26
+    },
+    {
+      "id": "6822eef009ab2e00019aa658",
+      "name": "Kids Jewellery & Accessories",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/f736f09f-814d-4e02-989b-e9d5a11486f8_d1282ab8-967c-40d2-8cef-f8055ed1613c",
+      "type": "Health and Wellness Stores",
+      "product_count": 5
+    },
+    {
+      "id": "6822eef009ab2e00019aa659",
+      "name": "Luggage & Travel Accessories",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/25/eeb1c375-25b6-435c-a3be-78556d036b89_3ed6535e-a9bc-403f-8571-8cbaafbd0058",
+      "type": "Health and Wellness Stores",
+      "product_count": 1
+    },
+    {
+      "id": "6822eef009ab2e00019aa65a",
+      "name": "Precious Coins & Bars",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/29/59e76000-7e83-454e-bb3a-b1446c90a929_14846dde-ccbb-490a-8a0b-5ba9e4b93318",
+      "type": "Health and Wellness Stores",
+      "product_count": 17
+    },
+    {
+      "id": "6822eef009ab2e00019aa65b",
+      "name": "Bindi, Alta & Mehendi",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/e5cde26a-99ee-4e0e-b46d-3b11cf684ff3_c2787798-683e-488b-a4b3-867de9b803f8",
+      "type": "Health and Wellness Stores",
+      "product_count": 5
+    },
+    {
+      "id": "6822eef009ab2e00019aa65c",
+      "name": "Daily Knick Knacks",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/25/b6e2e0a6-5f44-4840-8e51-8124808d9654_22b66fea-eb8b-4385-a055-4958dfd1fbfa",
+      "type": "Health and Wellness Stores",
+      "product_count": 2
+    }
+  ]
+}

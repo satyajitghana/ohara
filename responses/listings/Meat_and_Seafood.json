@@ -38,7 +38,301 @@
         "scm_item_type": "NORMAL",
         "filters_tag": "Curry Cut"
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
+  },
+  {
+    "display_name": "Enrich Chicken Curry Cut Skinless",
+    "brand": "Enrich",
+    "brand_id": "32edf266e243ad353094782a279900109a388821",
+    "product_id": "EBM6YWQE2K",
+    "variations": [
+      {
+        "id": "ZYPX8XX3FT",
+        "display_name": "Enrich Chicken Curry Cut Skinless",
+        "price": {
+          "mrp": 199,
+          "store_price": 199,
+          "offer_price": 139,
+          "unit_level_price": "",
+          "discount_value": 60
+        },
+        "brand": "Enrich",
+        "brand_id": "32edf266e243ad353094782a279900109a388821",
+        "category": "Chicken",
+        "super_category": "Meat and Sea Food",
+        "sub_category_l3": "Fresh Chicken",
+        "sub_category_l4": "Curry Cut",
+        "sub_category_l5": "Family Pack",
+        "product_name_without_brand": "Chicken Curry Cut Skinless",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/6b5b3ebb-eb74-41dc-bfa4-ec3b9ecd3fb8_99319_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/a5f2be6d-3e6c-4b0f-8fea-f57f3ba9a79e_99319_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/da068320-bdfb-4e24-87a3-b1f963e4b419_99319_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/caab2b41-3318-48ab-803a-81a8ed6fc136_99319_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/5786de79-8c5e-49ad-86aa-4b210b5eab4c_99319_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Curry Cut"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
+  },
+  {
+    "display_name": "Enrich Chicken Curry Cut With Skin",
+    "brand": "Enrich",
+    "brand_id": "32edf266e243ad353094782a279900109a388821",
+    "product_id": "78MW8AGLKC",
+    "variations": [
+      {
+        "id": "67SHU7LC9R",
+        "display_name": "Enrich Chicken Curry Cut With Skin",
+        "price": {
+          "mrp": 169,
+          "store_price": 169,
+          "offer_price": 129,
+          "unit_level_price": "",
+          "discount_value": 40
+        },
+        "brand": "Enrich",
+        "brand_id": "32edf266e243ad353094782a279900109a388821",
+        "category": "Chicken",
+        "super_category": "Meat and Sea Food",
+        "sub_category_l3": "Fresh Chicken",
+        "sub_category_l4": "Curry Cut",
+        "sub_category_l5": "Family Pack",
+        "product_name_without_brand": "Chicken Curry Cut With Skin",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/f71b4282-dd42-4144-ba67-9998c5df7959_77030_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/2710910b-23f5-4aa7-b766-f8ee8e09ae99_77030_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/d14eba39-772f-4206-bfde-cfc2e06f9b2f_77030_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/a8e9afe9-c05c-4f5c-871a-ef66cd6cab23_77030_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/d1ebbcd1-ba11-4812-906c-eadc00fa255b_77030_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Curry Cut"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
+  },
+  {
+    "display_name": "Nandus Chicken Curry Cut - with Skin",
+    "brand": "Nandus",
+    "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
+    "product_id": "PBUZTBOA4M",
+    "variations": [
+      {
+        "id": "LZ05MA3P16",
+        "display_name": "Nandus Chicken Curry Cut - with Skin",
+        "price": {
+          "mrp": 159,
+          "store_price": 159,
+          "offer_price": 159,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Nandus",
+        "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
+        "category": "Chicken",
+        "super_category": "Meat and Sea Food",
+        "sub_category_l3": "Fresh Chicken",
+        "sub_category_l4": "Curry Cut",
+        "sub_category_l5": "Family Pack",
+        "product_name_without_brand": "Chicken Curry Cut - with Skin",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/21/efcc7bb2-ee55-46f5-a93e-112ae409addd_4787.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/30/aeb3f7ac-f60c-44fb-9b17-43b86a3c2ab1_chicken_J36RH2AR9H_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/30/d4f213c2-248f-40e9-94dc-f68e4b859b6c_chicken_KX81N23RBT_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Curry Cut"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
+  },
+  {
+    "display_name": "Nandus Chicken Curry Cut - Skinless",
+    "brand": "Nandus",
+    "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
+    "product_id": "S7SF094UMH",
+    "variations": [
+      {
+        "id": "24ASKPCH1S",
+        "display_name": "Nandus Chicken Curry Cut - Skinless",
+        "price": {
+          "mrp": 169,
+          "store_price": 169,
+          "offer_price": 169,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Nandus",
+        "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
+        "category": "Chicken",
+        "super_category": "Meat and Sea Food",
+        "sub_category_l3": "Fresh Chicken",
+        "sub_category_l4": "Curry Cut",
+        "sub_category_l5": "Family Pack",
+        "product_name_without_brand": "Chicken Curry Cut - Skinless",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/21/673125ac-57cc-4c78-a2ad-34b87b459dd2_4786.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/30/aeb3f7ac-f60c-44fb-9b17-43b86a3c2ab1_chicken_J36RH2AR9H_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/30/1f7e8146-0022-4190-9e45-6fc73f206958_chicken_HDDZHYPX7D_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Curry Cut"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
+  },
+  {
+    "display_name": "Nandus Chicken Breast Boneless",
+    "brand": "Nandus",
+    "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
+    "product_id": "0CWUTAKIMP",
+    "variations": [
+      {
+        "id": "8WYLPPAIRH",
+        "display_name": "Nandus Chicken Breast Boneless",
+        "price": {
+          "mrp": 249,
+          "store_price": 249,
+          "offer_price": 249,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Nandus",
+        "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
+        "category": "Chicken",
+        "super_category": "Meat and Sea Food",
+        "sub_category_l3": "Fresh Chicken",
+        "sub_category_l4": "Boneless",
+        "sub_category_l5": "Family Pack",
+        "product_name_without_brand": "Chicken Breast Boneless",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/21/1db03c5e-7f69-40ef-975b-57ba31b55280_93490.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/30/aeb3f7ac-f60c-44fb-9b17-43b86a3c2ab1_chicken_J36RH2AR9H_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/30/8c20a57c-4243-4a50-a4a3-cafc6d1a4e76_chicken_TK7MQCCJD7_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "450",
+        "sku_quantity_with_combo": "450 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 450,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
+  },
+  {
+    "display_name": "Licious Chicken Breast Boneless",
+    "brand": "Licious",
+    "brand_id": "211288c4af2af5ff11368772aee4036b3fb1c218",
+    "product_id": "2TGQA0JWNC",
+    "variations": [
+      {
+        "id": "7HJJJ47UNX",
+        "display_name": "Licious Chicken Breast Boneless",
+        "price": {
+          "mrp": 275,
+          "store_price": 275,
+          "offer_price": 275,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Licious",
+        "brand_id": "211288c4af2af5ff11368772aee4036b3fb1c218",
+        "category": "Chicken",
+        "super_category": "Meat and Sea Food",
+        "sub_category_l3": "Fresh Chicken",
+        "sub_category_l4": "Boneless",
+        "sub_category_l5": "Family Pack",
+        "product_name_without_brand": "Chicken Breast Boneless",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/21/8d290cb2-c807-4ab9-a7bf-2063266a362b_6861.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/16/7796facc-f503-441a-a286-469f09e0cf1e_6861_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/16/c201783c-3ecd-4521-ace6-be7b46a2a774_6861_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/16/e7b540ec-1994-480b-9548-e2da5087db98_6861_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "400",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 450,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
   },
   {
     "display_name": "Nandus Chicken Liver",
@@ -81,331 +375,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
-  },
-  {
-    "display_name": "Enrich Chicken Curry Cut With Skin",
-    "brand": "Enrich",
-    "brand_id": "32edf266e243ad353094782a279900109a388821",
-    "product_id": "78MW8AGLKC",
-    "variations": [
-      {
-        "id": "67SHU7LC9R",
-        "display_name": "Enrich Chicken Curry Cut With Skin",
-        "price": {
-          "mrp": 169,
-          "store_price": 169,
-          "offer_price": 129,
-          "unit_level_price": "",
-          "discount_value": 40
-        },
-        "brand": "Enrich",
-        "brand_id": "32edf266e243ad353094782a279900109a388821",
-        "category": "Chicken",
-        "super_category": "Meat and Sea Food",
-        "sub_category_l3": "Fresh Chicken",
-        "sub_category_l4": "Curry Cut",
-        "sub_category_l5": "Family Pack",
-        "product_name_without_brand": "Chicken Curry Cut With Skin",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/f71b4282-dd42-4144-ba67-9998c5df7959_77030_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/2710910b-23f5-4aa7-b766-f8ee8e09ae99_77030_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/d14eba39-772f-4206-bfde-cfc2e06f9b2f_77030_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/a8e9afe9-c05c-4f5c-871a-ef66cd6cab23_77030_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/d1ebbcd1-ba11-4812-906c-eadc00fa255b_77030_5.png"
-        ],
-        "images_v2": [],
-        "quantity": "500",
-        "sku_quantity_with_combo": "500 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Curry Cut"
-      }
-    ]
-  },
-  {
-    "display_name": "Licious Chicken Breast Boneless",
-    "brand": "Licious",
-    "brand_id": "211288c4af2af5ff11368772aee4036b3fb1c218",
-    "product_id": "2TGQA0JWNC",
-    "variations": [
-      {
-        "id": "7HJJJ47UNX",
-        "display_name": "Licious Chicken Breast Boneless",
-        "price": {
-          "mrp": 275,
-          "store_price": 275,
-          "offer_price": 247,
-          "unit_level_price": "",
-          "discount_value": 28
-        },
-        "brand": "Licious",
-        "brand_id": "211288c4af2af5ff11368772aee4036b3fb1c218",
-        "category": "Chicken",
-        "super_category": "Meat and Sea Food",
-        "sub_category_l3": "Fresh Chicken",
-        "sub_category_l4": "Boneless",
-        "sub_category_l5": "Family Pack",
-        "product_name_without_brand": "Chicken Breast Boneless",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/21/8d290cb2-c807-4ab9-a7bf-2063266a362b_6861.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/16/7796facc-f503-441a-a286-469f09e0cf1e_6861_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/16/c201783c-3ecd-4521-ace6-be7b46a2a774_6861_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/16/e7b540ec-1994-480b-9548-e2da5087db98_6861_4.png"
-        ],
-        "images_v2": [],
-        "quantity": "400",
-        "sku_quantity_with_combo": "400 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 450,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Nandus Chicken Drumstick",
-    "brand": "Nandus",
-    "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
-    "product_id": "2LDFTAFXKU",
-    "variations": [
-      {
-        "id": "3LMW6BPYCG",
-        "display_name": "Nandus Chicken Drumstick",
-        "price": {
-          "mrp": 229,
-          "store_price": 229,
-          "offer_price": 229,
-          "unit_level_price": "",
-          "discount_value": 0
-        },
-        "brand": "Nandus",
-        "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
-        "category": "Chicken",
-        "super_category": "Meat and Sea Food",
-        "sub_category_l3": "Fresh Chicken",
-        "sub_category_l4": "Drumstick",
-        "sub_category_l5": "Family Pack",
-        "product_name_without_brand": "Chicken Drumstick",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/21/effecc2b-9a4e-4783-bbdc-3923050f1652_51623.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/30/aeb3f7ac-f60c-44fb-9b17-43b86a3c2ab1_chicken_J36RH2AR9H_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/30/8acfdcd3-a64b-412d-b0ce-4f62d1737df2_chicken_RKOJMAGWWZ_AL2.png"
-        ],
-        "images_v2": [],
-        "quantity": "450",
-        "sku_quantity_with_combo": "450 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 450,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Nandus Chicken Curry Cut - Skinless",
-    "brand": "Nandus",
-    "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
-    "product_id": "S7SF094UMH",
-    "variations": [
-      {
-        "id": "24ASKPCH1S",
-        "display_name": "Nandus Chicken Curry Cut - Skinless",
-        "price": {
-          "mrp": 169,
-          "store_price": 169,
-          "offer_price": 169,
-          "unit_level_price": "",
-          "discount_value": 0
-        },
-        "brand": "Nandus",
-        "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
-        "category": "Chicken",
-        "super_category": "Meat and Sea Food",
-        "sub_category_l3": "Fresh Chicken",
-        "sub_category_l4": "Curry Cut",
-        "sub_category_l5": "Family Pack",
-        "product_name_without_brand": "Chicken Curry Cut - Skinless",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/21/673125ac-57cc-4c78-a2ad-34b87b459dd2_4786.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/30/aeb3f7ac-f60c-44fb-9b17-43b86a3c2ab1_chicken_J36RH2AR9H_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/30/1f7e8146-0022-4190-9e45-6fc73f206958_chicken_HDDZHYPX7D_AL2.png"
-        ],
-        "images_v2": [],
-        "quantity": "500",
-        "sku_quantity_with_combo": "500 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Curry Cut"
-      }
-    ]
-  },
-  {
-    "display_name": "Nandus Chicken Breast Boneless",
-    "brand": "Nandus",
-    "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
-    "product_id": "0CWUTAKIMP",
-    "variations": [
-      {
-        "id": "8WYLPPAIRH",
-        "display_name": "Nandus Chicken Breast Boneless",
-        "price": {
-          "mrp": 249,
-          "store_price": 249,
-          "offer_price": 239,
-          "unit_level_price": "",
-          "discount_value": 10
-        },
-        "brand": "Nandus",
-        "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
-        "category": "Chicken",
-        "super_category": "Meat and Sea Food",
-        "sub_category_l3": "Fresh Chicken",
-        "sub_category_l4": "Boneless",
-        "sub_category_l5": "Family Pack",
-        "product_name_without_brand": "Chicken Breast Boneless",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/21/1db03c5e-7f69-40ef-975b-57ba31b55280_93490.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/30/aeb3f7ac-f60c-44fb-9b17-43b86a3c2ab1_chicken_J36RH2AR9H_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/30/8c20a57c-4243-4a50-a4a3-cafc6d1a4e76_chicken_TK7MQCCJD7_AL2.png"
-        ],
-        "images_v2": [],
-        "quantity": "450",
-        "sku_quantity_with_combo": "450 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 450,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Enrich Chicken Breast Boneless",
-    "brand": "Enrich",
-    "brand_id": "32edf266e243ad353094782a279900109a388821",
-    "product_id": "5X6ST50NZ7",
-    "variations": [
-      {
-        "id": "3ILTQIIZPO",
-        "display_name": "Enrich Chicken Breast Boneless",
-        "price": {
-          "mrp": 299,
-          "store_price": 299,
-          "offer_price": 219,
-          "unit_level_price": "",
-          "discount_value": 80
-        },
-        "brand": "Enrich",
-        "brand_id": "32edf266e243ad353094782a279900109a388821",
-        "category": "Chicken",
-        "super_category": "Meat and Sea Food",
-        "sub_category_l3": "Fresh Chicken",
-        "sub_category_l4": "Boneless",
-        "sub_category_l5": "Family Pack",
-        "product_name_without_brand": "Chicken Breast Boneless",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/bba29475-f56a-40d8-921e-6901189e7110_64564_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/c22e55c9-27a3-4a78-9950-52e419c5ab79_64564_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/884e7314-2e40-41a6-95f1-144398b7906b_64564_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/25b7da75-2d69-449e-9993-dacfa0fefc94_64564_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/c69297fe-4680-4ae2-bab2-76c66b16e7bf_64564_5.png"
-        ],
-        "images_v2": [],
-        "quantity": "450",
-        "sku_quantity_with_combo": "450 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 450,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "FreshtoHome Chicken Wings",
-    "brand": "FreshtoHome",
-    "brand_id": "4df638b986a100a745801450407197fe389d8d9f",
-    "product_id": "PH9N5I35FW",
-    "variations": [
-      {
-        "id": "OH8S1WO15P",
-        "display_name": "FreshtoHome Chicken Wings",
-        "price": {
-          "mrp": 113,
-          "store_price": 113,
-          "offer_price": 96,
-          "unit_level_price": "",
-          "discount_value": 17
-        },
-        "brand": "FreshtoHome",
-        "brand_id": "4df638b986a100a745801450407197fe389d8d9f",
-        "category": "Chicken",
-        "super_category": "Meat and Sea Food",
-        "sub_category_l3": "Fresh Chicken",
-        "sub_category_l4": "Wings",
-        "sub_category_l5": "Family Pack",
-        "product_name_without_brand": "Chicken Wings",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/4/29/e70469e1-c62b-4e70-85f5-eb6e83c61477_389563_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/29/a39ea1cf-bdc1-4e32-8f34-a78cc41a4bd8_959288_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/29/888daf6c-40ef-4c9b-9d8e-30af35e806b6_925799_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/29/95f6639f-6023-4348-b75a-9845ecb8dfc9_389563_4.png"
-        ],
-        "images_v2": [],
-        "quantity": "250",
-        "sku_quantity_with_combo": "250 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 250,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Nandus Chicken Mince/Keema",
-    "brand": "Nandus",
-    "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
-    "product_id": "OHUKZKZYMF",
-    "variations": [
-      {
-        "id": "15YGNAWWCB",
-        "display_name": "Nandus Chicken Mince/Keema",
-        "price": {
-          "mrp": 249,
-          "store_price": 249,
-          "offer_price": 249,
-          "unit_level_price": "",
-          "discount_value": 0
-        },
-        "brand": "Nandus",
-        "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
-        "category": "Chicken",
-        "super_category": "Meat and Sea Food",
-        "sub_category_l3": "Fresh Chicken",
-        "sub_category_l4": "Mince",
-        "sub_category_l5": "Family Pack",
-        "product_name_without_brand": "Chicken Mince/Keema",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/21/b53c5088-63da-49da-932a-b8023fe69101_10727.png"
-        ],
-        "images_v2": [],
-        "quantity": "500",
-        "sku_quantity_with_combo": "500 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
   },
   {
     "display_name": "Enrich Chicken Leg Boneless",
@@ -447,7 +424,110 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
+  },
+  {
+    "display_name": "Licious Chicken Curry Cut (Large Pieces) - Skinless",
+    "brand": "Licious",
+    "brand_id": "211288c4af2af5ff11368772aee4036b3fb1c218",
+    "product_id": "OPVPWQ6CT3",
+    "variations": [
+      {
+        "id": "P9OKW6C0JC",
+        "display_name": "Licious Chicken Curry Cut (Large Pieces) - Skinless",
+        "price": {
+          "mrp": 165,
+          "store_price": 165,
+          "offer_price": 165,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Licious",
+        "brand_id": "211288c4af2af5ff11368772aee4036b3fb1c218",
+        "category": "Chicken",
+        "super_category": "Meat and Sea Food",
+        "sub_category_l3": "Fresh Chicken",
+        "sub_category_l4": "Curry Cut",
+        "sub_category_l5": "Family Pack",
+        "product_name_without_brand": "Chicken Curry Cut (Large Pieces) - Skinless",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/21/e8973697-17fc-4f59-b7f8-3ddad40c9d63_5322.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/16/84c0146d-7a57-4e63-9d6c-debdcdaba0a0_5322_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/16/45891958-660e-4e9b-b4e8-44f947d5e10b_5322_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/16/65cb8405-325b-4e52-bab9-4d1a06c1df39_5322_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "450",
+        "sku_quantity_with_combo": "450 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 450,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Curry Cut"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
+  },
+  {
+    "display_name": "FreshtoHome Chicken Wings",
+    "brand": "FreshtoHome",
+    "brand_id": "4df638b986a100a745801450407197fe389d8d9f",
+    "product_id": "PH9N5I35FW",
+    "variations": [
+      {
+        "id": "OH8S1WO15P",
+        "display_name": "FreshtoHome Chicken Wings",
+        "price": {
+          "mrp": 113,
+          "store_price": 113,
+          "offer_price": 96,
+          "unit_level_price": "",
+          "discount_value": 17
+        },
+        "brand": "FreshtoHome",
+        "brand_id": "4df638b986a100a745801450407197fe389d8d9f",
+        "category": "Chicken",
+        "super_category": "Meat and Sea Food",
+        "sub_category_l3": "Fresh Chicken",
+        "sub_category_l4": "Wings",
+        "sub_category_l5": "Family Pack",
+        "product_name_without_brand": "Chicken Wings",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/29/e70469e1-c62b-4e70-85f5-eb6e83c61477_389563_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/29/a39ea1cf-bdc1-4e32-8f34-a78cc41a4bd8_959288_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/29/888daf6c-40ef-4c9b-9d8e-30af35e806b6_925799_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/29/95f6639f-6023-4348-b75a-9845ecb8dfc9_389563_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
   },
   {
     "display_name": "FreshtoHome Premium Chicken Boneless Breast Fillet",
@@ -488,7 +568,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
   },
   {
     "display_name": "Nandus Chicken Leg Boneless",
@@ -528,7 +615,155 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
+  },
+  {
+    "display_name": "Enrich Chicken Breast Boneless",
+    "brand": "Enrich",
+    "brand_id": "32edf266e243ad353094782a279900109a388821",
+    "product_id": "5X6ST50NZ7",
+    "variations": [
+      {
+        "id": "3ILTQIIZPO",
+        "display_name": "Enrich Chicken Breast Boneless",
+        "price": {
+          "mrp": 299,
+          "store_price": 299,
+          "offer_price": 219,
+          "unit_level_price": "",
+          "discount_value": 80
+        },
+        "brand": "Enrich",
+        "brand_id": "32edf266e243ad353094782a279900109a388821",
+        "category": "Chicken",
+        "super_category": "Meat and Sea Food",
+        "sub_category_l3": "Fresh Chicken",
+        "sub_category_l4": "Boneless",
+        "sub_category_l5": "Family Pack",
+        "product_name_without_brand": "Chicken Breast Boneless",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/bba29475-f56a-40d8-921e-6901189e7110_64564_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/c22e55c9-27a3-4a78-9950-52e419c5ab79_64564_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/884e7314-2e40-41a6-95f1-144398b7906b_64564_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/25b7da75-2d69-449e-9993-dacfa0fefc94_64564_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/c69297fe-4680-4ae2-bab2-76c66b16e7bf_64564_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "450",
+        "sku_quantity_with_combo": "450 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 450,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
+  },
+  {
+    "display_name": "Nandus Chicken Drumstick",
+    "brand": "Nandus",
+    "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
+    "product_id": "2LDFTAFXKU",
+    "variations": [
+      {
+        "id": "3LMW6BPYCG",
+        "display_name": "Nandus Chicken Drumstick",
+        "price": {
+          "mrp": 229,
+          "store_price": 229,
+          "offer_price": 229,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Nandus",
+        "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
+        "category": "Chicken",
+        "super_category": "Meat and Sea Food",
+        "sub_category_l3": "Fresh Chicken",
+        "sub_category_l4": "Drumstick",
+        "sub_category_l5": "Family Pack",
+        "product_name_without_brand": "Chicken Drumstick",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/21/effecc2b-9a4e-4783-bbdc-3923050f1652_51623.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/30/aeb3f7ac-f60c-44fb-9b17-43b86a3c2ab1_chicken_J36RH2AR9H_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/30/8acfdcd3-a64b-412d-b0ce-4f62d1737df2_chicken_RKOJMAGWWZ_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "450",
+        "sku_quantity_with_combo": "450 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 450,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
+  },
+  {
+    "display_name": "Nandus Chicken Mince/Keema",
+    "brand": "Nandus",
+    "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
+    "product_id": "OHUKZKZYMF",
+    "variations": [
+      {
+        "id": "15YGNAWWCB",
+        "display_name": "Nandus Chicken Mince/Keema",
+        "price": {
+          "mrp": 249,
+          "store_price": 249,
+          "offer_price": 249,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Nandus",
+        "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
+        "category": "Chicken",
+        "super_category": "Meat and Sea Food",
+        "sub_category_l3": "Fresh Chicken",
+        "sub_category_l4": "Mince",
+        "sub_category_l5": "Family Pack",
+        "product_name_without_brand": "Chicken Mince/Keema",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/21/b53c5088-63da-49da-932a-b8023fe69101_10727.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
   },
   {
     "display_name": "Alf Farms Chicken Smoked Sausages",
@@ -568,7 +803,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
   },
   {
     "display_name": "FreshtoHome Premium Chicken Boneless Cubes",
@@ -609,7 +851,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
   },
   {
     "display_name": "Alf Farms Chicken Bacon",
@@ -649,7 +898,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
   },
   {
     "display_name": "Alf Farms Chicken Chilli Salami",
@@ -689,47 +945,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
-  },
-  {
-    "display_name": "Nandus Chicken Curry Cut - with Skin",
-    "brand": "Nandus",
-    "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
-    "product_id": "PBUZTBOA4M",
-    "variations": [
-      {
-        "id": "LZ05MA3P16",
-        "display_name": "Nandus Chicken Curry Cut - with Skin",
-        "price": {
-          "mrp": 159,
-          "store_price": 159,
-          "offer_price": 159,
-          "unit_level_price": "",
-          "discount_value": 0
-        },
-        "brand": "Nandus",
-        "brand_id": "419a9dff53f4c6a3ec8a321a301a55f25b36f833",
-        "category": "Chicken",
-        "super_category": "Meat and Sea Food",
-        "sub_category_l3": "Fresh Chicken",
-        "sub_category_l4": "Curry Cut",
-        "sub_category_l5": "Family Pack",
-        "product_name_without_brand": "Chicken Curry Cut - with Skin",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/21/efcc7bb2-ee55-46f5-a93e-112ae409addd_4787.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/30/aeb3f7ac-f60c-44fb-9b17-43b86a3c2ab1_chicken_J36RH2AR9H_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/5/30/d4f213c2-248f-40e9-94dc-f68e4b859b6c_chicken_KX81N23RBT_AL2.png"
-        ],
-        "images_v2": [],
-        "quantity": "500",
-        "sku_quantity_with_combo": "500 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Curry Cut"
-      }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
   },
   {
     "display_name": "FreshtoHome Premium Chicken Thigh",
@@ -770,49 +993,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
-  },
-  {
-    "display_name": "Enrich Chicken Curry Cut Skinless",
-    "brand": "Enrich",
-    "brand_id": "32edf266e243ad353094782a279900109a388821",
-    "product_id": "EBM6YWQE2K",
-    "variations": [
-      {
-        "id": "ZYPX8XX3FT",
-        "display_name": "Enrich Chicken Curry Cut Skinless",
-        "price": {
-          "mrp": 199,
-          "store_price": 199,
-          "offer_price": 139,
-          "unit_level_price": "",
-          "discount_value": 60
-        },
-        "brand": "Enrich",
-        "brand_id": "32edf266e243ad353094782a279900109a388821",
-        "category": "Chicken",
-        "super_category": "Meat and Sea Food",
-        "sub_category_l3": "Fresh Chicken",
-        "sub_category_l4": "Curry Cut",
-        "sub_category_l5": "Family Pack",
-        "product_name_without_brand": "Chicken Curry Cut Skinless",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/6b5b3ebb-eb74-41dc-bfa4-ec3b9ecd3fb8_99319_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/a5f2be6d-3e6c-4b0f-8fea-f57f3ba9a79e_99319_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/da068320-bdfb-4e24-87a3-b1f963e4b419_99319_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/caab2b41-3318-48ab-803a-81a8ed6fc136_99319_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/5786de79-8c5e-49ad-86aa-4b210b5eab4c_99319_5.png"
-        ],
-        "images_v2": [],
-        "quantity": "500",
-        "sku_quantity_with_combo": "500 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Curry Cut"
-      }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
   },
   {
     "display_name": "Licious Chicken Drumsticks - Mini Pack",
@@ -853,6 +1041,13 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b3c",
+        "name": "Meat and Seafood"
+      },
+      "category_name_from_url": "Meat and Seafood"
+    }
   }
 ]

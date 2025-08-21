@@ -105,8 +105,8 @@ def main():
         # Set API key for worker processes
         os.environ["GEMINI_API_KEY"] = api_key
         
-        # Get all variation paths
-        base_path = Path(directories['scraped_data'])
+        # Get all variation paths from the new swiggy listings directory
+        base_path = Path(directories['scraped_data']) / "swiggy" / "listings"
         all_variation_paths = find_all_variation_paths(base_path)
         
         if not all_variation_paths:

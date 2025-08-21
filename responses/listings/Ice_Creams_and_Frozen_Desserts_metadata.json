@@ -1,0 +1,171 @@
+{
+  "categories": [
+    {
+      "id": "6822eeebed32000001e25a46",
+      "display_name": "Cold Drinks and Juices",
+      "product_count": 1960,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/ba386d44-a570-47cb-9b7d-9c02554b06ef_3977c023-7f0f-45f0-aea5-11bc873a5546",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a57",
+      "display_name": "Ice Creams and Frozen Desserts",
+      "product_count": 1084,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/4fe55f10-32b9-4762-8d41-be76ea7f67a8_cc703675-e18b-4331-9617-db8a881f0ab2",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a62",
+      "display_name": "Chips and Namkeens",
+      "product_count": 4163,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/70be19a4-dc51-4ab3-969b-65736cd2cdf6_c0031c9c-5f6e-422c-a84b-1428e1787d28",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a70",
+      "display_name": "Chocolates",
+      "product_count": 1285,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/a5c36315-21b0-4dd9-8afc-80210e95df0c_77305056-9bb7-47a4-822d-6ee188bd00f6",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a7c",
+      "display_name": "Noodles, Pasta, Vermicelli",
+      "product_count": 987,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/da9542e9-0c6b-4fc3-bd65-422ab537a4aa_ac5adc39-bf55-492f-94d4-1c0ac65dea46",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a87",
+      "display_name": "Frozen Food",
+      "product_count": 742,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/7e355480-0793-4ac0-a0d7-ca7236109bf7_6bf77c55-7d76-4a96-ab88-9d0690dbd822",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a90",
+      "display_name": "Sweets",
+      "product_count": 360,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/f028cb2e-9593-48c0-95c5-86af909d7198_5ef3e945-a61d-4487-a50f-f5e341b1eee4",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a98",
+      "display_name": "Paan Corner",
+      "product_count": 602,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/9cd93ba2-f843-4b57-9c08-56b9a78bcd50_b45772ad-2905-4b44-9c02-fbcbe43bc67a",
+      "age_consent_required": true
+    }
+  ],
+  "selected_category": {
+    "id": "6822eeebed32000001e25a57",
+    "name": "Ice Creams and Frozen Desserts"
+  },
+  "filters": [
+    {
+      "id": "68875c50eee7050001f1f3bd",
+      "name": "Top Deals",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/19/6e82fb5f-c76b-4e52-a0ed-9091db3dffc7_39edba76-be69-4f5d-b2b8-81726d784c56",
+      "type": "Speciality taxonomy 3",
+      "product_count": 76
+    },
+    {
+      "id": "682c3d6e3fa0ac0001818453",
+      "name": "Rare Finds",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/5/20/6f6cf27f-cfb2-4187-85ed-3e9af9f7980e_891655ae-51ab-47e9-bd5f-8a89b9936d47",
+      "type": "Speciality taxonomy 3",
+      "product_count": 97
+    },
+    {
+      "id": "6822eeebed32000001e25a58",
+      "name": "Tubs & Party Packs",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/11/dda35b86-fc7a-44ff-8adf-6ad9779ae267_cec1ad9e-2a43-4d14-bbc9-7d7c4181b3b6",
+      "type": "Speciality taxonomy 3",
+      "product_count": 172
+    },
+    {
+      "id": "6822eeebed32000001e25a59",
+      "name": "Cones",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/db38f9d4-e662-4f29-a486-92ffefc5c3c1_7923933f-1e57-40cb-83b5-e040bb2d076f",
+      "type": "Speciality taxonomy 3",
+      "product_count": 50
+    },
+    {
+      "id": "6822eeebed32000001e25a5a",
+      "name": "Sticks",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/37b3e557-462c-4702-85ae-1a19399384ad_97857484-ad49-4bea-b6e6-bb6be9afccb9",
+      "type": "Speciality taxonomy 3",
+      "product_count": 109
+    },
+    {
+      "id": "68875c50eee7050001f1f3be",
+      "name": "Gourmet",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/28/289df76b-c56c-439e-a0e9-33d01e36a7c7_d31a2023-bc49-4b52-af36-bc6947c97b70",
+      "type": "Speciality taxonomy 3",
+      "product_count": 32
+    },
+    {
+      "id": "6822eeebed32000001e25a5b",
+      "name": "Guiltfree",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/12/21/ac505924-b207-42ac-ad77-8fcff05e1af3_c6ee7426-dcb0-4d5b-bbbc-8b5f53598f93",
+      "type": "Speciality taxonomy 3",
+      "product_count": 84
+    },
+    {
+      "id": "6822eeebed32000001e25a5d",
+      "name": "Newly Added",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/68d7e7ef-eb28-4332-b6b7-870519454f6a_b8cf1cb8-410c-4654-b53b-18ffaa7bd416",
+      "type": "Speciality taxonomy 3",
+      "product_count": 105
+    },
+    {
+      "id": "6822eeebed32000001e25a5c",
+      "name": "Kulfi",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/11/598a632e-ca7b-43a1-a97f-28df0cb1853b_7f124839-8ea8-4889-8075-708282681f65",
+      "type": "Speciality taxonomy 3",
+      "product_count": 32
+    },
+    {
+      "id": "6822eeebed32000001e25a5e",
+      "name": "Premium",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/11/ff9f8e4b-c4b7-402e-b647-b8066fcfa352_8261e1cc-a48f-4cb4-90ed-4b7d7f713f60",
+      "type": "Speciality taxonomy 3",
+      "product_count": 59
+    },
+    {
+      "id": "6822eeebed32000001e25a5f",
+      "name": "Cups",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/11/5a204a91-a304-40fa-b2c6-7ff3a02fb8ff_542cc974-9b6a-4771-8313-57cb52b271ea",
+      "type": "Speciality taxonomy 3",
+      "product_count": 99
+    },
+    {
+      "id": "6822eeebed32000001e25a60",
+      "name": "Cakes & Sandwiches",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/11/6b24037b-0208-43ea-8416-2d443fac802a_aa6a3421-0c78-4745-96a2-fb9fd7bd4692",
+      "type": "Speciality taxonomy 3",
+      "product_count": 49
+    },
+    {
+      "id": "6822eeebed32000001e25a61",
+      "name": "Regional Favorites",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/12/21/10b36ea2-84b4-42ea-860e-9c4b47c877d4_1c4160a2-1bb5-4a79-8e9f-720d7c4242c8",
+      "type": "Speciality taxonomy 3",
+      "product_count": 34
+    },
+    {
+      "id": "68246bc8cc67390001a095e9",
+      "name": "Brownies & Cakes",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/4/2f705018-f8e3-4543-9017-279ff3d2d151_3c82b514-ae86-49b2-910c-f0d053d6fbf5",
+      "type": "Speciality taxonomy 3",
+      "product_count": 71
+    },
+    {
+      "id": "68246bc8cc67390001a095ea",
+      "name": "Syrups",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/15/94ca0eaa-3248-4a17-b591-71b725084c7f_d6a1904a-1de2-41eb-870c-9625145ae4f6",
+      "type": "Speciality taxonomy 3",
+      "product_count": 15
+    }
+  ]
+}

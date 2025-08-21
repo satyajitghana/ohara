@@ -1,0 +1,143 @@
+{
+  "categories": [
+    {
+      "id": "6822eeebed32000001e25a46",
+      "display_name": "Cold Drinks and Juices",
+      "product_count": 1960,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/ba386d44-a570-47cb-9b7d-9c02554b06ef_3977c023-7f0f-45f0-aea5-11bc873a5546",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a57",
+      "display_name": "Ice Creams and Frozen Desserts",
+      "product_count": 1084,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/4fe55f10-32b9-4762-8d41-be76ea7f67a8_cc703675-e18b-4331-9617-db8a881f0ab2",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a62",
+      "display_name": "Chips and Namkeens",
+      "product_count": 4163,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/70be19a4-dc51-4ab3-969b-65736cd2cdf6_c0031c9c-5f6e-422c-a84b-1428e1787d28",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a70",
+      "display_name": "Chocolates",
+      "product_count": 1285,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/a5c36315-21b0-4dd9-8afc-80210e95df0c_77305056-9bb7-47a4-822d-6ee188bd00f6",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a7c",
+      "display_name": "Noodles, Pasta, Vermicelli",
+      "product_count": 987,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/da9542e9-0c6b-4fc3-bd65-422ab537a4aa_ac5adc39-bf55-492f-94d4-1c0ac65dea46",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a87",
+      "display_name": "Frozen Food",
+      "product_count": 742,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/7e355480-0793-4ac0-a0d7-ca7236109bf7_6bf77c55-7d76-4a96-ab88-9d0690dbd822",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a90",
+      "display_name": "Sweets",
+      "product_count": 360,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/f028cb2e-9593-48c0-95c5-86af909d7198_5ef3e945-a61d-4487-a50f-f5e341b1eee4",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a98",
+      "display_name": "Paan Corner",
+      "product_count": 602,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/9cd93ba2-f843-4b57-9c08-56b9a78bcd50_b45772ad-2905-4b44-9c02-fbcbe43bc67a",
+      "age_consent_required": true
+    }
+  ],
+  "selected_category": {
+    "id": "6822eeebed32000001e25a90",
+    "name": "Sweets"
+  },
+  "filters": [
+    {
+      "id": "6878ca7165553e00015806d2",
+      "name": "Top Deals",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/19/6e82fb5f-c76b-4e52-a0ed-9091db3dffc7_39edba76-be69-4f5d-b2b8-81726d784c56",
+      "type": "Speciality taxonomy 3",
+      "product_count": 63
+    },
+    {
+      "id": "6822eeebed32000001e25a91",
+      "name": "Kaju Katli & Barfi",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/23/2a667080-8f8d-44bc-b2c2-c17ce1926cfb_467f1b04-d2c8-4689-b1c9-bd87d52aca50",
+      "type": "Speciality taxonomy 3",
+      "product_count": 36
+    },
+    {
+      "id": "6822eeebed32000001e25a92",
+      "name": "Rasgulla",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/23/6a89cc5c-3db1-417a-b935-6cf9d852fa7f_17354ee9-90a6-40be-a734-896bf77a72e6",
+      "type": "Speciality taxonomy 3",
+      "product_count": 6
+    },
+    {
+      "id": "6822eeebed32000001e25a93",
+      "name": "Gulab Jamun",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/23/c58b4090-4d52-4b2c-ac81-4ae5275a3385_2c49e0d0-9dc5-4c07-9198-02584d432eea",
+      "type": "Speciality taxonomy 3",
+      "product_count": 18
+    },
+    {
+      "id": "6849532132789f000122c208",
+      "name": "Mysore Pak",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/6/11/1cfad8bd-2567-4de2-b4d9-1cd3387b7f9c_488bd7cd-76fe-4cc8-b11b-e9dff935ee7a",
+      "type": "Speciality taxonomy 3",
+      "product_count": 8
+    },
+    {
+      "id": "683ec8b1fc89680001bc3731",
+      "name": "Newly Added",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/68d7e7ef-eb28-4332-b6b7-870519454f6a_b8cf1cb8-410c-4654-b53b-18ffaa7bd416",
+      "type": "Speciality taxonomy 3",
+      "product_count": 71
+    },
+    {
+      "id": "6822eeebed32000001e25a94",
+      "name": "Ladoos",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/23/b6ed44ef-0a1c-48af-8a7c-58959c679b09_0094f34d-0347-4626-9227-523df065a8b5",
+      "type": "Speciality taxonomy 3",
+      "product_count": 41
+    },
+    {
+      "id": "6822eeebed32000001e25a95",
+      "name": "Pedhas",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/23/747896fb-8457-45b4-9a3d-925ba009e7ae_c12e6f88-8de4-45e1-845f-1018253cc397",
+      "type": "Speciality taxonomy 3",
+      "product_count": 9
+    },
+    {
+      "id": "6822eeebed32000001e25a96",
+      "name": "Chikki",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/23/602d23de-0bae-4cff-b117-4b0b150c5650_8d6c7c9d-37b2-4885-ad54-623639533ad4",
+      "type": "Speciality taxonomy 3",
+      "product_count": 24
+    },
+    {
+      "id": "6822eeebed32000001e25a97",
+      "name": "Rasmalai",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/23/3c90c48a-ab63-4e7b-b644-6f069f29d38c_485afc9b-b9a5-40b9-9549-3c1735adf1a9",
+      "type": "Speciality taxonomy 3",
+      "product_count": 5
+    },
+    {
+      "id": "682afe0de320a400011aab1a",
+      "name": "Cakes",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/4/2f705018-f8e3-4543-9017-279ff3d2d151_3c82b514-ae86-49b2-910c-f0d053d6fbf5",
+      "type": "Speciality taxonomy 3",
+      "product_count": 79
+    }
+  ]
+}

@@ -1,1 +1,4193 @@
-[]
+[
+  {
+    "display_name": "Ching’s Secret Whole Wheat Noodles, No Maida",
+    "brand": "Ching's Secret",
+    "brand_id": "16bc1c6503594ba9a279eb23c524e683b85db1b2",
+    "product_id": "X858IA134L",
+    "variations": [
+      {
+        "id": "JBQK8GBCL2",
+        "display_name": "Ching’s Secret Whole Wheat Noodles, No Maida",
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 79,
+          "unit_level_price": "",
+          "discount_value": 21
+        },
+        "brand": "Ching's Secret",
+        "brand_id": "16bc1c6503594ba9a279eb23c524e683b85db1b2",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Noodles",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Ching’s Secret Whole Wheat Noodles, No Maida",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/2ac7e74f-b986-40ca-990a-9db217aa3885_744902_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/20d309d1-0536-4e78-81da-9bdf9ff4f596_744902_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/dfb74d08-30a3-4097-878a-6b9864d4032c_744902_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/949deb3e-77ad-4ed8-85cb-7ceace3b1111_744902_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/6e6fb3fc-f04a-44e8-bee6-5da0d68c7777_744902_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "280",
+        "sku_quantity_with_combo": "280 grams",
+        "unit_of_measure": "grams",
+        "weight_in_grams": 280,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Sunfeast Yippee Power Up Atta Noodles - 4 in One Pack",
+    "brand": "Sunfeast Yippee",
+    "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+    "product_id": "E0D4233Q0K",
+    "variations": [
+      {
+        "id": "AS71SQ31LU",
+        "display_name": "Sunfeast Yippee Power Up Atta Noodles - 4 in One Pack",
+        "price": {
+          "mrp": 116,
+          "store_price": 116,
+          "offer_price": 100,
+          "unit_level_price": "",
+          "discount_value": 16
+        },
+        "brand": "Sunfeast Yippee",
+        "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Healthy",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Power Up Atta Noodles - 4 in One Pack",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/2/67bbad52-2095-4c8a-874a-e65588325f9c_8652_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/2/9e172365-2976-44d6-968f-7c027b6971d4_8652_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/2/3a127a04-96bd-4c5f-90ba-2be869469d73_8652_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/2/50a2b26c-6b43-4086-b800-e05896b96a0d_8652_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/2/88235d64-be42-48a6-9053-83bbd914283c_8652_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "280",
+        "sku_quantity_with_combo": "280 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 280,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Wow! Veg Manchurian Noodles",
+    "brand": "Wow! Momo",
+    "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+    "product_id": "IJZOZNEKZK",
+    "variations": [
+      {
+        "id": "M9HYAPAFAH",
+        "display_name": "Wow! Veg Manchurian Noodles",
+        "price": {
+          "mrp": 90,
+          "store_price": 90,
+          "offer_price": 69,
+          "unit_level_price": "",
+          "discount_value": 21
+        },
+        "brand": "Wow! Momo",
+        "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Korean",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Wow! Veg Manchurian Noodles",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/34becd4b-b926-4822-9e5c-9f986598bb9f_932448_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/6f87e430-c51f-4a98-8f84-fd57a9e7daa6_932448_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/1f049fcf-c160-4ac2-80d6-e6053a78c9d8_932448_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/efbb8705-b94a-4ec8-a4b6-e4aa9b036b10_932448_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/a39e503b-6a79-44d0-b485-b0c9d513e771_932448_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/dbe7bcc0-04ee-44de-9a6d-13b4a75e156f_932448_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "90",
+        "sku_quantity_with_combo": "90 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 90,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Nissin Cup Noodles Mazedaar Masala",
+    "brand": "Nissin",
+    "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+    "product_id": "QS6LPAQMIP",
+    "variations": [
+      {
+        "id": "JHRU5GNOTB",
+        "display_name": "Nissin Cup Noodles Mazedaar Masala",
+        "price": {
+          "mrp": 55,
+          "store_price": 55,
+          "offer_price": 55,
+          "unit_level_price": "78.6/100 g",
+          "discount_value": 0
+        },
+        "brand": "Nissin",
+        "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Cup Noodles",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Cup Noodles Mazedaar Masala",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/26/b78956a4-e1bd-47bc-a98b-41bdce72593a_21_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/26/168149a0-0ff1-4565-87c7-77e992aacde5_21_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/26/667176d2-c976-491b-b1bb-858e6911e9ee_21_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/26/258ff48e-d8a3-4c4a-8bae-6d16acd0f4a3_21_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "70",
+        "sku_quantity_with_combo": "70 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 70,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Nissin Cup Noodles Spiced Chicken",
+    "brand": "Nissin",
+    "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+    "product_id": "MGP61FCYHM",
+    "variations": [
+      {
+        "id": "V7O50N9CP0",
+        "display_name": "Nissin Cup Noodles Spiced Chicken",
+        "price": {
+          "mrp": 55,
+          "store_price": 55,
+          "offer_price": 55,
+          "unit_level_price": "78.6/100 g",
+          "discount_value": 0
+        },
+        "brand": "Nissin",
+        "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Cup Noodles",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Cup Noodles Spiced Chicken",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/26/23fb8511-fca9-4cf5-98ba-b15f6ff54ae2_1521_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/26/c18e59be-0fab-4ac8-87df-8e17956503e6_1521_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/26/5dcd8c1b-a4b9-4840-8d20-f2d4a628932d_1521_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/26/f09a8d4c-ffbb-4ecc-85f3-9361885fc9a3_1521_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "70",
+        "sku_quantity_with_combo": "70 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 70,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "WickedGud Curry Noodles",
+    "brand": "WickedGud",
+    "brand_id": "a9b760a149830c6bf771aecdb23ec6268b6d17d6",
+    "product_id": "U3S77U9TSF",
+    "variations": [
+      {
+        "id": "7KN40WNBAZ",
+        "display_name": "WickedGud Curry Noodles",
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 46,
+          "unit_level_price": "",
+          "discount_value": 14
+        },
+        "brand": "WickedGud",
+        "brand_id": "a9b760a149830c6bf771aecdb23ec6268b6d17d6",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Healthy",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Curry Noodles",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/29/3f18ab38-606a-4a47-8b14-43e94802e8ac_F4UM4W0CGF_MN.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/29/49223a49-0c6c-45db-a93e-31ff0dfdebf4_F4UM4W0CGF_AL1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/0ea7ebf6-30bb-4e4d-be95-65d7b83c8980_instantnoodlesandpasta_F4UM4W0CGF_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/7f89d90b-f78b-455a-b6f0-ee276259796f_instantnoodlesandpasta_F4UM4W0CGF_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/38975931-a49b-418d-b2a2-f5325e984c37_instantnoodlesandpasta_F4UM4W0CGF_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/7ad7906c-2a56-44e4-9faa-3c0c07ef70c5_instantnoodlesandpasta_F4UM4W0CGF_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "69",
+        "sku_quantity_with_combo": "69 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 69,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Disano Penne Pasta 100% Durum Wheat",
+    "brand": "Disano",
+    "brand_id": "025e169323d039ea588c3aee505b37dadfbd9c2d",
+    "product_id": "8X8T4V7F4R",
+    "variations": [
+      {
+        "id": "IDGZGRKMYP",
+        "display_name": "Disano Penne Pasta 100% Durum Wheat",
+        "price": {
+          "mrp": 175,
+          "store_price": 175,
+          "offer_price": 80,
+          "unit_level_price": "",
+          "discount_value": 95
+        },
+        "brand": "Disano",
+        "brand_id": "025e169323d039ea588c3aee505b37dadfbd9c2d",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Cooking Pasta",
+        "sub_category_l4": "Penne",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Penne Pasta 100% Durum Wheat",
+        "images": [
+          "71e9c3d35b07b9082fba9fece4d629e0",
+          "57f785879ae78bec2d5179902f8ad00f",
+          "ddc693440e1aa24d82093343ee08ae3a",
+          "0f8611c23ae34513c2465aad5e722c62",
+          "7e32c1661185588fda71e9fdee54258a"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Nongshim Shin Ramyun Noodle Soup",
+    "brand": "Nongshim",
+    "brand_id": "4627157de38fec79d3ab58bced0732cd0f5f2c20",
+    "product_id": "UWRPXXBYUU",
+    "variations": [
+      {
+        "id": "SRJIWCDBP8",
+        "display_name": "Nongshim Shin Ramyun Noodle Soup",
+        "price": {
+          "mrp": 139,
+          "store_price": 139,
+          "offer_price": 108,
+          "unit_level_price": "90/100 g",
+          "discount_value": 31
+        },
+        "brand": "Nongshim",
+        "brand_id": "4627157de38fec79d3ab58bced0732cd0f5f2c20",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Korean",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Shin Ramyun Noodle Soup",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/9c758f0a-c6df-4ad7-96d8-d6140ed11bef_instantnoodlesandpasta_VSV51PQ2O3_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/020f0294-f011-435b-8099-e6415fd17d04_instantnoodlesandpasta_VSV51PQ2O3_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/8f3f969a-8d53-4a82-a45b-4893ecbd2e0e_instantnoodlesandpasta_VSV51PQ2O3_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "120",
+        "sku_quantity_with_combo": "120 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 120,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Nissin Cup Noodles Veggi Manchow",
+    "brand": "Nissin",
+    "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+    "product_id": "A0GKNGTKHS",
+    "variations": [
+      {
+        "id": "N1570UTRT5",
+        "display_name": "Nissin Cup Noodles Veggi Manchow",
+        "price": {
+          "mrp": 55,
+          "store_price": 55,
+          "offer_price": 55,
+          "unit_level_price": "78.6/100 g",
+          "discount_value": 0
+        },
+        "brand": "Nissin",
+        "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Cup Noodles",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Cup Noodles Veggi Manchow",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/26/c08ce4b2-4a6a-4e2c-b1d2-b78a8b19313e_22_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/26/112b6a59-ee01-439d-8a76-2f01b1a9a3bd_22_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/26/e7f77584-f16a-44d1-8e21-d15a9a9489d7_22_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/26/bc163769-88ac-438b-8dad-8700b2516047_22_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "70",
+        "sku_quantity_with_combo": "70 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 70,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Nissin Geki Hot & Spicy Korean Veg Noodles",
+    "brand": "Nissin",
+    "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+    "product_id": "RIONLSIX1L",
+    "variations": [
+      {
+        "id": "CL0PYD2P9X",
+        "display_name": "Nissin Geki Hot & Spicy Korean Veg Noodles",
+        "price": {
+          "mrp": 55,
+          "store_price": 55,
+          "offer_price": 41,
+          "unit_level_price": "51.3/100 g",
+          "discount_value": 14
+        },
+        "brand": "Nissin",
+        "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Korean",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Geki Hot & Spicy Korean Veg Noodles",
+        "images": [
+          "2e5132be571646f918b882b36adb6edd",
+          "5b4a1831e7daa0b9d40436148a985712",
+          "8320873d132133088116f671ec61a2d8"
+        ],
+        "images_v2": [],
+        "quantity": "80",
+        "sku_quantity_with_combo": "80 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 80,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Yu Jalapeno Cheese -100% Whole Wheat Instant Noodles",
+    "brand": "Yu",
+    "brand_id": "f50b8bc10e521f7af8b48681a8ea23cab9a2e923",
+    "product_id": "K7P1Z7TSXO",
+    "variations": [
+      {
+        "id": "2UUZ7LIOSQ",
+        "display_name": "Yu Jalapeno Cheese -100% Whole Wheat Instant Noodles",
+        "price": {
+          "mrp": 45,
+          "store_price": 45,
+          "offer_price": 37,
+          "unit_level_price": "52.9/100 g",
+          "discount_value": 8
+        },
+        "brand": "Yu",
+        "brand_id": "f50b8bc10e521f7af8b48681a8ea23cab9a2e923",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Healthy",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Jalapeno Cheese -100% Whole Wheat Instant Noodles",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/24a657fa-354c-4402-a87b-57007493f1ad_504791_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/a56186b3-ec93-4b3f-bea2-d064f1b20b70_504791_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/12/e20e7805-6304-4341-9288-6922b2c5048f_504791_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "70",
+        "sku_quantity_with_combo": "70 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 70,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Too Yumm K-Bomb Ramen Hot n Spicy Instant Noodles | Korean Veg",
+    "brand": "Too Yumm!",
+    "brand_id": "44ddfb01b699eccd134166df759ba299349a230e",
+    "product_id": "GRL91OCI1T",
+    "variations": [
+      {
+        "id": "U5H2WLBNSU",
+        "display_name": "Too Yumm K-Bomb Ramen Hot n Spicy Instant Noodles | Korean Veg",
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 39,
+          "unit_level_price": "",
+          "discount_value": 11
+        },
+        "brand": "Too Yumm!",
+        "brand_id": "44ddfb01b699eccd134166df759ba299349a230e",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Korean",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Too Yumm K-Bomb Ramen Hot n Spicy Instant Noodles | Korean Veg",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/382830f8-d045-4438-90b8-dbfcef918d43_244313_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/408cdffc-e25b-4158-b5fe-e15ba40214a4_244313_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/2d960582-3bc1-422c-962f-59004b4c2972_244313_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/aed29c30-7a3f-44ce-8f70-c9d6fe5b2a9c_244313_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/48d60e89-3f3d-40f1-ab51-fc78421ab7ab_244313_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/1dfba380-1ebe-4606-9ca5-62874c30bf39_244313_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "79",
+        "sku_quantity_with_combo": "79 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 81,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Top Ramen Curry Saucy Flat Noodles",
+    "brand": "Top Ramen",
+    "brand_id": "40e922a9d79afc7d9bc423c794dee4b09559e531",
+    "product_id": "SNT7PQXW4S",
+    "variations": [
+      {
+        "id": "B5AMX9X1ZF",
+        "display_name": "Top Ramen Curry Saucy Flat Noodles",
+        "price": {
+          "mrp": 110,
+          "store_price": 110,
+          "offer_price": 88,
+          "unit_level_price": "31.4/100 g",
+          "discount_value": 22
+        },
+        "brand": "Top Ramen",
+        "brand_id": "40e922a9d79afc7d9bc423c794dee4b09559e531",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Masala",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Curry Saucy Flat Noodles",
+        "images": [
+          "3fd6e721bb54036bd10f44d0cb5a84d8",
+          "b0a093262ed9536b34b2c6e38ecc23ed",
+          "91a5817befc8af46bbf9379f38cc5617"
+        ],
+        "images_v2": [],
+        "quantity": "280",
+        "sku_quantity_with_combo": "280 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 280,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Nissin Geki Hot & Spicy Korean Cup Noodles Vegetarian Flavor",
+    "brand": "Nissin",
+    "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+    "product_id": "KHMU22VLOZ",
+    "variations": [
+      {
+        "id": "UTLVY52OTA",
+        "display_name": "Nissin Geki Hot & Spicy Korean Cup Noodles Vegetarian Flavor",
+        "price": {
+          "mrp": 89,
+          "store_price": 89,
+          "offer_price": 62,
+          "unit_level_price": "",
+          "discount_value": 27
+        },
+        "brand": "Nissin",
+        "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Korean",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Geki Hot & Spicy Korean Cup Noodles Vegetarian Flavor",
+        "images": [
+          "b6e27980ee684c0a867a6f404694bf9e",
+          "a0fd99cf95ce362731e9f29869cb75df",
+          "b4c02ff0b2bca8b5339f2788cccc94e0"
+        ],
+        "images_v2": [],
+        "quantity": "70",
+        "sku_quantity_with_combo": "70 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 70,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Sunfeast YiPPee Korean Noodles Fiery Hot",
+    "brand": "Sunfeast Yippee",
+    "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+    "product_id": "DNCN9H1K5O",
+    "variations": [
+      {
+        "id": "6MQUIQFMBT",
+        "display_name": "Sunfeast Yippee Korean Noodles Fiery Hot",
+        "price": {
+          "mrp": 55,
+          "store_price": 55,
+          "offer_price": 47,
+          "unit_level_price": "62.7/100 g",
+          "discount_value": 8
+        },
+        "brand": "Sunfeast Yippee",
+        "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Korean",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Korean Noodles Fiery Hot",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/1/9c6495c6-e210-4add-8773-e405456691a8_286220_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/1/baa381b9-292b-4916-98af-d562150d7ff6_286220_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/1/1f0b1069-02b6-42bc-a864-35294624ce7b_286220_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "75",
+        "sku_quantity_with_combo": "75 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 75,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Nissin Geki Hot & Spicy Korean Instant Noodles Kimchi Flavor",
+    "brand": "Nissin",
+    "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+    "product_id": "W0ZZHYZ83B",
+    "variations": [
+      {
+        "id": "HL7LZXP7XJ",
+        "display_name": "Nissin Geki Hot & Spicy Korean Instant Noodles Kimchi Flavor",
+        "price": {
+          "mrp": 55,
+          "store_price": 55,
+          "offer_price": 41,
+          "unit_level_price": "",
+          "discount_value": 14
+        },
+        "brand": "Nissin",
+        "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Korean",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Geki Hot & Spicy Korean Instant Noodles Kimchi Flavor",
+        "images": [
+          "94b53024b971c18e5185856d7cd35b9b",
+          "e0f16413fa679434c940ce1562169b2c",
+          "15a4904f4fbbd12f9149714458ebe868"
+        ],
+        "images_v2": [],
+        "quantity": "80",
+        "sku_quantity_with_combo": "80 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 80,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Wickedgud Instant Masala Cup Noodles",
+    "brand": "WickedGud",
+    "brand_id": "a9b760a149830c6bf771aecdb23ec6268b6d17d6",
+    "product_id": "10JZ586FE4",
+    "variations": [
+      {
+        "id": "1KXQ1V3WNW",
+        "display_name": "Wickedgud Instant Masala Cup Noodles",
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 39,
+          "unit_level_price": "",
+          "discount_value": 21
+        },
+        "brand": "WickedGud",
+        "brand_id": "a9b760a149830c6bf771aecdb23ec6268b6d17d6",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Cup Noodles",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Wickedgud Instant Masala Cup Noodles",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/29/07be3fc3-ea7e-4df3-8f75-b8f3615d7799_1Z0S60A100_MN.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/29/63c98788-e77f-46e6-ad66-2695934a2ede_1Z0S60A100_AL1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/5/20/5c53a04e-1d9d-4a39-ba23-cb458d3ff141_instantnoodlesandpasta_1Z0S60A100_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/20/0a1d88de-2ef7-4e01-a2fd-ddc3ff2dfe74_instantnoodlesandpasta_1Z0S60A100_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/20/1bc2d8f3-466e-4ec3-b1eb-ee4441534eaf_instantnoodlesandpasta_1Z0S60A100_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/20/9babe303-bbb6-479b-b1df-eea881a665b5_instantnoodlesandpasta_1Z0S60A100_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "67",
+        "sku_quantity_with_combo": "67 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 67,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Maggi Korean Bbq Chicken Instant Noodles",
+    "brand": "Maggi Korean",
+    "brand_id": "c04113667d425ad1010207c5a33d0d3ec57cf93d",
+    "product_id": "8LUCDVSYKJ",
+    "variations": [
+      {
+        "id": "XD19D0Z9IW",
+        "display_name": "Maggi Korean Bbq Chicken Instant Noodles",
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 40,
+          "unit_level_price": "44.4/100 g",
+          "discount_value": 20
+        },
+        "brand": "Maggi Korean",
+        "brand_id": "c04113667d425ad1010207c5a33d0d3ec57cf93d",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Korean",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Bbq Chicken Instant Noodles",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/4b25c429-3728-4b2a-a24e-6f43e1b48e83_71693_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/839b592f-46fe-4277-9caa-b342c57dd88f_71693_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/1/c0c894c8-875b-4f94-bf47-2ef4639187ff_71693_3.png",
+          "92f0e887b7c26922c39c8e821d59209d",
+          "20e182a25ae7a8a2db40c6a6879eba34"
+        ],
+        "images_v2": [],
+        "quantity": "90",
+        "sku_quantity_with_combo": "90 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 90,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Nissin Geki Hot & Spicy Korean Chicken Flavour Noodles",
+    "brand": "Nissin",
+    "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+    "product_id": "99FLPN0N57",
+    "variations": [
+      {
+        "id": "6DW531O8YD",
+        "display_name": "Nissin Geki Hot & Spicy Korean Chicken Flavour Noodles",
+        "price": {
+          "mrp": 55,
+          "store_price": 55,
+          "offer_price": 41,
+          "unit_level_price": "51.3/100 g",
+          "discount_value": 14
+        },
+        "brand": "Nissin",
+        "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Korean",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Geki Hot & Spicy Korean Chicken Flavour Noodles",
+        "images": [
+          "b19fe0c652f6c9514f966e093fee7512",
+          "db2d2889b78fc085fb0c8218de085e8f",
+          "cce25c209f234b062cc562ba840c2bbc"
+        ],
+        "images_v2": [],
+        "quantity": "80",
+        "sku_quantity_with_combo": "80 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 80,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Keya Penne Pasta 100% Durum Wheat",
+    "brand": "keya",
+    "brand_id": "08f0ae146ff080d691a2406c063727d36e2be1dd",
+    "product_id": "HNSJ9SK8OJ",
+    "variations": [
+      {
+        "id": "3I6QAQ3MPS",
+        "display_name": "Keya Penne Pasta 100% Durum Wheat",
+        "price": {
+          "mrp": 150,
+          "store_price": 150,
+          "offer_price": 82,
+          "unit_level_price": "20.5/100 g",
+          "discount_value": 68
+        },
+        "brand": "keya",
+        "brand_id": "08f0ae146ff080d691a2406c063727d36e2be1dd",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Cooking Pasta",
+        "sub_category_l4": "Penne",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Keya Penne Pasta 100% Durum Wheat",
+        "images": [
+          "qw9hzzeibjhdhimmpo1l",
+          "pder8poyi0ixb1tiyrxn",
+          "cphld5xyfxrxqxkducc5"
+        ],
+        "images_v2": [],
+        "quantity": "400",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Nissin Geki Hot & Spicy Korean Instant Noodles Veg Flavour (5 in 1 pack)",
+    "brand": "Nissin",
+    "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+    "product_id": "AZQ98T03RD",
+    "variations": [
+      {
+        "id": "P52XJYXVS6",
+        "display_name": "Nissin Geki Hot & Spicy Korean Instant Noodles Veg Flavour (5 in 1 pack)",
+        "price": {
+          "mrp": 270,
+          "store_price": 270,
+          "offer_price": 192,
+          "unit_level_price": "",
+          "discount_value": 78
+        },
+        "brand": "Nissin",
+        "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Korean",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Geki Hot & Spicy Korean Instant Noodles Veg Flavour (5 in 1 pack)",
+        "images": [
+          "694bfec388b7ddd23e240883406d027b",
+          "9b46d091fd826882d192b7f06efbc9d4",
+          "239f9317fc03167250c0025fa45eecf8",
+          "bc3636933851c63a5d5e617764ed7eaa",
+          "e460c7e5365baa185aba19b9ab807648"
+        ],
+        "images_v2": [],
+        "quantity": "400",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Sunfeast YiPPee Korean Noodles Spicy Kimchi",
+    "brand": "Sunfeast Yippee",
+    "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+    "product_id": "7JKHMHABRK",
+    "variations": [
+      {
+        "id": "SFU0RBFRJD",
+        "display_name": "Sunfeast Yippee Korean Noodles Spicy Kimchi",
+        "price": {
+          "mrp": 55,
+          "store_price": 55,
+          "offer_price": 37,
+          "unit_level_price": "49.3/100 g",
+          "discount_value": 18
+        },
+        "brand": "Sunfeast Yippee",
+        "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Korean",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Korean Noodles Spicy Kimchi",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/1/7ebde5be-5959-4d29-a230-60112e711b2d_751066_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/1/ddde68cf-431f-450a-ab12-cbc822c0954d_751066_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/1/79085f70-fa5c-4dc1-b664-6274fa74d2ee_751066_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "75",
+        "sku_quantity_with_combo": "75 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 75,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Wow! Hot & Spicy Korean Chicken Ramen",
+    "brand": "Wow! Momo",
+    "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+    "product_id": "3HTBA71I68",
+    "variations": [
+      {
+        "id": "P31PHG05KI",
+        "display_name": "Wow! Hot & Spicy Korean Chicken Ramen",
+        "price": {
+          "mrp": 125,
+          "store_price": 125,
+          "offer_price": 89,
+          "unit_level_price": "",
+          "discount_value": 36
+        },
+        "brand": "Wow! Momo",
+        "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Korean",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Wow! Hot & Spicy Korean Chicken Ramen",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/9/cab4814c-a714-4023-892f-6241bdf62d9e_714971_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/9/c828a3d3-cd94-4629-bdd2-5b1e49845543_714971_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/9/8fe30271-6a33-4223-b19b-48235973589d_714971_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "95",
+        "sku_quantity_with_combo": "95 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 95,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Disano Fusilli Pasta 100% Durum Wheat",
+    "brand": "Disano",
+    "brand_id": "025e169323d039ea588c3aee505b37dadfbd9c2d",
+    "product_id": "KHYGPF62M4",
+    "variations": [
+      {
+        "id": "O9LGFWV427",
+        "display_name": "Disano Fusilli Pasta 100% Durum Wheat",
+        "price": {
+          "mrp": 175,
+          "store_price": 175,
+          "offer_price": 175,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Disano",
+        "brand_id": "025e169323d039ea588c3aee505b37dadfbd9c2d",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Cooking Pasta",
+        "sub_category_l4": "Fusilli",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Fusilli Pasta 100% Durum Wheat",
+        "images": [
+          "5703b5608c410ef465a65b8302f9ffa3",
+          "88602e39c58aca403802c3dfd5ad6181",
+          "1631a6bf9bbb1ccc99c68dbaea6c2c41",
+          "9a8367f164c7e4f1d560b77fca0564c9",
+          "ad51cbee4b9d76dc6a6f8e04cd27d978"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Borges Durum Wheat Fusilli Pasta",
+    "brand": "Borges",
+    "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+    "product_id": "L53BZJZCTO",
+    "variations": [
+      {
+        "id": "QP877CLX0K",
+        "display_name": "Borges Durum Wheat Fusilli Pasta",
+        "price": {
+          "mrp": 350,
+          "store_price": 350,
+          "offer_price": 209,
+          "unit_level_price": "41.8/100 g",
+          "discount_value": 141
+        },
+        "brand": "Borges",
+        "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Cooking Pasta",
+        "sub_category_l4": "Penne",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Durum Wheat Fusilli Pasta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/1674fc10-674d-4759-8c6f-25c5d8950897_noodlesandpasta_J10J78501X_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/c35e9226-2446-4d2a-aa22-25a0c6c288e5_noodlesandpasta_J10J78501X_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/46c477d9-c839-467b-a1d4-ace46232e1c4_noodlesandpasta_J10J78501X_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/072310bb-ca7d-4185-b451-a011e7372dfe_noodlesandpasta_J10J78501X_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/f0934b5c-f037-45ca-bdd7-1a60d02db227_noodlesandpasta_J10J78501X_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/a4ed241f-58f5-450d-9059-325f047fc86d_noodlesandpasta_J10J78501X_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Keya Elbow Pasta 100% Durum Wheat",
+    "brand": "keya",
+    "brand_id": "08f0ae146ff080d691a2406c063727d36e2be1dd",
+    "product_id": "GWX77QLRLF",
+    "variations": [
+      {
+        "id": "Y5VRY4QNJ3",
+        "display_name": "Keya Elbow Pasta 100% Durum Wheat",
+        "price": {
+          "mrp": 150,
+          "store_price": 150,
+          "offer_price": 79,
+          "unit_level_price": "",
+          "discount_value": 71
+        },
+        "brand": "keya",
+        "brand_id": "08f0ae146ff080d691a2406c063727d36e2be1dd",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Cooking Pasta",
+        "sub_category_l4": "Macaroni",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Keya Elbow Pasta 100% Durum Wheat",
+        "images": [
+          "qo86uhsonowsx35ypntt",
+          "jc677qaozayi1f4vmjtn",
+          "j4nxtwynw94b2bc8f4d4"
+        ],
+        "images_v2": [],
+        "quantity": "400",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Ching's Secret Secret Hot & Sour Soup",
+    "brand": "Ching's Secret",
+    "brand_id": "16bc1c6503594ba9a279eb23c524e683b85db1b2",
+    "product_id": "TGJHWFM7V2",
+    "variations": [
+      {
+        "id": "LS9AJI2AU3",
+        "display_name": "Ching's Secret Secret Hot & Sour Soup",
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 47,
+          "unit_level_price": "85.5/100 g",
+          "discount_value": 13
+        },
+        "brand": "Ching's Secret",
+        "brand_id": "16bc1c6503594ba9a279eb23c524e683b85db1b2",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Veg Soups",
+        "sub_category_l4": "Hot & Sour",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Secret Hot & Sour Soup",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/7/faae1728-a0f0-4e2a-b28f-cffbafc5facc_5717_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/7/3ff13344-2670-40f3-9f29-a10e9af05ad6_5717_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/7/a2386a05-a29a-46ff-a60b-d73aec1e31b4_5717_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "55",
+        "sku_quantity_with_combo": "55 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 55,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Yu Veg Hakka Noodles - Family Pack",
+    "brand": "Yu",
+    "brand_id": "f50b8bc10e521f7af8b48681a8ea23cab9a2e923",
+    "product_id": "LHKW7U96X3",
+    "variations": [
+      {
+        "id": "ULKGHITS1X",
+        "display_name": "Yu Veg Hakka Noodles - Family Pack",
+        "price": {
+          "mrp": 150,
+          "store_price": 150,
+          "offer_price": 82,
+          "unit_level_price": "",
+          "discount_value": 68
+        },
+        "brand": "Yu",
+        "brand_id": "f50b8bc10e521f7af8b48681a8ea23cab9a2e923",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Hakka Noodles",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Veg Hakka Noodles - Family Pack",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/22/27776d0b-e977-40e9-b2c1-539eeae00b35_GW1IM94BHF_mn.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/13/aed897c3-bb67-4052-bee1-59b0418b071a_GW1IM94BHF_al1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/9/10/f6916025-79a5-4e45-92ee-f98be5bfb966_GW1IM94BHF_mn.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/9/10/a81a69d2-3b85-477a-83ba-0109dac28c5e_GW1IM94BHF_al3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/5/7/65a693ad-774f-4bfc-9a9c-b1cce626ec3e_noodlesandpasta_GW1IM94BHF_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/7/5cd551fa-ec41-413a-9fb6-f5b63cb7e56b_noodlesandpasta_GW1IM94BHF_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "600",
+        "sku_quantity_with_combo": "600 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 600,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "WickedGud Masala Noodles",
+    "brand": "WickedGud",
+    "brand_id": "a9b760a149830c6bf771aecdb23ec6268b6d17d6",
+    "product_id": "MELHALNOIG",
+    "variations": [
+      {
+        "id": "BF5NYDPLHV",
+        "display_name": "WickedGud Masala Noodles",
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 42,
+          "unit_level_price": "",
+          "discount_value": 18
+        },
+        "brand": "WickedGud",
+        "brand_id": "a9b760a149830c6bf771aecdb23ec6268b6d17d6",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Masala",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Masala Noodles",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/29/4efd8edc-c5f8-4957-863d-0f7935d3d8cc_RYIGXAK6VP_MN.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/29/6e82991e-def9-401c-aa24-e14a12f2cb28_RYIGXAK6VP_AL1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/5d6ad12f-021c-43f5-977a-c2142f2f7a5a_instantnoodlesandpasta_RYIGXAK6VP_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/e910f700-6bbf-4d87-8cb9-4f0f85d6d742_instantnoodlesandpasta_RYIGXAK6VP_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/4ee0ee02-b065-4e30-83ed-dee461d972ab_instantnoodlesandpasta_RYIGXAK6VP_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/49d60cca-89ed-4a4d-8ca6-e37bb8f51a2a_instantnoodlesandpasta_RYIGXAK6VP_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "69",
+        "sku_quantity_with_combo": "69 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 69,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Nissin Geki Hot & Spicy Korean Chicken Flavour",
+    "brand": "Nissin",
+    "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+    "product_id": "X4F475E4V9",
+    "variations": [
+      {
+        "id": "X9AVFN7QXS",
+        "display_name": "Nissin Geki Hot & Spicy Korean Chicken Flavour",
+        "price": {
+          "mrp": 270,
+          "store_price": 270,
+          "offer_price": 192,
+          "unit_level_price": "",
+          "discount_value": 78
+        },
+        "brand": "Nissin",
+        "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Korean",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Geki Hot & Spicy Korean Chicken Flavour",
+        "images": [
+          "d67444e2d16d22dfbcbc4bd936a7b89e",
+          "e6bdaac52bc1753a09df8952f1e48233",
+          "9c37c21031f128cc582975fb21dd4f33",
+          "bf57783c4b3d6e4e29025f886b5f8056"
+        ],
+        "images_v2": [],
+        "quantity": "400",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Borges Penne Rigate Wheat Pasta",
+    "brand": "Borges",
+    "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+    "product_id": "4I38OM3ROE",
+    "variations": [
+      {
+        "id": "RKT7OJUPO6",
+        "display_name": "Borges Penne Rigate Wheat Pasta",
+        "price": {
+          "mrp": 350,
+          "store_price": 350,
+          "offer_price": 297,
+          "unit_level_price": "59.4/100 g",
+          "discount_value": 53
+        },
+        "brand": "Borges",
+        "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Cooking Pasta",
+        "sub_category_l4": "Penne",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Penne Rigate Wheat Pasta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/782d8d47-2268-444b-9a4c-511a1a868ac0_noodlesandpasta_J2IBNN91W9_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/c2648cf3-6c5a-4f87-ba17-00b3d749525b_noodlesandpasta_J2IBNN91W9_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/71da1378-c4c8-45ab-9f13-f21d28c8c3b2_noodlesandpasta_J2IBNN91W9_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/b0bcfa3b-3291-48a3-a66a-f71463444260_noodlesandpasta_J2IBNN91W9_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/1092870d-e0d6-47bd-80ef-23c237e06d37_noodlesandpasta_J2IBNN91W9_AL4.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "WickedGud Fiery 2X Spicy Korean Cup Noodles",
+    "brand": "WickedGud",
+    "brand_id": "a9b760a149830c6bf771aecdb23ec6268b6d17d6",
+    "product_id": "WKHZLUB6ZW",
+    "variations": [
+      {
+        "id": "Y6T9G2P8MA",
+        "display_name": "WickedGud Fiery 2X Spicy Korean Cup Noodles",
+        "price": {
+          "mrp": 80,
+          "store_price": 80,
+          "offer_price": 62,
+          "unit_level_price": "",
+          "discount_value": 18
+        },
+        "brand": "WickedGud",
+        "brand_id": "a9b760a149830c6bf771aecdb23ec6268b6d17d6",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Instant Noodles",
+        "sub_category_l4": "Korean",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Fiery 2X Spicy Korean Cup Noodles",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/4/9923d7bb-c307-4c8e-bc1f-f900376d30ce_632859_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/4/cd7d446c-038e-4cfa-99c3-198d445e35b4_632859_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/4/25c265d4-ca67-4785-b7a3-009b23177bce_632859_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "69",
+        "sku_quantity_with_combo": "69 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 69,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Borges Spaghetti Wheat Pasta",
+    "brand": "Borges",
+    "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+    "product_id": "ZAOTHZMXBD",
+    "variations": [
+      {
+        "id": "63W5RJF486",
+        "display_name": "Borges Spaghetti Wheat Pasta",
+        "price": {
+          "mrp": 350,
+          "store_price": 350,
+          "offer_price": 297,
+          "unit_level_price": "",
+          "discount_value": 53
+        },
+        "brand": "Borges",
+        "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Cooking Pasta",
+        "sub_category_l4": "Spaghetti",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Spaghetti Wheat Pasta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/774938bd-b1a5-4af5-b404-4fec2fe1ed26_noodlesandpasta_TLR44EJ1IE_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/d17512da-441f-4db6-a14a-7abae2bbfebc_noodlesandpasta_TLR44EJ1IE_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/42d7a144-f3f6-4af2-8416-e8085790377d_noodlesandpasta_TLR44EJ1IE_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/8d5f01c5-11b8-42ff-96ea-cdd334663fa8_noodlesandpasta_TLR44EJ1IE_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/11ee5567-3426-4946-af1e-5994d8b056c1_noodlesandpasta_TLR44EJ1IE_AL4.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Keya Fusilli Pasta 100% Durum Wheat",
+    "brand": "keya",
+    "brand_id": "08f0ae146ff080d691a2406c063727d36e2be1dd",
+    "product_id": "K5J18717OV",
+    "variations": [
+      {
+        "id": "VLLZIT9I1F",
+        "display_name": "Keya Fusilli Pasta 100% Durum Wheat",
+        "price": {
+          "mrp": 150,
+          "store_price": 150,
+          "offer_price": 82,
+          "unit_level_price": "20.5/100 g",
+          "discount_value": 68
+        },
+        "brand": "keya",
+        "brand_id": "08f0ae146ff080d691a2406c063727d36e2be1dd",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Cooking Pasta",
+        "sub_category_l4": "Fusilli",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Keya Fusilli Pasta 100% Durum Wheat",
+        "images": [
+          "mn5a1brv48hvkaobsskb",
+          "ulvdoq8rovqnjnpc1ukw",
+          "jy4oeudjlzu6rxtvmifl"
+        ],
+        "images_v2": [],
+        "quantity": "400",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Ching's Secret Mix Veg Soup",
+    "brand": "Ching's Secret",
+    "brand_id": "16bc1c6503594ba9a279eb23c524e683b85db1b2",
+    "product_id": "HOKAPRRV0N",
+    "variations": [
+      {
+        "id": "GD7NQK9DK6",
+        "display_name": "Ching's Secret Mix Veg Soup",
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 47,
+          "unit_level_price": "85.5/100 g",
+          "discount_value": 13
+        },
+        "brand": "Ching's Secret",
+        "brand_id": "16bc1c6503594ba9a279eb23c524e683b85db1b2",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Veg Soups",
+        "sub_category_l4": "Mix veg",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Mix Veg Soup",
+        "images": [
+          "gfzlxxeo1ocimj468oor",
+          "jr0ve8vfulznb274kskr",
+          "bsrblx3sihzo3z1oezmv"
+        ],
+        "images_v2": [],
+        "quantity": "55",
+        "sku_quantity_with_combo": "55 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 55,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Del Monte Penne Rigate Wheat Pasta",
+    "brand": "Del Monte",
+    "brand_id": "c01cbb81b7bbf8311d5bf526363f29a5240134fe",
+    "product_id": "BMV737WSPH",
+    "variations": [
+      {
+        "id": "ZUVTYYJS4O",
+        "display_name": "Del Monte Penne Rigate Wheat Pasta",
+        "price": {
+          "mrp": 280,
+          "store_price": 280,
+          "offer_price": 263,
+          "unit_level_price": "52.6/100 g",
+          "discount_value": 17
+        },
+        "brand": "Del Monte",
+        "brand_id": "c01cbb81b7bbf8311d5bf526363f29a5240134fe",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Cooking Pasta",
+        "sub_category_l4": "Penne",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Penne Rigate Wheat Pasta",
+        "images": [
+          "uecqvewd0twlvnjp3w2o",
+          "nlibrdwyhi8c3b5riqnm",
+          "bjgp978ppsqmi4upfb5t",
+          "jn8pjboh9abmudp5kcdk"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Del Monte Spaghetti Pasta",
+    "brand": "Del Monte",
+    "brand_id": "c01cbb81b7bbf8311d5bf526363f29a5240134fe",
+    "product_id": "OHADI60AI5",
+    "variations": [
+      {
+        "id": "LI5LK5W282",
+        "display_name": "Del Monte Spaghetti Pasta",
+        "price": {
+          "mrp": 280,
+          "store_price": 280,
+          "offer_price": 263,
+          "unit_level_price": "52.6/100 g",
+          "discount_value": 17
+        },
+        "brand": "Del Monte",
+        "brand_id": "c01cbb81b7bbf8311d5bf526363f29a5240134fe",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Cooking Pasta",
+        "sub_category_l4": "Penne",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Spaghetti Pasta",
+        "images": [
+          "hy50bpp9nzfafzeu39fe",
+          "mpk15tzixompgiaks0ap",
+          "ku4mz6zqkaouisvkwrhh",
+          "nhjj6oexo6gnakfusnei"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Disano Spaghetti Pasta 100% Durum Wheat",
+    "brand": "Disano",
+    "brand_id": "025e169323d039ea588c3aee505b37dadfbd9c2d",
+    "product_id": "RKCM0I5DYI",
+    "variations": [
+      {
+        "id": "9SZOAZ4NCG",
+        "display_name": "Disano Spaghetti Pasta 100% Durum Wheat",
+        "price": {
+          "mrp": 195,
+          "store_price": 195,
+          "offer_price": 105,
+          "unit_level_price": "",
+          "discount_value": 90
+        },
+        "brand": "Disano",
+        "brand_id": "025e169323d039ea588c3aee505b37dadfbd9c2d",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Cooking Pasta",
+        "sub_category_l4": "Spaghetti",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Spaghetti Pasta 100% Durum Wheat",
+        "images": [
+          "2c9ec561c18480e01fbf696bcd099484",
+          "78a2f68343bec719d8f01e188cd96e1a",
+          "d8782fcb4e539a301259396391e552ff",
+          "89f59fc5541897b500591a67bdf1ed1b",
+          "36ca9450fb131b42c6c3660240748a69",
+          "6aa20538b88e9e62539344da04b672fc"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Wow! Thukpa Chicken",
+    "brand": "Wow! Momo",
+    "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+    "product_id": "T9T2H1O7DJ",
+    "variations": [
+      {
+        "id": "7FVBI22XIO",
+        "display_name": "Wow! Thukpa Chicken",
+        "price": {
+          "mrp": 140,
+          "store_price": 140,
+          "offer_price": 99,
+          "unit_level_price": "",
+          "discount_value": 41
+        },
+        "brand": "Wow! Momo",
+        "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Non Veg Soups",
+        "sub_category_l4": "Chicken",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Wow! Thukpa Chicken",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/562bd42a-6699-4469-9dbb-c667f4400850_193320_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/30898330-8693-4914-aca2-6048651417d8_193320_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/4c8fa188-2a5f-4823-8ff3-a38efb53e1e0_193320_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/791d5222-df5d-4636-82df-3b91a6031538_193320_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/7d86ded7-330a-4131-bd94-289d33dbd789_193320_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/080f22ed-b14f-4e95-a275-aede9bb37442_193320_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "60",
+        "sku_quantity_with_combo": "60 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 60,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Yu Veg Hakka Noodles - Chowmein Style Yellow Noodle",
+    "brand": "Yu",
+    "brand_id": "f50b8bc10e521f7af8b48681a8ea23cab9a2e923",
+    "product_id": "L076FH09D0",
+    "variations": [
+      {
+        "id": "07XV5UIQG5",
+        "display_name": "Yu Veg Hakka Noodles - Chowmein Style Yellow Noodle",
+        "price": {
+          "mrp": 45,
+          "store_price": 45,
+          "offer_price": 42,
+          "unit_level_price": "28/100 g",
+          "discount_value": 3
+        },
+        "brand": "Yu",
+        "brand_id": "f50b8bc10e521f7af8b48681a8ea23cab9a2e923",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Hakka Noodles",
+        "sub_category_l4": "Speciality",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Veg Hakka Noodles - Chowmein Style Yellow Noodle",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/7/447441fd-9336-4e9d-8eae-f5bd3e36c88d_noodlesandpasta_R9ZRW67DHZ_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/7/cd11f211-64b8-4aef-87e8-909aa4b67457_noodlesandpasta_R9ZRW67DHZ_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/7/dc1a3d54-db70-4287-8e70-3d774ead9d16_noodlesandpasta_R9ZRW67DHZ_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/7/1208e673-408a-4150-8a77-787732b7fde9_noodlesandpasta_R9ZRW67DHZ_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/7/5fe140bd-0a76-4cf9-9a3f-a9900632d311_noodlesandpasta_R9ZRW67DHZ_AL4.png"
+        ],
+        "images_v2": [],
+        "quantity": "150",
+        "sku_quantity_with_combo": "150 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Yu 100% Whole Wheat Spaghetti Pasta",
+    "brand": "Yu",
+    "brand_id": "f50b8bc10e521f7af8b48681a8ea23cab9a2e923",
+    "product_id": "7DPZSD2571",
+    "variations": [
+      {
+        "id": "5XXU7Y9GNS",
+        "display_name": "Yu 100% Whole Wheat Spaghetti Pasta",
+        "price": {
+          "mrp": 250,
+          "store_price": 250,
+          "offer_price": 135,
+          "unit_level_price": "",
+          "discount_value": 115
+        },
+        "brand": "Yu",
+        "brand_id": "f50b8bc10e521f7af8b48681a8ea23cab9a2e923",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "100% Whole Wheat Spaghetti Pasta",
+        "images": [
+          "NI_CATALOG/IMAGES/ciw/2025/5/29/3dd212ef-c97e-417f-badc-3ddcd5ede8a7_130067_1_20250529_071410.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/15/c60752ff-cca2-4920-8868-f764b5782323_687043_2.png",
+          "NI_CATALOG/IMAGES/ciw/2025/5/29/257226b1-39ee-423b-b149-2060954517da_130067_2_20250529_071411.png",
+          "NI_CATALOG/IMAGES/ciw/2025/5/29/2b5deec3-8c92-4cc6-89b1-f4e2be7efe52_130067_3_20250529_071411.png",
+          "NI_CATALOG/IMAGES/ciw/2025/5/29/c83d65f5-f853-407f-8c6f-0c116811f10f_130067_4_20250529_071411.png"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Wickedgud 2X Fiber Penne Pasta | No Maida | Durum Wheat Semolina | Brown Rice | Healthy Diet Pasta",
+    "brand": "WickedGud",
+    "brand_id": "a9b760a149830c6bf771aecdb23ec6268b6d17d6",
+    "product_id": "CSCYCSEKNM",
+    "variations": [
+      {
+        "id": "XPU7JTY4J8",
+        "display_name": "Wickedgud 2X Fiber Penne Pasta | No Maida | Durum Wheat Semolina | Brown Rice | Healthy Diet Pasta",
+        "price": {
+          "mrp": 220,
+          "store_price": 220,
+          "offer_price": 169,
+          "unit_level_price": "",
+          "discount_value": 51
+        },
+        "brand": "WickedGud",
+        "brand_id": "a9b760a149830c6bf771aecdb23ec6268b6d17d6",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Wickedgud 2X Fiber Penne Pasta | No Maida | Durum Wheat Semolina | Brown Rice | Healthy Diet Pasta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/8e8a3d69-3d1f-4368-9ab6-dc2a1495ebb8_noodlesandpasta_01RS96ZC5N_MN.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/16ff8576-084c-487b-a86b-a13aa2b961db_noodlesandpasta_01RS96ZC5N_AL1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/754e9063-7300-45ec-abad-5507d1d2e46d_noodlesandpasta_01RS96ZC5N_AL2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/9f5ded06-fde6-43f2-a760-d2bea071fa36_noodlesandpasta_01RS96ZC5N_AL3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/dbeeb93a-0bce-47ec-bc50-6e7b8fd1cbe0_noodlesandpasta_01RS96ZC5N_AL4.jpg"
+        ],
+        "images_v2": null,
+        "quantity": "400 g",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Wickedgud 2X Fiber Spaghetti Pasta | No Maida | Durum Wheat Semolina | Brown Rice | Healthy Pasta",
+    "brand": "WickedGud",
+    "brand_id": "a9b760a149830c6bf771aecdb23ec6268b6d17d6",
+    "product_id": "7ZVFJ62BY0",
+    "variations": [
+      {
+        "id": "J4ZNU0ZW7K",
+        "display_name": "Wickedgud 2X Fiber Spaghetti Pasta | No Maida | Durum Wheat Semolina | Brown Rice | Healthy Pasta",
+        "price": {
+          "mrp": 250,
+          "store_price": 250,
+          "offer_price": 162,
+          "unit_level_price": "",
+          "discount_value": 88
+        },
+        "brand": "WickedGud",
+        "brand_id": "a9b760a149830c6bf771aecdb23ec6268b6d17d6",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Wickedgud 2X Fiber Spaghetti Pasta | No Maida | Durum Wheat Semolina | Brown Rice | Healthy Pasta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/fc7973c6-1092-4b54-b952-e87895a8e424_instantnoodlesandpasta_X2JJJFSMRM_MN.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/151701f9-738c-4fd8-840f-c0a1babf281b_instantnoodlesandpasta_X2JJJFSMRM_AL1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/87de9b73-5b14-443c-a1b6-f51e84196145_instantnoodlesandpasta_X2JJJFSMRM_AL2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/0d872731-5f91-436d-94dc-fc5af72a4758_instantnoodlesandpasta_X2JJJFSMRM_AL3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/1bc0d14b-0334-4700-92e1-c299a41d92db_instantnoodlesandpasta_X2JJJFSMRM_AL4.jpg"
+        ],
+        "images_v2": null,
+        "quantity": "400 g",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Yu 100% Whole Wheat Elbow Macaroni Pasta",
+    "brand": "Yu",
+    "brand_id": "f50b8bc10e521f7af8b48681a8ea23cab9a2e923",
+    "product_id": "7YWA1ZLIHQ",
+    "variations": [
+      {
+        "id": "IBH8AWYLN7",
+        "display_name": "Yu 100% Whole Wheat Elbow Macaroni Pasta",
+        "price": {
+          "mrp": 150,
+          "store_price": 150,
+          "offer_price": 150,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Yu",
+        "brand_id": "f50b8bc10e521f7af8b48681a8ea23cab9a2e923",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "100% Whole Wheat Elbow Macaroni Pasta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/8/c9e9128f-2dea-408a-b3d2-47401980f82e_939613_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/22/3f5484f0-c8ef-4325-a315-bf577228fe91_939613_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/22/8ce48a44-3997-488b-a8bd-43ca9cf2b7d5_939613_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "400 grams",
+        "sku_quantity_with_combo": "400 grams",
+        "unit_of_measure": null,
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Keya Penne Rigate Pasta & Keya Spiralli Fusilli Pasta Combo",
+    "brand": "Keya Foods",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "1N8GG1HEEW",
+    "variations": [
+      {
+        "id": "5916GB1WCS",
+        "display_name": "Keya Penne Rigate Pasta & Keya Spiralli Fusilli Pasta Combo",
+        "price": {
+          "mrp": 300,
+          "store_price": 300,
+          "offer_price": 165,
+          "unit_level_price": "",
+          "discount_value": 135
+        },
+        "brand": "Keya Foods",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Keya Penne Rigate Pasta & Keya Spiralli Fusilli Pasta Combo",
+        "images": [
+          "b2a58b99c565d9cef87e990a58686395"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 800,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Disano Penne Pasta 100% Durum Wheat",
+    "brand": "Disano",
+    "brand_id": "025e169323d039ea588c3aee505b37dadfbd9c2d",
+    "product_id": "7PTD4E0DQR",
+    "variations": [
+      {
+        "id": "NIGO4JISRI",
+        "display_name": "Disano Penne Pasta 100% Durum Wheat",
+        "price": {
+          "mrp": 350,
+          "store_price": 350,
+          "offer_price": 161,
+          "unit_level_price": "",
+          "discount_value": 189
+        },
+        "brand": "Disano",
+        "brand_id": "025e169323d039ea588c3aee505b37dadfbd9c2d",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Penne Pasta 100% Durum Wheat",
+        "images": [
+          "a1ee36a59a61876d7ccd497c12b27f2a"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "500 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Borges Whole Wheat Penne Pasta",
+    "brand": "Borges",
+    "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+    "product_id": "PUKB25YCXT",
+    "variations": [
+      {
+        "id": "TH2LSZ6ZQW",
+        "display_name": "Borges Whole Wheat Penne Pasta",
+        "price": {
+          "mrp": 400,
+          "store_price": 400,
+          "offer_price": 340,
+          "unit_level_price": "68/100 g",
+          "discount_value": 60
+        },
+        "brand": "Borges",
+        "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Whole Wheat Penne Pasta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/b4f6e732-a15e-49fb-9c9c-381e49ae28ee_noodlesandpasta_JUNUU5PDXO_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/abd5bfc1-65f3-4a36-9607-325af302e4b1_noodlesandpasta_JUNUU5PDXO_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/b54883b4-b52d-4581-bede-995c272c415f_noodlesandpasta_JUNUU5PDXO_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/1586b03f-a8e7-4114-accf-6120d1f3602b_noodlesandpasta_JUNUU5PDXO_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/8953531d-4d38-4a77-afd3-7f8b3e29cce1_noodlesandpasta_JUNUU5PDXO_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/b89ea8a9-2c0e-46e0-b9f5-88b856986f74_noodlesandpasta_JUNUU5PDXO_AL5.png"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "VK3TTDB322",
+        "display_name": "Borges Whole Wheat Penne Pasta",
+        "price": {
+          "mrp": 800,
+          "store_price": 800,
+          "offer_price": 680,
+          "unit_level_price": "68/100 g",
+          "discount_value": 120
+        },
+        "brand": "Borges",
+        "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Whole Wheat Penne Pasta",
+        "images": [
+          "bbc85fd4b9ee9e667ed14ebaf4f6ae47",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/abd5bfc1-65f3-4a36-9607-325af302e4b1_noodlesandpasta_JUNUU5PDXO_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/b54883b4-b52d-4581-bede-995c272c415f_noodlesandpasta_JUNUU5PDXO_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/1586b03f-a8e7-4114-accf-6120d1f3602b_noodlesandpasta_JUNUU5PDXO_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/8953531d-4d38-4a77-afd3-7f8b3e29cce1_noodlesandpasta_JUNUU5PDXO_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/b89ea8a9-2c0e-46e0-b9f5-88b856986f74_noodlesandpasta_JUNUU5PDXO_AL5.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "500 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "WickedGud Schezwan Noodles",
+    "brand": "WickedGud",
+    "brand_id": "a9b760a149830c6bf771aecdb23ec6268b6d17d6",
+    "product_id": "4J8364CANI",
+    "variations": [
+      {
+        "id": "XG2L1JXRQD",
+        "display_name": "WickedGud Schezwan Noodles",
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 46,
+          "unit_level_price": "",
+          "discount_value": 14
+        },
+        "brand": "WickedGud",
+        "brand_id": "a9b760a149830c6bf771aecdb23ec6268b6d17d6",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Schezwan Noodles",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/29/c861e3e2-5739-42b0-8648-f7fc6aa6e0ae_IQLSHFZ8O8_MN.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/29/6d8d96c8-1898-4302-b4a6-1614a289e847_IQLSHFZ8O8_AL1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/cc6cfde7-904e-4db7-b9fd-29951f1ae7b1_instantnoodlesandpasta_IQLSHFZ8O8_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/a936cda4-47d5-473e-be94-bb47aa315475_instantnoodlesandpasta_IQLSHFZ8O8_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/38ac610a-9bff-499b-9d0e-22ce2182f095_instantnoodlesandpasta_IQLSHFZ8O8_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/06cb0cec-5a35-432c-a7cf-39a4298de6b0_instantnoodlesandpasta_IQLSHFZ8O8_AL5.png"
+        ],
+        "images_v2": null,
+        "quantity": "69 g",
+        "sku_quantity_with_combo": "69 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 69,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "MOI SOI Instant Hakka Noodles Chowmein flavour Sauce (Ready in 5 Min)",
+    "brand": "MOI SOI",
+    "brand_id": "ae2cc66c77a3ac33134e31aa966f421e1b17f88c",
+    "product_id": "BQK19NIC6W",
+    "variations": [
+      {
+        "id": "2GGDUBKQDH",
+        "display_name": "MOI SOI Instant Hakka Noodles Chowmein flavour Sauce (Ready in 5 Min)",
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 51,
+          "unit_level_price": "",
+          "discount_value": 9
+        },
+        "brand": "MOI SOI",
+        "brand_id": "ae2cc66c77a3ac33134e31aa966f421e1b17f88c",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Instant Hakka Noodles Chowmein flavour Sauce (Ready in 5 Min)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/17/c0a5792c-ef96-4e5e-b51d-306516228d69_1J172CLMLX_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/9/17/669dd679-e656-4c70-adfe-bd1eeaf19432_1J172CLMLX_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/9/17/6c301ada-395a-4607-b1a4-6ad3facfbd9c_1J172CLMLX_5.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/9/17/a9c35128-bb29-44a7-963d-1b392021a736_1J172CLMLX_6.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/9/17/41337e63-4b12-4324-b4ee-3d337888bfe5_1J172CLMLX_al7.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/17/a949ea96-3343-4319-902c-32bfd510ff5f_620899_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "165 g",
+        "sku_quantity_with_combo": "165 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 165,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Sunfeast Yippee Power Up Atta Noodles - 4 in One Pack",
+    "brand": "Sunfeast Yippee",
+    "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+    "product_id": "LGXI33DJSW",
+    "variations": [
+      {
+        "id": "UGP4CHRJOI",
+        "display_name": "Sunfeast Yippee Power Up Atta Noodles - 4 in One Pack",
+        "price": {
+          "mrp": 232,
+          "store_price": 232,
+          "offer_price": 197,
+          "unit_level_price": "",
+          "discount_value": 35
+        },
+        "brand": "Sunfeast Yippee",
+        "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Power Up Atta Noodles - 4 in One Pack",
+        "images": [
+          "fe9c019ec3f0de2445e6928f9b23e73d"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "280 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 560,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "WickedGud Hakka Noodles|Healthy & Tasty Noodles | No Maida | No Oil | High Fibre |Cholesterol Free",
+    "brand": "WickedGud",
+    "brand_id": "a9b760a149830c6bf771aecdb23ec6268b6d17d6",
+    "product_id": "3134DCTTFS",
+    "variations": [
+      {
+        "id": "XCJ5BLPCHQ",
+        "display_name": "WickedGud Hakka Noodles|Healthy & Tasty Noodles | No Maida | No Oil | High Fibre |Cholesterol Free",
+        "price": {
+          "mrp": 120,
+          "store_price": 120,
+          "offer_price": 92,
+          "unit_level_price": "",
+          "discount_value": 28
+        },
+        "brand": "WickedGud",
+        "brand_id": "a9b760a149830c6bf771aecdb23ec6268b6d17d6",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Hakka Noodles|Healthy & Tasty Noodles | No Maida | No Oil | High Fibre |Cholesterol Free",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/78c06b9f-a962-4901-810a-9a4f45929f66_instantnoodlesandpasta_8MVC9PDRYQ_MN.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/c1aa59a1-b247-4aca-b5e5-f1652553d8ea_instantnoodlesandpasta_8MVC9PDRYQ_AL1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/ced59221-4c4b-417d-ad19-182e29f679a7_instantnoodlesandpasta_8MVC9PDRYQ_AL2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/8478fc4c-0b21-4e6e-9f1d-a6a221a99733_instantnoodlesandpasta_8MVC9PDRYQ_AL3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/d096b112-4714-413c-a9b8-bde9b852e4df_instantnoodlesandpasta_8MVC9PDRYQ_AL4.jpg"
+        ],
+        "images_v2": null,
+        "quantity": "200 g",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Satvyk Jowar Noodles",
+    "brand": "SATVYK",
+    "brand_id": "21e1d9517874aa5271ddaa2e43721acb05f80d4d",
+    "product_id": "50UL2LKAEM",
+    "variations": [
+      {
+        "id": "BZ8KUYL0PY",
+        "display_name": "Satvyk Jowar Noodles",
+        "price": {
+          "mrp": 139,
+          "store_price": 139,
+          "offer_price": 111,
+          "unit_level_price": "",
+          "discount_value": 28
+        },
+        "brand": "SATVYK",
+        "brand_id": "21e1d9517874aa5271ddaa2e43721acb05f80d4d",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Satvyk Jowar Noodles",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/1d415274-7be0-412b-9274-8c92b4001b7f_240024_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/96c50b39-4436-42ea-9b65-b712e0600fe3_240024_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/4/5010d33b-e5cd-4b81-86f8-1b15866ed8cd_240024_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "175 g",
+        "sku_quantity_with_combo": "175 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 175,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Nissin Cup Noodles Spiced Chicken & Coca-Cola Soft Drink Bottle",
+    "brand": "Nissin",
+    "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+    "product_id": "BTNR6W6ICE",
+    "variations": [
+      {
+        "id": "8P1KHRI3K5",
+        "display_name": "Nissin Cup Noodles Spiced Chicken & Coca-Cola Soft Drink Bottle",
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 100,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Nissin",
+        "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cup Noodles Spiced Chicken & Coca-Cola Soft Drink Bottle",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/17/187c6b37-9db6-473c-813d-8487fdb420e5_320643.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 820,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Nissin Cup Noodles Mazedaar Masala & Coca-Cola Soft Drink Bottle",
+    "brand": "Nissin",
+    "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+    "product_id": "MINMNBPKDN",
+    "variations": [
+      {
+        "id": "SXNJN4LZDF",
+        "display_name": "Nissin Cup Noodles Mazedaar Masala & Coca-Cola Soft Drink Bottle",
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 100,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Nissin",
+        "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cup Noodles Mazedaar Masala & Coca-Cola Soft Drink Bottle",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/17/94de4580-3738-4139-8d24-96ba645f4112_489967.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 820,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Wow! Chilli Chicken Noodles",
+    "brand": "Wow! Momo",
+    "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+    "product_id": "1ISCWPH66S",
+    "variations": [
+      {
+        "id": "74DURQBK50",
+        "display_name": "Wow! Chilli Chicken Noodles",
+        "price": {
+          "mrp": 125,
+          "store_price": 125,
+          "offer_price": 89,
+          "unit_level_price": "",
+          "discount_value": 36
+        },
+        "brand": "Wow! Momo",
+        "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Wow! Chilli Chicken Noodles",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/fb2e516f-a3eb-41d1-9b25-9002617a819a_959055_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/274ec927-6b05-431c-9e9a-3d324237000a_959055_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/27349e08-bdfb-44df-81c7-13a324d2833f_959055_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/f4d2b4e6-fe4f-430c-977c-1a1022d644ff_959055_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/e76e2ec9-9e52-4e34-b08b-948d6039e1d3_959055_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/496ce630-f0a8-473d-95cb-7b0ff169d806_959055_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "90 g",
+        "sku_quantity_with_combo": "90 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 90,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Amor Fusilli Pasta",
+    "brand": "Amor",
+    "brand_id": "700afb1a6ccf01af24f69b04f79059e8116cfe39",
+    "product_id": "D6GP3GMRTJ",
+    "variations": [
+      {
+        "id": "7NQLQHZP5C",
+        "display_name": "Amor Fusilli Pasta",
+        "price": {
+          "mrp": 249,
+          "store_price": 249,
+          "offer_price": 249,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Amor",
+        "brand_id": "700afb1a6ccf01af24f69b04f79059e8116cfe39",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Fusilli Pasta",
+        "images": [
+          "1f8a8d504d71929a69b04a330078fbce",
+          "4f178ec58fe1fd2226fbd812f8bca195",
+          "810f711d62eb33a1797ae7fb8ffe5161"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Wickedgud Penne Pasta & Veeba Pizza & Pasta Sauce Combo",
+    "brand": "Wickedgud",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "99RQ8XWDNV",
+    "variations": [
+      {
+        "id": "L87I5HPXRJ",
+        "display_name": "Wickedgud Penne Pasta & Veeba Pizza & Pasta Sauce Combo",
+        "price": {
+          "mrp": 319,
+          "store_price": 319,
+          "offer_price": 259,
+          "unit_level_price": "",
+          "discount_value": 60
+        },
+        "brand": "Wickedgud",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Penne Pasta & Veeba Pizza & Pasta Sauce Combo",
+        "images": [
+          "3a0bd5be1150483811ab3342db217c6c"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 680,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Sunfeast Yippee Tricolor Pasta Masala",
+    "brand": "Sunfeast Yippee",
+    "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+    "product_id": "41CK1H9KBM",
+    "variations": [
+      {
+        "id": "TG6RI1MY5Q",
+        "display_name": "Sunfeast Yippee Tricolor Pasta Masala",
+        "price": {
+          "mrp": 70,
+          "store_price": 70,
+          "offer_price": 63,
+          "unit_level_price": "",
+          "discount_value": 7
+        },
+        "brand": "Sunfeast Yippee",
+        "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Tricolor Pasta Masala",
+        "images": [
+          "55c4f140e21cbbcd03507d83908d7812"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "65 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 130,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Disano Elbow Pasta 100% Durum Wheat",
+    "brand": "Disano",
+    "brand_id": "025e169323d039ea588c3aee505b37dadfbd9c2d",
+    "product_id": "3K866TAV11",
+    "variations": [
+      {
+        "id": "THTGYLI8VO",
+        "display_name": "Disano Elbow Pasta 100% Durum Wheat",
+        "price": {
+          "mrp": 350,
+          "store_price": 350,
+          "offer_price": 164,
+          "unit_level_price": "",
+          "discount_value": 186
+        },
+        "brand": "Disano",
+        "brand_id": "025e169323d039ea588c3aee505b37dadfbd9c2d",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Elbow Pasta 100% Durum Wheat",
+        "images": [
+          "78cac05d1034c25a4d0d43f8e785851d"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "500 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Wow! Thukpa Veg",
+    "brand": "Wow! Momo",
+    "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+    "product_id": "HPKIV8BB9Y",
+    "variations": [
+      {
+        "id": "CYWORAGSFW",
+        "display_name": "Wow! Thukpa Veg",
+        "price": {
+          "mrp": 120,
+          "store_price": 120,
+          "offer_price": 89,
+          "unit_level_price": "",
+          "discount_value": 31
+        },
+        "brand": "Wow! Momo",
+        "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Wow! Thukpa Veg",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/d6e08762-2642-4ee0-99df-6068d25b4960_440059_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/a574129f-ff69-4441-a5e2-e698dcff25be_440059_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/aeb03ead-0513-47d1-a378-bc274f08d6c7_440059_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/ea2e9fe7-0b0c-4fd0-8ec4-739d08f0f36e_440059_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/d9c02e67-1323-418c-8f21-10d6ce3493c0_440059_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/6/a2170193-32aa-430f-9a4a-81f2da184300_440059_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "55 g",
+        "sku_quantity_with_combo": "55 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 55,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Sunfeast Yippee Mood Masala Noodles Money Saver Pack",
+    "brand": "Sunfeast Yippee",
+    "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+    "product_id": "NPXIJ1Z1PI",
+    "variations": [
+      {
+        "id": "C0M7S78Z79",
+        "display_name": "Sunfeast Yippee Mood Masala Noodles Money Saver Pack",
+        "price": {
+          "mrp": 120,
+          "store_price": 120,
+          "offer_price": 120,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Sunfeast Yippee",
+        "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Mood Masala Noodles Money Saver Pack",
+        "images": [
+          "60225254530ca58396178f18758a4630"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "260 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 520,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Yu Chilli Chicken Instant Cup Noodles",
+    "brand": "Yu",
+    "brand_id": "f50b8bc10e521f7af8b48681a8ea23cab9a2e923",
+    "product_id": "IYOBA8NL06",
+    "variations": [
+      {
+        "id": "UHW0TV2BWA",
+        "display_name": "Yu Chilli Chicken Instant Cup Noodles",
+        "price": {
+          "mrp": 207,
+          "store_price": 207,
+          "offer_price": 170,
+          "unit_level_price": "81/100 g",
+          "discount_value": 37
+        },
+        "brand": "Yu",
+        "brand_id": "f50b8bc10e521f7af8b48681a8ea23cab9a2e923",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chilli Chicken Instant Cup Noodles",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/8/f4ebf6b5-81ce-4bc5-8893-f3012975286a_instantnoodlesandpasta_7FRRVF8ZBK_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "3 pieces",
+        "sku_quantity_with_combo": "70 g x 3",
+        "unit_of_measure": null,
+        "weight_in_grams": 210,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "L441IB4VWD",
+        "display_name": "Yu Chilli Chicken Instant Cup Noodles",
+        "price": {
+          "mrp": 138,
+          "store_price": 138,
+          "offer_price": 116,
+          "unit_level_price": "82.9/100 g",
+          "discount_value": 22
+        },
+        "brand": "Yu",
+        "brand_id": "f50b8bc10e521f7af8b48681a8ea23cab9a2e923",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chilli Chicken Instant Cup Noodles",
+        "images": [
+          "68d68f8a1bf85a95173ea9210d42809e",
+          "NI_CATALOG/IMAGES/CIW/2024/5/7/ce7de18b-4011-4ecc-a70f-35cfc506c5cf_instantnoodlesandpasta_LWBFKQYTGA_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/7/ceb3053e-4a10-4f2a-8c0f-44ffefad6661_instantnoodlesandpasta_LWBFKQYTGA_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/7/df24a5a1-7234-4f31-b685-2b61c3474c4d_instantnoodlesandpasta_LWBFKQYTGA_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/7/4c3ae366-2075-4ce2-aaca-5c8cc37fd562_instantnoodlesandpasta_LWBFKQYTGA_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/7/a2265f0e-00a4-4dbe-b456-9ccf3ec00111_instantnoodlesandpasta_LWBFKQYTGA_AL5.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "70 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 140,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "8MPKMGKAAO",
+        "display_name": "Yu Chilli Chicken Instant Cup Noodles",
+        "price": {
+          "mrp": 69,
+          "store_price": 69,
+          "offer_price": 58,
+          "unit_level_price": "82.9/100 g",
+          "discount_value": 11
+        },
+        "brand": "Yu",
+        "brand_id": "f50b8bc10e521f7af8b48681a8ea23cab9a2e923",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chilli Chicken Instant Cup Noodles",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/7/e1e599d7-d059-4d83-92e8-7052092e4710_instantnoodlesandpasta_LWBFKQYTGA_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/7/ce7de18b-4011-4ecc-a70f-35cfc506c5cf_instantnoodlesandpasta_LWBFKQYTGA_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/7/ceb3053e-4a10-4f2a-8c0f-44ffefad6661_instantnoodlesandpasta_LWBFKQYTGA_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/7/df24a5a1-7234-4f31-b685-2b61c3474c4d_instantnoodlesandpasta_LWBFKQYTGA_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/7/4c3ae366-2075-4ce2-aaca-5c8cc37fd562_instantnoodlesandpasta_LWBFKQYTGA_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/7/a2265f0e-00a4-4dbe-b456-9ccf3ec00111_instantnoodlesandpasta_LWBFKQYTGA_AL5.png"
+        ],
+        "images_v2": null,
+        "quantity": "70 g",
+        "sku_quantity_with_combo": "70 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 70,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Sunfeast Yippee Cheese Instant Pasta",
+    "brand": "Sunfeast Yippee",
+    "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+    "product_id": "NBTLME25SR",
+    "variations": [
+      {
+        "id": "7G8456M5QJ",
+        "display_name": "Sunfeast Yippee Cheese Instant Pasta",
+        "price": {
+          "mrp": 105,
+          "store_price": 105,
+          "offer_price": 73,
+          "unit_level_price": "37.4/100 g",
+          "discount_value": 32
+        },
+        "brand": "Sunfeast Yippee",
+        "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cheese Instant Pasta",
+        "images": [
+          "ba9a2a0c6e89124825d1ed3869651808",
+          "wdifueirht7jfohmjssv",
+          "t37pn6oso2ze3mbeqdsp"
+        ],
+        "images_v2": null,
+        "quantity": "3 pieces",
+        "sku_quantity_with_combo": "65 g x 3",
+        "unit_of_measure": null,
+        "weight_in_grams": 195,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "438ATZLQOB",
+        "display_name": "Sunfeast Yippee Cheese Instant Pasta",
+        "price": {
+          "mrp": 70,
+          "store_price": 70,
+          "offer_price": 49,
+          "unit_level_price": "37.7/100 g",
+          "discount_value": 21
+        },
+        "brand": "Sunfeast Yippee",
+        "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cheese Instant Pasta",
+        "images": [
+          "eb4c79f885fe844e2bb81205a59ac8fd"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "65 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 130,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "9OHVZG6ZVH",
+        "display_name": "Sunfeast Yippee Cheese Instant Pasta",
+        "price": {
+          "mrp": 35,
+          "store_price": 35,
+          "offer_price": 31,
+          "unit_level_price": "47.7/100 g",
+          "discount_value": 4
+        },
+        "brand": "Sunfeast Yippee",
+        "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cheese Instant Pasta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/94692dd3-8164-4568-b561-407fda15df5e_1147_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/33dde9b4-f877-4b95-889e-78c357338aea_1147_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/5cca43a5-db72-4520-965d-4601ece9cccb_1147_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/3cbf4090-1031-4448-b029-963d27fa864e_1147_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/99daddf6-d103-49d3-90cf-913f4bc4e06f_1147_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/ca2ffd3e-dfc7-4354-a3cf-0d25c1527f97_1147_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "65 g",
+        "sku_quantity_with_combo": "65 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 65,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Disano Elbow Pasta 100% Durum Wheat",
+    "brand": "Disano",
+    "brand_id": "025e169323d039ea588c3aee505b37dadfbd9c2d",
+    "product_id": "73SS8UWK0O",
+    "variations": [
+      {
+        "id": "ZM5CLAPKZU",
+        "display_name": "Disano Elbow Pasta 100% Durum Wheat",
+        "price": {
+          "mrp": 175,
+          "store_price": 175,
+          "offer_price": 82,
+          "unit_level_price": "",
+          "discount_value": 93
+        },
+        "brand": "Disano",
+        "brand_id": "025e169323d039ea588c3aee505b37dadfbd9c2d",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Elbow Pasta 100% Durum Wheat",
+        "images": [
+          "c03ddd6ae7574f5c269df92ef2e6f7f1",
+          "7c8f964a493fdb855145a7d6840b3470",
+          "92fba1d50d9b42fc218faf784d77c3e5",
+          "64dc20b77cd6de19d4600716c9888248",
+          "a2b397b8eab26017b4595879ff530e34"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Ching's Secret Manchurian Instant Noodles",
+    "brand": "Ching's Secret",
+    "brand_id": "16bc1c6503594ba9a279eb23c524e683b85db1b2",
+    "product_id": "9G1DVBDIDW",
+    "variations": [
+      {
+        "id": "FVFYNFD850",
+        "display_name": "Ching's Secret Manchurian Instant Noodles",
+        "price": {
+          "mrp": 160,
+          "store_price": 160,
+          "offer_price": 154,
+          "unit_level_price": "32.1/100 g",
+          "discount_value": 6
+        },
+        "brand": "Ching's Secret",
+        "brand_id": "16bc1c6503594ba9a279eb23c524e683b85db1b2",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Manchurian Instant Noodles",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/16/b167eda9-63f2-4dc3-8646-83aef8faa3cd_22322.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/6/8e77d11a-0d60-4a89-9387-97ac697c25a6_3076_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/6/155e5ee4-348e-490b-91da-d9ed13c3d3b1_3076_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/6/2c152a2e-a36b-4118-95f5-b237c1d0364f_3076_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/6/4f6c54c9-cff7-460f-9ba1-a4d8281e8c55_3076_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/6/39c0ddf9-b0ea-4472-86f3-29ace22fbff8_3076_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "240 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 480,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "GA7FO0I2XI",
+        "display_name": "Ching's Secret Manchurian Instant Noodles",
+        "price": {
+          "mrp": 80,
+          "store_price": 80,
+          "offer_price": 77,
+          "unit_level_price": "32.1/100 g",
+          "discount_value": 3
+        },
+        "brand": "Ching's Secret",
+        "brand_id": "16bc1c6503594ba9a279eb23c524e683b85db1b2",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Manchurian Instant Noodles",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/21/42d05795-489e-4e70-b630-ce355c20e8f9_3076_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/21/f39d8dfe-657e-499c-b386-4e00920033c2_3076_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/21/4fa3538e-b523-4059-aa6d-ef3d2ea2e9bc_3076_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/21/6f510505-6c13-4b1c-99c7-9c10522c23f2_3076_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/21/57811b3d-b936-459e-9b9a-7b1c3ea61894_3076_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/21/be611754-4e10-40d7-b7a9-aa176d5bdc91_3076_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "240 g",
+        "sku_quantity_with_combo": "240 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 240,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Wickedgud Masala Noodles | Healthy & Tasty | No Maida | No Oil | High Protein |Cholesterol Free",
+    "brand": "WickedGud",
+    "brand_id": "a9b760a149830c6bf771aecdb23ec6268b6d17d6",
+    "product_id": "JI1WR2K6N9",
+    "variations": [
+      {
+        "id": "AQBDSIOF1I",
+        "display_name": "Wickedgud Masala Noodles | Healthy & Tasty | No Maida | No Oil | High Protein |Cholesterol Free",
+        "price": {
+          "mrp": 135,
+          "store_price": 135,
+          "offer_price": 104,
+          "unit_level_price": "",
+          "discount_value": 31
+        },
+        "brand": "WickedGud",
+        "brand_id": "a9b760a149830c6bf771aecdb23ec6268b6d17d6",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Wickedgud Masala Noodles | Healthy & Tasty | No Maida | No Oil | High Protein |Cholesterol Free",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/288cff10-576b-4c86-a1d2-12bebb9daa46_instantnoodlesandpasta_TJ51WMOSQI_MN.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/0ca17a0a-d512-4455-943d-01377abe01d4_instantnoodlesandpasta_TJ51WMOSQI_AL1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/eb28fb5c-885a-4a1f-9632-9f895257d078_instantnoodlesandpasta_TJ51WMOSQI_AL2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/81e2e03c-02a3-46c9-bd55-a8b0265c37f8_instantnoodlesandpasta_TJ51WMOSQI_AL3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/9/f88c978c-948a-40b6-b0b9-1a6024baa45a_instantnoodlesandpasta_TJ51WMOSQI_AL4.jpg"
+        ],
+        "images_v2": null,
+        "quantity": "207 g",
+        "sku_quantity_with_combo": "207 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 207,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Nissin Geki Cheese - Hot & Spicy Korean Cheese Flavour",
+    "brand": "Nissin",
+    "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+    "product_id": "VC3M9QY93F",
+    "variations": [
+      {
+        "id": "RFH3SKGLW7",
+        "display_name": "Nissin Geki Cheese - Hot & Spicy Korean Cheese Flavour",
+        "price": {
+          "mrp": 55,
+          "store_price": 55,
+          "offer_price": 41,
+          "unit_level_price": "",
+          "discount_value": 14
+        },
+        "brand": "Nissin",
+        "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Geki Cheese - Hot & Spicy Korean Cheese Flavour",
+        "images": [
+          "765b5d07267e2cb710462c2a0df85f8c",
+          "d1d22ad3c311b3e53a9522e4e8e68d94",
+          "b419fd40587027c2c18f84fa14c4f7e0"
+        ],
+        "images_v2": null,
+        "quantity": "80 g",
+        "sku_quantity_with_combo": "80 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 80,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Maggi Korean Bbq Veg Instant Noodles",
+    "brand": "Maggi",
+    "brand_id": "c04113667d425ad1010207c5a33d0d3ec57cf93d",
+    "product_id": "A14E4Q4WAD",
+    "variations": [
+      {
+        "id": "S1L1DXOFUR",
+        "display_name": "Maggi Korean Bbq Veg Instant Noodles",
+        "price": {
+          "mrp": 180,
+          "store_price": 180,
+          "offer_price": 92,
+          "unit_level_price": "34.1/100 g",
+          "discount_value": 88
+        },
+        "brand": "Maggi",
+        "brand_id": "c04113667d425ad1010207c5a33d0d3ec57cf93d",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Korean Bbq Veg Instant Noodles",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/23/49b900d4-04c7-4ad4-99d6-a7bd8749cb26_instantnoodlesandpasta_QUR2JS63QB_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "3 pieces",
+        "sku_quantity_with_combo": "90 g x 3",
+        "unit_of_measure": null,
+        "weight_in_grams": 270,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "5AT3AF1L3Z",
+        "display_name": "Maggi Korean Bbq Veg Instant Noodles",
+        "price": {
+          "mrp": 120,
+          "store_price": 120,
+          "offer_price": 80,
+          "unit_level_price": "44.4/100 g",
+          "discount_value": 40
+        },
+        "brand": "Maggi",
+        "brand_id": "c04113667d425ad1010207c5a33d0d3ec57cf93d",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Korean Bbq Veg Instant Noodles",
+        "images": [
+          "1d5e36d6a02f75feead009676c9755f8"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "90 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 180,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "1VNOU676YK",
+        "display_name": "Maggi Korean Bbq Veg Instant Noodles",
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 40,
+          "unit_level_price": "44.4/100 g",
+          "discount_value": 20
+        },
+        "brand": "Maggi Korean",
+        "brand_id": "c04113667d425ad1010207c5a33d0d3ec57cf93d",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Bbq Veg Instant Noodles",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/3/5ea3a24c-5342-40a5-8977-8ffb83f405b0_68789_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/3/212d2228-982a-4ba7-9efe-ddadb9ba6b1a_68789_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/3/7a2d21a3-45d5-4643-a076-d2c14b95a015_68789_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/3/c418fc1b-b5d1-4402-b4d3-c381d486c0b0_68789_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/3/9ac9e894-b56d-4e10-8306-856c3f8365fd_68789_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/3/028c6b5e-10cb-42e3-b21a-0b44a25ee9a4_68789_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "90 g",
+        "sku_quantity_with_combo": "90 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 90,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Sunfeast Yippee Masala Instant Pasta",
+    "brand": "Sunfeast Yippee",
+    "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+    "product_id": "X6SDHQ6P23",
+    "variations": [
+      {
+        "id": "OSTWTMC9CV",
+        "display_name": "Sunfeast Yippee Masala Instant Pasta",
+        "price": {
+          "mrp": 105,
+          "store_price": 105,
+          "offer_price": 73,
+          "unit_level_price": "37.4/100 g",
+          "discount_value": 32
+        },
+        "brand": "Sunfeast Yippee",
+        "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Masala Instant Pasta",
+        "images": [
+          "847e9e32762a7856a55cd53c0ce96ce9",
+          "hqwup7wi6ejd7bz68vvh",
+          "taiwied4jrhuc6wf54fk"
+        ],
+        "images_v2": null,
+        "quantity": "3 pieces",
+        "sku_quantity_with_combo": "65 g x 3",
+        "unit_of_measure": null,
+        "weight_in_grams": 195,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "L7CTVW9VMX",
+        "display_name": "Sunfeast Yippee Masala Instant Pasta",
+        "price": {
+          "mrp": 70,
+          "store_price": 70,
+          "offer_price": 63,
+          "unit_level_price": "48.5/100 g",
+          "discount_value": 7
+        },
+        "brand": "Sunfeast Yippee",
+        "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Masala Instant Pasta",
+        "images": [
+          "da3a374c8fc1bdd7ed0c8c419f64fe8b",
+          "hqwup7wi6ejd7bz68vvh",
+          "taiwied4jrhuc6wf54fk"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "65 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 130,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "03GP2YSCN0",
+        "display_name": "Sunfeast Yippee Masala Instant Pasta",
+        "price": {
+          "mrp": 35,
+          "store_price": 35,
+          "offer_price": 31,
+          "unit_level_price": "47.7/100 g",
+          "discount_value": 4
+        },
+        "brand": "Sunfeast Yippee",
+        "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Sunfeast YiPPee! 100% Suji Masala Pasta Treat",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/1200a8c5-d736-43cb-89a6-4a9c4b57d637_1202_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/697666ce-691b-4303-a6ca-3799a3090d53_1202_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/8cb1052c-b4ef-4718-bc84-62f64f59716f_1202_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/33150db9-0467-4fb7-832e-9ef91b0371fe_1202_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/1914e52d-2a9f-4ecb-8801-900cdea31e13_1202_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/ee3a433e-a169-45d4-be1f-30186ba7b838_1202_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "65 g",
+        "sku_quantity_with_combo": "65 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 65,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Wai Wai Cup Noodles Chicken",
+    "brand": "Wai Wai",
+    "brand_id": "b092670a9ee0f68b6a4a1d2d0a16f92c4bab9777",
+    "product_id": "MM08K7VISA",
+    "variations": [
+      {
+        "id": "KPAILKJY0I",
+        "display_name": "Wai Wai Cup Noodles Chicken",
+        "price": {
+          "mrp": 120,
+          "store_price": 120,
+          "offer_price": 80,
+          "unit_level_price": "57.1/100 g",
+          "discount_value": 40
+        },
+        "brand": "Wai Wai",
+        "brand_id": "b092670a9ee0f68b6a4a1d2d0a16f92c4bab9777",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cup Noodles Chicken",
+        "images": [
+          "81811655d67679f7fd9e0ae097d92ff2",
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/e8d10811-114a-4712-a966-005f499de88e_3283_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/08d53c51-874e-46c1-80a3-cd55104704ac_3283_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/4f3d36a4-95f2-46be-8d3b-7b05dde622ae_3283_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/4250c12d-ddf6-4839-9e29-4dea71f3be37_3283_5.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "70 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 130,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "3DQKWTQV02",
+        "display_name": "Wai Wai Cup Noodles Chicken",
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 40,
+          "unit_level_price": "57.1/100 g",
+          "discount_value": 20
+        },
+        "brand": "Wai Wai",
+        "brand_id": "b092670a9ee0f68b6a4a1d2d0a16f92c4bab9777",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cup Noodles Chicken",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/6bd67441-60b7-4d71-8788-fd5ae29e3ccb_3283_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/e8d10811-114a-4712-a966-005f499de88e_3283_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/08d53c51-874e-46c1-80a3-cd55104704ac_3283_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/4f3d36a4-95f2-46be-8d3b-7b05dde622ae_3283_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/4250c12d-ddf6-4839-9e29-4dea71f3be37_3283_5.png"
+        ],
+        "images_v2": null,
+        "quantity": "70 g",
+        "sku_quantity_with_combo": "70 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 65,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Yu High Protein Whole Wheat Noodles",
+    "brand": "Yu",
+    "brand_id": "f50b8bc10e521f7af8b48681a8ea23cab9a2e923",
+    "product_id": "Z4O2EQDBZ2",
+    "variations": [
+      {
+        "id": "7KW5T2XXN4",
+        "display_name": "Yu High Protein Whole Wheat Noodles",
+        "price": {
+          "mrp": 75,
+          "store_price": 75,
+          "offer_price": 75,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Yu",
+        "brand_id": "f50b8bc10e521f7af8b48681a8ea23cab9a2e923",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "High Protein Whole Wheat Noodles",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/13/79b6180e-8dde-4b3b-8c6d-32d660ff00e2_242972_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/13/c3eb6bfc-09a8-4cc1-bc27-f44c85ea50cd_242972_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/13/1a0a275e-5d2b-471b-b53c-ab9a435de438_242972_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/13/283da53f-326d-4397-9cee-6090f3439d1a_242972_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/13/787622a3-f526-44c9-adaa-1f387874f795_242972_5.png"
+        ],
+        "images_v2": null,
+        "quantity": "150 g",
+        "sku_quantity_with_combo": "150 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 150,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Ching's Secret Manchurian Instant Noodles & Ching's Secret Mix Veg Soup",
+    "brand": "Ching's Secret",
+    "brand_id": "16bc1c6503594ba9a279eb23c524e683b85db1b2",
+    "product_id": "4X8ICOMOFQ",
+    "variations": [
+      {
+        "id": "ZZ8AZXUZTY",
+        "display_name": "Ching's Secret Manchurian Instant Noodles & Ching's Secret Mix Veg Soup",
+        "price": {
+          "mrp": 140,
+          "store_price": 140,
+          "offer_price": 124,
+          "unit_level_price": "",
+          "discount_value": 16
+        },
+        "brand": "Ching's Secret",
+        "brand_id": "16bc1c6503594ba9a279eb23c524e683b85db1b2",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Manchurian Instant Noodles & Ching's Secret Mix Veg Soup",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/17/3b0b2f27-919e-40c2-876f-3d8d50f3ebb9_421267.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 295,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Nissin Geki Hot & Spicy Korean Cup Noodles Chicken Flavor",
+    "brand": "Nissin",
+    "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+    "product_id": "P95CQ65B1D",
+    "variations": [
+      {
+        "id": "28TFQF5MTN",
+        "display_name": "Nissin Geki Hot & Spicy Korean Cup Noodles Chicken Flavor",
+        "price": {
+          "mrp": 89,
+          "store_price": 89,
+          "offer_price": 62,
+          "unit_level_price": "",
+          "discount_value": 27
+        },
+        "brand": "Nissin",
+        "brand_id": "d17d26aac86d0dd2a218e87a1437a48014a3c20a",
+        "category": "Noodles and Vermicelli",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Geki Hot & Spicy Korean Cup Noodles Chicken Flavor",
+        "images": [
+          "5e321b78f7779099b2eaf7167caec3d0",
+          "9db8241e67f7831caa19c744d6b71c6d",
+          "cc16f565e5628975064c4989e7a44e0a"
+        ],
+        "images_v2": null,
+        "quantity": "70 g",
+        "sku_quantity_with_combo": "70 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 70,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Borges Farfalle Durum Wheat Pasta",
+    "brand": "Borges",
+    "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+    "product_id": "KEKCQKA7P8",
+    "variations": [
+      {
+        "id": "L0Y250AODP",
+        "display_name": "Borges Farfalle Durum Wheat Pasta",
+        "price": {
+          "mrp": 700,
+          "store_price": 700,
+          "offer_price": 595,
+          "unit_level_price": "59.5/100 g",
+          "discount_value": 105
+        },
+        "brand": "Borges",
+        "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Farfalle Durum Wheat Pasta",
+        "images": [
+          "e2a94f65d32dfca97e7c46b02a261020",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/93440aa8-5506-4462-abe3-cf65fbe4b653_noodlesandpasta_Z6F0R0K4J5_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/be137729-5a89-4f54-a63c-9383954a34ab_noodlesandpasta_Z6F0R0K4J5_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/ea4bf655-f09c-46b4-b5b9-bb4820a614a2_noodlesandpasta_Z6F0R0K4J5_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/20a79c23-06bc-42be-86b7-cd11c59fa572_noodlesandpasta_Z6F0R0K4J5_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/26938e64-5840-4e2d-aad0-ee79ac060e45_noodlesandpasta_Z6F0R0K4J5_AL5.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "500 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "TKHNPYJTCK",
+        "display_name": "Borges Farfalle Durum Wheat Pasta",
+        "price": {
+          "mrp": 350,
+          "store_price": 350,
+          "offer_price": 297,
+          "unit_level_price": "59.4/100 g",
+          "discount_value": 53
+        },
+        "brand": "Borges",
+        "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Farfalle Durum Wheat Pasta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/cf886a86-40f3-43af-a194-17d004a79f3f_noodlesandpasta_Z6F0R0K4J5_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/93440aa8-5506-4462-abe3-cf65fbe4b653_noodlesandpasta_Z6F0R0K4J5_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/be137729-5a89-4f54-a63c-9383954a34ab_noodlesandpasta_Z6F0R0K4J5_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/ea4bf655-f09c-46b4-b5b9-bb4820a614a2_noodlesandpasta_Z6F0R0K4J5_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/20a79c23-06bc-42be-86b7-cd11c59fa572_noodlesandpasta_Z6F0R0K4J5_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/26938e64-5840-4e2d-aad0-ee79ac060e45_noodlesandpasta_Z6F0R0K4J5_AL5.png"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Ching's Secret Instant Manchow Soup",
+    "brand": "Ching's Secret",
+    "brand_id": "16bc1c6503594ba9a279eb23c524e683b85db1b2",
+    "product_id": "X0DR7C6HUC",
+    "variations": [
+      {
+        "id": "TR17NWU8D0",
+        "display_name": "Ching's Secret Instant Manchow Soup",
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 100,
+          "unit_level_price": "83.3/100 g",
+          "discount_value": 0
+        },
+        "brand": "Ching's Secret",
+        "brand_id": "16bc1c6503594ba9a279eb23c524e683b85db1b2",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Manchow Instant Soup (Pack of 10)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/14/7eea2b6f-3dbb-4fea-97b9-5212f912bc97_134673.png"
+        ],
+        "images_v2": null,
+        "quantity": "10 pieces",
+        "sku_quantity_with_combo": "12 g x 10",
+        "unit_of_measure": null,
+        "weight_in_grams": 120,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "CNHYDT0Q1M",
+        "display_name": "Ching's Secret Instant Manchow Soup",
+        "price": {
+          "mrp": 10,
+          "store_price": 10,
+          "offer_price": 10,
+          "unit_level_price": "83.3/100 g",
+          "discount_value": 0
+        },
+        "brand": "Ching's Secret",
+        "brand_id": "16bc1c6503594ba9a279eb23c524e683b85db1b2",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Instant Manchow Soup",
+        "images": [
+          "nxgv3qqffaqjrk4lc5c5",
+          "xqbpjhkqonmbwjb3izfe",
+          "vpyxv73fnnrqsdyouz5a"
+        ],
+        "images_v2": null,
+        "quantity": "12 g",
+        "sku_quantity_with_combo": "12 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 12,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Del Monte Food Craft Pasta Spaghetti",
+    "brand": "Del Monte",
+    "brand_id": "c01cbb81b7bbf8311d5bf526363f29a5240134fe",
+    "product_id": "N9F6UQIM3N",
+    "variations": [
+      {
+        "id": "UGT55Y3Q4T",
+        "display_name": "Del Monte Food Craft Pasta Spaghetti",
+        "price": {
+          "mrp": 190,
+          "store_price": 190,
+          "offer_price": 108,
+          "unit_level_price": "",
+          "discount_value": 82
+        },
+        "brand": "Del Monte",
+        "brand_id": "c01cbb81b7bbf8311d5bf526363f29a5240134fe",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Food Craft Pasta Spaghetti",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/7/4dcea21d-2824-45bf-8f94-3c9fce216629_627405_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/7/dcf69bf3-0e89-47ee-9285-e7b2cdc51991_627405_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/7/666b9e78-09a1-40a0-bdfe-858636b45bfb_627405_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/7/1b9718ae-0697-49a0-9ba7-e73e506a3715_627405_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "400 g",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  },
+  {
+    "display_name": "Sunfeast YiPPee! 100% Suji Tricolor Creamy Corn Pasta",
+    "brand": "Sunfeast Yippee",
+    "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+    "product_id": "992JXNIEJN",
+    "variations": [
+      {
+        "id": "1QWFJ5UWRQ",
+        "display_name": "Sunfeast YiPPee! 100% Suji Tricolor Creamy Corn Pasta",
+        "price": {
+          "mrp": 105,
+          "store_price": 105,
+          "offer_price": 73,
+          "unit_level_price": "37.4/100 g",
+          "discount_value": 32
+        },
+        "brand": "Sunfeast Yippee",
+        "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Creamy Corn Tricolor Pasta",
+        "images": [
+          "6218755dc65dd76c4e6e608cd8162d3b",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/5c19ab96-ebb4-465e-ab95-81dc7d9adc14_8651_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/ccacac37-b9c6-437f-9620-25890a3fb4af_8651_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/52ba76fd-610c-4d0c-818a-d22962862f02_8651_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/5ec0f412-f65f-424b-a84c-6c351dbae8f9_8651_5.png"
+        ],
+        "images_v2": null,
+        "quantity": "3 pieces",
+        "sku_quantity_with_combo": "65 g x 3",
+        "unit_of_measure": null,
+        "weight_in_grams": 195,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "CQDXV8D6AO",
+        "display_name": "Sunfeast YiPPee! 100% Suji Tricolor Creamy Corn Pasta",
+        "price": {
+          "mrp": 70,
+          "store_price": 70,
+          "offer_price": 63,
+          "unit_level_price": "48.5/100 g",
+          "discount_value": 7
+        },
+        "brand": "Sunfeast Yippee",
+        "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Creamy Corn Tricolor Pasta",
+        "images": [
+          "0a513516b35fb8f8c64c24cdd4890884",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/5c19ab96-ebb4-465e-ab95-81dc7d9adc14_8651_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/ccacac37-b9c6-437f-9620-25890a3fb4af_8651_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/52ba76fd-610c-4d0c-818a-d22962862f02_8651_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/5ec0f412-f65f-424b-a84c-6c351dbae8f9_8651_5.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "65 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 130,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "A6844GCVG2",
+        "display_name": "Sunfeast YiPPee! 100% Suji Tricolor Creamy Corn Pasta",
+        "price": {
+          "mrp": 35,
+          "store_price": 35,
+          "offer_price": 31,
+          "unit_level_price": "47.7/100 g",
+          "discount_value": 4
+        },
+        "brand": "Sunfeast Yippee",
+        "brand_id": "7828f23e6220f078461a240614806bc302d9594b",
+        "category": "Pasta and Soups",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Sunfeast YiPPee! 100% Suji Tricolor Creamy Corn Pasta",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/d8447669-94b4-43c9-a772-52c237dc6d19_8651_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/e8b993bc-6029-4339-bad6-f4371c2ece98_8651_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/2ca12dbf-2fb3-45b4-bdcb-8e42ff84d1f4_8651_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/3bdb12ff-1f8d-4685-86db-518860228cb1_8651_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/a110ff98-cad8-42a0-81ff-c9e7f054c365_8651_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/24/3aa55281-26a5-4a7b-bd82-ee6f6fb550bb_8651_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "65 g",
+        "sku_quantity_with_combo": "65 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 65,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a7c",
+        "name": "Noodles, Pasta, Vermicelli"
+      },
+      "category_name_from_url": "Noodles, Pasta, Vermicelli"
+    }
+  }
+]

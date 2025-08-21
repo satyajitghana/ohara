@@ -1,0 +1,20 @@
+curl 'https://www.jiomart.com/catalog/tree_json_plp/quick?vertical_code=GROCERIES&region_code=FR47&store_code=2797&cat_id=2&quick=1&ps=2797&pr=FR47' \
+  -H 'accept: application/json, text/javascript, */*; q=0.01'
+
+  curl 'https://3yp0hp3wsh-dsn.algolia.net/1/indexes/*/queries?x-algolia-agent=Algolia%20for%20JavaScript%20(4.5.1)%3B%20Browser%3B%20instantsearch.js%20(4.59.0)%3B%20JS%20Helper%20(3.15.0)' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H 'Connection: keep-alive' \
+  -H 'Origin: https://www.jiomart.com' \
+  -H 'Referer: https://www.jiomart.com/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36' \
+  -H 'content-type: application/x-www-form-urlencoded' \
+  -H 'sec-ch-ua: "Not;A=Brand";v="99", "Google Chrome";v="139", "Chromium";v="139"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'x-algolia-api-key: aace3f18430a49e185d2c1111602e4b1' \
+  -H 'x-algolia-application-id: 3YP0HP3WSH' \
+  --data-raw '{"requests":[{"indexName":"prod_mart_master_vertical_products_popularity","params":"analyticsTags=%5B%22Category%20PLP%22%5D&attributesToHighlight=%5B%5D&attributesToRetrieve=%5B%22*%22%2C%22-algolia_facet%22%2C%22-alt_class_keywords%22%2C%22-available_stores%22%2C%22-avg_discount%22%2C%22-avg_discount_pct%22%2C%22-avg_discount_rate%22%2C%22-avg_mrp%22%2C%22-avg_selling_price%22%2C%22-search_keywords%22%5D&clickAnalytics=true&distinct=false&enableRules=true&facets=%5B%22algolia_facet.*%22%2C%22avg_discount_pct%22%2C%22avg_selling_price%22%2C%22brand%22%2C%22category_level.level4%22%5D&filters=category_ids%3A29000%20AND%20(mart_availability%3AJIO%20OR%20mart_availability%3AJIO_WA)%20AND%20(available_stores%3AFR47%20OR%20available_stores%3ASK36)%20AND%20((inventory_stores%3AALL%20OR%20inventory_stores%3A2797%20OR%20inventory_stores%3ASK36%20OR%20inventory_stores_3p%3AALL%20OR%20inventory_stores_3p%3Agroceries_zone_non-essential_services%20OR%20inventory_stores_3p%3Ageneral_zone%20OR%20inventory_stores_3p%3Agroceries_zone_essential_services))&highlightPostTag=__%2Fais-highlight__&highlightPreTag=__ais-highlight__&hitsPerPage=12&maxValuesPerFacet=50&page=0&query=&ruleContexts=%5B%22PLP%22%5D&tagFilters="}]}'

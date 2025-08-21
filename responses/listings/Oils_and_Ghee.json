@@ -1,1 +1,4612 @@
-[]
+[
+  {
+    "display_name": "Sunpure Refined Sunflower Oil",
+    "brand": "Sunpure",
+    "brand_id": "33271606d20feb2a5c82edf82798175fd6299073",
+    "product_id": "SQJ96N818K",
+    "variations": [
+      {
+        "id": "QT3ROTVRB6",
+        "display_name": "Sunpure Refined Sunflower Oil",
+        "price": {
+          "mrp": 180,
+          "store_price": 180,
+          "offer_price": 155,
+          "unit_level_price": "",
+          "discount_value": 25
+        },
+        "brand": "Sunpure",
+        "brand_id": "33271606d20feb2a5c82edf82798175fd6299073",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Sunflower Oil",
+        "sub_category_l4": "Refined Oil",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Refined Sunflower Oil",
+        "images": [
+          "v0ewl0jrauxswxyaylei",
+          "zzl5da6imtjapccl0l7u",
+          "eiqhlnst2ana6ugq2a5l"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Gold Winner Refined Sunflower Oil",
+    "brand": "Gold Winner",
+    "brand_id": "722a2df5efbe1e08e07556ff1aa5e6f45f87abc2",
+    "product_id": "MKUD6C8VNB",
+    "variations": [
+      {
+        "id": "50QR456YA5",
+        "display_name": "Gold Winner Refined Sunflower Oil",
+        "price": {
+          "mrp": 175,
+          "store_price": 175,
+          "offer_price": 158,
+          "unit_level_price": "",
+          "discount_value": 17
+        },
+        "brand": "Gold Winner",
+        "brand_id": "722a2df5efbe1e08e07556ff1aa5e6f45f87abc2",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Sunflower Oil",
+        "sub_category_l4": "Refined Oil",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Refined Sunflower Oil",
+        "images": [
+          "ztaay9xtnmh3mvetjild",
+          "byro4upedtapqauinb56",
+          "t0dtm3pj1jg6kgqlijdi"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Amul Pure Ghee (Tetra Pack)",
+    "brand": "Amul",
+    "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+    "product_id": "Z36AL3WKZV",
+    "variations": [
+      {
+        "id": "J41IISIVQT",
+        "display_name": "Amul Pure Ghee (Tetra Pack)",
+        "price": {
+          "mrp": 650,
+          "store_price": 650,
+          "offer_price": 618,
+          "unit_level_price": "",
+          "discount_value": 32
+        },
+        "brand": "Amul",
+        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Pure Ghee (Tetra Pack)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/23/4103cb54-85db-4c57-853b-181eb2cf3baa_ghee_4952HKRHGW_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/23/c6d144af-5063-41dd-8f34-ad0268c68d83_ghee_4952HKRHGW_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/23/eb699d2d-c2a5-45bc-873d-e2d06b6d792c_ghee_4952HKRHGW_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/23/1990edbc-2de9-46c6-827f-bc40d579541e_ghee_4952HKRHGW_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/23/0f16a9b9-679b-46f2-a26b-bf718f54f9c2_ghee_4952HKRHGW_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/23/f92d90e7-cff6-40f6-8d0f-e344ef205d63_ghee_4952HKRHGW_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Saffola Active Rice Bran & Soyabean Cooking Oil",
+    "brand": "Saffola",
+    "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+    "product_id": "NGLP1SZ5CW",
+    "variations": [
+      {
+        "id": "2MI86WYRJ1",
+        "display_name": "Saffola Active Rice Bran & Soyabean Cooking Oil",
+        "price": {
+          "mrp": 187,
+          "store_price": 187,
+          "offer_price": 147,
+          "unit_level_price": "",
+          "discount_value": 40
+        },
+        "brand": "Saffola",
+        "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Blended Oil",
+        "sub_category_l4": "Refined Oil",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Active Rice Bran & Soyabean Cooking Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/22/5b02ce30-62d7-450a-884e-c4670e548b87_cookingandedibleoils_DMFJP9V963_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/22/456a270b-17e4-4c92-acaa-73be9b61faae_cookingandedibleoils_DMFJP9V963_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/22/37730eee-e9ce-49cf-a6b5-8bddb29edea1_cookingandedibleoils_DMFJP9V963_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/22/8962d552-e80e-4aa8-8fe3-d05329ac30df_cookingandedibleoils_DMFJP9V963_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/22/204b8410-020d-491a-ac39-3bbdc80155d4_cookingandedibleoils_DMFJP9V963_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/22/dc97b6ec-1570-4e4a-81d5-552b0839255d_cookingandedibleoils_DMFJP9V963_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "850",
+        "sku_quantity_with_combo": "850 gm",
+        "unit_of_measure": "gm",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Dhara Kachi Ghani Mustard Oil",
+    "brand": "Dhara",
+    "brand_id": "ccfac469202d22efcda060549b64e32568105854",
+    "product_id": "WWZ2CE3RZ5",
+    "variations": [
+      {
+        "id": "BOB86B3V9G",
+        "display_name": "Dhara Kachi Ghani Mustard Oil",
+        "price": {
+          "mrp": 240,
+          "store_price": 240,
+          "offer_price": 216,
+          "unit_level_price": "",
+          "discount_value": 24
+        },
+        "brand": "Dhara",
+        "brand_id": "ccfac469202d22efcda060549b64e32568105854",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Mustard Oil",
+        "sub_category_l4": "Refined Oil",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Kachi Ghani Mustard Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/18/d96fbaac-50e1-4a88-a53c-fb59d2d93833_cookingandedibleoils_SPBMHKFZYO_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/18/f8164f0c-48d7-40e6-871e-6e398d7919fb_cookingandedibleoils_SPBMHKFZYO_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/18/8b59e5e8-0a99-4339-bbb1-6b22fdc22f1d_cookingandedibleoils_SPBMHKFZYO_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Fortune Sunlite Refined Sunflower Oil",
+    "brand": "Fortune",
+    "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+    "product_id": "UCR8FBEWZO",
+    "variations": [
+      {
+        "id": "BQ1JQARK9R",
+        "display_name": "Fortune Sunlite Refined Sunflower Oil",
+        "price": {
+          "mrp": 430,
+          "store_price": 430,
+          "offer_price": 296,
+          "unit_level_price": "170.1/kg",
+          "discount_value": 134
+        },
+        "brand": "Fortune",
+        "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Sunflower Oil",
+        "sub_category_l4": "Refined Oil",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Sunlite Refined Sunflower Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/21/2dc238ee-e7db-489b-8fa8-417eb1a3fa74_8530_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/21/d137e207-75e9-44f9-aa9d-13f4d4f64a96_8530_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/21/25c9e3df-85e2-4583-8732-ce3c425ad283_8530_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/14/e82ca54a-3a9b-4476-8505-e76c8a089c74_cookingandedibleoils_UU1K86A8RY_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/4cb03ece-e3b7-4454-8a6c-1400a91133b3_cookingandedibleoils_PUHXM33U8E_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/14/67786b1e-cf22-48ed-b869-7ebfd4eeeed6_cookingandedibleoils_UU1K86A8RY_AL5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/14/5f7ad18a-abcf-4dc9-858c-a335e5fe19c4_cookingandedibleoils_UU1K86A8RY_AL6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/13/27b58832-65fb-4bca-b9a1-831401dd5279_cookingandedibleoils_SSG0A5VKTC_AL6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/14/acc06397-2071-4605-a112-be0516c5b8ac_cookingandedibleoils_UU1K86A8RY_AL8.png"
+        ],
+        "images_v2": [],
+        "quantity": "1.74",
+        "sku_quantity_with_combo": "1.74 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Fortune Mustard Oil",
+    "brand": "Fortune",
+    "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+    "product_id": "JML9J2MQ68",
+    "variations": [
+      {
+        "id": "Q2JNAZ910N",
+        "display_name": "Fortune Mustard Oil",
+        "price": {
+          "mrp": 129,
+          "store_price": 129,
+          "offer_price": 100,
+          "unit_level_price": "",
+          "discount_value": 29
+        },
+        "brand": "Fortune",
+        "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Mustard Oil",
+        "sub_category_l4": "Refined Oil",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Mustard Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/30/0a11878d-5a14-4b71-be96-06af7663c436_9488_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/30/95766f9f-63b3-4737-b10b-e32f0c3dea26_9488_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/30/79203be9-e16e-414d-833c-7c322f0c3270_9488_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/30/d8c26350-505c-4929-8537-dd9a74918733_9488_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Gowardhan Ghee",
+    "brand": "Gowardhan",
+    "brand_id": "d05b66d3077d188c08358851d4ef4b4d864d4614",
+    "product_id": "GSIBX2TTJG",
+    "variations": [
+      {
+        "id": "JD6XH9GPM3",
+        "display_name": "Gowardhan Ghee",
+        "price": {
+          "mrp": 799,
+          "store_price": 799,
+          "offer_price": 720,
+          "unit_level_price": "",
+          "discount_value": 79
+        },
+        "brand": "Gowardhan",
+        "brand_id": "d05b66d3077d188c08358851d4ef4b4d864d4614",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/21/118d66f0-b0a7-47b3-8cc4-1a8e7344e8be_ghee_XP4DT6X5NL_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/21/631e1e66-c514-44be-ad5d-bfb1c5ae9d53_ghee_XP4DT6X5NL_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/21/e298178d-3f3a-4007-89be-fd1d42990546_ghee_XP4DT6X5NL_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Amul High Aroma Cow Ghee",
+    "brand": "Amul",
+    "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+    "product_id": "BSHVNY1W3E",
+    "variations": [
+      {
+        "id": "94KKBMJMI8",
+        "display_name": "Amul High Aroma Cow Ghee",
+        "price": {
+          "mrp": 725,
+          "store_price": 725,
+          "offer_price": 619,
+          "unit_level_price": "",
+          "discount_value": 106
+        },
+        "brand": "Amul",
+        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "High Aroma Cow Ghee",
+        "images": [
+          "furshylw2kahzgwzxsza",
+          "atpsejrjfh7b3ruisxsh",
+          "ihlfwsmk3qy3dnga6xmr",
+          "dnq5emetzqt6inrd7sby"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      },
+      {
+        "id": "SNFUDSLQQQ",
+        "display_name": "Amul High Aroma Cow Ghee",
+        "price": {
+          "mrp": 365,
+          "store_price": 365,
+          "offer_price": 355,
+          "unit_level_price": "",
+          "discount_value": 10
+        },
+        "brand": "Amul",
+        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "High Aroma Cow Ghee",
+        "images": [
+          "l5qmvwjtervf0rsahrw7",
+          "u2h6ymvzk7j3juuxrifz",
+          "su2foy0bxibckzmtv4od",
+          "fteoe1ajqhdxypkqvmob"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      },
+      {
+        "id": "AYAGP2ZI9G",
+        "display_name": "Amul High Aroma Cow Ghee",
+        "price": {
+          "mrp": 152,
+          "store_price": 152,
+          "offer_price": 141,
+          "unit_level_price": "",
+          "discount_value": 11
+        },
+        "brand": "Amul",
+        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "High Aroma Cow Ghee",
+        "images": [
+          "prgn4yflbnjgts9agkac",
+          "yhtwhwucl7dyogyz0qgl",
+          "kcnwbyxi2ylgmyrz7cjm",
+          "t1pvuj8uhwur0ptvorqb"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Amul Ghee Pouch",
+    "brand": "Amul",
+    "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+    "product_id": "5LETQCM707",
+    "variations": [
+      {
+        "id": "ZUQRJHPIOM",
+        "display_name": "Amul Ghee Pouch",
+        "price": {
+          "mrp": 330,
+          "store_price": 330,
+          "offer_price": 325,
+          "unit_level_price": "65/100 ml",
+          "discount_value": 5
+        },
+        "brand": "Amul",
+        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Ghee Pouch",
+        "images": [
+          "0ebc85edd579e627ffd36dc7a6a318fa",
+          "8b5951f8eeacfc8905fdee4ba0496a73",
+          "78b04f7f6e7610be5a951aca7f222a7f"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Gowardhan Ghee",
+    "brand": "Gowardhan",
+    "brand_id": "d05b66d3077d188c08358851d4ef4b4d864d4614",
+    "product_id": "EALJFQHK2M",
+    "variations": [
+      {
+        "id": "WZYKUC36VG",
+        "display_name": "Gowardhan Ghee",
+        "price": {
+          "mrp": 750,
+          "store_price": 750,
+          "offer_price": 705,
+          "unit_level_price": "",
+          "discount_value": 45
+        },
+        "brand": "Gowardhan",
+        "brand_id": "d05b66d3077d188c08358851d4ef4b4d864d4614",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Ghee",
+        "images": [
+          "dvpuyzpzvobfle0qbxj0",
+          "bim9aklbwrx0g37cqz9n",
+          "btairknsugszfbtju9x3"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Amul Pure Ghee 1L Tin",
+    "brand": "Amul",
+    "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+    "product_id": "VOO1JPIODP",
+    "variations": [
+      {
+        "id": "7LKCB1V94R",
+        "display_name": "Amul Pure Ghee 1L Tin",
+        "price": {
+          "mrp": 660,
+          "store_price": 660,
+          "offer_price": 626,
+          "unit_level_price": "",
+          "discount_value": 34
+        },
+        "brand": "Amul",
+        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Pure Ghee 1L Tin",
+        "images": [
+          "pu1kgjtbbysmumpf1c5r",
+          "jhiowwt0mswb7loaiyhk",
+          "yifwid0clsciz9alx7xq",
+          "adgi0mbpprnnvake4kqh"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "GRB Cow Ghee Bottle",
+    "brand": "GRB",
+    "brand_id": "39b7af2f63053625fe5ce4992e38ee64e0fc2ee9",
+    "product_id": "ULWKNHM8T9",
+    "variations": [
+      {
+        "id": "CSY84ZMZU9",
+        "display_name": "GRB Cow Ghee Bottle",
+        "price": {
+          "mrp": 458,
+          "store_price": 458,
+          "offer_price": 406,
+          "unit_level_price": "",
+          "discount_value": 52
+        },
+        "brand": "GRB",
+        "brand_id": "39b7af2f63053625fe5ce4992e38ee64e0fc2ee9",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Cow Ghee Bottle",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/6/23/0e1ea124-6701-4f75-a7dd-f2d31b2e8375_ghee_9IDZCUTRO3_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/23/23b77b51-cf01-4102-a833-51c9508da01e_ghee_9IDZCUTRO3_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/23/fd3835a3-d283-4f1f-9c25-e0f5f30fc66a_ghee_9IDZCUTRO3_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Dhara Filtered Groundnut Oil",
+    "brand": "Dhara",
+    "brand_id": "ccfac469202d22efcda060549b64e32568105854",
+    "product_id": "USSPDBQGMM",
+    "variations": [
+      {
+        "id": "4RTK87ON4B",
+        "display_name": "Dhara Filtered Groundnut Oil",
+        "price": {
+          "mrp": 240,
+          "store_price": 240,
+          "offer_price": 185,
+          "unit_level_price": "",
+          "discount_value": 55
+        },
+        "brand": "Dhara",
+        "brand_id": "ccfac469202d22efcda060549b64e32568105854",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Groundnut Oil",
+        "sub_category_l4": "Refined Oil",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Filtered Groundnut Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/536d3ed6-7539-42b9-bc5b-24f09688f1a2_cookingandedibleoils_OSNNOF12P9_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/604de13b-ef6c-48fa-b6bd-f3af16561a88_cookingandedibleoils_OSNNOF12P9_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/5ee3fb77-a5c6-4b88-bf09-1cd2a9caf5a0_cookingandedibleoils_OSNNOF12P9_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/1f85e97e-256b-4a74-a2f0-435d4ccd4775_cookingandedibleoils_OSNNOF12P9_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/812c5cad-b2d1-4303-90ce-bab91bbea19b_cookingandedibleoils_OSNNOF12P9_AL4.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Saffola Gold Refined Cooking Oil Blend Of Rice Bran & Sunflower Oil",
+    "brand": "Saffola",
+    "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+    "product_id": "YI8H2OAOMI",
+    "variations": [
+      {
+        "id": "757YXDGZKP",
+        "display_name": "Saffola Gold Refined Cooking Oil Blend Of Rice Bran & Sunflower Oil",
+        "price": {
+          "mrp": 215,
+          "store_price": 215,
+          "offer_price": 203,
+          "unit_level_price": "",
+          "discount_value": 12
+        },
+        "brand": "Saffola",
+        "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Blended Oil",
+        "sub_category_l4": "Refined Oil",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Gold Refined Cooking Oil Blend Of Rice Bran & Sunflower Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/9a88ef1e-678c-4d6a-bfc8-7ff7e7909bd3_cookingandedibleoils_6RW9ZWNLZ7_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/cb2111e9-d198-4371-95d4-01fbb5b2041d_cookingandedibleoils_6RW9ZWNLZ7_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/c045e8b4-4889-4961-97cd-c111c9dcd79c_cookingandedibleoils_6RW9ZWNLZ7_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/bb982294-21e5-4d29-b824-7863ee34e56a_cookingandedibleoils_6RW9ZWNLZ7_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/bed3fed9-1d11-4c6d-8c86-c590c3ef7fa7_cookingandedibleoils_6RW9ZWNLZ7_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/07f4c37d-c4cb-4cd4-a458-3b0d1077c9f3_cookingandedibleoils_6RW9ZWNLZ7_AL5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/c098e65c-99e7-4ab5-9ccd-3224bbd75025_cookingandedibleoils_6RW9ZWNLZ7_AL6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Fortune soya Health Refine soyabean oil",
+    "brand": "Fortune",
+    "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+    "product_id": "7SUFM0GGNN",
+    "variations": [
+      {
+        "id": "7KAWPXHSPZ",
+        "display_name": "Fortune soya Health Refine soyabean oil",
+        "price": {
+          "mrp": 160,
+          "store_price": 160,
+          "offer_price": 155,
+          "unit_level_price": "17.8/100 g",
+          "discount_value": 5
+        },
+        "brand": "Fortune",
+        "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Soyabean Oil",
+        "sub_category_l4": "Refined Oil",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "soya Health Refine soyabean oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/c70f7ec3-fd99-451a-a690-084f1f7ef4e1_2561_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/52e9a734-565b-4d5a-b948-7ff5bd827156_2561_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/8636a311-0b6f-438e-8f89-d81d151d91b7_2561_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/6/ba47f68c-6507-492d-99dd-30c996ec5da9_2561_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/6/47288c77-979e-4345-92b1-5aaec8eea3d5_2561_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "870",
+        "sku_quantity_with_combo": "870 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Aashirvaad Svasti Cow Ghee",
+    "brand": "Aashirvaad",
+    "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+    "product_id": "48BFIF8A66",
+    "variations": [
+      {
+        "id": "FU9J2BHGUQ",
+        "display_name": "Aashirvaad Svasti Cow Ghee",
+        "price": {
+          "mrp": 192,
+          "store_price": 192,
+          "offer_price": 183,
+          "unit_level_price": "",
+          "discount_value": 9
+        },
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Svasti Cow Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/4912bc70-b5e2-4959-9d48-b3ac8aa98b20_10074_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/f8c95b9c-f1f8-4ecf-957a-fc994e84289c_10074_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/9800c237-d95d-4819-8814-4b89dbc44ce4_10074_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/d2987c1e-a941-4b2b-990e-ea09126a6b14_10074_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/a5ab0e16-fa02-495f-aa3b-40947c521564_10074_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/c7e37b2f-ef1a-4725-b1b0-9eea7890562c_10074_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/5f0f2147-ce91-45bd-99a8-631742ac6f0e_10074_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/7e09380e-d3f2-4d58-9873-4bfcb72868ac_10074_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Tata Simply Better Cold Pressed Groundnut Oil, Pure and Unrefined",
+    "brand": "Tata Simply Better",
+    "brand_id": "d10797ec895b3742bc95565c689b07dd9ba7c6b0",
+    "product_id": "7VEZ237JJF",
+    "variations": [
+      {
+        "id": "DM3AVFW459",
+        "display_name": "Tata Simply Better Cold Pressed Groundnut Oil, Pure and Unrefined",
+        "price": {
+          "mrp": 500,
+          "store_price": 500,
+          "offer_price": 341,
+          "unit_level_price": "",
+          "discount_value": 159
+        },
+        "brand": "Tata Simply Better",
+        "brand_id": "d10797ec895b3742bc95565c689b07dd9ba7c6b0",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Groundnut Cold Pressed Oil",
+        "sub_category_l4": "Cold Pressed",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Cold Pressed Groundnut Oil, Pure and Unrefined",
+        "images": [
+          "53b98a0f74f058d61c1c394c0dfcf2bd",
+          "6326d8fa595a5b9fbab70edff7ceeae4",
+          "e6dfbea4179f82c6aa4688c6b5bd6a98",
+          "2645909b6e5bd154d15c847e4374a96d",
+          "3d06b08890e4f29d8bc6dd6db5a152c2",
+          "c41fef4cf2c3926c3ffdd76cbafb053d"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Tata Simply Better Cold Pressed Mustard Oil, Pure and Unrefined",
+    "brand": "Tata Simply Better",
+    "brand_id": "d10797ec895b3742bc95565c689b07dd9ba7c6b0",
+    "product_id": "UV81X2XWA5",
+    "variations": [
+      {
+        "id": "3QZ0B6QIXA",
+        "display_name": "Tata Simply Better Cold Pressed Mustard Oil, Pure and Unrefined",
+        "price": {
+          "mrp": 350,
+          "store_price": 350,
+          "offer_price": 282,
+          "unit_level_price": "",
+          "discount_value": 68
+        },
+        "brand": "Tata Simply Better",
+        "brand_id": "d10797ec895b3742bc95565c689b07dd9ba7c6b0",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cold Pressed Mustard Oil",
+        "sub_category_l4": "Cold Pressed",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Cold Pressed Mustard Oil, Pure and Unrefined",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/2/a2dbb8ff-ce7a-4012-97a9-c31a5e721ca0_45988_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/2/55dc3406-fa9c-431d-82fc-3d30543c3881_45988_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/2/be53f859-340f-47a0-aef1-44ca084bbe2d_45988_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/2/6218f4f4-9170-411c-b59d-ae3f1d638052_45988_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/2/666b754c-0f37-49b3-8075-d0266c06ac82_45988_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/2/576ad344-d22a-4696-98f2-af28b69507ce_45988_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Freedom Double Filtered Groundnut Oil",
+    "brand": "Freedom",
+    "brand_id": "daad8bc936f8e5765803f591b453fffbce01c761",
+    "product_id": "GCCXJVK4GG",
+    "variations": [
+      {
+        "id": "BXBL59OIPZ",
+        "display_name": "Freedom Double Filtered Groundnut Oil",
+        "price": {
+          "mrp": 205,
+          "store_price": 205,
+          "offer_price": 179,
+          "unit_level_price": "",
+          "discount_value": 26
+        },
+        "brand": "Freedom",
+        "brand_id": "daad8bc936f8e5765803f591b453fffbce01c761",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Groundnut Oil",
+        "sub_category_l4": "Refined Oil",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Double Filtered Groundnut Oil",
+        "images": [
+          "945c7d0f7715b6ccfe5ddc60558da6bb",
+          "18139134174d45d71b6dafb77b2a9b18",
+          "84364351ce3d7e7dc156fe2021c99cfd",
+          "2945bde365dc18ba49d5a388915885ea",
+          "62843fdc3718f701735bb421baa3e9b1",
+          "d10bc47334c6c901b5a69d36c618234e"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Organic India Organic Cow Ghee",
+    "brand": "Organic India",
+    "brand_id": "9048f98fc0cf5f6a59d4f563365a84abf210ea8b",
+    "product_id": "26WBFFWVKQ",
+    "variations": [
+      {
+        "id": "NY4NKURW2Z",
+        "display_name": "Organic India Organic Cow Ghee",
+        "price": {
+          "mrp": 849,
+          "store_price": 849,
+          "offer_price": 603,
+          "unit_level_price": "",
+          "discount_value": 246
+        },
+        "brand": "Organic India",
+        "brand_id": "9048f98fc0cf5f6a59d4f563365a84abf210ea8b",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Organic Cow Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/60fd4f04-368a-403f-a99a-a371bc3a9a37_89343_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/1fdd15fe-afdf-4613-b986-17c5040e1216_89343_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/672bf867-362c-42e8-94e8-ea1307c1cbbb_89343_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/142aa1cc-262c-4ef6-8aef-f8babfda5607_89343_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/6022696a-8dc0-4024-940b-90a17559e6d7_89343_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/44a19114-ef28-4d3d-a10f-4ac274f13971_89343_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Fortune Rice Bran Health Oil",
+    "brand": "Fortune",
+    "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+    "product_id": "V6FASAB6OJ",
+    "variations": [
+      {
+        "id": "SZR71KADWY",
+        "display_name": "Fortune Rice Bran Health Oil",
+        "price": {
+          "mrp": 1025,
+          "store_price": 1025,
+          "offer_price": 824,
+          "unit_level_price": "",
+          "discount_value": 201
+        },
+        "brand": "Fortune",
+        "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Rice Bran Oil",
+        "sub_category_l4": "Refined Oil",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Rice Bran Health Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/d8241107-74e8-4eef-8580-9bcc983bbf5b_6944_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/d76ac82c-584c-467c-8220-4b288b173d05_6944_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/408dba01-8d83-4cf7-82ef-64e32d65501f_6944_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "4.35",
+        "sku_quantity_with_combo": "4.35 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Freedom Rice Bran Oil Physically Refined",
+    "brand": "Freedom",
+    "brand_id": "daad8bc936f8e5765803f591b453fffbce01c761",
+    "product_id": "D2JC39YSNO",
+    "variations": [
+      {
+        "id": "WCLA1BIX2P",
+        "display_name": "Freedom Rice Bran Oil Physically Refined",
+        "price": {
+          "mrp": 184,
+          "store_price": 184,
+          "offer_price": 149,
+          "unit_level_price": "",
+          "discount_value": 35
+        },
+        "brand": "Freedom",
+        "brand_id": "daad8bc936f8e5765803f591b453fffbce01c761",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Rice Bran Oil",
+        "sub_category_l4": "Refined Oil",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Rice Bran Oil Physically Refined",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/6/5/ea0c8d56-4391-43ae-885c-bc2af7944826_cookingandedibleoils_RN1924S4X2_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/5/d4c5720d-0a52-4a28-b178-640a53c790e9_cookingandedibleoils_RN1924S4X2_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/5/2fcdcfeb-b728-4c5f-9825-bf34901b60ec_cookingandedibleoils_RN1924S4X2_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/5/3d76dad4-785d-4cba-9fcc-b4e86ed53013_cookingandedibleoils_RN1924S4X2_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/5/17ec6c3f-6df4-47d8-96e6-f7fc6bc583bb_cookingandedibleoils_RN1924S4X2_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/5/c7b07cc4-6f0b-45f6-b7ef-0e7a82168f9a_cookingandedibleoils_RN1924S4X2_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Figaro Extra Virgin Olive Oil",
+    "brand": "Figaro",
+    "brand_id": "82bec032d4218d52836bf68588faabc8b9cac9fb",
+    "product_id": "9WG2RQ8TXQ",
+    "variations": [
+      {
+        "id": "MO6UXWK5RX",
+        "display_name": "Figaro Extra Virgin Olive Oil",
+        "price": {
+          "mrp": 599,
+          "store_price": 599,
+          "offer_price": 308,
+          "unit_level_price": "",
+          "discount_value": 291
+        },
+        "brand": "Figaro",
+        "brand_id": "82bec032d4218d52836bf68588faabc8b9cac9fb",
+        "category": "Olive Oil",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Extra Virgin Olive Oil",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Extra Virgin Olive Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/15/c5f84681-e23f-42f2-96ed-94cda560bb37_10324_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/15/e2fb566d-66c2-43e3-9c19-9d4057681695_10324_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/15/93e13eb2-2bba-46de-97c4-49bc661f8ab5_10324_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/15/514ca58a-92e1-4331-81d7-d1b1fb775bd6_10324_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/15/ab0abd7a-a257-4ca9-a102-3b233bc1960a_10324_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/15/d3c915c0-3603-484e-9a94-d055ed90abf3_10324_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      },
+      {
+        "id": "7NOG59BTWK",
+        "display_name": "Figaro Extra Virgin Olive Oil",
+        "price": {
+          "mrp": 1999,
+          "store_price": 1999,
+          "offer_price": 1165,
+          "unit_level_price": "",
+          "discount_value": 834
+        },
+        "brand": "Figaro",
+        "brand_id": "82bec032d4218d52836bf68588faabc8b9cac9fb",
+        "category": "Olive Oil",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Extra Virgin Olive Oil",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Extra Virgin Olive Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/15/c9775da5-f5b0-4744-8b8f-718e62ed637f_44369_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/15/1b408df8-3e57-4bed-baee-cd931b11af70_44369_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/15/e33f084d-f775-4216-a3b8-8953ec132565_44369_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/15/7c9d2b32-a218-4e9c-8d0f-69492302ffeb_44369_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/15/21f12a2d-b7cd-4657-b811-c51176572d15_44369_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Akshayakalpa Organic Ghee",
+    "brand": "Akshayakalpa",
+    "brand_id": "2dcb8c2b4882a47e9856bfaa868e84e8451bffb8",
+    "product_id": "ZQVD0JB84W",
+    "variations": [
+      {
+        "id": "NSOOC59XBU",
+        "display_name": "Akshayakalpa Organic Ghee",
+        "price": {
+          "mrp": 799,
+          "store_price": 799,
+          "offer_price": 709,
+          "unit_level_price": "",
+          "discount_value": 90
+        },
+        "brand": "Akshayakalpa",
+        "brand_id": "2dcb8c2b4882a47e9856bfaa868e84e8451bffb8",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Organic Ghee",
+        "images": [
+          "09db110d8b0f7ea1de06a93b333925de",
+          "09966b0dcf83f91186eb490795b98913",
+          "25d11b564265620bd3485f9d7b213884",
+          "5e26d8b37c36ef1a2200a3af470bdbc5"
+        ],
+        "images_v2": [],
+        "quantity": "490",
+        "sku_quantity_with_combo": "490 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 490,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Aashirvaad Pure Cow Ghee, PET Jar, Rich Aroma",
+    "brand": "Aashirvaad",
+    "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+    "product_id": "ZBL31H6QR9",
+    "variations": [
+      {
+        "id": "5C57GG2C6J",
+        "display_name": "Aashirvaad Pure Cow Ghee, PET Jar, Rich Aroma",
+        "price": {
+          "mrp": 840,
+          "store_price": 840,
+          "offer_price": 736,
+          "unit_level_price": "",
+          "discount_value": 104
+        },
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Pure Cow Ghee, PET Jar, Rich Aroma",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/8fb890af-f094-44e2-bd0b-b66e7e7022b9_17387_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/1c06a51c-f4ad-4bc0-b4bc-1aec11e45a13_17387_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/9800c237-d95d-4819-8814-4b89dbc44ce4_10074_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/d2987c1e-a941-4b2b-990e-ea09126a6b14_10074_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/a5ab0e16-fa02-495f-aa3b-40947c521564_10074_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/c7e37b2f-ef1a-4725-b1b0-9eea7890562c_10074_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/5f0f2147-ce91-45bd-99a8-631742ac6f0e_10074_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/7e09380e-d3f2-4d58-9873-4bfcb72868ac_10074_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      },
+      {
+        "id": "SP53RLGC3T",
+        "display_name": "Aashirvaad Pure Cow Ghee, PET Jar, Rich Aroma",
+        "price": {
+          "mrp": 463,
+          "store_price": 463,
+          "offer_price": 463,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Pure Cow Ghee, PET Jar, Rich Aroma",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/a592357b-c6df-4ddc-926a-35ba587d6e2d_3742_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/e0455006-57ec-42d7-8faf-10676be84767_3742_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/9800c237-d95d-4819-8814-4b89dbc44ce4_10074_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/d2987c1e-a941-4b2b-990e-ea09126a6b14_10074_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/a5ab0e16-fa02-495f-aa3b-40947c521564_10074_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/c7e37b2f-ef1a-4725-b1b0-9eea7890562c_10074_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/5f0f2147-ce91-45bd-99a8-631742ac6f0e_10074_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/26/29839164-7392-45bb-8634-662dd8707a6a_3742_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Gowardhan Pure Cow Ghee (Jar)",
+    "brand": "Gowardhan",
+    "brand_id": "d05b66d3077d188c08358851d4ef4b4d864d4614",
+    "product_id": "GBV6U9I0XI",
+    "variations": [
+      {
+        "id": "YXGKITAM6T",
+        "display_name": "Gowardhan Pure Cow Ghee (Jar)",
+        "price": {
+          "mrp": 415,
+          "store_price": 415,
+          "offer_price": 390,
+          "unit_level_price": "78/100 ml",
+          "discount_value": 25
+        },
+        "brand": "Gowardhan",
+        "brand_id": "d05b66d3077d188c08358851d4ef4b4d864d4614",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Pure Cow Ghee (Jar)",
+        "images": [
+          "yc1tdgjziogzq0krhtry",
+          "qh4o3vuklrxh6gfgnilb",
+          "lg8sqsva0fcx9p3atjuj"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      },
+      {
+        "id": "QRDI12V4RH",
+        "display_name": "Gowardhan Ghee Jar",
+        "price": {
+          "mrp": 195,
+          "store_price": 195,
+          "offer_price": 183,
+          "unit_level_price": "91.5/100 ml",
+          "discount_value": 12
+        },
+        "brand": "Gowardhan",
+        "brand_id": "d05b66d3077d188c08358851d4ef4b4d864d4614",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Ghee Jar",
+        "images": [
+          "590e5d2fc034728502b73560fff85bf2",
+          "f45e947a43282ef627dde8a228d09c73",
+          "87a0292df4c4507cefca2270dcc5a769"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Idhayam Gingelly Oil",
+    "brand": "Idhayam",
+    "brand_id": "ac137b9ab7cd13a78f01826eeae688a6b1fda80a",
+    "product_id": "5AERJBHW82",
+    "variations": [
+      {
+        "id": "2T3U59HKY2",
+        "display_name": "Idhayam Gingelly Oil",
+        "price": {
+          "mrp": 231,
+          "store_price": 231,
+          "offer_price": 219,
+          "unit_level_price": "",
+          "discount_value": 12
+        },
+        "brand": "Idhayam",
+        "brand_id": "ac137b9ab7cd13a78f01826eeae688a6b1fda80a",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Gingelly Oil",
+        "sub_category_l4": "Refined Oil",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Gingelly Oil",
+        "images": [
+          "rjy0ioq2pf9yo9mojvrn",
+          "iupwjz16hmdlpkkhppht",
+          "syx07cresva9sl32my9g"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Klf Tilnad Pure Gingelly/Til Oil",
+    "brand": "Klf",
+    "brand_id": "4eefc5d7058e2ee149b19654a34fb7d54e3a2766",
+    "product_id": "H2DPL2GM7S",
+    "variations": [
+      {
+        "id": "V40OG5BM8V",
+        "display_name": "Klf Tilnad Pure Gingelly/Til Oil",
+        "price": {
+          "mrp": 215,
+          "store_price": 215,
+          "offer_price": 184,
+          "unit_level_price": "",
+          "discount_value": 31
+        },
+        "brand": "Klf",
+        "brand_id": "4eefc5d7058e2ee149b19654a34fb7d54e3a2766",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Gingelly Oil",
+        "sub_category_l4": "Refined Oil",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Tilnad Pure Gingelly/Til Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/fdc362c7-6a83-4e73-bb1c-3640f7da7bc8_cookingandedibleoils_1GWG1YY4C2_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/dc28b59a-1033-439a-9fc5-8f7f7bb72eca_cookingandedibleoils_1GWG1YY4C2_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/4b23b0c2-4cb7-4b43-99b3-7cf172fea2f5_cookingandedibleoils_1GWG1YY4C2_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/1489269c-7266-4495-8dae-bef24025d246_cookingandedibleoils_1GWG1YY4C2_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/c252b103-94da-492c-82c5-86ccfea4b8f9_cookingandedibleoils_1GWG1YY4C2_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/38c1fd06-8caa-4322-9d3d-8df1b2acd185_cookingandedibleoils_1GWG1YY4C2_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Fortune Filtered Groundnut Oil",
+    "brand": "Fortune",
+    "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+    "product_id": "ZV836G26T6",
+    "variations": [
+      {
+        "id": "T8W8ACT7LH",
+        "display_name": "Fortune Filtered Groundnut Oil",
+        "price": {
+          "mrp": 240,
+          "store_price": 240,
+          "offer_price": 175,
+          "unit_level_price": "",
+          "discount_value": 65
+        },
+        "brand": "Fortune",
+        "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Groundnut Oil",
+        "sub_category_l4": "Refined Oil",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Filtered Groundnut Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/18/9effa35a-514e-4e8b-a75b-0034621d5d2c_20535_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/18/c762f827-7c02-4870-ad75-14107654c6e1_20535_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/18/05edde13-b0dd-4a56-9424-f233d8c7cb46_20535_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "870",
+        "sku_quantity_with_combo": "870 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 870,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "INDICWISDOM Wood Cold Pressed Groundnut Oil (Extracted on Wooden Churner)",
+    "brand": "INDICWISDOM",
+    "brand_id": "bf3aae71abc70a09f8e587deaeef24993844073a",
+    "product_id": "PPUC5I2HNW",
+    "variations": [
+      {
+        "id": "TQZ5PB3N97",
+        "display_name": "INDICWISDOM Wood Cold Pressed Groundnut Oil (Extracted on Wooden Churner)",
+        "price": {
+          "mrp": 470,
+          "store_price": 470,
+          "offer_price": 211,
+          "unit_level_price": "",
+          "discount_value": 259
+        },
+        "brand": "INDICWISDOM",
+        "brand_id": "bf3aae71abc70a09f8e587deaeef24993844073a",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Groundnut Oil",
+        "sub_category_l4": "Refined Oil",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Wood Cold Pressed Groundnut Oil (Extracted on Wooden Churner)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/01b778f0-51e4-44e4-984b-5b2205e78aef_49423_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/87d81957-54da-4f6e-ac08-2458115f1f47_49423_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/d6045f94-1ba0-4d18-948f-dbe48e7cc976_49423_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/ff2b157e-2dc2-49dd-a2cf-072772405e98_49423_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/e31bfb62-e1f3-4a8a-99de-ce0695778e2a_49423_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/a745cd3e-39cc-42c3-862a-24b8e0dd8aeb_49423_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/eec6d30e-988b-432a-b888-14a2348fc33d_49423_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/b43f855b-106e-43a7-8bc9-1deb64ed4e30_49423_8.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/c8d67d1b-05e8-4e81-8280-4250d8457af6_49423_9.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/adf03dec-a928-4aaf-8d2c-3d273da53c11_49423_10.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Amul Pure Ghee 1L Pouch",
+    "brand": "Amul",
+    "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+    "product_id": "QBT8S04GMJ",
+    "variations": [
+      {
+        "id": "GL7AN0K7PT",
+        "display_name": "Amul Pure Ghee 1L Pouch",
+        "price": {
+          "mrp": 630,
+          "store_price": 630,
+          "offer_price": 611,
+          "unit_level_price": "",
+          "discount_value": 19
+        },
+        "brand": "Amul",
+        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Pure Ghee 1L Pouch",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/21/92b4afa4-f16e-4471-9b44-93a222f95048_ghee_UMRTCGIBUL_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/21/e6ecedf8-9672-40b6-93f6-fa7c0ce8d3d4_ghee_UMRTCGIBUL_AL1.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "BAROSi A2 Desi Cow Ghee",
+    "brand": "BAROSi",
+    "brand_id": "62bc612db4e394e85327f79683d47dfec2b5305b",
+    "product_id": "7SYHQJ6W74",
+    "variations": [
+      {
+        "id": "8LROBJC8AW",
+        "display_name": "BAROSi A2 Desi Cow Ghee",
+        "price": {
+          "mrp": 1099,
+          "store_price": 1099,
+          "offer_price": 709,
+          "unit_level_price": "",
+          "discount_value": 390
+        },
+        "brand": "BAROSi",
+        "brand_id": "62bc612db4e394e85327f79683d47dfec2b5305b",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "A2 Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "A2 Desi Cow Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/3/4559b872-8bac-4fcf-9ebe-f345a4dc5a9b_GTCTAZ4YKU_MN.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/3/7d4552c2-bad0-4f9a-b61b-a5a55efb6b32_GTCTAZ4YKU_AL1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/3/91a5f09b-28f0-46d1-a39c-f5d8954a0bfc_GTCTAZ4YKU_AL2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/3/2f2ab901-c54b-453d-b20e-28eaf6f2ca06_GTCTAZ4YKU_AL3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/8/3/1e148d85-8872-464d-a739-ad279b180d4e_GTCTAZ4YKU_AL6.jpg"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 850,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Borges Extra Virgin Oil",
+    "brand": "Borges",
+    "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+    "product_id": "F4A0N4DAE1",
+    "variations": [
+      {
+        "id": "4ZBNQXNI7X",
+        "display_name": "Borges Extra Virgin Oil",
+        "price": {
+          "mrp": 2300,
+          "store_price": 2300,
+          "offer_price": 1452,
+          "unit_level_price": "",
+          "discount_value": 848
+        },
+        "brand": "Borges",
+        "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+        "category": "Olive Oil",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Extra Virgin Olive Oil",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Extra Virgin Oil",
+        "images": [
+          "a0e923655879a8864d3c3d73251cac04",
+          "d5ee4dff1baeb2b266eb00cf3b97e8ab",
+          "223898f860aede7fa86de608bc4cc5c0"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Saffola Gold Refined Cooking Oil",
+    "brand": "Saffola",
+    "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+    "product_id": "SKDEFBQ68L",
+    "variations": [
+      {
+        "id": "5HZPPTSOLS",
+        "display_name": "Saffola Gold Refined Cooking Oil",
+        "price": {
+          "mrp": 1230,
+          "store_price": 1230,
+          "offer_price": 1201,
+          "unit_level_price": "",
+          "discount_value": 29
+        },
+        "brand": "Saffola",
+        "brand_id": "d61ad448ddf8478c7d865187b6bd2c11a0e5ee4b",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Blended Oil",
+        "sub_category_l4": "Refined Oil",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Gold Refined Cooking Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/23/98cb0b79-c86b-4be0-891b-052a70da8f78_cookingandedibleoils_5NWQD4PVU1_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/23/e8f89225-019f-4e71-a6f9-52e915c68cdc_cookingandedibleoils_5NWQD4PVU1_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/23/1510c290-5daf-46d8-87a4-a59ba864a3a1_cookingandedibleoils_5NWQD4PVU1_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "5",
+        "sku_quantity_with_combo": "5 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 5,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Jivo Extra Light Daily Cooking Olive Oil",
+    "brand": "Jivo",
+    "brand_id": "1bd421f677aba0b28ef95a6ed80970824cdf83ec",
+    "product_id": "QQPNZ85CEM",
+    "variations": [
+      {
+        "id": "9YF4A45DIN",
+        "display_name": "Jivo Extra Light Daily Cooking Olive Oil",
+        "price": {
+          "mrp": 1499,
+          "store_price": 1499,
+          "offer_price": 602,
+          "unit_level_price": "",
+          "discount_value": 897
+        },
+        "brand": "Jivo",
+        "brand_id": "1bd421f677aba0b28ef95a6ed80970824cdf83ec",
+        "category": "Olive Oil",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Extra Light Olive Oil",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Extra Light Daily Cooking Olive Oil",
+        "images": [
+          "z89a4dpw9tupoz16dsuc",
+          "imtm8ypnddxb2zsn5m7k",
+          "vmcml0xro0f7eatei7iw"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Borges Extra Virgin Olive Oil",
+    "brand": "Borges",
+    "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+    "product_id": "IU51CWKN92",
+    "variations": [
+      {
+        "id": "UPIX3N4K50",
+        "display_name": "Borges Extra Virgin Olive Oil",
+        "price": {
+          "mrp": 750,
+          "store_price": 750,
+          "offer_price": 422,
+          "unit_level_price": "",
+          "discount_value": 328
+        },
+        "brand": "Borges",
+        "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+        "category": "Olive Oil",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Extra Virgin Olive Oil",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Extra Virgin Olive Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/42ee8dc0-c08e-4e72-aa02-6ed92f3d3660_3093_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/cefb7807-1011-48e6-9731-24070157b832_3093_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/074985ed-2352-4a0c-9eb2-79a5ce587ff1_3093_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/5701db76-278a-4fd1-8152-dfd26319612d_3093_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/d3e3d08d-fe74-4b62-8671-298cf70d260e_3093_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/d3825570-4f07-44b4-9289-b4ee3120bb3f_3093_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Heritage Cow Ghee",
+    "brand": "Heritage",
+    "brand_id": "51dc3b4e5ba07bd22af816dc9d9c3dcaad6ea06c",
+    "product_id": "LW6GLU61WR",
+    "variations": [
+      {
+        "id": "5NLIQ5IDO7",
+        "display_name": "Heritage Cow Ghee",
+        "price": {
+          "mrp": 735,
+          "store_price": 735,
+          "offer_price": 650,
+          "unit_level_price": "",
+          "discount_value": 85
+        },
+        "brand": "Heritage",
+        "brand_id": "51dc3b4e5ba07bd22af816dc9d9c3dcaad6ea06c",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Cow Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/23/b56b5195-a2e7-4ae6-bbc1-b0d80054d00b_ghee_0O3VSC86SN_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/23/eaf59935-8786-4b69-bea6-a43889d309ae_ghee_0O3VSC86SN_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/23/023885b2-29ee-457a-8383-2c55a48f8ae2_ghee_0O3VSC86SN_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Patanjali Cow's Ghee",
+    "brand": "Patanjali",
+    "brand_id": "9daa72ddc02f3b338767e697e0a5e7b74b7d8976",
+    "product_id": "76MCN9AMAU",
+    "variations": [
+      {
+        "id": "HGRR4U3DB6",
+        "display_name": "Patanjali Cow's Ghee",
+        "price": {
+          "mrp": 730,
+          "store_price": 730,
+          "offer_price": 728,
+          "unit_level_price": "72.8/100 ml",
+          "discount_value": 2
+        },
+        "brand": "Patanjali",
+        "brand_id": "9daa72ddc02f3b338767e697e0a5e7b74b7d8976",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Cow's Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/91c7ef3d-8754-451a-9844-9f6c7ea9b051_3493_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/bb773407-ac63-4b3f-9533-3f416d41ad22_3493_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/7d94c99b-6368-4845-bd48-144ac175eb0d_3493_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/5aa0bae4-ce69-42c9-b4dc-e30c081a35ee_3493_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/11e2552b-fc11-47ce-a146-d2b52e228a33_3493_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/78b8eb29-df2c-48fb-b72f-f29bd4af83fb_3493_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 L",
+        "unit_of_measure": "L",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      },
+      {
+        "id": "XV8N6G4RVT",
+        "display_name": "Patanjali Cow's Ghee",
+        "price": {
+          "mrp": 375,
+          "store_price": 375,
+          "offer_price": 375,
+          "unit_level_price": "75/100 ml",
+          "discount_value": 0
+        },
+        "brand": "Patanjali",
+        "brand_id": "9daa72ddc02f3b338767e697e0a5e7b74b7d8976",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Cow's Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/32bf019b-a8e6-4191-b7f7-7fd204327d3f_1584_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/e9c552e0-9d92-4fa9-ae07-9e9e13796a43_1584_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/ae3aa391-58c3-4eb1-8540-52e2185531a2_1584_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/e2391b7f-1702-4182-bd2a-88615d9947de_1584_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/21e97cdd-5c0a-416f-bcea-0f07321df0ec_1584_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/b1a6fa3d-f9b9-422e-a34f-1de682f6754d_1584_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Aashirvaad Svasti Pure Cow Ghee Pouch",
+    "brand": "Aashirvaad",
+    "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+    "product_id": "AKQNNT14AM",
+    "variations": [
+      {
+        "id": "UT3L7L89ZX",
+        "display_name": "Aashirvaad Svasti Pure Cow Ghee Pouch",
+        "price": {
+          "mrp": 780,
+          "store_price": 780,
+          "offer_price": 750,
+          "unit_level_price": "",
+          "discount_value": 30
+        },
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": "Cow Ghee",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Svasti Pure Cow Ghee Pouch",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/4/19f98994-12a5-4beb-86fe-8cdba6869e66_92424_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/4/d7bc5a7b-3e6a-4c07-97c4-9f21a66f2449_92424_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/4/cc77ac87-4ffd-4348-9358-97f0adbd913f_92424_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/4/03d1aa1c-500e-42d7-b46a-b3327980986e_92424_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/4/e262d0e1-70a1-400a-90c2-95e21372f2e7_92424_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/4/0e7e949e-fe85-46ad-b635-bae6bca29376_92424_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": "ltr",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Cow Ghee",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "YS38VPCON6",
+    "variations": [
+      {
+        "id": "CMIKS9LLG0",
+        "display_name": "Supreme Harvest Cow Ghee",
+        "price": {
+          "mrp": 950,
+          "store_price": 950,
+          "offer_price": 518,
+          "unit_level_price": "",
+          "discount_value": 432
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cow Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/29/82625541-4bd5-4428-9840-a8777ab9f149_21190.png",
+          "a3aa39169c2529f19f9a00e333254601",
+          "63af27328640e709d205d4c3618d8bf0",
+          "fe3472b26d6ef56cddf1e31955fde016",
+          "56689e307233a3800cea841dfb6d7a28",
+          "82b6846050629676b9027d0ace497ce9"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Amul Cow Ghee",
+    "brand": "Amul",
+    "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+    "product_id": "PTNV1VZIIV",
+    "variations": [
+      {
+        "id": "ZAR67OMY73",
+        "display_name": "Amul Cow Ghee",
+        "price": {
+          "mrp": 675,
+          "store_price": 675,
+          "offer_price": 655,
+          "unit_level_price": "",
+          "discount_value": 20
+        },
+        "brand": "Amul",
+        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cow Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/11/6591949e-a940-4429-b951-f3272153ed53_83728_1.png",
+          "fa71e4ec81ffe32cb066dfa85abf2dd5",
+          "62c80af305a176d72d7c6341419a2a27"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Anveshan A2 Desi Cow Ghee",
+    "brand": "Anveshan",
+    "brand_id": "aef2afd127ad2a236e5ec927819311bd6c1e75db",
+    "product_id": "2ZSG63MOI2",
+    "variations": [
+      {
+        "id": "391TP7A5F2",
+        "display_name": "Anveshan A2 Desi Cow Ghee",
+        "price": {
+          "mrp": 2220,
+          "store_price": 2220,
+          "offer_price": 1782,
+          "unit_level_price": "178.2/100 ml",
+          "discount_value": 438
+        },
+        "brand": "Anveshan",
+        "brand_id": "aef2afd127ad2a236e5ec927819311bd6c1e75db",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "A2 Desi Cow Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/6/2c6f3260-07e8-4e76-9998-52fd31dccb64_69386_1.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "500 ml x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "VQFZX6BK2O",
+        "display_name": "Anveshan A2 Desi Cow Ghee",
+        "price": {
+          "mrp": 1110,
+          "store_price": 1110,
+          "offer_price": 891,
+          "unit_level_price": "178.2/100 ml",
+          "discount_value": 219
+        },
+        "brand": "Anveshan",
+        "brand_id": "aef2afd127ad2a236e5ec927819311bd6c1e75db",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "A2 Desi Cow Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/334d2b10-46ba-4e3a-9ed8-d9af55182044_40873_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/0e5fecfd-5b88-43c8-bb34-771726e80543_40873_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/33918ce6-cea5-446d-bb18-f2ffa3f6f031_40873_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/e90b700a-17c5-4bb6-adb9-4e59100194c9_40873_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/765334ca-b126-4993-863e-7a7975101d9c_40873_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/b9f455bc-4289-4a08-87e7-a3ba874edbab_40873_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "500 ml",
+        "sku_quantity_with_combo": "500 ml",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Borges Olive Oil For Indian Cooking",
+    "brand": "Borges",
+    "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+    "product_id": "W8PBK7ETDW",
+    "variations": [
+      {
+        "id": "GL5LM9BRVN",
+        "display_name": "Borges Olive Oil For Indian Cooking",
+        "price": {
+          "mrp": 7600,
+          "store_price": 7600,
+          "offer_price": 5954,
+          "unit_level_price": "",
+          "discount_value": 1646
+        },
+        "brand": "Borges",
+        "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+        "category": "Olive Oil",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Olive Oil For Indian Cooking",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/17/4630e3f7-c931-480b-9c9a-227dec78e208_26487_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/17/bd4570fe-4ff5-45f5-8807-b4981434d2d8_26487_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/17/8b4f76bd-e765-48e0-8464-574478802490_26487_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/17/45c09a9a-f26e-4991-bc39-a95839b8de85_26487_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/17/3d71b1a6-5a9f-4f05-a306-5a6cedc0f941_26487_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/17/fc955a54-0b11-4146-ab40-17325c89c858_26487_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "5 L",
+        "sku_quantity_with_combo": "5 L",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Aashirvaad Svasti Organic Cow Ghee",
+    "brand": "Aashirvaad",
+    "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+    "product_id": "9FR42I6C7K",
+    "variations": [
+      {
+        "id": "8NO14Q8MCT",
+        "display_name": "Aashirvaad Svasti Organic Cow Ghee",
+        "price": {
+          "mrp": 799,
+          "store_price": 799,
+          "offer_price": 665,
+          "unit_level_price": "",
+          "discount_value": 134
+        },
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Svasti Organic Cow Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/726dc820-787d-4c6b-aba3-647adc341af0_27560_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/40f4816c-eb91-4b08-8788-06f96f786345_27560_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/b9e52498-9b1b-4af1-adc6-5805a7c19e96_27560_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/d4165508-90ae-4562-b48b-f71a4de6d443_27560_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "500 ml",
+        "sku_quantity_with_combo": "500 ml",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Tata Simply Better Cold Pressed Sesame Oil, Pure and Unrefined",
+    "brand": "Tata Simply Better",
+    "brand_id": "d10797ec895b3742bc95565c689b07dd9ba7c6b0",
+    "product_id": "LSORZQ58DT",
+    "variations": [
+      {
+        "id": "WO6AYJ95IF",
+        "display_name": "Tata Simply Better Cold Pressed Sesame Oil, Pure and Unrefined",
+        "price": {
+          "mrp": 649,
+          "store_price": 649,
+          "offer_price": 530,
+          "unit_level_price": "",
+          "discount_value": 119
+        },
+        "brand": "Tata Simply Better",
+        "brand_id": "d10797ec895b3742bc95565c689b07dd9ba7c6b0",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cold Pressed Sesame Oil, Pure and Unrefined",
+        "images": [
+          "42d0efb376c4d2e5505f816932a79626",
+          "f90851794e2efd5e97fe028a2c7b29b9",
+          "b4e47cc94416f7d7cfa6119bf4767d6d",
+          "0b4dfa6e7398095ef15acfe6cb25aeb4",
+          "2bc3a5c6778e4eb381324cdc68d2e856",
+          "a772fc719b29f02f04240120202416b2"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Sundrop Refined Sunflower Oil",
+    "brand": "Sundrop",
+    "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+    "product_id": "N1DGK7H1N1",
+    "variations": [
+      {
+        "id": "CUN86HIFMG",
+        "display_name": "Sundrop Refined Sunflower Oil",
+        "price": {
+          "mrp": 460,
+          "store_price": 460,
+          "offer_price": 438,
+          "unit_level_price": "",
+          "discount_value": 22
+        },
+        "brand": "Sundrop",
+        "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Refined Sunflower Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/29/d878cd48-48e5-4a89-8c8b-68597cfd899d_cookingandedibleoils_QQ6M60BH1Z_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 ltr",
+        "sku_quantity_with_combo": "1 ltr x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "90FQAH1BLC",
+        "display_name": "Sundrop Refined Sunflower Oil",
+        "price": {
+          "mrp": 230,
+          "store_price": 230,
+          "offer_price": 219,
+          "unit_level_price": "",
+          "discount_value": 11
+        },
+        "brand": "Sundrop",
+        "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Refined Sunflower Oil",
+        "images": [
+          "pp9htmq0ghmhxgyxojo0",
+          "rxof5hykgvntheejvmfx",
+          "djitdzktergu1iadmmzi"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Emami Healthy & Tasty Physically Refined Rice Bran Oil",
+    "brand": "Emami",
+    "brand_id": "3833738e0a7e03c05aa45633a5dbcfa07b3b08c4",
+    "product_id": "OZOJ674DTB",
+    "variations": [
+      {
+        "id": "F67BR9PX42",
+        "display_name": "Emami Healthy & Tasty Physically Refined Rice Bran Oil",
+        "price": {
+          "mrp": 320,
+          "store_price": 320,
+          "offer_price": 287,
+          "unit_level_price": "17.4/100 g",
+          "discount_value": 33
+        },
+        "brand": "Emami",
+        "brand_id": "3833738e0a7e03c05aa45633a5dbcfa07b3b08c4",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Ricebran Oil",
+        "images": [
+          "05a0fae5348587de1f53bd6d4fc5518a"
+        ],
+        "images_v2": null,
+        "quantity": "2 ltr",
+        "sku_quantity_with_combo": "825 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "KBKKIDQB9G",
+        "display_name": "Emami Healthy & Tasty Physically Refined Rice Bran Oil",
+        "price": {
+          "mrp": 160,
+          "store_price": 160,
+          "offer_price": 144,
+          "unit_level_price": "17.5/100 g",
+          "discount_value": 16
+        },
+        "brand": "Emami",
+        "brand_id": "3833738e0a7e03c05aa45633a5dbcfa07b3b08c4",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": " Healthy & Tasty Physically Refined Rice Bran Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/12/8ae5524a-9c2e-4d77-9176-9b4b0bf92691_7512_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/12/66617eaf-5345-4ab0-91e3-0c8a286e63d9_7512_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/12/0d20b084-a684-4795-9212-5d000a5d669a_7512_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "825 g",
+        "sku_quantity_with_combo": "825 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Tata Simply Better Virgin Coconut Cold Pressed Oil, Pure and Unrefined",
+    "brand": "Tata Simply Better",
+    "brand_id": "d10797ec895b3742bc95565c689b07dd9ba7c6b0",
+    "product_id": "96F3WYUMKP",
+    "variations": [
+      {
+        "id": "BRHJCZ688B",
+        "display_name": "Tata Simply Better Virgin Coconut Cold Pressed Oil, Pure and Unrefined",
+        "price": {
+          "mrp": 999,
+          "store_price": 999,
+          "offer_price": 815,
+          "unit_level_price": "",
+          "discount_value": 184
+        },
+        "brand": "Tata Simply Better",
+        "brand_id": "d10797ec895b3742bc95565c689b07dd9ba7c6b0",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Virgin Coconut Cold Pressed Oil, Pure and Unrefined",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/2/51a3d458-f397-4dfb-83d2-941011c74f15_44367_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/2/60e810a1-ea1d-4d0c-9fbc-791b20d76e97_44367_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/2/334c62dc-d4ac-4613-870b-ce5f94a3e863_44367_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/2/95e33ad4-adc3-4e3e-b8fe-377c08b96205_44367_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/2/ec808bfc-fdfb-4afd-a43a-415833ecf58c_44367_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/2/0ea479d1-5bf2-4d6b-81b1-dfe34b352d18_44367_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Sundrop Superlite Advanced Sunflower Oil",
+    "brand": "Sundrop",
+    "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+    "product_id": "8L3TUHOOV9",
+    "variations": [
+      {
+        "id": "LPP6B59D2N",
+        "display_name": "Sundrop Superlite Advanced Sunflower Oil",
+        "price": {
+          "mrp": 609,
+          "store_price": 609,
+          "offer_price": 579,
+          "unit_level_price": "",
+          "discount_value": 30
+        },
+        "brand": "Sundrop",
+        "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Superlite Advanced Sunflower Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/15/f3d42387-60cd-4168-a663-1d26ae724ac9_cookingandedibleoils_X2OY9C330I_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/15/ccd0ef15-b12d-4ffc-94d6-2456acae5362_cookingandedibleoils_X2OY9C330I_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/15/ad0aa1be-3471-49b6-a4c9-58ca1b1edf1e_cookingandedibleoils_X2OY9C330I_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/15/9d51c8c8-6580-4156-85c9-bd50c5bcaa06_cookingandedibleoils_X2OY9C330I_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/15/49174634-516d-423f-ad3e-9f742e89546c_cookingandedibleoils_X2OY9C330I_AL4.png"
+        ],
+        "images_v2": null,
+        "quantity": "3 ltr",
+        "sku_quantity_with_combo": "3 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 3000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Jivo Canola Cold Press Edible Oil",
+    "brand": "Jivo",
+    "brand_id": "1bd421f677aba0b28ef95a6ed80970824cdf83ec",
+    "product_id": "4X7F7RN4VC",
+    "variations": [
+      {
+        "id": "4FRTJVIL0I",
+        "display_name": "Jivo Canola Cold Press Edible Oil",
+        "price": {
+          "mrp": 375,
+          "store_price": 375,
+          "offer_price": 248,
+          "unit_level_price": "",
+          "discount_value": 127
+        },
+        "brand": "Jivo",
+        "brand_id": "1bd421f677aba0b28ef95a6ed80970824cdf83ec",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Canola Cold Press Edible Oil",
+        "images": [
+          "uts5wtmejq1sebikf1f8",
+          "ynts7yn2ya3wyd0xnrov",
+          "xleeojgz3xth5hxtgmnv"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Jivo Daily Cooking Pomace Olive Oil",
+    "brand": "Jivo",
+    "brand_id": "1bd421f677aba0b28ef95a6ed80970824cdf83ec",
+    "product_id": "AF6IOXIPKZ",
+    "variations": [
+      {
+        "id": "ONCB9N3RWT",
+        "display_name": "Jivo Daily Cooking Pomace Olive Oil",
+        "price": {
+          "mrp": 1049,
+          "store_price": 1049,
+          "offer_price": 485,
+          "unit_level_price": "",
+          "discount_value": 564
+        },
+        "brand": "Jivo",
+        "brand_id": "1bd421f677aba0b28ef95a6ed80970824cdf83ec",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Daily Cooking Pomace Olive Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/15/fd1c92da-3327-4aa6-a8c6-1b47349ca1bc_cookingandedibleoils_97I8WX56K7_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/15/70f9a265-7cf9-468b-bbc0-67ccdc7dbd62_cookingandedibleoils_97I8WX56K7_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/15/f9cfe106-3f3e-4edf-b2ca-c9ece7d9b453_cookingandedibleoils_97I8WX56K7_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/15/94c34cdb-713b-4b6b-89b7-3201000472f4_cookingandedibleoils_97I8WX56K7_AL3.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 L",
+        "sku_quantity_with_combo": "1 L",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Del Monte Extra Virgin Olive Oil",
+    "brand": "Del Monte",
+    "brand_id": "c01cbb81b7bbf8311d5bf526363f29a5240134fe",
+    "product_id": "1JJPA1S6IS",
+    "variations": [
+      {
+        "id": "KNJPNIYCSS",
+        "display_name": "Del Monte Extra Virgin Olive Oil",
+        "price": {
+          "mrp": 749,
+          "store_price": 749,
+          "offer_price": 387,
+          "unit_level_price": "154.8/100 ml",
+          "discount_value": 362
+        },
+        "brand": "Del Monte",
+        "brand_id": "c01cbb81b7bbf8311d5bf526363f29a5240134fe",
+        "category": "Olive Oil",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Extra Virgin Olive Oil",
+        "images": [
+          "ljbttjtsldf7nhbgsvl8",
+          "nvf6fn6muxgo8zfkh1tm",
+          "uimakb57gqmvkyspk4od"
+        ],
+        "images_v2": null,
+        "quantity": "250 ml",
+        "sku_quantity_with_combo": "250 ml",
+        "unit_of_measure": null,
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "YQVQG9K7GJ",
+        "display_name": "Del Monte Extra Virgin Olive Oil",
+        "price": {
+          "mrp": 1499,
+          "store_price": 1499,
+          "offer_price": 675,
+          "unit_level_price": "135/100 ml",
+          "discount_value": 824
+        },
+        "brand": "Del Monte",
+        "brand_id": "c01cbb81b7bbf8311d5bf526363f29a5240134fe",
+        "category": "Olive Oil",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Extra Virgin Olive Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/23/66754f3c-a99d-4e0e-a5b2-d1193e216391_2917_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/23/290d5787-b29c-4626-af58-45bc04d677d7_2917_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/23/9fe9d530-bd41-4370-b1ed-bb0505c084e9_2917_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/23/d0f4b4d6-1946-454e-a7b9-e214b4f58acb_2917_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/23/aebe5a28-1bcc-4895-b539-a1233717cc2a_2917_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/23/289bc52c-8835-4940-8696-0a760ffdd85a_2917_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "500 ml",
+        "sku_quantity_with_combo": "500 ml",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Borges Olive Oil for Indian Cooking - 2 L",
+    "brand": "Borges",
+    "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+    "product_id": "ZGFNWUJ7MX",
+    "variations": [
+      {
+        "id": "21P3NL9FSJ",
+        "display_name": "Borges Olive Oil for Indian Cooking - 2 L",
+        "price": {
+          "mrp": 4200,
+          "store_price": 4200,
+          "offer_price": 2621,
+          "unit_level_price": "",
+          "discount_value": 1579
+        },
+        "brand": "Borges",
+        "brand_id": "bb331471b0317341292eb29ac08de70206b63ba0",
+        "category": "Olive Oil",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Olive Oil for Indian Cooking - 2 L",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/a49addb3-a734-43f9-bcb5-60ac462eda81_6155_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/a48e2da2-fea7-462b-9fcd-bb8a9e6ebc01_6155_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/84880424-be2f-4062-af5f-7042c7e48d78_6155_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/dfbea730-bbd6-451c-8e34-c3a94b91132b_6155_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/744993b0-f4b6-426a-83b1-3dfeec5b18db_488_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/28/0a7b3ee2-a5d4-47aa-a4ef-66fb3085d0f3_6155_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 ltr",
+        "sku_quantity_with_combo": "2 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Bertolli Extra Light Olive Oil",
+    "brand": "Bertolli",
+    "brand_id": "b092722ba28cdc9c3afa8c1236e325638c4d00ea",
+    "product_id": "2TQY4KZQV7",
+    "variations": [
+      {
+        "id": "TYZDGWQWQY",
+        "display_name": "Bertolli Extra Light Olive Oil",
+        "price": {
+          "mrp": 3999,
+          "store_price": 3999,
+          "offer_price": 2103,
+          "unit_level_price": "",
+          "discount_value": 1896
+        },
+        "brand": "Bertolli",
+        "brand_id": "b092722ba28cdc9c3afa8c1236e325638c4d00ea",
+        "category": "Olive Oil",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Extra Light Olive Oil",
+        "images": [
+          "gcov2r7ft1ie0zpnr4am",
+          "xp4sykvnhqawhwaqyclj",
+          "owb64v52s8rzuqwntcv4"
+        ],
+        "images_v2": null,
+        "quantity": "2 ltr",
+        "sku_quantity_with_combo": "2 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Del Monte Extra Virgin Olive Oil",
+    "brand": "Del Monte",
+    "brand_id": "c01cbb81b7bbf8311d5bf526363f29a5240134fe",
+    "product_id": "E22D7G2G5E",
+    "variations": [
+      {
+        "id": "S6FBUX75U6",
+        "display_name": "Del Monte Extra Virgin Olive Oil",
+        "price": {
+          "mrp": 2399,
+          "store_price": 2399,
+          "offer_price": 1704,
+          "unit_level_price": "",
+          "discount_value": 695
+        },
+        "brand": "Del Monte",
+        "brand_id": "c01cbb81b7bbf8311d5bf526363f29a5240134fe",
+        "category": "Olive Oil",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Extra Virgin Olive Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/23/aa96e5d2-542a-4941-bc6f-d450f4a334fe_14599_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/23/f16510c9-52b3-40a7-a78d-76f5b681f32b_14599_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/23/85a480cf-c60a-4a9b-8f81-f5c142e11466_14599_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/23/19dd28ca-0cda-47f0-a285-bdc79e43731f_14599_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/23/c468d2fb-a354-4441-9d62-3ff30d587d0e_14599_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/23/67fc5e82-7ede-4e22-a6ec-b2273476730a_14599_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 L",
+        "sku_quantity_with_combo": "1 L",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Patanjali Cow's Ghee Jar",
+    "brand": "Patanjali",
+    "brand_id": "9daa72ddc02f3b338767e697e0a5e7b74b7d8976",
+    "product_id": "K0FZ7XYUS6",
+    "variations": [
+      {
+        "id": "29NO4A1QJX",
+        "display_name": "Patanjali Cow's Ghee Jar",
+        "price": {
+          "mrp": 845,
+          "store_price": 845,
+          "offer_price": 779,
+          "unit_level_price": "",
+          "discount_value": 66
+        },
+        "brand": "Patanjali",
+        "brand_id": "9daa72ddc02f3b338767e697e0a5e7b74b7d8976",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cow's Ghee Jar",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/ef3d1a4b-e1af-4e13-89e0-cff6c4a6372d_394707_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/6e8ef01a-1be3-4234-bb4e-2ac9b5f40a3e_394707_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/01cac3a8-4a21-4636-b260-ceda5252aece_394707_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/2f8877b3-f19c-43e3-8764-a743fc9a1893_394707_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/f5f06a87-7465-4606-8548-51b5356099e3_394707_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/f884a057-667b-4e3e-9be7-a50281946efe_394707_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Kapiva Organic Ghee",
+    "brand": "Kapiva",
+    "brand_id": "651142980bd39a0113069fde7c2758656bd068bb",
+    "product_id": "1EBL9IJ4JM",
+    "variations": [
+      {
+        "id": "RFB64CUNCQ",
+        "display_name": "Kapiva Organic Ghee",
+        "price": {
+          "mrp": 1598,
+          "store_price": 1598,
+          "offer_price": 1390,
+          "unit_level_price": "139/100 ml",
+          "discount_value": 208
+        },
+        "brand": "Kapiva",
+        "brand_id": "651142980bd39a0113069fde7c2758656bd068bb",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Organic Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/2/22/e44ce91a-1dd4-47c0-91e6-cb3249e31b23_ghee_BV7ND3LHXF_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "500 ml x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "4PW4MOHKTJ",
+        "display_name": "Kapiva Organic Ghee",
+        "price": {
+          "mrp": 799,
+          "store_price": 799,
+          "offer_price": 695,
+          "unit_level_price": "139/100 ml",
+          "discount_value": 104
+        },
+        "brand": "Kapiva",
+        "brand_id": "651142980bd39a0113069fde7c2758656bd068bb",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Organic Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/17/1351f45f-eac2-49bc-b5ab-e557f7a91407_40875_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/17/b7fbf23e-b20a-40ff-b586-ebaf5746f939_40875_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/17/23f1e6db-19d4-4939-abad-cdce0f1a4781_40875_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/17/e2677d9f-a887-4f41-9c97-4fdd57be0e54_40875_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/17/3abcc5ed-b21f-482d-a9b3-81c88b190850_40875_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/17/e660d520-6d6d-462a-9b6c-5b495dc386c8_40875_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "500 ml",
+        "sku_quantity_with_combo": "500 ml",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "BAROSi A2 Desi Cow Ghee",
+    "brand": "BAROSi",
+    "brand_id": "62bc612db4e394e85327f79683d47dfec2b5305b",
+    "product_id": "WPT9GICFIV",
+    "variations": [
+      {
+        "id": "8Q4FICZX4C",
+        "display_name": "BAROSi A2 Desi Cow Ghee",
+        "price": {
+          "mrp": 1899,
+          "store_price": 1899,
+          "offer_price": 1281,
+          "unit_level_price": "",
+          "discount_value": 618
+        },
+        "brand": "BAROSi",
+        "brand_id": "62bc612db4e394e85327f79683d47dfec2b5305b",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "A2 Desi Cow Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/3/6ac6f6c8-4ee3-4816-9162-d07840e671b9_RYXT2TX6T5_mn.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/9/3/b4d7db8a-031e-4d83-9cee-316b1cb1f0a3_RYXT2TX6T5_al1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/6/27/4a1cd2e7-ad3d-4eb4-be09-21c56a27308e_ghee_RYXT2TX6T5_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/27/ab4271a6-57f4-42d4-8c6c-ac237aa8cccf_ghee_RYXT2TX6T5_AL3.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Sundrop Superlite Advanced Sunflower Oil Saver Pack",
+    "brand": "Sundrop",
+    "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+    "product_id": "KS3OTO56TX",
+    "variations": [
+      {
+        "id": "L4Y9KFI03A",
+        "display_name": "Sundrop Superlite Advanced Sunflower Oil Saver Pack",
+        "price": {
+          "mrp": 400,
+          "store_price": 400,
+          "offer_price": 386,
+          "unit_level_price": "",
+          "discount_value": 14
+        },
+        "brand": "Sundrop",
+        "brand_id": "60694e057be47a50216a07b2cc3c9b13f3415640",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Superlite Advanced Sunflower Oil Saver Pack",
+        "images": [
+          "smvd53grhbrmxvvagjkg",
+          "nxswpsxm6wlp7ehy07jz",
+          "cnwxgiligfvsz4if4pa0",
+          "aarmsrodlq4ur0ixblhz",
+          "lfnkluytrngvniemotmi"
+        ],
+        "images_v2": null,
+        "quantity": "2 ltr",
+        "sku_quantity_with_combo": "2 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "INDICWISDOM Wood Cold Pressed Sunflower Oil (Extracted on Wooden Churner)",
+    "brand": "INDICWISDOM",
+    "brand_id": "bf3aae71abc70a09f8e587deaeef24993844073a",
+    "product_id": "XXWM95H507",
+    "variations": [
+      {
+        "id": "D6OLTR47G3",
+        "display_name": "INDICWISDOM Wood Cold Pressed Sunflower Oil (Extracted on Wooden Churner)",
+        "price": {
+          "mrp": 470,
+          "store_price": 470,
+          "offer_price": 307,
+          "unit_level_price": "",
+          "discount_value": 163
+        },
+        "brand": "INDICWISDOM",
+        "brand_id": "bf3aae71abc70a09f8e587deaeef24993844073a",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Wood Cold Pressed Sunflower Oil (Extracted on Wooden Churner)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/9812afc6-3f69-4315-9ab8-326c448973a7_79284_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/62a2f6de-7d5c-4db3-bd8c-9f51fa8e5411_79284_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/de16bdb8-ddac-454a-b573-cbde0dc04d72_79284_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/5e6297f4-0b2c-4d4f-9410-9917eb837e00_79284_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/377b94ec-5684-4264-a14f-a31a568db8da_79284_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/e86d3301-4661-4e4b-ab89-f44ff024f1d5_79284_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/f0628d28-9819-47ce-80d9-299b294b12a8_79284_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/992dc844-8039-4a73-8c21-3a633ebbe612_79284_8.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/06ed3ad6-6bbc-4ec8-89f4-a13673a20adf_79284_10.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Jivo Cold Pressed oil Groundnut Oil",
+    "brand": "Jivo",
+    "brand_id": "1bd421f677aba0b28ef95a6ed80970824cdf83ec",
+    "product_id": "S9RRF9LTPY",
+    "variations": [
+      {
+        "id": "PFLBMWXT8P",
+        "display_name": "Jivo Cold Pressed oil Groundnut Oil",
+        "price": {
+          "mrp": 2800,
+          "store_price": 2800,
+          "offer_price": 1202,
+          "unit_level_price": "",
+          "discount_value": 1598
+        },
+        "brand": "Jivo",
+        "brand_id": "1bd421f677aba0b28ef95a6ed80970824cdf83ec",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cold Pressed oil Groundnut Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/8eaa54bb-0177-40f3-b5fe-6641cccc7b20_cookingandedibleoils_DJYHA6C93R_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/958b4fb4-1872-4144-8da0-9cc1caad083e_cookingandedibleoils_DJYHA6C93R_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/d674610e-bf41-44db-ab41-b51cda9aef3f_cookingandedibleoils_DJYHA6C93R_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/b72acb72-be34-4afb-b6e3-9340958e0cc3_cookingandedibleoils_DJYHA6C93R_AL3.png"
+        ],
+        "images_v2": null,
+        "quantity": "5 ltr",
+        "sku_quantity_with_combo": "5 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Emami Healthy & Tasty Sunflower Oil",
+    "brand": "Emami",
+    "brand_id": "3833738e0a7e03c05aa45633a5dbcfa07b3b08c4",
+    "product_id": "4KRYWKOHWK",
+    "variations": [
+      {
+        "id": "K0RRCNCRUM",
+        "display_name": "Emami Healthy & Tasty Sunflower Oil",
+        "price": {
+          "mrp": 360,
+          "store_price": 360,
+          "offer_price": 270,
+          "unit_level_price": "16.4/100 g",
+          "discount_value": 90
+        },
+        "brand": "Emami",
+        "brand_id": "3833738e0a7e03c05aa45633a5dbcfa07b3b08c4",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Healthy & Tasty Sunflower Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/26/ad4ba98e-0137-4b6c-9d21-b650c1ec51fd_340282.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 ltr",
+        "sku_quantity_with_combo": "825 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1650,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "TCVWNR0HGB",
+        "display_name": "Emami Healthy & Tasty Sunflower Oil",
+        "price": {
+          "mrp": 180,
+          "store_price": 180,
+          "offer_price": 135,
+          "unit_level_price": "16.4/100 g",
+          "discount_value": 45
+        },
+        "brand": "Emami",
+        "brand_id": "3833738e0a7e03c05aa45633a5dbcfa07b3b08c4",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": " Healthy & Tasty Refined Sunflower Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/2/41f7e05c-5db9-4dd2-926e-bcadca1bef79_3802_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/2/4d530200-fc90-40c4-a0ef-fce1a0780493_3802_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/2/4b05ddc2-6543-498a-816b-ef28ca9e2ffa_3802_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "825 g",
+        "sku_quantity_with_combo": "825 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 825,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Fortune Kachi Ghani Mustard Oil",
+    "brand": "Fortune",
+    "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+    "product_id": "5DKERFS4ZC",
+    "variations": [
+      {
+        "id": "J6F6BFR0PF",
+        "display_name": "Fortune Kachi Ghani Mustard Oil",
+        "price": {
+          "mrp": 1100,
+          "store_price": 1100,
+          "offer_price": 1100,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Fortune",
+        "brand_id": "25ce501689e7fe20991f82923e9ae65b32604cd8",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Kachi Ghani Mustard Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/30/9547280c-52e0-4d94-8166-9c60d98d0c45_15775_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/30/75434615-6df3-4b1c-92e6-79f971944340_15775_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/30/b2bb78a1-bc8a-463a-abb0-5f0a6b7109a6_15775_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "4.55 kg",
+        "sku_quantity_with_combo": "4.55 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Gramiyaa Wood Cold Pressed Groundnut Oil",
+    "brand": "Gramiyaa",
+    "brand_id": "5b17aacd5f813e05916492d49addb18d5b584c5f",
+    "product_id": "IQHY8R2VKY",
+    "variations": [
+      {
+        "id": "2LCGCV2J1K",
+        "display_name": "Gramiyaa Wood Cold Pressed Groundnut Oil",
+        "price": {
+          "mrp": 980,
+          "store_price": 980,
+          "offer_price": 718,
+          "unit_level_price": "",
+          "discount_value": 262
+        },
+        "brand": "Gramiyaa",
+        "brand_id": "5b17aacd5f813e05916492d49addb18d5b584c5f",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Wood Cold Pressed Groundnut Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/9/1707e20d-6494-4481-9557-f7b7c4957fd6_416089.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 ltr",
+        "sku_quantity_with_combo": "1 ltr x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "GJ6M5HHOFW",
+        "display_name": "Gramiyaa Wood Cold Pressed Groundnut Oil",
+        "price": {
+          "mrp": 490,
+          "store_price": 490,
+          "offer_price": 359,
+          "unit_level_price": "",
+          "discount_value": 131
+        },
+        "brand": "Gramiyaa",
+        "brand_id": "5b17aacd5f813e05916492d49addb18d5b584c5f",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Wood Cold Pressed Groundnut Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/3fad280d-b4fb-48eb-b427-c6adb7da8e1e_628934_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/d619d3c1-51ee-484c-bf30-c69e8623b95f_628934_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/5ac75288-1f63-4188-be4c-2e068feee8e8_628934_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/691def42-c982-4732-a399-5f6642977f09_628934_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/31/4bc885c5-19a7-45d6-ac50-cf403f36be54_628934_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/3fff2e89-69b7-40b9-bc5f-4ea216f9ead9_628934_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Patanjali Cow's Ghee",
+    "brand": "Patanjali",
+    "brand_id": "9daa72ddc02f3b338767e697e0a5e7b74b7d8976",
+    "product_id": "RUJ0VSXXUD",
+    "variations": [
+      {
+        "id": "IH2QP13GI4",
+        "display_name": "Patanjali Cow's Ghee",
+        "price": {
+          "mrp": 3625,
+          "store_price": 3625,
+          "offer_price": 3299,
+          "unit_level_price": "",
+          "discount_value": 326
+        },
+        "brand": "Patanjali",
+        "brand_id": "9daa72ddc02f3b338767e697e0a5e7b74b7d8976",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cow's Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/9454ae10-52f4-44df-a4e3-8e515c2a2094_426818_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/c5fdd59b-5e44-4a99-836d-65345cb663e5_426818_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/ad78a2d7-b207-4954-8fb1-817ad91b3d87_426818_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/66fff50d-a101-4760-86b8-5d37cb4d2e5b_426818_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/20094854-629d-488e-ada4-00407be36c2f_426818_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/30/324fd2f1-8e18-4730-8624-83e060d719de_426818_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "5 ltr",
+        "sku_quantity_with_combo": "5 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Himalayan Natives Organic Bilona Ghee",
+    "brand": "Himalayan Natives",
+    "brand_id": "54f14fc88add3e98bbd0516c54b803c44ec26d00",
+    "product_id": "W1614PU445",
+    "variations": [
+      {
+        "id": "TDM6FNVNI6",
+        "display_name": "Himalayan Natives Organic Bilona Ghee",
+        "price": {
+          "mrp": 949,
+          "store_price": 949,
+          "offer_price": 749,
+          "unit_level_price": "149.8/100 ml",
+          "discount_value": 200
+        },
+        "brand": "Himalayan Natives",
+        "brand_id": "54f14fc88add3e98bbd0516c54b803c44ec26d00",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Organic Bilona Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/13/bdb914f5-2895-4412-9462-b0cf33137ab2_14108_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/13/fd53b8ef-6fdf-47d3-a426-2be61466d58d_14108_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/13/18802a10-23f4-4b29-a6db-44903b5b4b6a_14108_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/13/59b4e100-ffba-4b1a-a0dd-773f4a1648f8_14108_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/13/d05e6539-0ab1-48b0-9369-ee46f4cdfff6_14108_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/13/05bf51be-4585-41bd-942c-5df455e25f1f_14108_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "500 ml",
+        "sku_quantity_with_combo": "500 ml",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "AR1706ZMPX",
+        "display_name": "Himalayan Natives Organic Bilona Ghee",
+        "price": {
+          "mrp": 1898,
+          "store_price": 1898,
+          "offer_price": 1498,
+          "unit_level_price": "149.8/100 ml",
+          "discount_value": 400
+        },
+        "brand": "Himalayan Natives",
+        "brand_id": "54f14fc88add3e98bbd0516c54b803c44ec26d00",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Organic Bilona Ghee",
+        "images": [
+          "8808c8f38627fcf12e33e01ac03c261c",
+          "NI_CATALOG/IMAGES/CIW/2025/2/13/fd53b8ef-6fdf-47d3-a426-2be61466d58d_14108_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/13/18802a10-23f4-4b29-a6db-44903b5b4b6a_14108_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/13/59b4e100-ffba-4b1a-a0dd-773f4a1648f8_14108_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/13/d05e6539-0ab1-48b0-9369-ee46f4cdfff6_14108_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/13/05bf51be-4585-41bd-942c-5df455e25f1f_14108_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "500 ml x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "24 Mantra Groundnut Oil",
+    "brand": "24 Mantra",
+    "brand_id": "d6fb7554fbb53a996bba22bafabc253a86fefdd1",
+    "product_id": "GTSQLMV46T",
+    "variations": [
+      {
+        "id": "9OPXUQ21GA",
+        "display_name": "24 Mantra Groundnut Oil",
+        "price": {
+          "mrp": 550,
+          "store_price": 550,
+          "offer_price": 418,
+          "unit_level_price": "",
+          "discount_value": 132
+        },
+        "brand": "24 Mantra",
+        "brand_id": "d6fb7554fbb53a996bba22bafabc253a86fefdd1",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Groundnut Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/28/e1ed8aaa-7214-46a6-be35-d3507fd259bb_20351_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/28/cd586156-dfce-495a-8ce9-74217fe8c0f6_20351_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/28/6099679d-8d96-439b-8c84-4f6bed65fc85_20351_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/28/b055a842-26cc-4c02-8563-e2ea89917a8f_20351_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/28/9d02b24e-1a80-4e17-b09f-159cb800a552_20351_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/2/28/e840d8e2-9845-43b0-9905-dbd612cbb038_20351_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "0PBWWF8KSU",
+        "display_name": "24 Mantra Groundnut Oil",
+        "price": {
+          "mrp": 1100,
+          "store_price": 1100,
+          "offer_price": 638,
+          "unit_level_price": "",
+          "discount_value": 462
+        },
+        "brand": "24 Mantra",
+        "brand_id": "d6fb7554fbb53a996bba22bafabc253a86fefdd1",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Groundnut Oil",
+        "images": [
+          "ba4e940e33e5bae7e451eeef6ce7b840",
+          "acdd9f838ce840d8b58d026375ee8194",
+          "a9f89785a9e62e2e53c7b89719712f69",
+          "7fcb6ec3d0d6aae43409b27e79e60286",
+          "8b94210fd2448e55e6799338819c974e",
+          "791823dc9525a657d5bd4866bd4b8aed"
+        ],
+        "images_v2": null,
+        "quantity": "2 ltr",
+        "sku_quantity_with_combo": "1 ltr x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Gemini Refined Sunflower Oil",
+    "brand": "Gemini",
+    "brand_id": "30867bae926b616be53d60db4d2ed7cf8bff4ebe",
+    "product_id": "3UL1KGFOHT",
+    "variations": [
+      {
+        "id": "BIWSH2VDM0",
+        "display_name": "Gemini Refined Sunflower Oil",
+        "price": {
+          "mrp": 950,
+          "store_price": 950,
+          "offer_price": 797,
+          "unit_level_price": "",
+          "discount_value": 153
+        },
+        "brand": "Gemini",
+        "brand_id": "30867bae926b616be53d60db4d2ed7cf8bff4ebe",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Refined Sunflower Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/17/df7f3d2b-76f2-4c08-a89d-aaf24705ccf2_6940_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/17/c70d5dee-9565-45bd-b8ad-dfb2af01395a_6940_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/17/98ee8579-46ca-414e-bc81-f558e5729694_6940_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "4.35 kg",
+        "sku_quantity_with_combo": "4.35 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Pansari Kacchi Ghani Mustard Oil (Sarso Ka Tel)",
+    "brand": "Pansari",
+    "brand_id": "e8c43c00c52f6069ebc7ce62f662c43476b0bb21",
+    "product_id": "X71Q4C7CYU",
+    "variations": [
+      {
+        "id": "S8O5DSQC4K",
+        "display_name": "Pansari Kacchi Ghani Mustard Oil (Sarso Ka Tel)",
+        "price": {
+          "mrp": 245,
+          "store_price": 245,
+          "offer_price": 218,
+          "unit_level_price": "",
+          "discount_value": 27
+        },
+        "brand": "Pansari",
+        "brand_id": "e8c43c00c52f6069ebc7ce62f662c43476b0bb21",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Kacchi Ghani Mustard Oil (Sarso Ka Tel)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/6/79e87b7a-bac7-4bf3-86b4-a2f6e4e8a9ce_69432_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/6/3431e09f-ef48-4cfe-9eab-35e7730ce762_69432_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/6/b545821a-85dc-4db8-9bca-4b4f4c341f5b_69432_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/6/175899eb-67a5-42d4-aece-ef3c9c3a5460_69432_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/6/3656e48d-22fe-4965-af9c-00cd90b6835e_69432_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/6/80c755f1-4a09-4bda-8009-f916a9fd5769_69432_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Auric Lab Certified Cow Ghee 1L | 100% Pure And Natural Desi Ghee",
+    "brand": "Auric",
+    "brand_id": "e1348596654d636901a6201ce7230b9e79ba4c54",
+    "product_id": "ROIEKSFG0O",
+    "variations": [
+      {
+        "id": "A6T0AD5AGK",
+        "display_name": "Auric Lab Certified Cow Ghee 1L | 100% Pure And Natural Desi Ghee",
+        "price": {
+          "mrp": 999,
+          "store_price": 999,
+          "offer_price": 567,
+          "unit_level_price": "",
+          "discount_value": 432
+        },
+        "brand": "Auric",
+        "brand_id": "e1348596654d636901a6201ce7230b9e79ba4c54",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Lab Certified Cow Ghee 1L | 100% Pure And Natural Desi Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/08ad5e6a-b6cb-4255-a728-1ad31b471073_ghee_NCN64VALR7_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/3d364a8d-486e-478e-a63f-b3db887babea_ghee_NCN64VALR7_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/4/0062940d-cf59-4e58-93a9-854bc41de7eb_ghee_NDJAUNS113_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/5eb35c17-c9f0-4e63-b41d-707464af21ab_ghee_NCN64VALR7_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/f5fe7fc9-f469-4275-9a40-2827781e0cfe_ghee_NCN64VALR7_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/27/70cbbd64-6623-49a9-94f5-1dde9ffd0adb_ghee_NCN64VALR7_AL5.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Jivo Extra Light Edible Olive Oil Ideal for Everyday Indian Cooking",
+    "brand": "Jivo",
+    "brand_id": "1bd421f677aba0b28ef95a6ed80970824cdf83ec",
+    "product_id": "O2S3GBFDAM",
+    "variations": [
+      {
+        "id": "SHZKX3SR0P",
+        "display_name": "Jivo Extra Light Edible Olive Oil Ideal for Everyday Indian Cooking",
+        "price": {
+          "mrp": 6499,
+          "store_price": 6499,
+          "offer_price": 2927,
+          "unit_level_price": "",
+          "discount_value": 3572
+        },
+        "brand": "Jivo",
+        "brand_id": "1bd421f677aba0b28ef95a6ed80970824cdf83ec",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Extra Light Edible Olive Oil Ideal for Everyday Indian Cooking",
+        "images": [
+          "930cb05e99080c775abb75b7c4d2f6a2",
+          "b43a5dfccc1d617b07962f66a4b71624",
+          "340b8a0a9969a1397c85f79e3e719469"
+        ],
+        "images_v2": null,
+        "quantity": "5 ltr",
+        "sku_quantity_with_combo": "5 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Jivo Pomace Daily Cooking Olive Oil",
+    "brand": "Jivo",
+    "brand_id": "1bd421f677aba0b28ef95a6ed80970824cdf83ec",
+    "product_id": "QA7IEV0K7D",
+    "variations": [
+      {
+        "id": "NNPDITB1Z6",
+        "display_name": "Jivo Pomace Daily Cooking Olive Oil",
+        "price": {
+          "mrp": 1449,
+          "store_price": 1449,
+          "offer_price": 969,
+          "unit_level_price": "",
+          "discount_value": 480
+        },
+        "brand": "Jivo",
+        "brand_id": "1bd421f677aba0b28ef95a6ed80970824cdf83ec",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Pomace Daily Cooking Olive Oil",
+        "images": [
+          "07e2d353554810ccabe28bb91bc349bd",
+          "323f4092b560b2eb0fb72048224a8fe0",
+          "d5816d8123a6fcfd2a7003375c7932a3",
+          "ca742955cc3f321564ee8dcb60716ceb"
+        ],
+        "images_v2": null,
+        "quantity": "2 ltr",
+        "sku_quantity_with_combo": "2 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Milky Mist Agmark Ghee",
+    "brand": "Milky Mist",
+    "brand_id": "b2b6eb158fd90e6648446be44354d6038b4dc9b7",
+    "product_id": "7PTGQYRGPC",
+    "variations": [
+      {
+        "id": "2I5KJR0S88",
+        "display_name": "Milky Mist Agmark Ghee",
+        "price": {
+          "mrp": 185,
+          "store_price": 185,
+          "offer_price": 141,
+          "unit_level_price": "",
+          "discount_value": 44
+        },
+        "brand": "Milky Mist",
+        "brand_id": "b2b6eb158fd90e6648446be44354d6038b4dc9b7",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Agmark Ghee",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/7/80318b9a-b985-463e-8200-fa5821a9f2e7_2699_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/7/5402dfef-1b86-433e-873c-e3a0ef881049_2699_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/7/143ca919-8790-4484-89d4-d76ec0f38081_2699_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "200 ml",
+        "sku_quantity_with_combo": "200 ml",
+        "unit_of_measure": null,
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Gold Winner Vita D3+ Refined Sunflower Oil",
+    "brand": "Gold Winner",
+    "brand_id": "722a2df5efbe1e08e07556ff1aa5e6f45f87abc2",
+    "product_id": "6AAP2XM7AT",
+    "variations": [
+      {
+        "id": "LAWCBK3RZN",
+        "display_name": "Gold Winner Vita D3+ Refined Sunflower Oil",
+        "price": {
+          "mrp": 900,
+          "store_price": 900,
+          "offer_price": 897,
+          "unit_level_price": "",
+          "discount_value": 3
+        },
+        "brand": "Gold Winner",
+        "brand_id": "722a2df5efbe1e08e07556ff1aa5e6f45f87abc2",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Vita D3+ Refined Sunflower Oil",
+        "images": [
+          "tzyeji8e4a0b4yz3tpap",
+          "yfr1ekgnuezggw7rdsha",
+          "hsx3lrhftq0z5x2s0oab",
+          "o43qrrtg9cxd8qwyv2u9"
+        ],
+        "images_v2": null,
+        "quantity": "5 ltr",
+        "sku_quantity_with_combo": "5 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Nandini Pure Cow Ghee Pouch",
+    "brand": "Nandini",
+    "brand_id": "2d1bf22e854afc157f9c13fa947c8d2b525093f0",
+    "product_id": "3W7HJ38CTF",
+    "variations": [
+      {
+        "id": "ULDG8X8T7W",
+        "display_name": "Nandini Pure Cow Ghee Pouch",
+        "price": {
+          "mrp": 650,
+          "store_price": 650,
+          "offer_price": 625,
+          "unit_level_price": "",
+          "discount_value": 25
+        },
+        "brand": "Nandini",
+        "brand_id": "2d1bf22e854afc157f9c13fa947c8d2b525093f0",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Pure Cow Ghee Pouch",
+        "images": [
+          "ipqjykalal6cgsgfz1h0",
+          "gqzstwu7zixkhyzgvuxs",
+          "b9c9gngsqwwi7a8jpode"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "0ZZ420RH01",
+        "display_name": "Nandini Pure Cow Ghee Pouch",
+        "price": {
+          "mrp": 325,
+          "store_price": 325,
+          "offer_price": 318,
+          "unit_level_price": "",
+          "discount_value": 7
+        },
+        "brand": "Nandini",
+        "brand_id": "2d1bf22e854afc157f9c13fa947c8d2b525093f0",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Pure Cow Ghee Pouch",
+        "images": [
+          "rxychbij1svwmtdxvayi",
+          "gcpmrbet59cojty3duvd",
+          "xxuggn3cbbp76euaz2a9"
+        ],
+        "images_v2": null,
+        "quantity": "500 ml",
+        "sku_quantity_with_combo": "500 ml",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Emami Sunflower Oil",
+    "brand": "Emami",
+    "brand_id": "3833738e0a7e03c05aa45633a5dbcfa07b3b08c4",
+    "product_id": "QMAP1SB4U5",
+    "variations": [
+      {
+        "id": "ODJ1OUOYVQ",
+        "display_name": "Emami Sunflower Oil",
+        "price": {
+          "mrp": 875,
+          "store_price": 875,
+          "offer_price": 717,
+          "unit_level_price": "",
+          "discount_value": 158
+        },
+        "brand": "Emami",
+        "brand_id": "3833738e0a7e03c05aa45633a5dbcfa07b3b08c4",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Sunflower Oil",
+        "images": [
+          "4aabf4e2311996cd75ce5cdaedc5acfb",
+          "e1f3668f662b56de980bf2a684db9b91",
+          "ab5306ff41cdb31ec1ec64b8d0c69784"
+        ],
+        "images_v2": null,
+        "quantity": "5 ltr",
+        "sku_quantity_with_combo": "5 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 5000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Klf Coconad 100% Pure Coconut Oil",
+    "brand": "Klf",
+    "brand_id": "4eefc5d7058e2ee149b19654a34fb7d54e3a2766",
+    "product_id": "RIT6B9GRAK",
+    "variations": [
+      {
+        "id": "P5NDR0F5NF",
+        "display_name": "Klf Coconad 100% Pure Coconut Oil",
+        "price": {
+          "mrp": 1350,
+          "store_price": 1350,
+          "offer_price": 1104,
+          "unit_level_price": "",
+          "discount_value": 246
+        },
+        "brand": "Klf",
+        "brand_id": "4eefc5d7058e2ee149b19654a34fb7d54e3a2766",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Coconad 100% Pure Coconut Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/29/452e3fb6-8836-480a-b590-e0a6a14f09e7_cookingandedibleoils_K2SKQYAOKL_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "1 ltr x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "UOB7K2ZFTA",
+        "display_name": "Klf Coconad 100% Pure Coconut Oil",
+        "price": {
+          "mrp": 675,
+          "store_price": 675,
+          "offer_price": 554,
+          "unit_level_price": "",
+          "discount_value": 121
+        },
+        "brand": "Klf",
+        "brand_id": "4eefc5d7058e2ee149b19654a34fb7d54e3a2766",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Coconad 100% Pure Coconut Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/fb967c28-44ec-4297-b0bd-d0c6d2e9e832_cookingandedibleoils_AQYO2POJ67_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/bc4258a7-f761-439a-8797-5f5ce71dc873_cookingandedibleoils_AQYO2POJ67_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/ee07afff-7ba7-4e1e-87b2-ec5bce8fa019_cookingandedibleoils_AQYO2POJ67_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/517c3e80-d749-4d58-8755-d967bc9b4749_cookingandedibleoils_AQYO2POJ67_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/d4743ab6-4fd4-468d-8425-ebc950ba6901_cookingandedibleoils_AQYO2POJ67_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/5/17/061a57f6-5c28-4aeb-8f81-56cbeaa3d2f2_cookingandedibleoils_AQYO2POJ67_AL5.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Idhayam Gingelly Oil",
+    "brand": "Idhayam",
+    "brand_id": "ac137b9ab7cd13a78f01826eeae688a6b1fda80a",
+    "product_id": "B726C0U40P",
+    "variations": [
+      {
+        "id": "MAF928T55U",
+        "display_name": "Idhayam Gingelly Oil",
+        "price": {
+          "mrp": 918,
+          "store_price": 918,
+          "offer_price": 870,
+          "unit_level_price": "",
+          "discount_value": 48
+        },
+        "brand": "Idhayam",
+        "brand_id": "ac137b9ab7cd13a78f01826eeae688a6b1fda80a",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Gingelly Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/15/9f17d22c-674f-4dc5-b590-a382dcd27037_567571.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 ltr",
+        "sku_quantity_with_combo": "1 ltr x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "39U1MQT0D9",
+        "display_name": "Idhayam Gingelly Oil",
+        "price": {
+          "mrp": 459,
+          "store_price": 459,
+          "offer_price": 435,
+          "unit_level_price": "",
+          "discount_value": 24
+        },
+        "brand": "Idhayam",
+        "brand_id": "ac137b9ab7cd13a78f01826eeae688a6b1fda80a",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Gingelly Oil",
+        "images": [
+          "dyelqwee8weaiu8vssp7",
+          "yadjwhisopxvo6o1wahn",
+          "elvcuv7zsgut9njnbeuf",
+          "czbxxgsoj0xapucc9mfm"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "GRB Ghee",
+    "brand": "GRB",
+    "brand_id": "39b7af2f63053625fe5ce4992e38ee64e0fc2ee9",
+    "product_id": "YJ3Z5UOBL0",
+    "variations": [
+      {
+        "id": "HDNDHMYTVT",
+        "display_name": "GRB Ghee",
+        "price": {
+          "mrp": 179,
+          "store_price": 179,
+          "offer_price": 164,
+          "unit_level_price": "",
+          "discount_value": 15
+        },
+        "brand": "GRB",
+        "brand_id": "39b7af2f63053625fe5ce4992e38ee64e0fc2ee9",
+        "category": "Ghee",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Ghee",
+        "images": [
+          "pienoltk0lbb78rx5jp6",
+          "tmdhgllrvernxacxkrx8",
+          "boqcllzyf4cvau1ghye5"
+        ],
+        "images_v2": null,
+        "quantity": "200 ml",
+        "sku_quantity_with_combo": "200 ml",
+        "unit_of_measure": null,
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "Freedom Refined Sunflower Oil",
+    "brand": "Freedom",
+    "brand_id": "daad8bc936f8e5765803f591b453fffbce01c761",
+    "product_id": "JRMUAESP4J",
+    "variations": [
+      {
+        "id": "NWHVULPR4N",
+        "display_name": "Freedom Refined Sunflower Oil",
+        "price": {
+          "mrp": 346,
+          "store_price": 346,
+          "offer_price": 295,
+          "unit_level_price": "",
+          "discount_value": 51
+        },
+        "brand": "Freedom",
+        "brand_id": "daad8bc936f8e5765803f591b453fffbce01c761",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Refined Sunflower Oil",
+        "images": [
+          "bd91357d72fd0d3b3502c445447162f6",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/b4724d69-76b1-45a5-94be-ab2be150842c_cookingandedibleoils_I22R5UC99H_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/3fcbac26-038b-4acf-8a23-8cc82dbf0d38_cookingandedibleoils_I22R5UC99H_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/43668036-86b3-4f6a-bdf2-8e5060e36ab9_cookingandedibleoils_I22R5UC99H_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/526aeecc-3d37-4c50-883a-d21cd763a5fa_cookingandedibleoils_I22R5UC99H_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/a3fe2a37-d1c1-4592-a5f4-e9706ad613b3_cookingandedibleoils_I22R5UC99H_AL5.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 ltr",
+        "sku_quantity_with_combo": "1 ltr x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "T7K4R1CNPN",
+        "display_name": "Freedom Refined Sunflower Oil",
+        "price": {
+          "mrp": 173,
+          "store_price": 173,
+          "offer_price": 148,
+          "unit_level_price": "",
+          "discount_value": 25
+        },
+        "brand": "Freedom",
+        "brand_id": "daad8bc936f8e5765803f591b453fffbce01c761",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Refined Sunflower Oil",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/a0f5c850-60f6-4cc4-9b1c-bd86f4322be4_cookingandedibleoils_I22R5UC99H_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/b4724d69-76b1-45a5-94be-ab2be150842c_cookingandedibleoils_I22R5UC99H_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/3fcbac26-038b-4acf-8a23-8cc82dbf0d38_cookingandedibleoils_I22R5UC99H_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/43668036-86b3-4f6a-bdf2-8e5060e36ab9_cookingandedibleoils_I22R5UC99H_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/526aeecc-3d37-4c50-883a-d21cd763a5fa_cookingandedibleoils_I22R5UC99H_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/12/a3fe2a37-d1c1-4592-a5f4-e9706ad613b3_cookingandedibleoils_I22R5UC99H_AL5.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  },
+  {
+    "display_name": "organic tattva Mustard Oil Bottle",
+    "brand": "organic tattva",
+    "brand_id": "15b82fe72388552584902a5af08262ba7a007ffc",
+    "product_id": "TGBQ2C38D6",
+    "variations": [
+      {
+        "id": "KW7P7FITNW",
+        "display_name": "organic tattva Mustard Oil Bottle",
+        "price": {
+          "mrp": 349,
+          "store_price": 349,
+          "offer_price": 254,
+          "unit_level_price": "",
+          "discount_value": 95
+        },
+        "brand": "organic tattva",
+        "brand_id": "15b82fe72388552584902a5af08262ba7a007ffc",
+        "category": "Edible Oils",
+        "super_category": "Edible Oils and Ghee",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Mustard Oil Bottle",
+        "images": [
+          "c7ddddc564e7598e6959af77fbfaa0e0",
+          "24dcf734034c6576f53e17b7c4a64a44",
+          "3139739d45dce9a869128fdc00dc0b03"
+        ],
+        "images_v2": null,
+        "quantity": "1 ltr",
+        "sku_quantity_with_combo": "1 ltr",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aec",
+        "name": "Oils and Ghee"
+      },
+      "category_name_from_url": "Oils and Ghee"
+    }
+  }
+]

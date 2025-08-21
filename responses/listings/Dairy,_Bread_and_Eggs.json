@@ -1,91 +1,5 @@
 [
   {
-    "display_name": "Modern 100% Whole Wheat Bread (Zero Maida, No trans fat)",
-    "brand": "Modern",
-    "brand_id": "b49daef48a0d2a41663d89fe39cfa4f6403f2aa8",
-    "product_id": "WZ4F929UG1",
-    "variations": [
-      {
-        "id": "N073T0FVC2",
-        "display_name": "Modern 100% Whole Wheat Bread (Zero Maida, No trans fat)",
-        "price": {
-          "mrp": 60,
-          "store_price": 60,
-          "offer_price": 55,
-          "unit_level_price": "",
-          "discount_value": 5
-        },
-        "brand": "Modern",
-        "brand_id": "b49daef48a0d2a41663d89fe39cfa4f6403f2aa8",
-        "category": "Bread and Buns",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": "Breads",
-        "sub_category_l4": "Wheat Bread",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "100% Whole Wheat Bread (Zero Maida, No trans fat)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/11/7/f9d1fc96-0a1a-41ba-bd17-b03adbcc8c83_777_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/7/5b76ab8e-757c-4720-ab0c-3a1a2a2c21ce_777_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/7/847f637e-0fbe-4766-8465-adf4ff4875cf_777_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/7/7504fa68-a66c-4f8e-ad71-8128975a923e_777_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/7/d835c3ef-2a1b-4655-a881-b8cc383e9ff2_777_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/11/7/8c1345df-e53e-4b7a-a6b0-5f1cd9ec6a28_777_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "400",
-        "sku_quantity_with_combo": "400 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 400,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "NOICE Buttery Milk Bread (Freshly made)",
-    "brand": "NOICE",
-    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-    "product_id": "IC0ROQJONM",
-    "variations": [
-      {
-        "id": "DAK58SOPNS",
-        "display_name": "NOICE Buttery Milk Bread (Freshly made)",
-        "price": {
-          "mrp": 50,
-          "store_price": 50,
-          "offer_price": 39,
-          "unit_level_price": "15.6/100 g",
-          "discount_value": 11
-        },
-        "brand": "NOICE",
-        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-        "category": "Bread and Buns",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": "Breads",
-        "sub_category_l4": "Milk Bread",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Buttery Milk Bread (Freshly made)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/56650c6d-d214-4572-98c8-6f4b03434877_180123.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/30/e192c022-99a8-44d8-b21f-431cf8b38605_29WMCACS9N_al2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/19/f9d19087-e65b-4736-9fe1-3636fe13e433_29WMCACS9N3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/19/a6f921d2-b923-4f54-8d46-7714256e36d5_29WMCACS9N4.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/24/9263d49c-03ef-49e6-b9eb-2a8da14d52b5_29WMCACS9N_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/24/a47c376c-b5b8-4440-9d00-97f23b03ea2c_29WMCACS9N_8.png"
-        ],
-        "images_v2": [],
-        "quantity": "250",
-        "sku_quantity_with_combo": "250 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 250,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
     "display_name": "The Health Factory 100% Whole Wheat Bread (Zero Maida)",
     "brand": "The Health Factory",
     "brand_id": "f0621d658ad79b2f6f2d52347ebac879bf7daab7",
@@ -159,57 +73,71 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
-    "display_name": "Amul Butter Chiplets",
-    "brand": "Amul",
-    "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
-    "product_id": "9X3XSCGWZL",
+    "display_name": "Milky Mist High Protein Low Fat Paneer",
+    "brand": "Milky Mist",
+    "brand_id": "b2b6eb158fd90e6648446be44354d6038b4dc9b7",
+    "product_id": "VTU7V6QIUL",
     "variations": [
       {
-        "id": "6L9XUVO7NP",
-        "display_name": "Amul Butter Chiplets",
+        "id": "84B4UN8TF5",
+        "display_name": "Milky Mist High Protein Low Fat Paneer",
         "price": {
-          "mrp": 75,
-          "store_price": 75,
-          "offer_price": 75,
+          "mrp": 150,
+          "store_price": 150,
+          "offer_price": 113,
           "unit_level_price": "",
-          "discount_value": 0
+          "discount_value": 37
         },
-        "brand": "Amul",
-        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
-        "category": "Butter",
+        "brand": "Milky Mist",
+        "brand_id": "b2b6eb158fd90e6648446be44354d6038b4dc9b7",
+        "category": "Paneer and Cream",
         "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": "Table Butter",
-        "sub_category_l4": "Salted",
+        "sub_category_l3": "Paneer",
+        "sub_category_l4": "Fresh Paneer",
         "sub_category_l5": "Small",
-        "product_name_without_brand": "Butter Chiplets",
+        "product_name_without_brand": "High Protein Low Fat Paneer",
         "images": [
-          "p7qxbzhngi4fj0djwaz9",
-          "hbzikvviqwinsyeo80cd",
-          "ksblzxfa09eqgidwkjga"
+          "NI_CATALOG/IMAGES/CIW/2025/1/2/c1520163-0a0a-4151-b56a-1c85f91ee86b_250011_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/2/0cf427c0-ab9f-4523-b80f-70616b50188c_250011_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/2/a4326a82-4ca0-478d-8c68-8fe0d510f897_250011_3.png"
         ],
         "images_v2": [],
-        "quantity": "100",
-        "sku_quantity_with_combo": "100 g",
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
         "unit_of_measure": "g",
-        "weight_in_grams": 100,
+        "weight_in_grams": 200,
         "volumetric_weight": 0,
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
-    "display_name": "NOICE Fluffy White Bread (Freshly made)",
+    "display_name": "NOICE Buttery Milk Bread (Freshly made)",
     "brand": "NOICE",
     "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-    "product_id": "DEHFWCW91E",
+    "product_id": "IC0ROQJONM",
     "variations": [
       {
-        "id": "TQ6C65J82D",
-        "display_name": "NOICE Fluffy White Bread (Freshly made)",
+        "id": "DAK58SOPNS",
+        "display_name": "NOICE Buttery Milk Bread (Freshly made)",
         "price": {
           "mrp": 50,
           "store_price": 50,
@@ -222,16 +150,16 @@
         "category": "Bread and Buns",
         "super_category": "Dairy, Bread and Eggs",
         "sub_category_l3": "Breads",
-        "sub_category_l4": "Wheat Bread",
+        "sub_category_l4": "Milk Bread",
         "sub_category_l5": "Medium",
-        "product_name_without_brand": "Fluffy White Bread (Freshly made)",
+        "product_name_without_brand": "Buttery Milk Bread (Freshly made)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/7720afe4-d3b4-450f-8110-5f414c45aa7b_797572.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/30/e1e7d428-ad88-4f20-bea1-2c10d3a17bbf_6Y08SN8S6K_al2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/19/8d5e9497-58a7-4a47-a2f2-b096a4c47898_6Y08SN8S6K3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/19/7612acb7-650b-4578-80c2-d5b5fc5bb6f6_6Y08SN8S6K4.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/24/bc8a5fed-d839-4626-85fc-fea8c532e69b_6Y08SN8S6K_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/24/e7dfd3aa-1921-4d76-a1e7-122623f8f8a9_6Y08SN8S6K_8.png"
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/56650c6d-d214-4572-98c8-6f4b03434877_180123.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/e192c022-99a8-44d8-b21f-431cf8b38605_29WMCACS9N_al2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/f9d19087-e65b-4736-9fe1-3636fe13e433_29WMCACS9N3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/a6f921d2-b923-4f54-8d46-7714256e36d5_29WMCACS9N4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/9263d49c-03ef-49e6-b9eb-2a8da14d52b5_29WMCACS9N_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/a47c376c-b5b8-4440-9d00-97f23b03ea2c_29WMCACS9N_8.png"
         ],
         "images_v2": [],
         "quantity": "250",
@@ -242,7 +170,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
     "display_name": "NOICE Fresh Malai Paneer (Handmade Daily)",
@@ -285,132 +220,163 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
-    "display_name": "Milky Mist High Protein Low Fat Paneer",
-    "brand": "Milky Mist",
-    "brand_id": "b2b6eb158fd90e6648446be44354d6038b4dc9b7",
-    "product_id": "VTU7V6QIUL",
+    "display_name": "NOICE Fluffy White Bread (Freshly made)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "DEHFWCW91E",
     "variations": [
       {
-        "id": "84B4UN8TF5",
-        "display_name": "Milky Mist High Protein Low Fat Paneer",
+        "id": "TQ6C65J82D",
+        "display_name": "NOICE Fluffy White Bread (Freshly made)",
         "price": {
-          "mrp": 150,
-          "store_price": 150,
-          "offer_price": 111,
-          "unit_level_price": "",
-          "discount_value": 39
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 39,
+          "unit_level_price": "15.6/100 g",
+          "discount_value": 11
         },
-        "brand": "Milky Mist",
-        "brand_id": "b2b6eb158fd90e6648446be44354d6038b4dc9b7",
-        "category": "Paneer and Cream",
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Bread and Buns",
         "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": "Paneer",
-        "sub_category_l4": "Fresh Paneer",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "High Protein Low Fat Paneer",
+        "sub_category_l3": "Breads",
+        "sub_category_l4": "Wheat Bread",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Fluffy White Bread (Freshly made)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/1/2/c1520163-0a0a-4151-b56a-1c85f91ee86b_250011_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/2/0cf427c0-ab9f-4523-b80f-70616b50188c_250011_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/2/a4326a82-4ca0-478d-8c68-8fe0d510f897_250011_3.png"
-        ],
-        "images_v2": [],
-        "quantity": "200",
-        "sku_quantity_with_combo": "200 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 200,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Amul Garlic & Herbs Butter",
-    "brand": "Amul",
-    "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
-    "product_id": "QXBIOH3DXP",
-    "variations": [
-      {
-        "id": "AYZ71YNDTT",
-        "display_name": "Amul Garlic & Herbs Butter",
-        "price": {
-          "mrp": 70,
-          "store_price": 70,
-          "offer_price": 70,
-          "unit_level_price": "",
-          "discount_value": 0
-        },
-        "brand": "Amul",
-        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
-        "category": "Butter",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": "Fat Spread",
-        "sub_category_l4": "Garlic and Herb",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Garlic & Herbs Butter",
-        "images": [
-          "qd6cwxugjpmet5l71rr2",
-          "bq5f0wyt1tkvn2ydek5z",
-          "qtqokjxbstrt1022weuw",
-          "cnsmf4iougiqjdvkklmn",
-          "bgtx0dhz6uuaupgikn7x",
-          "eqw3w4vvmdeweuar7kli"
-        ],
-        "images_v2": [],
-        "quantity": "100",
-        "sku_quantity_with_combo": "100 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Amul Lactose Free Milk",
-    "brand": "Amul",
-    "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
-    "product_id": "DVK7YILJZU",
-    "variations": [
-      {
-        "id": "B7WC1OO08W",
-        "display_name": "Amul Lactose Free Milk",
-        "price": {
-          "mrp": 26,
-          "store_price": 26,
-          "offer_price": 26,
-          "unit_level_price": "10.4/100 ml",
-          "discount_value": 0
-        },
-        "brand": "Amul",
-        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
-        "category": "Milk",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": "Tetra Milk",
-        "sub_category_l4": "Lactose Free Milk",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Lactose Free Milk",
-        "images": [
-          "xkopjagx3zt7ky1nobuo",
-          "d9izmlejguilr9a6cyn6",
-          "esska2rqfswymqsjfdus",
-          "x75d4mlcxphv7b5h2qao",
-          "ucxqzu9bgoloclmv7tqv"
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/7720afe4-d3b4-450f-8110-5f414c45aa7b_797572.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/e1e7d428-ad88-4f20-bea1-2c10d3a17bbf_6Y08SN8S6K_al2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/8d5e9497-58a7-4a47-a2f2-b096a4c47898_6Y08SN8S6K3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/7612acb7-650b-4578-80c2-d5b5fc5bb6f6_6Y08SN8S6K4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/bc8a5fed-d839-4626-85fc-fea8c532e69b_6Y08SN8S6K_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/e7dfd3aa-1921-4d76-a1e7-122623f8f8a9_6Y08SN8S6K_8.png"
         ],
         "images_v2": [],
         "quantity": "250",
-        "sku_quantity_with_combo": "250 ml",
-        "unit_of_measure": "ml",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": "g",
         "weight_in_grams": 250,
         "volumetric_weight": 0,
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "NOICE Crustless Sandwich Bread (Freshly made)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "MHCSA2BUVH",
+    "variations": [
+      {
+        "id": "L1QK05Z2A8",
+        "display_name": "NOICE Crustless Sandwich Bread (Freshly made)",
+        "price": {
+          "mrp": 59,
+          "store_price": 59,
+          "offer_price": 49,
+          "unit_level_price": "",
+          "discount_value": 10
+        },
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Bread and Buns",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": "Breads",
+        "sub_category_l4": "Crustless Bread",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Crustless Sandwich Bread (Freshly made)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/20/a76968fd-c90e-42bc-addd-6ef2f68b5aa9_OJW0ZNNIMT_mn.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/4/7fba9655-e0f9-4725-97af-340b0e3d4490_OJW0ZNNIMT_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/19/89860cbd-6fe5-4dbd-b73f-69beaa14f368_OJW0ZNNIMT_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/19/f6310342-52ee-4a11-b316-5a11484d0afe_OJW0ZNNIMT_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/8/21/3a3a355d-959e-49e4-9c6f-e588d3e76755_OJW0ZNNIMT_blr7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/21/a03be93f-a8e7-4995-aa78-2d378ed0d6be_OJW0ZNNIMT_blr8.png"
+        ],
+        "images_v2": [],
+        "quantity": "220",
+        "sku_quantity_with_combo": "220 gm",
+        "unit_of_measure": "gm",
+        "weight_in_grams": 220,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "NOICE Fresh Mango Thick Lassi (Homestyle)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "OW9WJWIQJL",
+    "variations": [
+      {
+        "id": "FRL8LW9NKR",
+        "display_name": "NOICE Fresh Mango Thick Lassi (Homestyle)",
+        "price": {
+          "mrp": 109,
+          "store_price": 109,
+          "offer_price": 59,
+          "unit_level_price": "29.5/100 ml",
+          "discount_value": 50
+        },
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Milk Based Drinks",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": "Lassi",
+        "sub_category_l4": "Mango Lassi",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Fresh Mango Thick Lassi (Homestyle)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/47dd0e93-7516-4588-82b5-26a44cb6a95a_E43IOILDQ7_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/b3f400a3-960b-42de-b4b9-e831546e3716_E43IOILDQ7_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/af2d9681-87ee-4278-bd2a-69787f851002_E43IOILDQ7_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/1b6c5299-66dc-4218-82a8-cd29e73c2deb_E43IOILDQ7_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/bfe5f25f-6e84-420e-b0a6-1ee82b6c396c_E43IOILDQ7_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
     "display_name": "NOICE 5 Seed Multigrain Bread (Zero Maida)",
@@ -453,256 +419,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
-  },
-  {
-    "display_name": "D'lecta Shredded Mozzarella Cheese",
-    "brand": "D'lecta",
-    "brand_id": "ca5dbeaa3729fc7bb37e5a47adf6f8f77382876e",
-    "product_id": "JXNUKHCHKO",
-    "variations": [
-      {
-        "id": "59ANP59UCT",
-        "display_name": "D'lecta Shredded Mozzarella Cheese",
-        "price": {
-          "mrp": 118,
-          "store_price": 118,
-          "offer_price": 100,
-          "unit_level_price": "71.4/100 g",
-          "discount_value": 18
-        },
-        "brand": "D'lecta",
-        "brand_id": "ca5dbeaa3729fc7bb37e5a47adf6f8f77382876e",
-        "category": "Cheese",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": "Natural Cheese",
-        "sub_category_l4": "Mozzarella Diced",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Shredded Mozzarella Cheese",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/1/18/e16a2064-d7b3-499b-86d9-4d40a66cc55d_6275_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/18/6964429c-c66a-46c5-9b21-ef18c3dbbc91_6275_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/1/18/13fd76d8-4a95-46a2-aad6-e4848027beb8_6275_3.png"
-        ],
-        "images_v2": [],
-        "quantity": "140",
-        "sku_quantity_with_combo": "140 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 140,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "NOICE Fresh Punjabi Malai Lassi (Homestyle)",
-    "brand": "NOICE",
-    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-    "product_id": "UX7FJN4YR7",
-    "variations": [
-      {
-        "id": "66PGDHWZAX",
-        "display_name": "NOICE Fresh Punjabi Malai Lassi (Homestyle)",
-        "price": {
-          "mrp": 109,
-          "store_price": 109,
-          "offer_price": 55,
-          "unit_level_price": "27.5/100 ml",
-          "discount_value": 54
-        },
-        "brand": "NOICE",
-        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-        "category": "Milk Based Drinks",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": "Lassi",
-        "sub_category_l4": null,
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Fresh Punjabi Malai Lassi (Homestyle)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/27/55de5c6c-d102-4cb4-bbf4-bb61e90db89b_malailassizoomed.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/24/b0a018c6-f0ef-4b72-8eea-f876bd9337e3_MB61KSCG6R_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/74c4dd9b-187f-4170-90a7-e83aa83b31a9_MB61KSCG6R_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/0f4861fe-b3e2-4e0c-9795-f9b81dffb72d_MB61KSCG6R_3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/24/ad8d2f5a-1d2e-4378-ae9d-243c54ecc83e_MB61KSCG6R_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/24/1071a871-37e3-487b-bd46-70fa9ad7c5a0_MB61KSCG6R_8.png"
-        ],
-        "images_v2": [],
-        "quantity": "200",
-        "sku_quantity_with_combo": "200 ml",
-        "unit_of_measure": "ml",
-        "weight_in_grams": 200,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Pintola All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
-    "brand": "Pintola",
-    "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
-    "product_id": "E5KAGC5EBU",
-    "variations": [
-      {
-        "id": "OVK29VU9P4",
-        "display_name": "Pintola All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
-        "price": {
-          "mrp": 175,
-          "store_price": 175,
-          "offer_price": 161,
-          "unit_level_price": "46/100 g",
-          "discount_value": 14
-        },
-        "brand": "Pintola",
-        "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
-        "category": "Peanut Butters",
-        "super_category": "Sauces and Spreads",
-        "sub_category_l3": "Crunchy Peanut Butter",
-        "sub_category_l4": "Unsweetened",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
-        "images": [
-          "7c223b7f13e7079641e67c3f023bcf0d",
-          "680c3854be9977a3e94942ed18f38d7c",
-          "ce3fa009554f325e0b42bf22489ec182",
-          "8ad0ec07be3f95720e2ae70cf34744b1",
-          "3e6ec1a0c8e5cabe8615f910f116ec00"
-        ],
-        "images_v2": [],
-        "quantity": "350",
-        "sku_quantity_with_combo": "350 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 350,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "NOICE Japanese Milk Bread (Freshly made)",
-    "brand": "NOICE",
-    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-    "product_id": "QTTJV32UAS",
-    "variations": [
-      {
-        "id": "8XHJ8OO1D4",
-        "display_name": "NOICE Japanese Milk Bread (Freshly made)",
-        "price": {
-          "mrp": 109,
-          "store_price": 109,
-          "offer_price": 76,
-          "unit_level_price": "30.4/100 g",
-          "discount_value": 33
-        },
-        "brand": "NOICE",
-        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-        "category": "Bread and Buns",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": "Breads",
-        "sub_category_l4": "Milk Bread",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Japanese Milk Bread (Freshly made)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/1d5abd04-bfc3-4d8d-8f9e-a3a55425aa23_777717.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/30/b0a814fb-566a-4179-9688-0749800a491a_XBFQDFKW9H_al2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/19/0a1b56f6-91cd-4156-aa6e-3eaa37e602aa_XBFQDFKW9H3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/19/b2bbbccf-9be0-43a5-9b14-438bd702cd62_XBFQDFKW9H4.jpg"
-        ],
-        "images_v2": [],
-        "quantity": "250",
-        "sku_quantity_with_combo": "250 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 250,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Amul Moti Toned Milk",
-    "brand": "Amul",
-    "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
-    "product_id": "PQEFTLHDGO",
-    "variations": [
-      {
-        "id": "JM9NI510I2",
-        "display_name": "Amul Moti Toned Milk",
-        "price": {
-          "mrp": 30,
-          "store_price": 30,
-          "offer_price": 30,
-          "unit_level_price": "6.7/100 ml",
-          "discount_value": 0
-        },
-        "brand": "Amul",
-        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
-        "category": "Milk",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": "Tetra Milk",
-        "sub_category_l4": "Toned Milk",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Moti Toned Milk",
-        "images": [
-          "xzwcrynvoj5iqz0bjj7m",
-          "swfjsyiqsd6fakngxp4x",
-          "nsvxrdw9gozodexxasbw"
-        ],
-        "images_v2": [],
-        "quantity": "450",
-        "sku_quantity_with_combo": "450 ml",
-        "unit_of_measure": "ml",
-        "weight_in_grams": 450,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "NOICE Idli Dosa Batter (Stoneground)",
-    "brand": "NOICE",
-    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-    "product_id": "8L8VTZ06BF",
-    "variations": [
-      {
-        "id": "9YSICWG6BK",
-        "display_name": "NOICE Idli Dosa Batter (Stoneground)",
-        "price": {
-          "mrp": 74,
-          "store_price": 74,
-          "offer_price": 51,
-          "unit_level_price": "10.2/100 g",
-          "discount_value": 23
-        },
-        "brand": "NOICE",
-        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-        "category": "Batters and Chutneys",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": "Batters",
-        "sub_category_l4": "Dosa Batter",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Idli Dosa Batter (Stoneground)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/6cab7593-9c5a-4ceb-bc12-3fb41515b9bf_430198.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/9/a2e204c8-7918-4711-bc05-fca40cc521e1_TXQX29CF8C.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/3/1400d082-ea1d-4291-b926-1243fe0362e8_MZ8_8484-AL2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/23/b35808f6-4f9c-4427-82f8-5890ef96cd7b_TXQX29CF8C_4.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/3/524d507c-3e50-41ff-816c-89178f9e3393_ALL-AL4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/31/b95189f4-e47a-4922-a64e-f873b5067e26_PackedBy,MarketedBy&Feedback.png"
-        ],
-        "images_v2": [],
-        "quantity": "500",
-        "sku_quantity_with_combo": "500 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
     "display_name": "Amul Taaza Toned Milk",
@@ -744,279 +468,29 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
-    "display_name": "NOICE Raisin Sweet Bun (Freshly made)",
-    "brand": "NOICE",
-    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-    "product_id": "ULVQRTU4XT",
-    "variations": [
-      {
-        "id": "34UK0M6VWD",
-        "display_name": "NOICE Raisin Sweet Bun (Freshly made)",
-        "price": {
-          "mrp": 49,
-          "store_price": 49,
-          "offer_price": 45,
-          "unit_level_price": "",
-          "discount_value": 4
-        },
-        "brand": "NOICE",
-        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-        "category": "Bread and Buns",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": "Buns and Pav",
-        "sub_category_l4": "Sweet Bun",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Raisin Sweet Bun (Freshly made)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/20/de850356-9d9d-4cec-8884-e7d69c378b0e_T826L23VKK_mn.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/4/f0a785f0-3507-417c-a4ed-351b37814b8e_T826L23VKK_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/19/06e14c21-85c7-4510-966e-032e9146b4ad_T826L23VKK_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/6/19/08712ff1-0a76-4ca2-b33b-9ae414d6a048_T826L23VKK_3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/6/19/d8430b7b-9b89-4640-9d27-182bf88ea3f6_T826L23VKKblr_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/19/0a5e8376-f7bc-4f3c-8646-ccf9b29daecd_T826L23VKKblr_8.png"
-        ],
-        "images_v2": [],
-        "quantity": "100",
-        "sku_quantity_with_combo": "100 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Amul Masti Spiced Buttermilk",
+    "display_name": "Amul Lactose Free Milk",
     "brand": "Amul",
     "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
-    "product_id": "NNAC7HP8S6",
+    "product_id": "DVK7YILJZU",
     "variations": [
       {
-        "id": "3WSPLTW23Y",
-        "display_name": "Amul Masti Spiced Buttermilk",
+        "id": "B7WC1OO08W",
+        "display_name": "Amul Lactose Free Milk",
         "price": {
-          "mrp": 70,
-          "store_price": 70,
-          "offer_price": 70,
-          "unit_level_price": "",
-          "discount_value": 0
-        },
-        "brand": "Amul",
-        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
-        "category": "Milk Based Drinks",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": "Buttermilk",
-        "sub_category_l4": "Spiced Buttermilk",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Masti Spiced Buttermilk",
-        "images": [
-          "jdeefip8xbk1cemm20jj",
-          "vczs3u8qr1vgyzoums3h",
-          "jzrmg9iugcbcgqnatmue",
-          "lsnh9jxbhq7ydgjd9fai",
-          "hvwdrooi1qb5ijcqi8dh",
-          "ufhk3d6dw0svfedihw8i"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 L",
-        "unit_of_measure": "L",
-        "weight_in_grams": 1000,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "NOICE Crustless Sandwich Bread (Freshly made)",
-    "brand": "NOICE",
-    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-    "product_id": "MHCSA2BUVH",
-    "variations": [
-      {
-        "id": "L1QK05Z2A8",
-        "display_name": "NOICE Crustless Sandwich Bread (Freshly made)",
-        "price": {
-          "mrp": 59,
-          "store_price": 59,
-          "offer_price": 49,
-          "unit_level_price": "",
-          "discount_value": 10
-        },
-        "brand": "NOICE",
-        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-        "category": "Bread and Buns",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": "Breads",
-        "sub_category_l4": "Crustless Bread",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Crustless Sandwich Bread (Freshly made)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/20/a76968fd-c90e-42bc-addd-6ef2f68b5aa9_OJW0ZNNIMT_mn.png",
-          "NI_CATALOG/IMAGES/CIW/2025/7/4/7fba9655-e0f9-4725-97af-340b0e3d4490_OJW0ZNNIMT_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/19/89860cbd-6fe5-4dbd-b73f-69beaa14f368_OJW0ZNNIMT_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/6/19/f6310342-52ee-4a11-b316-5a11484d0afe_OJW0ZNNIMT_3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/6/19/d2c1deff-ece7-4b76-8342-96cb5fdb3cbd_OJW0ZNNIMTblr_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/19/280a6f71-e2ea-4eee-bac0-4096ea80a63c_OJW0ZNNIMTblr_8.png"
-        ],
-        "images_v2": [],
-        "quantity": "220",
-        "sku_quantity_with_combo": "220 gm",
-        "unit_of_measure": "gm",
-        "weight_in_grams": 220,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "D'lecta Natural Feta Cheese Block",
-    "brand": "D'lecta",
-    "brand_id": "ca5dbeaa3729fc7bb37e5a47adf6f8f77382876e",
-    "product_id": "YKX6LU5W8J",
-    "variations": [
-      {
-        "id": "G50G3MLTG4",
-        "display_name": "D'lecta Natural Feta Cheese Block",
-        "price": {
-          "mrp": 120,
-          "store_price": 120,
-          "offer_price": 110,
-          "unit_level_price": "",
-          "discount_value": 10
-        },
-        "brand": "D'lecta",
-        "brand_id": "ca5dbeaa3729fc7bb37e5a47adf6f8f77382876e",
-        "category": "Cheese",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": "Natural Cheese",
-        "sub_category_l4": "Feta Cheese",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Natural Feta Cheese Block",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/7/21/e547737b-518d-4f6e-96cc-3f792ce0c552_cheese_KSPTUQQCJM_MN.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/7/21/2046f198-5558-471f-bdea-3f19b7ea14cc_cheese_KSPTUQQCJM_AL1.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/7/21/a2e6f446-762f-47cb-8fe9-95b70d45d404_cheese_KSPTUQQCJM_AL2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/7/21/57cdef23-ba16-46ec-a5c0-5eb73fcb2902_cheese_KSPTUQQCJM_AL3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2024/7/21/a4f5471d-1b3a-4836-b868-e26ba22bdf6a_cheese_KSPTUQQCJM_AL6.jpg"
-        ],
-        "images_v2": [],
-        "quantity": "100",
-        "sku_quantity_with_combo": "100 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Epigamia Greek Yogurt - Natural",
-    "brand": "Epigamia",
-    "brand_id": "4f97d8807fb4df58825e016fc5b38a973983fb67",
-    "product_id": "PVGAD7SY8A",
-    "variations": [
-      {
-        "id": "7P45YIPSJO",
-        "display_name": "Epigamia Greek Yogurt - Natural",
-        "price": {
-          "mrp": 250,
-          "store_price": 250,
-          "offer_price": 250,
-          "unit_level_price": "62.5/100 g",
-          "discount_value": 0
-        },
-        "brand": "Epigamia",
-        "brand_id": "4f97d8807fb4df58825e016fc5b38a973983fb67",
-        "category": "Yogurts",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": "Greek Yogurt",
-        "sub_category_l4": "Plain Yogurt",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Greek Yogurt - Natural",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/10/10/56f25881-5878-4145-aa43-df9580ca6086_2892.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/26/3e8bdd63-fb26-415a-8c18-9cb8427cf014_yogurt_EDJ0N0BVPX_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/26/cdec4a48-f832-459b-a25f-e6808c802cf3_yogurt_EDJ0N0BVPX_AL2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/26/c1d8fa19-dcb0-4534-b986-7a3b35b64f45_yogurt_EDJ0N0BVPX_AL3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/26/68512425-3f15-4031-9f9d-36240062f3bf_yogurt_EDJ0N0BVPX_AL4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/7/26/c3a18a4d-b0e0-4c84-80ec-17895ea26f84_yogurt_EDJ0N0BVPX_AL5.png"
-        ],
-        "images_v2": [],
-        "quantity": "400",
-        "sku_quantity_with_combo": "400 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 400,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Epigamia No Added Sugar Greek Yogurt - Mixed Berries",
-    "brand": "Epigamia",
-    "brand_id": "4f97d8807fb4df58825e016fc5b38a973983fb67",
-    "product_id": "E1LB8G873E",
-    "variations": [
-      {
-        "id": "BS4ZASHBDD",
-        "display_name": "Epigamia No Added Sugar Greek Yogurt - Mixed Berries",
-        "price": {
-          "mrp": 70,
-          "store_price": 70,
-          "offer_price": 70,
-          "unit_level_price": "",
-          "discount_value": 0
-        },
-        "brand": "Epigamia",
-        "brand_id": "4f97d8807fb4df58825e016fc5b38a973983fb67",
-        "category": "Yogurts",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": "Sugarfree Yogurt",
-        "sub_category_l4": "Mixed Berries Yogurt",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "No Added Sugar Greek Yogurt - Mixed Berries",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/4/3/02c887cc-240d-4840-b54f-3c9dd2974895_4246_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/3/46426f82-5cb6-49aa-86ba-2ad48ca4ea60_4246_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/12/94702470-fe6c-4a0d-b428-9d8bc1b0f034_4246_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/3/bbf3e0b5-794f-46e9-9c67-af28a0bbe0a3_4246_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/3/78376f3f-4efd-482e-ab38-944075858ded_4246_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/3/3979caef-e130-4425-81d4-d6251e359098_4246_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "85",
-        "sku_quantity_with_combo": "85 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 85,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Amul Gold Homogenised Standardised Full Cream Milk",
-    "brand": "Amul",
-    "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
-    "product_id": "EYOG0ZUHE5",
-    "variations": [
-      {
-        "id": "BUI7V6V4H9",
-        "display_name": "Amul Gold Homogenised Standardised Full Cream Milk",
-        "price": {
-          "mrp": 83,
-          "store_price": 83,
-          "offer_price": 83,
-          "unit_level_price": "",
+          "mrp": 26,
+          "store_price": 26,
+          "offer_price": 26,
+          "unit_level_price": "10.4/100 ml",
           "discount_value": 0
         },
         "brand": "Amul",
@@ -1024,68 +498,33 @@
         "category": "Milk",
         "super_category": "Dairy, Bread and Eggs",
         "sub_category_l3": "Tetra Milk",
-        "sub_category_l4": "Standardized Milk",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Gold Homogenised Standardised Full Cream Milk",
+        "sub_category_l4": "Lactose Free Milk",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Lactose Free Milk",
         "images": [
-          "adpkhvqscyerolzg0f62",
-          "enocjxfm74msd8spa46g",
-          "jcazhnubnhpyeonntm6o",
-          "m9ilds1h0si0q3ypnavm",
-          "dwktfhuxck95fta0y0q1"
+          "xkopjagx3zt7ky1nobuo",
+          "d9izmlejguilr9a6cyn6",
+          "esska2rqfswymqsjfdus",
+          "x75d4mlcxphv7b5h2qao",
+          "ucxqzu9bgoloclmv7tqv"
         ],
         "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 L",
-        "unit_of_measure": "L",
-        "weight_in_grams": 1000,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "NOICE Fresh Mango Thick Lassi (Homestyle)",
-    "brand": "NOICE",
-    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-    "product_id": "OW9WJWIQJL",
-    "variations": [
-      {
-        "id": "FRL8LW9NKR",
-        "display_name": "NOICE Fresh Mango Thick Lassi (Homestyle)",
-        "price": {
-          "mrp": 109,
-          "store_price": 109,
-          "offer_price": 59,
-          "unit_level_price": "29.5/100 ml",
-          "discount_value": 50
-        },
-        "brand": "NOICE",
-        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-        "category": "Milk Based Drinks",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": "Lassi",
-        "sub_category_l4": "Mango Lassi",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Fresh Mango Thick Lassi (Homestyle)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/47dd0e93-7516-4588-82b5-26a44cb6a95a_E43IOILDQ7_1.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/6/24/b3f400a3-960b-42de-b4b9-e831546e3716_E43IOILDQ7_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/af2d9681-87ee-4278-bd2a-69787f851002_E43IOILDQ7_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/24/1b6c5299-66dc-4218-82a8-cd29e73c2deb_E43IOILDQ7_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/24/bfe5f25f-6e84-420e-b0a6-1ee82b6c396c_E43IOILDQ7_8.png"
-        ],
-        "images_v2": [],
-        "quantity": "200",
-        "sku_quantity_with_combo": "200 ml",
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 ml",
         "unit_of_measure": "ml",
-        "weight_in_grams": 200,
+        "weight_in_grams": 250,
         "volumetric_weight": 0,
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
     "display_name": "Epigamia Greek Yogurt - Blueberry",
@@ -1128,7 +567,407 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "Amul Garlic & Herbs Butter",
+    "brand": "Amul",
+    "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+    "product_id": "QXBIOH3DXP",
+    "variations": [
+      {
+        "id": "AYZ71YNDTT",
+        "display_name": "Amul Garlic & Herbs Butter",
+        "price": {
+          "mrp": 70,
+          "store_price": 70,
+          "offer_price": 70,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Amul",
+        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+        "category": "Butter",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": "Fat Spread",
+        "sub_category_l4": "Garlic and Herb",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Garlic & Herbs Butter",
+        "images": [
+          "qd6cwxugjpmet5l71rr2",
+          "bq5f0wyt1tkvn2ydek5z",
+          "qtqokjxbstrt1022weuw",
+          "cnsmf4iougiqjdvkklmn",
+          "bgtx0dhz6uuaupgikn7x",
+          "eqw3w4vvmdeweuar7kli"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "Amul Butter Chiplets",
+    "brand": "Amul",
+    "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+    "product_id": "9X3XSCGWZL",
+    "variations": [
+      {
+        "id": "6L9XUVO7NP",
+        "display_name": "Amul Butter Chiplets",
+        "price": {
+          "mrp": 75,
+          "store_price": 75,
+          "offer_price": 75,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Amul",
+        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+        "category": "Butter",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": "Table Butter",
+        "sub_category_l4": "Salted",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Butter Chiplets",
+        "images": [
+          "p7qxbzhngi4fj0djwaz9",
+          "hbzikvviqwinsyeo80cd",
+          "ksblzxfa09eqgidwkjga"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "Yakult Light Probiotic Drink",
+    "brand": "Yakult",
+    "brand_id": "16a11e35e7e3694fe74016c3975712896e0452e7",
+    "product_id": "CMNVMBNT4K",
+    "variations": [
+      {
+        "id": "3WLSADIVQF",
+        "display_name": "Yakult Light Probiotic Drink",
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 100,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Yakult",
+        "brand_id": "16a11e35e7e3694fe74016c3975712896e0452e7",
+        "category": "Milk Based Drinks",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": "Probiotic Drink",
+        "sub_category_l4": "Light",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Light Probiotic Drink",
+        "images": [
+          "e93937a765a9d16f1b06cd9e67a47915",
+          "eb33aee63756723188bf78246f2d90d4",
+          "969b7e1d909be39a657afab75f454122",
+          "dafe7e8b2c5ab15ba8f3b9c8661ab5cc"
+        ],
+        "images_v2": [],
+        "quantity": "325",
+        "sku_quantity_with_combo": "325 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 325,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "Amul Masti Spiced Buttermilk",
+    "brand": "Amul",
+    "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+    "product_id": "NNAC7HP8S6",
+    "variations": [
+      {
+        "id": "3WSPLTW23Y",
+        "display_name": "Amul Masti Spiced Buttermilk",
+        "price": {
+          "mrp": 70,
+          "store_price": 70,
+          "offer_price": 70,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Amul",
+        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+        "category": "Milk Based Drinks",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": "Buttermilk",
+        "sub_category_l4": "Spiced Buttermilk",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Masti Spiced Buttermilk",
+        "images": [
+          "jdeefip8xbk1cemm20jj",
+          "vczs3u8qr1vgyzoums3h",
+          "jzrmg9iugcbcgqnatmue",
+          "lsnh9jxbhq7ydgjd9fai",
+          "hvwdrooi1qb5ijcqi8dh",
+          "ufhk3d6dw0svfedihw8i"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 L",
+        "unit_of_measure": "L",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "NOICE Fresh Punjabi Malai Lassi (Homestyle)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "UX7FJN4YR7",
+    "variations": [
+      {
+        "id": "66PGDHWZAX",
+        "display_name": "NOICE Fresh Punjabi Malai Lassi (Homestyle)",
+        "price": {
+          "mrp": 109,
+          "store_price": 109,
+          "offer_price": 55,
+          "unit_level_price": "27.5/100 ml",
+          "discount_value": 54
+        },
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Milk Based Drinks",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": "Lassi",
+        "sub_category_l4": null,
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Fresh Punjabi Malai Lassi (Homestyle)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/27/55de5c6c-d102-4cb4-bbf4-bb61e90db89b_malailassizoomed.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/b0a018c6-f0ef-4b72-8eea-f876bd9337e3_MB61KSCG6R_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/74c4dd9b-187f-4170-90a7-e83aa83b31a9_MB61KSCG6R_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/0f4861fe-b3e2-4e0c-9795-f9b81dffb72d_MB61KSCG6R_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/ad8d2f5a-1d2e-4378-ae9d-243c54ecc83e_MB61KSCG6R_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/1071a871-37e3-487b-bd46-70fa9ad7c5a0_MB61KSCG6R_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "Kissan Mixed Fruit Jam",
+    "brand": "Kissan",
+    "brand_id": "801a186564da123fc7f52be23dcb18af142bc302",
+    "product_id": "C0TWBUZWEW",
+    "variations": [
+      {
+        "id": "WMOXY73IXK",
+        "display_name": "Kissan Mixed Fruit Jam",
+        "price": {
+          "mrp": 200,
+          "store_price": 200,
+          "offer_price": 200,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Kissan",
+        "brand_id": "801a186564da123fc7f52be23dcb18af142bc302",
+        "category": "Jams",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Fruit Jams",
+        "sub_category_l4": "Mixed Fruit Jam",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Mixed Fruit Jam",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/f3c26b36-fb40-49fe-8221-eba8f3c6ff66_32_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/c1147afa-65cd-41d4-8998-c3f437e1cb99_32_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/4be6614f-030b-4879-a026-81bc89e485f1_32_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/27/531a3346-16a4-4911-aaae-ee08c0e764cb_32_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "NOICE Idli Dosa Batter (Stoneground)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "8L8VTZ06BF",
+    "variations": [
+      {
+        "id": "9YSICWG6BK",
+        "display_name": "NOICE Idli Dosa Batter (Stoneground)",
+        "price": {
+          "mrp": 74,
+          "store_price": 74,
+          "offer_price": 49,
+          "unit_level_price": "9.8/100 g",
+          "discount_value": 25
+        },
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Batters and Chutneys",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": "Batters",
+        "sub_category_l4": "Dosa Batter",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Idli Dosa Batter (Stoneground)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/6cab7593-9c5a-4ceb-bc12-3fb41515b9bf_430198.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/9/a2e204c8-7918-4711-bc05-fca40cc521e1_TXQX29CF8C.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/3/1400d082-ea1d-4291-b926-1243fe0362e8_MZ8_8484-AL2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/23/b35808f6-4f9c-4427-82f8-5890ef96cd7b_TXQX29CF8C_4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/3/524d507c-3e50-41ff-816c-89178f9e3393_ALL-AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/31/b95189f4-e47a-4922-a64e-f873b5067e26_PackedBy,MarketedBy&Feedback.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "Epigamia No Added Sugar Greek Yogurt - Mixed Berries",
+    "brand": "Epigamia",
+    "brand_id": "4f97d8807fb4df58825e016fc5b38a973983fb67",
+    "product_id": "E1LB8G873E",
+    "variations": [
+      {
+        "id": "BS4ZASHBDD",
+        "display_name": "Epigamia No Added Sugar Greek Yogurt - Mixed Berries",
+        "price": {
+          "mrp": 70,
+          "store_price": 70,
+          "offer_price": 70,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Epigamia",
+        "brand_id": "4f97d8807fb4df58825e016fc5b38a973983fb67",
+        "category": "Yogurts",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": "Sugarfree Yogurt",
+        "sub_category_l4": "Mixed Berries Yogurt",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "No Added Sugar Greek Yogurt - Mixed Berries",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/02c887cc-240d-4840-b54f-3c9dd2974895_4246_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/46426f82-5cb6-49aa-86ba-2ad48ca4ea60_4246_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/12/94702470-fe6c-4a0d-b428-9d8bc1b0f034_4246_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/bbf3e0b5-794f-46e9-9c67-af28a0bbe0a3_4246_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/78376f3f-4efd-482e-ab38-944075858ded_4246_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/3979caef-e130-4425-81d4-d6251e359098_4246_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "85",
+        "sku_quantity_with_combo": "85 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 85,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
     "display_name": "Epigamia Greek Yogurt - Natural",
@@ -1136,76 +975,6 @@
     "brand_id": "4f97d8807fb4df58825e016fc5b38a973983fb67",
     "product_id": "BJWSVHK579",
     "variations": [
-      {
-        "id": "YLQZJ2DKI9",
-        "display_name": "Epigamia Greek Yogurt - Natural",
-        "price": {
-          "mrp": 360,
-          "store_price": 360,
-          "offer_price": 324,
-          "unit_level_price": "63.5/100 g",
-          "discount_value": 36
-        },
-        "brand": "Epigamia",
-        "brand_id": "4f97d8807fb4df58825e016fc5b38a973983fb67",
-        "category": "Yogurts",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Greek Yogurt - Natural",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/4/17/cbdcb588-d8f4-49db-b490-4e63700c29e5_22263.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/29/bfdb0f87-4b0c-4575-a235-da9d5eec8575_766_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/29/d1e2ebe2-252f-45b2-9730-6577c41706ac_766_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/29/ad6d299d-9db5-446c-bde6-fa835100c922_766_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/29/ec3a8acf-88eb-4982-a59b-514df71da398_766_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/29/96c77e0f-9c80-4567-93bc-800e41eb5276_766_6.png"
-        ],
-        "images_v2": null,
-        "quantity": "6 pieces",
-        "sku_quantity_with_combo": "85 g x 6",
-        "unit_of_measure": null,
-        "weight_in_grams": 510,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      },
-      {
-        "id": "8LC4BZ0GVC",
-        "display_name": "Epigamia Greek Yogurt - Natural",
-        "price": {
-          "mrp": 240,
-          "store_price": 240,
-          "offer_price": 233,
-          "unit_level_price": "68.5/100 g",
-          "discount_value": 7
-        },
-        "brand": "Epigamia",
-        "brand_id": "4f97d8807fb4df58825e016fc5b38a973983fb67",
-        "category": "Yogurts",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Greek Yogurt - Natural",
-        "images": [
-          "3462f6feb7f81f38f47e3e9f18b205c7",
-          "NI_CATALOG/IMAGES/CIW/2025/5/29/bfdb0f87-4b0c-4575-a235-da9d5eec8575_766_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/29/d1e2ebe2-252f-45b2-9730-6577c41706ac_766_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/29/ad6d299d-9db5-446c-bde6-fa835100c922_766_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/29/ec3a8acf-88eb-4982-a59b-514df71da398_766_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/29/96c77e0f-9c80-4567-93bc-800e41eb5276_766_6.png"
-        ],
-        "images_v2": null,
-        "quantity": "4 pieces",
-        "sku_quantity_with_combo": "85 g x 4",
-        "unit_of_measure": null,
-        "weight_in_grams": 340,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      },
       {
         "id": "JGKMZL9LG0",
         "display_name": "Epigamia Greek Yogurt - Natural",
@@ -1220,9 +989,9 @@
         "brand_id": "4f97d8807fb4df58825e016fc5b38a973983fb67",
         "category": "Yogurts",
         "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
+        "sub_category_l3": "Greek Yogurt",
+        "sub_category_l4": "Plain Yogurt",
+        "sub_category_l5": "Small",
         "product_name_without_brand": "Greek Yogurt - Natural",
         "images": [
           "NI_CATALOG/IMAGES/CIW/2025/5/29/11ed921c-3380-48d7-8511-51417c6bb6ac_766_1.png",
@@ -1232,16 +1001,452 @@
           "NI_CATALOG/IMAGES/CIW/2025/5/29/ec3a8acf-88eb-4982-a59b-514df71da398_766_5.png",
           "NI_CATALOG/IMAGES/CIW/2025/5/29/96c77e0f-9c80-4567-93bc-800e41eb5276_766_6.png"
         ],
-        "images_v2": null,
-        "quantity": "85 g",
+        "images_v2": [],
+        "quantity": "85",
         "sku_quantity_with_combo": "85 g",
-        "unit_of_measure": null,
+        "unit_of_measure": "g",
         "weight_in_grams": 85,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "Nutella Hazelnut Cocoa Spread",
+    "brand": "Nutella",
+    "brand_id": "1274534096522d64b76a1007dbd2d69675e60eb7",
+    "product_id": "K83HCFZ9Y8",
+    "variations": [
+      {
+        "id": "B4V15VA984",
+        "display_name": "Nutella Hazelnut Cocoa Spread",
+        "price": {
+          "mrp": 399,
+          "store_price": 399,
+          "offer_price": 399,
+          "unit_level_price": "114/100 g",
+          "discount_value": 0
+        },
+        "brand": "Nutella",
+        "brand_id": "1274534096522d64b76a1007dbd2d69675e60eb7",
+        "category": "Chocolate Spreads",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": "Chocolate Spreads",
+        "sub_category_l4": "Hazelnut",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Hazelnut Cocoa Spread",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/4c892d1f-bfc3-4176-9aa6-c8d790f313e3_909_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/0eb2ee43-d3b0-4685-b076-f3674e3c2326_909_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/8f55aa95-dc8d-47e5-99c2-d438264b82db_909_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/f4b9bfd8-d25f-4e65-8f15-e60e9742e244_909_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/13/f64024bb-c388-4739-991b-9ab6063497a0_909_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "350",
+        "sku_quantity_with_combo": "350 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 350,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "D'lecta Natural Feta Cheese Block",
+    "brand": "D'lecta",
+    "brand_id": "ca5dbeaa3729fc7bb37e5a47adf6f8f77382876e",
+    "product_id": "YKX6LU5W8J",
+    "variations": [
+      {
+        "id": "G50G3MLTG4",
+        "display_name": "D'lecta Natural Feta Cheese Block",
+        "price": {
+          "mrp": 120,
+          "store_price": 120,
+          "offer_price": 110,
+          "unit_level_price": "",
+          "discount_value": 10
+        },
+        "brand": "D'lecta",
+        "brand_id": "ca5dbeaa3729fc7bb37e5a47adf6f8f77382876e",
+        "category": "Cheese",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": "Natural Cheese",
+        "sub_category_l4": "Feta Cheese",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Natural Feta Cheese Block",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/21/e547737b-518d-4f6e-96cc-3f792ce0c552_cheese_KSPTUQQCJM_MN.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/21/2046f198-5558-471f-bdea-3f19b7ea14cc_cheese_KSPTUQQCJM_AL1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/21/a2e6f446-762f-47cb-8fe9-95b70d45d404_cheese_KSPTUQQCJM_AL2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/21/57cdef23-ba16-46ec-a5c0-5eb73fcb2902_cheese_KSPTUQQCJM_AL3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2024/7/21/a4f5471d-1b3a-4836-b868-e26ba22bdf6a_cheese_KSPTUQQCJM_AL6.jpg"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "Amul Gold Homogenised Standardised Full Cream Milk",
+    "brand": "Amul",
+    "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+    "product_id": "EYOG0ZUHE5",
+    "variations": [
+      {
+        "id": "BUI7V6V4H9",
+        "display_name": "Amul Gold Homogenised Standardised Full Cream Milk",
+        "price": {
+          "mrp": 83,
+          "store_price": 83,
+          "offer_price": 83,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Amul",
+        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+        "category": "Milk",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": "Tetra Milk",
+        "sub_category_l4": "Standardized Milk",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Gold Homogenised Standardised Full Cream Milk",
+        "images": [
+          "adpkhvqscyerolzg0f62",
+          "enocjxfm74msd8spa46g",
+          "jcazhnubnhpyeonntm6o",
+          "m9ilds1h0si0q3ypnavm",
+          "dwktfhuxck95fta0y0q1"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 L",
+        "unit_of_measure": "L",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "NOICE Fresh Masala Buttermilk (Homestyle)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "8EA02AO2Y3",
+    "variations": [
+      {
+        "id": "S7S346C7RW",
+        "display_name": "NOICE Fresh Masala Buttermilk (Homestyle)",
+        "price": {
+          "mrp": 79,
+          "store_price": 79,
+          "offer_price": 39,
+          "unit_level_price": "19.5/100 ml",
+          "discount_value": 40
+        },
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Milk Based Drinks",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": "Buttermilk",
+        "sub_category_l4": "Fresh Buttermilk",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Fresh Masala Buttermilk (Homestyle)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/3a6592b3-b047-4dbf-8519-3f0f6474388a_XISBGIHYKE_1.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/24/6d9b12a3-0e87-4aec-89af-75b29f171494_XISBGIHYKE_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/6695604e-cfc6-4b0e-ad0c-5a26802d0a9a_XISBGIHYKE_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/def9dec6-1fe4-4743-b332-851adc3a80cd_XISBGIHYKE_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/d3f6ca5e-28f8-4c36-8783-5abec77f76d5_XISBGIHYKE_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/8b7e20e5-7954-40fa-9d2a-8d2bee23b33f_XISBGIHYKE_8.png"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "Epigamia Greek Yogurt - Natural",
+    "brand": "Epigamia",
+    "brand_id": "4f97d8807fb4df58825e016fc5b38a973983fb67",
+    "product_id": "PVGAD7SY8A",
+    "variations": [
+      {
+        "id": "7P45YIPSJO",
+        "display_name": "Epigamia Greek Yogurt - Natural",
+        "price": {
+          "mrp": 250,
+          "store_price": 250,
+          "offer_price": 250,
+          "unit_level_price": "62.5/100 g",
+          "discount_value": 0
+        },
+        "brand": "Epigamia",
+        "brand_id": "4f97d8807fb4df58825e016fc5b38a973983fb67",
+        "category": "Yogurts",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": "Greek Yogurt",
+        "sub_category_l4": "Plain Yogurt",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Greek Yogurt - Natural",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/10/56f25881-5878-4145-aa43-df9580ca6086_2892.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/3e8bdd63-fb26-415a-8c18-9cb8427cf014_yogurt_EDJ0N0BVPX_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/cdec4a48-f832-459b-a25f-e6808c802cf3_yogurt_EDJ0N0BVPX_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/c1d8fa19-dcb0-4534-b986-7a3b35b64f45_yogurt_EDJ0N0BVPX_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/68512425-3f15-4031-9f9d-36240062f3bf_yogurt_EDJ0N0BVPX_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/26/c3a18a4d-b0e0-4c84-80ec-17895ea26f84_yogurt_EDJ0N0BVPX_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "400",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "Amul Processed Cheese Block",
+    "brand": "Amul",
+    "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+    "product_id": "BO31HMQXHV",
+    "variations": [
+      {
+        "id": "N3D910JPMZ",
+        "display_name": "Amul Processed Cheese Block",
+        "price": {
+          "mrp": 130,
+          "store_price": 130,
+          "offer_price": 130,
+          "unit_level_price": "65/100 g",
+          "discount_value": 0
+        },
+        "brand": "Amul",
+        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+        "category": "Cheese",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": "Processed Cheese",
+        "sub_category_l4": "Cheese Block",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Processed Cheese Block",
+        "images": [
+          "gjrqeehgb2h1dhzvl2ab",
+          "wilivv3hj3xwj8cv3vwk",
+          "o4rmlcr3nqzaufiyxuh5",
+          "kngzjk7hbnfgp6qmzuvx",
+          "glifjkhnpjtix4ormevb"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "Pintola All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
+    "brand": "Pintola",
+    "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+    "product_id": "S6VMJEQ69G",
+    "variations": [
+      {
+        "id": "30XH6RGA0G",
+        "display_name": "Pintola All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
+        "price": {
+          "mrp": 449,
+          "store_price": 449,
+          "offer_price": 400,
+          "unit_level_price": "",
+          "discount_value": 49
+        },
+        "brand": "Pintola",
+        "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
+        "images": [
+          "a5fb64d374fca0c7000c0787073c8845",
+          "9f6c906ad38bb2c9e6f1704d4a5c3b5c",
+          "13700ec77f587651400242105f050a98",
+          "5e0ac2ff09c0a24b8bd7829c1a460578",
+          "39cb4cfd00f309a401c34e75e22f5024",
+          "0ec28a4ef7b85aa94442efba9e1cb9a8"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
         "volumetric_weight": 0,
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "Nestle Everyday Dairy Whitener, 400g Pouch",
+    "brand": "Nestle",
+    "brand_id": "851e8395479db13eed48f3b37a0e80235b3d5ef4",
+    "product_id": "3EF9V6RHCO",
+    "variations": [
+      {
+        "id": "03730YBV4B",
+        "display_name": "Nestle Everyday Dairy Whitener, 400g Pouch",
+        "price": {
+          "mrp": 510,
+          "store_price": 510,
+          "offer_price": 510,
+          "unit_level_price": "63.8/100 g",
+          "discount_value": 0
+        },
+        "brand": "Nestle",
+        "brand_id": "851e8395479db13eed48f3b37a0e80235b3d5ef4",
+        "category": "Milk",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Everyday Dairy Whitener Powdered Milk",
+        "images": [
+          "b57abc3c2f239dbb60a502ed222fc4d6",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/e0fe3bd5-296f-4ae3-a65d-428bcda3c6a9_1664_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/16052529-2fb6-49a7-9519-17d596039d66_1664_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/3767fe23-7491-465a-9f54-b43b6ebc67b1_1664_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/6779b3fd-0a37-4792-8e47-d2cc0e45f38f_1664_5.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "400 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 800,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "QN4FMC2W2A",
+        "display_name": "Nestle Everyday Dairy Whitener, 400g Pouch",
+        "price": {
+          "mrp": 255,
+          "store_price": 255,
+          "offer_price": 255,
+          "unit_level_price": "63.8/100 g",
+          "discount_value": 0
+        },
+        "brand": "Nestle",
+        "brand_id": "851e8395479db13eed48f3b37a0e80235b3d5ef4",
+        "category": "Milk",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Everyday Dairy Whitener, 400g Pouch",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/6c1c0cb3-b1cd-48e3-ac76-768441509545_1664_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/e0fe3bd5-296f-4ae3-a65d-428bcda3c6a9_1664_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/16052529-2fb6-49a7-9519-17d596039d66_1664_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/3767fe23-7491-465a-9f54-b43b6ebc67b1_1664_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/17/6779b3fd-0a37-4792-8e47-d2cc0e45f38f_1664_5.png"
+        ],
+        "images_v2": null,
+        "quantity": "400 g",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
     "display_name": "Amul Butter Unsalted Box",
@@ -1312,151 +1517,360 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
-    "display_name": "NOICE Fresh Masala Buttermilk (Homestyle)",
-    "brand": "NOICE",
-    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-    "product_id": "8EA02AO2Y3",
+    "display_name": "The Whole Truth Creamy Dark Chocolate Peanut Butter (No Added Sugar)",
+    "brand": "The Whole Truth",
+    "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+    "product_id": "14OLR74LOF",
     "variations": [
       {
-        "id": "HKJWFFTPBV",
-        "display_name": "NOICE Fresh Masala Buttermilk (Homestyle)",
+        "id": "O8XDKJSS23",
+        "display_name": "The Whole Truth Creamy Dark Chocolate Peanut Butter (No Added Sugar)",
         "price": {
-          "mrp": 316,
-          "store_price": 316,
-          "offer_price": 156,
-          "unit_level_price": "19.5/100 ml",
-          "discount_value": 160
+          "mrp": 1047,
+          "store_price": 1047,
+          "offer_price": 942,
+          "unit_level_price": "96.6/100 g",
+          "discount_value": 105
         },
-        "brand": "NOICE",
-        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-        "category": "Milk Based Drinks",
-        "super_category": "Dairy, Bread and Eggs",
+        "brand": "The Whole Truth",
+        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Fresh Masala Buttermilk (Homestyle)",
+        "product_name_without_brand": "Creamy Dark Chocolate Peanut Butter (No Added Sugar)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/3a6592b3-b047-4dbf-8519-3f0f6474388a_XISBGIHYKE_1.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/6/24/6d9b12a3-0e87-4aec-89af-75b29f171494_XISBGIHYKE_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/6695604e-cfc6-4b0e-ad0c-5a26802d0a9a_XISBGIHYKE_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/def9dec6-1fe4-4743-b332-851adc3a80cd_XISBGIHYKE_3.jpg"
+          "2cfeb23bc67a7e0bc651b5a74a77bab9",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/9d3945c9-f3a3-46d9-bdb3-3d5ecc5c081a_12206_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/e0c6e013-8cc5-48b4-8fe3-d8354a318e43_12206_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/c5c230d5-84e0-4cfc-b536-187a592d5dc3_12206_4.png"
         ],
         "images_v2": null,
-        "quantity": "4 combo",
-        "sku_quantity_with_combo": "200 ml x 4",
+        "quantity": "3 pieces",
+        "sku_quantity_with_combo": "325 g x 3",
         "unit_of_measure": null,
-        "weight_in_grams": 800,
+        "weight_in_grams": 975,
         "volumetric_weight": 0,
         "scm_item_type": null,
         "filters_tag": null
       },
       {
-        "id": "MFV996F358",
-        "display_name": "NOICE Fresh Masala Buttermilk (Homestyle)",
+        "id": "ZUBTL63SLZ",
+        "display_name": "The Whole Truth Creamy Dark Chocolate Peanut Butter (No Added Sugar)",
         "price": {
-          "mrp": 237,
-          "store_price": 237,
-          "offer_price": 112,
-          "unit_level_price": "18.7/100 ml",
-          "discount_value": 125
+          "mrp": 698,
+          "store_price": 698,
+          "offer_price": 649,
+          "unit_level_price": "99.8/100 g",
+          "discount_value": 49
         },
-        "brand": "NOICE",
-        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-        "category": "Milk Based Drinks",
-        "super_category": "Dairy, Bread and Eggs",
+        "brand": "The Whole Truth",
+        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Fresh Masala Buttermilk (Homestyle)",
+        "product_name_without_brand": "Creamy Dark Chocolate Peanut Butter (No Added Sugar)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/3a6592b3-b047-4dbf-8519-3f0f6474388a_XISBGIHYKE_1.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/6695604e-cfc6-4b0e-ad0c-5a26802d0a9a_XISBGIHYKE_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/def9dec6-1fe4-4743-b332-851adc3a80cd_XISBGIHYKE_3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/24/d3f6ca5e-28f8-4c36-8783-5abec77f76d5_XISBGIHYKE_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/24/8b7e20e5-7954-40fa-9d2a-8d2bee23b33f_XISBGIHYKE_8.png"
+          "61cc50ca2877b28ec6edc498662cfae5",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/9d3945c9-f3a3-46d9-bdb3-3d5ecc5c081a_12206_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/e0c6e013-8cc5-48b4-8fe3-d8354a318e43_12206_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/c5c230d5-84e0-4cfc-b536-187a592d5dc3_12206_4.png"
         ],
         "images_v2": null,
-        "quantity": "3 combo",
-        "sku_quantity_with_combo": "200 ml x 3",
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "325 g x 2",
         "unit_of_measure": null,
-        "weight_in_grams": 600,
+        "weight_in_grams": 650,
         "volumetric_weight": 0,
         "scm_item_type": null,
         "filters_tag": null
       },
       {
-        "id": "BSXSFPLJPY",
-        "display_name": "NOICE Fresh Masala Buttermilk (Homestyle)",
+        "id": "OPSDZTADHA",
+        "display_name": "The Whole Truth Creamy Dark Chocolate Peanut Butter (No Added Sugar)",
         "price": {
-          "mrp": 158,
-          "store_price": 158,
-          "offer_price": 78,
-          "unit_level_price": "19.5/100 ml",
-          "discount_value": 80
+          "mrp": 349,
+          "store_price": 349,
+          "offer_price": 332,
+          "unit_level_price": "102.2/100 g",
+          "discount_value": 17
+        },
+        "brand": "The Whole Truth",
+        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Creamy Dark Chocolate Peanut Spread (0 Sugar)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/a6c23ab1-198f-4866-a430-153464667aef_12206_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/9d3945c9-f3a3-46d9-bdb3-3d5ecc5c081a_12206_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/e0c6e013-8cc5-48b4-8fe3-d8354a318e43_12206_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/7/c5c230d5-84e0-4cfc-b536-187a592d5dc3_12206_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "325 g",
+        "sku_quantity_with_combo": "325 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 325,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "NOICE Raisin Sweet Bun (Freshly made)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "ULVQRTU4XT",
+    "variations": [
+      {
+        "id": "QQ3PA4MRPD",
+        "display_name": "NOICE Raisin Sweet Bun (Freshly made)",
+        "price": {
+          "mrp": 98,
+          "store_price": 98,
+          "offer_price": 90,
+          "unit_level_price": "45/100 g",
+          "discount_value": 8
         },
         "brand": "NOICE",
         "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-        "category": "Milk Based Drinks",
+        "category": "Bread and Buns",
         "super_category": "Dairy, Bread and Eggs",
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Fresh Masala Buttermilk (Homestyle)",
+        "product_name_without_brand": "Raisin Sweet Bun (Freshly made)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/3a6592b3-b047-4dbf-8519-3f0f6474388a_XISBGIHYKE_1.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/6695604e-cfc6-4b0e-ad0c-5a26802d0a9a_XISBGIHYKE_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/def9dec6-1fe4-4743-b332-851adc3a80cd_XISBGIHYKE_3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/24/d3f6ca5e-28f8-4c36-8783-5abec77f76d5_XISBGIHYKE_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/24/8b7e20e5-7954-40fa-9d2a-8d2bee23b33f_XISBGIHYKE_8.png"
+          "NI_CATALOG/IMAGES/CIW/2025/6/20/de850356-9d9d-4cec-8884-e7d69c378b0e_T826L23VKK_mn.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/4/f0a785f0-3507-417c-a4ed-351b37814b8e_T826L23VKK_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/19/06e14c21-85c7-4510-966e-032e9146b4ad_T826L23VKK_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/19/08712ff1-0a76-4ca2-b33b-9ae414d6a048_T826L23VKK_3.jpg"
         ],
         "images_v2": null,
         "quantity": "2 combo",
-        "sku_quantity_with_combo": "200 ml x 2",
-        "unit_of_measure": null,
-        "weight_in_grams": 400,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      },
-      {
-        "id": "S7S346C7RW",
-        "display_name": "NOICE Fresh Masala Buttermilk (Homestyle)",
-        "price": {
-          "mrp": 79,
-          "store_price": 79,
-          "offer_price": 39,
-          "unit_level_price": "19.5/100 ml",
-          "discount_value": 40
-        },
-        "brand": "NOICE",
-        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-        "category": "Milk Based Drinks",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Fresh Masala Buttermilk (Homestyle)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/3a6592b3-b047-4dbf-8519-3f0f6474388a_XISBGIHYKE_1.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/6/24/6d9b12a3-0e87-4aec-89af-75b29f171494_XISBGIHYKE_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/6695604e-cfc6-4b0e-ad0c-5a26802d0a9a_XISBGIHYKE_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/def9dec6-1fe4-4743-b332-851adc3a80cd_XISBGIHYKE_3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/24/d3f6ca5e-28f8-4c36-8783-5abec77f76d5_XISBGIHYKE_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/24/8b7e20e5-7954-40fa-9d2a-8d2bee23b33f_XISBGIHYKE_8.png"
-        ],
-        "images_v2": null,
-        "quantity": "200 ml",
-        "sku_quantity_with_combo": "200 ml",
+        "sku_quantity_with_combo": "100 g x 2",
         "unit_of_measure": null,
         "weight_in_grams": 200,
         "volumetric_weight": 0,
         "scm_item_type": null,
         "filters_tag": null
+      },
+      {
+        "id": "34UK0M6VWD",
+        "display_name": "NOICE Raisin Sweet Bun (Freshly made)",
+        "price": {
+          "mrp": 49,
+          "store_price": 49,
+          "offer_price": 45,
+          "unit_level_price": "",
+          "discount_value": 4
+        },
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Bread and Buns",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Raisin Sweet Bun (Freshly made)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/20/de850356-9d9d-4cec-8884-e7d69c378b0e_T826L23VKK_mn.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/4/f0a785f0-3507-417c-a4ed-351b37814b8e_T826L23VKK_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/19/06e14c21-85c7-4510-966e-032e9146b4ad_T826L23VKK_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/19/08712ff1-0a76-4ca2-b33b-9ae414d6a048_T826L23VKK_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/8/21/9d57dc26-8067-46bb-9637-3d58cb4a0ab6_T826L23VKK_blr7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/21/30d51a97-95b9-4f9c-825a-745f836fba33_T826L23VKK_blr8.png"
+        ],
+        "images_v2": null,
+        "quantity": "100 g",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "VQ76FQ0R4H",
+        "display_name": "NOICE Raisin Sweet Bun (Freshly made)",
+        "price": {
+          "mrp": 196,
+          "store_price": 196,
+          "offer_price": 180,
+          "unit_level_price": "45/100 g",
+          "discount_value": 16
+        },
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Bread and Buns",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Raisin Sweet Bun (Freshly made)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/20/de850356-9d9d-4cec-8884-e7d69c378b0e_T826L23VKK_mn.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/4/f0a785f0-3507-417c-a4ed-351b37814b8e_T826L23VKK_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/19/06e14c21-85c7-4510-966e-032e9146b4ad_T826L23VKK_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/6/19/08712ff1-0a76-4ca2-b33b-9ae414d6a048_T826L23VKK_3.jpg"
+        ],
+        "images_v2": null,
+        "quantity": "4 combo",
+        "sku_quantity_with_combo": "100 g x 4",
+        "unit_of_measure": null,
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "NOICE Japanese Milk Bread (Freshly made)",
+    "brand": "NOICE",
+    "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+    "product_id": "QTTJV32UAS",
+    "variations": [
+      {
+        "id": "8XHJ8OO1D4",
+        "display_name": "NOICE Japanese Milk Bread (Freshly made)",
+        "price": {
+          "mrp": 109,
+          "store_price": 109,
+          "offer_price": 76,
+          "unit_level_price": "30.4/100 g",
+          "discount_value": 33
+        },
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Bread and Buns",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Japanese Milk Bread (Freshly made)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/1d5abd04-bfc3-4d8d-8f9e-a3a55425aa23_777717.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/b0a814fb-566a-4179-9688-0749800a491a_XBFQDFKW9H_al2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/0a1b56f6-91cd-4156-aa6e-3eaa37e602aa_XBFQDFKW9H3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/b2bbbccf-9be0-43a5-9b14-438bd702cd62_XBFQDFKW9H4.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/8/21/6c1e3e6c-bd98-4437-90d2-28cee5f0c624_XBFQDFKW9H_blr7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/21/d9f78fdf-293a-4e70-bf96-9066bb5851cd_XBFQDFKW9H_blr8.png"
+        ],
+        "images_v2": null,
+        "quantity": "250 g",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "B7A0IWDWO5",
+        "display_name": "NOICE Japanese Milk Bread (Freshly made)",
+        "price": {
+          "mrp": 436,
+          "store_price": 436,
+          "offer_price": 304,
+          "unit_level_price": "30.4/100 g",
+          "discount_value": 132
+        },
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Bread and Buns",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Japanese Milk Bread (Freshly made)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/1d5abd04-bfc3-4d8d-8f9e-a3a55425aa23_777717.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/b0a814fb-566a-4179-9688-0749800a491a_XBFQDFKW9H_al2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/0a1b56f6-91cd-4156-aa6e-3eaa37e602aa_XBFQDFKW9H3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/b2bbbccf-9be0-43a5-9b14-438bd702cd62_XBFQDFKW9H4.jpg"
+        ],
+        "images_v2": null,
+        "quantity": "4 combo",
+        "sku_quantity_with_combo": "250 g x 4",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "F0ARRNANMK",
+        "display_name": "NOICE Japanese Milk Bread (Freshly made)",
+        "price": {
+          "mrp": 218,
+          "store_price": 218,
+          "offer_price": 152,
+          "unit_level_price": "30.4/100 g",
+          "discount_value": 66
+        },
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Bread and Buns",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Japanese Milk Bread (Freshly made)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/1d5abd04-bfc3-4d8d-8f9e-a3a55425aa23_777717.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/b0a814fb-566a-4179-9688-0749800a491a_XBFQDFKW9H_al2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/0a1b56f6-91cd-4156-aa6e-3eaa37e602aa_XBFQDFKW9H3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/b2bbbccf-9be0-43a5-9b14-438bd702cd62_XBFQDFKW9H4.jpg"
+        ],
+        "images_v2": null,
+        "quantity": "2 combo",
+        "sku_quantity_with_combo": "250 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
     "display_name": "D'lecta Cream Cheese Spread",
@@ -1529,48 +1943,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
-  },
-  {
-    "display_name": "Yakult Light Probiotic Drink",
-    "brand": "Yakult",
-    "brand_id": "16a11e35e7e3694fe74016c3975712896e0452e7",
-    "product_id": "CMNVMBNT4K",
-    "variations": [
-      {
-        "id": "3WLSADIVQF",
-        "display_name": "Yakult Light Probiotic Drink",
-        "price": {
-          "mrp": 100,
-          "store_price": 100,
-          "offer_price": 100,
-          "unit_level_price": "",
-          "discount_value": 0
-        },
-        "brand": "Yakult",
-        "brand_id": "16a11e35e7e3694fe74016c3975712896e0452e7",
-        "category": "Milk Based Drinks",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Light Probiotic Drink",
-        "images": [
-          "e93937a765a9d16f1b06cd9e67a47915",
-          "eb33aee63756723188bf78246f2d90d4",
-          "969b7e1d909be39a657afab75f454122",
-          "dafe7e8b2c5ab15ba8f3b9c8661ab5cc"
-        ],
-        "images_v2": null,
-        "quantity": "325 ml",
-        "sku_quantity_with_combo": "325 ml",
-        "unit_of_measure": null,
-        "weight_in_grams": 325,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
     "display_name": "Epigamia Almond Beverage Dairy Free",
@@ -1680,492 +2060,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
-  },
-  {
-    "display_name": "Nestle Everyday Dairy Whitener, 400g Pouch",
-    "brand": "Nestle",
-    "brand_id": "851e8395479db13eed48f3b37a0e80235b3d5ef4",
-    "product_id": "3EF9V6RHCO",
-    "variations": [
-      {
-        "id": "03730YBV4B",
-        "display_name": "Nestle Everyday Dairy Whitener, 400g Pouch",
-        "price": {
-          "mrp": 510,
-          "store_price": 510,
-          "offer_price": 510,
-          "unit_level_price": "63.8/100 g",
-          "discount_value": 0
-        },
-        "brand": "Nestle",
-        "brand_id": "851e8395479db13eed48f3b37a0e80235b3d5ef4",
-        "category": "Milk",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Everyday Dairy Whitener Powdered Milk",
-        "images": [
-          "b57abc3c2f239dbb60a502ed222fc4d6",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/e0fe3bd5-296f-4ae3-a65d-428bcda3c6a9_1664_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/16052529-2fb6-49a7-9519-17d596039d66_1664_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/3767fe23-7491-465a-9f54-b43b6ebc67b1_1664_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/6779b3fd-0a37-4792-8e47-d2cc0e45f38f_1664_5.png"
-        ],
-        "images_v2": null,
-        "quantity": "2 pieces",
-        "sku_quantity_with_combo": "400 g x 2",
-        "unit_of_measure": null,
-        "weight_in_grams": 800,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
       },
-      {
-        "id": "QN4FMC2W2A",
-        "display_name": "Nestle Everyday Dairy Whitener, 400g Pouch",
-        "price": {
-          "mrp": 255,
-          "store_price": 255,
-          "offer_price": 255,
-          "unit_level_price": "63.8/100 g",
-          "discount_value": 0
-        },
-        "brand": "Nestle",
-        "brand_id": "851e8395479db13eed48f3b37a0e80235b3d5ef4",
-        "category": "Milk",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Everyday Dairy Whitener, 400g Pouch",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/6c1c0cb3-b1cd-48e3-ac76-768441509545_1664_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/e0fe3bd5-296f-4ae3-a65d-428bcda3c6a9_1664_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/16052529-2fb6-49a7-9519-17d596039d66_1664_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/3767fe23-7491-465a-9f54-b43b6ebc67b1_1664_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/17/6779b3fd-0a37-4792-8e47-d2cc0e45f38f_1664_5.png"
-        ],
-        "images_v2": null,
-        "quantity": "400 g",
-        "sku_quantity_with_combo": "400 g",
-        "unit_of_measure": null,
-        "weight_in_grams": 400,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "The Whole Truth Creamy Dark Chocolate Peanut Butter (No Added Sugar)",
-    "brand": "The Whole Truth",
-    "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
-    "product_id": "14OLR74LOF",
-    "variations": [
-      {
-        "id": "O8XDKJSS23",
-        "display_name": "The Whole Truth Creamy Dark Chocolate Peanut Butter (No Added Sugar)",
-        "price": {
-          "mrp": 1047,
-          "store_price": 1047,
-          "offer_price": 941,
-          "unit_level_price": "96.5/100 g",
-          "discount_value": 106
-        },
-        "brand": "The Whole Truth",
-        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
-        "category": "Peanut Butters",
-        "super_category": "Sauces and Spreads",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Creamy Dark Chocolate Peanut Butter (No Added Sugar)",
-        "images": [
-          "2cfeb23bc67a7e0bc651b5a74a77bab9",
-          "NI_CATALOG/IMAGES/CIW/2025/5/7/9d3945c9-f3a3-46d9-bdb3-3d5ecc5c081a_12206_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/7/e0c6e013-8cc5-48b4-8fe3-d8354a318e43_12206_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/7/c5c230d5-84e0-4cfc-b536-187a592d5dc3_12206_4.png"
-        ],
-        "images_v2": null,
-        "quantity": "3 pieces",
-        "sku_quantity_with_combo": "325 g x 3",
-        "unit_of_measure": null,
-        "weight_in_grams": 975,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      },
-      {
-        "id": "ZUBTL63SLZ",
-        "display_name": "The Whole Truth Creamy Dark Chocolate Peanut Butter (No Added Sugar)",
-        "price": {
-          "mrp": 698,
-          "store_price": 698,
-          "offer_price": 648,
-          "unit_level_price": "99.7/100 g",
-          "discount_value": 50
-        },
-        "brand": "The Whole Truth",
-        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
-        "category": "Peanut Butters",
-        "super_category": "Sauces and Spreads",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Creamy Dark Chocolate Peanut Butter (No Added Sugar)",
-        "images": [
-          "61cc50ca2877b28ec6edc498662cfae5",
-          "NI_CATALOG/IMAGES/CIW/2025/5/7/9d3945c9-f3a3-46d9-bdb3-3d5ecc5c081a_12206_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/7/e0c6e013-8cc5-48b4-8fe3-d8354a318e43_12206_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/7/c5c230d5-84e0-4cfc-b536-187a592d5dc3_12206_4.png"
-        ],
-        "images_v2": null,
-        "quantity": "2 pieces",
-        "sku_quantity_with_combo": "325 g x 2",
-        "unit_of_measure": null,
-        "weight_in_grams": 650,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      },
-      {
-        "id": "OPSDZTADHA",
-        "display_name": "The Whole Truth Creamy Dark Chocolate Peanut Butter (No Added Sugar)",
-        "price": {
-          "mrp": 349,
-          "store_price": 349,
-          "offer_price": 331,
-          "unit_level_price": "101.8/100 g",
-          "discount_value": 18
-        },
-        "brand": "The Whole Truth",
-        "brand_id": "4b1bbfbdbdbdf27d144faced88e89e178fd0bb58",
-        "category": "Peanut Butters",
-        "super_category": "Sauces and Spreads",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Creamy Dark Chocolate Peanut Spread (0 Sugar)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/7/a6c23ab1-198f-4866-a430-153464667aef_12206_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/7/9d3945c9-f3a3-46d9-bdb3-3d5ecc5c081a_12206_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/7/e0c6e013-8cc5-48b4-8fe3-d8354a318e43_12206_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/7/c5c230d5-84e0-4cfc-b536-187a592d5dc3_12206_4.png"
-        ],
-        "images_v2": null,
-        "quantity": "325 g",
-        "sku_quantity_with_combo": "325 g",
-        "unit_of_measure": null,
-        "weight_in_grams": 325,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Nutella Hazelnut Cocoa Spread",
-    "brand": "Nutella",
-    "brand_id": "1274534096522d64b76a1007dbd2d69675e60eb7",
-    "product_id": "K83HCFZ9Y8",
-    "variations": [
-      {
-        "id": "MCZXS4SSZP",
-        "display_name": "Nutella Hazelnut Cocoa Spread",
-        "price": {
-          "mrp": 798,
-          "store_price": 798,
-          "offer_price": 798,
-          "unit_level_price": "114/100 g",
-          "discount_value": 0
-        },
-        "brand": "Nutella",
-        "brand_id": "1274534096522d64b76a1007dbd2d69675e60eb7",
-        "category": "Chocolate Spreads",
-        "super_category": "Sauces and Spreads",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Hazelnut Cocoa Spread",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/12/13/8b21544b-4805-4fcb-9dc3-08266f2a2742_23160.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/9/696ec488-b962-4fe6-ba2c-d7650624c0e5_909_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/9/994e1099-1be1-442b-ae6f-5549abca8474_909_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/9/0eebf24d-6341-43aa-ac2e-792ed4edbbcd_909_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/9/3b2f3748-de49-4b90-9589-07b6eca63057_909_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/9/99e9cd34-1ffb-408e-a292-016328b562ec_909_6.png"
-        ],
-        "images_v2": null,
-        "quantity": "2 pieces",
-        "sku_quantity_with_combo": "350 g x 2",
-        "unit_of_measure": null,
-        "weight_in_grams": 700,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      },
-      {
-        "id": "B4V15VA984",
-        "display_name": "Nutella Hazelnut Cocoa Spread",
-        "price": {
-          "mrp": 399,
-          "store_price": 399,
-          "offer_price": 399,
-          "unit_level_price": "114/100 g",
-          "discount_value": 0
-        },
-        "brand": "Nutella",
-        "brand_id": "1274534096522d64b76a1007dbd2d69675e60eb7",
-        "category": "Chocolate Spreads",
-        "super_category": "Sauces and Spreads",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Hazelnut Cocoa Spread",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/13/4c892d1f-bfc3-4176-9aa6-c8d790f313e3_909_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/13/0eb2ee43-d3b0-4685-b076-f3674e3c2326_909_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/13/8f55aa95-dc8d-47e5-99c2-d438264b82db_909_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/13/f4b9bfd8-d25f-4e65-8f15-e60e9742e244_909_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/13/f64024bb-c388-4739-991b-9ab6063497a0_909_6.png"
-        ],
-        "images_v2": null,
-        "quantity": "350 g",
-        "sku_quantity_with_combo": "350 g",
-        "unit_of_measure": null,
-        "weight_in_grams": 350,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Pintola All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
-    "brand": "Pintola",
-    "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
-    "product_id": "S6VMJEQ69G",
-    "variations": [
-      {
-        "id": "30XH6RGA0G",
-        "display_name": "Pintola All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
-        "price": {
-          "mrp": 449,
-          "store_price": 449,
-          "offer_price": 400,
-          "unit_level_price": "",
-          "discount_value": 49
-        },
-        "brand": "Pintola",
-        "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
-        "category": "Peanut Butters",
-        "super_category": "Sauces and Spreads",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
-        "images": [
-          "a5fb64d374fca0c7000c0787073c8845",
-          "9f6c906ad38bb2c9e6f1704d4a5c3b5c",
-          "13700ec77f587651400242105f050a98",
-          "5e0ac2ff09c0a24b8bd7829c1a460578",
-          "39cb4cfd00f309a401c34e75e22f5024",
-          "0ec28a4ef7b85aa94442efba9e1cb9a8"
-        ],
-        "images_v2": null,
-        "quantity": "1 kg",
-        "sku_quantity_with_combo": "1 kg",
-        "unit_of_measure": null,
-        "weight_in_grams": 1000,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "D'lecta Cream Cheese",
-    "brand": "D'lecta",
-    "brand_id": "ca5dbeaa3729fc7bb37e5a47adf6f8f77382876e",
-    "product_id": "KZ3UZW1PXJ",
-    "variations": [
-      {
-        "id": "IBQ81BY663",
-        "display_name": "D'lecta Cream Cheese",
-        "price": {
-          "mrp": 760,
-          "store_price": 760,
-          "offer_price": 707,
-          "unit_level_price": "88.4/100 g",
-          "discount_value": 53
-        },
-        "brand": "D'lecta",
-        "brand_id": "ca5dbeaa3729fc7bb37e5a47adf6f8f77382876e",
-        "category": "Cheese",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Cream Cheese",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/10/20/0bfe3a05-31ab-4fd8-864f-87828e7cc2a7_99135_1.png"
-        ],
-        "images_v2": null,
-        "quantity": "2 packets",
-        "sku_quantity_with_combo": "400 g x 2",
-        "unit_of_measure": null,
-        "weight_in_grams": 800,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      },
-      {
-        "id": "DI2W839FGI",
-        "display_name": "D'lecta Cream Cheese",
-        "price": {
-          "mrp": 380,
-          "store_price": 380,
-          "offer_price": 353,
-          "unit_level_price": "88.3/100 g",
-          "discount_value": 27
-        },
-        "brand": "D'lecta",
-        "brand_id": "ca5dbeaa3729fc7bb37e5a47adf6f8f77382876e",
-        "category": "Cheese",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Cream Cheese",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/10/4/6dc9b9d0-50ce-492c-8d5b-2a3f344a9749_16314_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/4/a5a8d73a-6714-4c94-b356-0e42e8064ebf_16314_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/4/40ae2470-6f86-405a-ba0a-6c659b137d86_16314_3.png"
-        ],
-        "images_v2": null,
-        "quantity": "400 g",
-        "sku_quantity_with_combo": "400 g",
-        "unit_of_measure": null,
-        "weight_in_grams": 400,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Kissan Mixed Fruit Jam",
-    "brand": "Kissan",
-    "brand_id": "801a186564da123fc7f52be23dcb18af142bc302",
-    "product_id": "C0TWBUZWEW",
-    "variations": [
-      {
-        "id": "WMOXY73IXK",
-        "display_name": "Kissan Mixed Fruit Jam",
-        "price": {
-          "mrp": 200,
-          "store_price": 200,
-          "offer_price": 200,
-          "unit_level_price": "",
-          "discount_value": 0
-        },
-        "brand": "Kissan",
-        "brand_id": "801a186564da123fc7f52be23dcb18af142bc302",
-        "category": "Jams",
-        "super_category": "Sauces and Spreads",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Mixed Fruit Jam",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/f3c26b36-fb40-49fe-8221-eba8f3c6ff66_32_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/c1147afa-65cd-41d4-8998-c3f437e1cb99_32_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/4be6614f-030b-4879-a026-81bc89e485f1_32_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/6/27/531a3346-16a4-4911-aaae-ee08c0e764cb_32_4.png"
-        ],
-        "images_v2": null,
-        "quantity": "500 g",
-        "sku_quantity_with_combo": "500 g",
-        "unit_of_measure": null,
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Nestle Milkmaid Tin",
-    "brand": "Nestle",
-    "brand_id": "851e8395479db13eed48f3b37a0e80235b3d5ef4",
-    "product_id": "5T1CPD73MG",
-    "variations": [
-      {
-        "id": "ICS59UGQLG",
-        "display_name": "Nestle Milkmaid Tin",
-        "price": {
-          "mrp": 456,
-          "store_price": 456,
-          "offer_price": 405,
-          "unit_level_price": "35.5/100 g",
-          "discount_value": 51
-        },
-        "brand": "Nestle",
-        "brand_id": "851e8395479db13eed48f3b37a0e80235b3d5ef4",
-        "category": "Paneer and Cream",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Milkmaid Tin",
-        "images": [
-          "8f786565ae82cff6c6acee3a3f924bf6"
-        ],
-        "images_v2": null,
-        "quantity": "3 pieces",
-        "sku_quantity_with_combo": "380 g x 3",
-        "unit_of_measure": null,
-        "weight_in_grams": 1140,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      },
-      {
-        "id": "HV8DKF6NA8",
-        "display_name": "Nestle Milkmaid Tin",
-        "price": {
-          "mrp": 152,
-          "store_price": 152,
-          "offer_price": 138,
-          "unit_level_price": "36.3/100 g",
-          "discount_value": 14
-        },
-        "brand": "Nestle",
-        "brand_id": "851e8395479db13eed48f3b37a0e80235b3d5ef4",
-        "category": "Paneer and Cream",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Milkmaid Tin",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/4/3/64ca5262-4dac-4c03-8f75-e5587620b3c5_3024_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/4/3/e764346e-fbca-4543-8cf5-14d0bab215d2_3024_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/104945ae-cc84-4cd4-9929-d9e3372519c6_3024_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/3/22/e46b2fb0-bd38-4675-920e-ef5f2419c71a_3024_5.png"
-        ],
-        "images_v2": null,
-        "quantity": "380 g",
-        "sku_quantity_with_combo": "380 g",
-        "unit_of_measure": null,
-        "weight_in_grams": 380,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      }
-    ]
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
     "display_name": "NOICE Fresh Badam Milk (Homestyle)",
@@ -2173,40 +2075,6 @@
     "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
     "product_id": "6ATHC22F55",
     "variations": [
-      {
-        "id": "W85KSPPUG1",
-        "display_name": "NOICE Fresh Badam Milk (Homestyle)",
-        "price": {
-          "mrp": 218,
-          "store_price": 218,
-          "offer_price": 138,
-          "unit_level_price": "34.5/100 ml",
-          "discount_value": 80
-        },
-        "brand": "NOICE",
-        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
-        "category": "Milk Based Drinks",
-        "super_category": "Dairy, Bread and Eggs",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Fresh Badam Milk (Homestyle)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/27/a7489879-d8a2-4015-9586-791f989a2564_badammilkzoomed.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/b3e2ccb0-67c4-441d-a92e-7639b65f2054_G15V9Q0G3D_2.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/26/efb88daa-7456-484d-a7b5-f0419ee5d4fe_G15V9Q0G3D_3.jpg",
-          "NI_CATALOG/IMAGES/CIW/2025/5/24/51a0c211-1cad-42b9-b584-3fa774a64236_G15V9Q0G3D_7.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/24/1d8f6155-f89e-4f51-a027-3bce42f8d520_G15V9Q0G3D_8.png"
-        ],
-        "images_v2": null,
-        "quantity": "2 combo",
-        "sku_quantity_with_combo": "200 ml x 2",
-        "unit_of_measure": null,
-        "weight_in_grams": 400,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      },
       {
         "id": "WYLJ0ODA7I",
         "display_name": "NOICE Fresh Badam Milk (Homestyle)",
@@ -2308,8 +2176,204 @@
         "volumetric_weight": 0,
         "scm_item_type": null,
         "filters_tag": null
+      },
+      {
+        "id": "W85KSPPUG1",
+        "display_name": "NOICE Fresh Badam Milk (Homestyle)",
+        "price": {
+          "mrp": 218,
+          "store_price": 218,
+          "offer_price": 138,
+          "unit_level_price": "34.5/100 ml",
+          "discount_value": 80
+        },
+        "brand": "NOICE",
+        "brand_id": "bda12c2e899ea8894d5c8291d7f3c2b777749018",
+        "category": "Milk Based Drinks",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Fresh Badam Milk (Homestyle)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/27/a7489879-d8a2-4015-9586-791f989a2564_badammilkzoomed.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/b3e2ccb0-67c4-441d-a92e-7639b65f2054_G15V9Q0G3D_2.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/26/efb88daa-7456-484d-a7b5-f0419ee5d4fe_G15V9Q0G3D_3.jpg",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/51a0c211-1cad-42b9-b584-3fa774a64236_G15V9Q0G3D_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/24/1d8f6155-f89e-4f51-a027-3bce42f8d520_G15V9Q0G3D_8.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 combo",
+        "sku_quantity_with_combo": "200 ml x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "D'lecta Cream Cheese",
+    "brand": "D'lecta",
+    "brand_id": "ca5dbeaa3729fc7bb37e5a47adf6f8f77382876e",
+    "product_id": "KZ3UZW1PXJ",
+    "variations": [
+      {
+        "id": "DI2W839FGI",
+        "display_name": "D'lecta Cream Cheese",
+        "price": {
+          "mrp": 380,
+          "store_price": 380,
+          "offer_price": 353,
+          "unit_level_price": "88.3/100 g",
+          "discount_value": 27
+        },
+        "brand": "D'lecta",
+        "brand_id": "ca5dbeaa3729fc7bb37e5a47adf6f8f77382876e",
+        "category": "Cheese",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cream Cheese",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/6dc9b9d0-50ce-492c-8d5b-2a3f344a9749_16314_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/a5a8d73a-6714-4c94-b356-0e42e8064ebf_16314_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/4/40ae2470-6f86-405a-ba0a-6c659b137d86_16314_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "400 g",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "IBQ81BY663",
+        "display_name": "D'lecta Cream Cheese",
+        "price": {
+          "mrp": 760,
+          "store_price": 760,
+          "offer_price": 707,
+          "unit_level_price": "88.4/100 g",
+          "discount_value": 53
+        },
+        "brand": "D'lecta",
+        "brand_id": "ca5dbeaa3729fc7bb37e5a47adf6f8f77382876e",
+        "category": "Cheese",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Cream Cheese",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/20/0bfe3a05-31ab-4fd8-864f-87828e7cc2a7_99135_1.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 packets",
+        "sku_quantity_with_combo": "400 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 800,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "Nestle Milkmaid Tin",
+    "brand": "Nestle",
+    "brand_id": "851e8395479db13eed48f3b37a0e80235b3d5ef4",
+    "product_id": "5T1CPD73MG",
+    "variations": [
+      {
+        "id": "ICS59UGQLG",
+        "display_name": "Nestle Milkmaid Tin",
+        "price": {
+          "mrp": 456,
+          "store_price": 456,
+          "offer_price": 429,
+          "unit_level_price": "37.6/100 g",
+          "discount_value": 27
+        },
+        "brand": "Nestle",
+        "brand_id": "851e8395479db13eed48f3b37a0e80235b3d5ef4",
+        "category": "Paneer and Cream",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Milkmaid Tin",
+        "images": [
+          "8f786565ae82cff6c6acee3a3f924bf6"
+        ],
+        "images_v2": null,
+        "quantity": "3 pieces",
+        "sku_quantity_with_combo": "380 g x 3",
+        "unit_of_measure": null,
+        "weight_in_grams": 1140,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "HV8DKF6NA8",
+        "display_name": "Nestle Milkmaid Tin",
+        "price": {
+          "mrp": 152,
+          "store_price": 152,
+          "offer_price": 146,
+          "unit_level_price": "38.4/100 g",
+          "discount_value": 6
+        },
+        "brand": "Nestle",
+        "brand_id": "851e8395479db13eed48f3b37a0e80235b3d5ef4",
+        "category": "Paneer and Cream",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Milkmaid Tin",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/64ca5262-4dac-4c03-8f75-e5587620b3c5_3024_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/3/e764346e-fbca-4543-8cf5-14d0bab215d2_3024_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/104945ae-cc84-4cd4-9929-d9e3372519c6_3024_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/22/e46b2fb0-bd38-4675-920e-ef5f2419c71a_3024_5.png"
+        ],
+        "images_v2": null,
+        "quantity": "380 g",
+        "sku_quantity_with_combo": "380 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 380,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
     "display_name": "Amul Diced Cheese Blend",
@@ -2349,7 +2413,64 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "Modern 100% Whole Wheat Bread (Zero Maida, No trans fat)",
+    "brand": "Modern",
+    "brand_id": "b49daef48a0d2a41663d89fe39cfa4f6403f2aa8",
+    "product_id": "WZ4F929UG1",
+    "variations": [
+      {
+        "id": "N073T0FVC2",
+        "display_name": "Modern 100% Whole Wheat Bread (Zero Maida, No trans fat)",
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 55,
+          "unit_level_price": "",
+          "discount_value": 5
+        },
+        "brand": "Modern",
+        "brand_id": "b49daef48a0d2a41663d89fe39cfa4f6403f2aa8",
+        "category": "Bread and Buns",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "100% Whole Wheat Bread (Zero Maida, No trans fat)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/f9d1fc96-0a1a-41ba-bd17-b03adbcc8c83_777_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/5b76ab8e-757c-4720-ab0c-3a1a2a2c21ce_777_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/847f637e-0fbe-4766-8465-adf4ff4875cf_777_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/7504fa68-a66c-4f8e-ad71-8128975a923e_777_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/d835c3ef-2a1b-4655-a881-b8cc383e9ff2_777_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/7/8c1345df-e53e-4b7a-a6b0-5f1cd9ec6a28_777_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "400 g",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
     "display_name": "The Baker's Dozen Country Sourdough (Zero Maida)",
@@ -2395,7 +2516,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
     "display_name": "The Baker's Dozen High Protein Fourgrain Sourdough (Zero Maida Bread)",
@@ -2409,9 +2537,9 @@
         "price": {
           "mrp": 235,
           "store_price": 235,
-          "offer_price": 202,
+          "offer_price": 211,
           "unit_level_price": "",
-          "discount_value": 33
+          "discount_value": 24
         },
         "brand": "The Baker's Dozen",
         "brand_id": "160456f980dd51eeb7cda2ed2f7c628b02264a05",
@@ -2439,79 +2567,315 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
-    "display_name": "Amul Processed Cheese Block",
-    "brand": "Amul",
-    "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
-    "product_id": "BO31HMQXHV",
+    "display_name": "Pintola All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
+    "brand": "Pintola",
+    "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+    "product_id": "E5KAGC5EBU",
     "variations": [
       {
-        "id": "F2KYG0O9P6",
-        "display_name": "Amul Processed Cheese Block",
+        "id": "1D7ROLK91B",
+        "display_name": "Pintola All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
         "price": {
-          "mrp": 390,
-          "store_price": 390,
-          "offer_price": 385,
-          "unit_level_price": "64.2/100 g",
-          "discount_value": 5
+          "mrp": 350,
+          "store_price": 350,
+          "offer_price": 311,
+          "unit_level_price": "44.4/100 g",
+          "discount_value": 39
         },
-        "brand": "Amul",
-        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
-        "category": "Cheese",
-        "super_category": "Dairy, Bread and Eggs",
+        "brand": "Pintola",
+        "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Processed Cheese Block",
+        "product_name_without_brand": "All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/2/25/18a503d4-b7ed-4056-b90b-82a2620c1b67_107143.png"
+          "11aeb08107e4a9f4aa33aa21298b2b10",
+          "680c3854be9977a3e94942ed18f38d7c",
+          "ce3fa009554f325e0b42bf22489ec182",
+          "8ad0ec07be3f95720e2ae70cf34744b1",
+          "3e6ec1a0c8e5cabe8615f910f116ec00"
         ],
         "images_v2": null,
-        "quantity": "3 pieces",
-        "sku_quantity_with_combo": "200 g x 3",
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "350 g x 2",
         "unit_of_measure": null,
-        "weight_in_grams": 600,
+        "weight_in_grams": 700,
         "volumetric_weight": 0,
         "scm_item_type": null,
         "filters_tag": null
       },
       {
-        "id": "N3D910JPMZ",
-        "display_name": "Amul Processed Cheese Block",
+        "id": "OVK29VU9P4",
+        "display_name": "Pintola All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
         "price": {
-          "mrp": 130,
-          "store_price": 130,
-          "offer_price": 130,
-          "unit_level_price": "65/100 g",
+          "mrp": 175,
+          "store_price": 175,
+          "offer_price": 164,
+          "unit_level_price": "46.9/100 g",
+          "discount_value": 11
+        },
+        "brand": "Pintola",
+        "brand_id": "4e243354b61d30900e37308c554e051534b9fd6b",
+        "category": "Peanut Butters",
+        "super_category": "Sauces and Spreads",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "All Natural Peanut Butter Crunchy, Unsweetened,Protein, Gluten Free, Vegan, Cholesterol Free",
+        "images": [
+          "7c223b7f13e7079641e67c3f023bcf0d",
+          "680c3854be9977a3e94942ed18f38d7c",
+          "ce3fa009554f325e0b42bf22489ec182",
+          "8ad0ec07be3f95720e2ae70cf34744b1",
+          "3e6ec1a0c8e5cabe8615f910f116ec00"
+        ],
+        "images_v2": null,
+        "quantity": "350 g",
+        "sku_quantity_with_combo": "350 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 350,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "Amul Moti Toned Milk",
+    "brand": "Amul",
+    "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+    "product_id": "PQEFTLHDGO",
+    "variations": [
+      {
+        "id": "9DKNB216XB",
+        "display_name": "Amul Moti Toned Milk",
+        "price": {
+          "mrp": 60,
+          "store_price": 60,
+          "offer_price": 60,
+          "unit_level_price": "6.7/100 ml",
           "discount_value": 0
         },
         "brand": "Amul",
         "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+        "category": "Milk",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Moti Toned Milk",
+        "images": [
+          "4b4c2ddd8a172311c413a21bb71b9f47",
+          "swfjsyiqsd6fakngxp4x",
+          "nsvxrdw9gozodexxasbw"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "450 ml x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 900,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "JM9NI510I2",
+        "display_name": "Amul Moti Toned Milk",
+        "price": {
+          "mrp": 30,
+          "store_price": 30,
+          "offer_price": 30,
+          "unit_level_price": "6.7/100 ml",
+          "discount_value": 0
+        },
+        "brand": "Amul",
+        "brand_id": "b541da3d009ee41cafd75831b0107a5ee59f517e",
+        "category": "Milk",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Moti Toned Milk",
+        "images": [
+          "xzwcrynvoj5iqz0bjj7m",
+          "swfjsyiqsd6fakngxp4x",
+          "nsvxrdw9gozodexxasbw"
+        ],
+        "images_v2": null,
+        "quantity": "450 ml",
+        "sku_quantity_with_combo": "450 ml",
+        "unit_of_measure": null,
+        "weight_in_grams": 450,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
+  },
+  {
+    "display_name": "D'lecta Shredded Mozzarella Cheese",
+    "brand": "D'lecta",
+    "brand_id": "ca5dbeaa3729fc7bb37e5a47adf6f8f77382876e",
+    "product_id": "JXNUKHCHKO",
+    "variations": [
+      {
+        "id": "HD3TAY4N55",
+        "display_name": "D'lecta Shredded Mozzarella Cheese",
+        "price": {
+          "mrp": 590,
+          "store_price": 590,
+          "offer_price": 478,
+          "unit_level_price": "68.3/100 g",
+          "discount_value": 112
+        },
+        "brand": "D'lecta",
+        "brand_id": "ca5dbeaa3729fc7bb37e5a47adf6f8f77382876e",
         "category": "Cheese",
         "super_category": "Dairy, Bread and Eggs",
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Processed Cheese Block",
+        "product_name_without_brand": "Shredded Mozzarella Cheese",
         "images": [
-          "gjrqeehgb2h1dhzvl2ab",
-          "wilivv3hj3xwj8cv3vwk",
-          "o4rmlcr3nqzaufiyxuh5",
-          "kngzjk7hbnfgp6qmzuvx",
-          "glifjkhnpjtix4ormevb"
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/ed4c6d1f-b9da-4b51-9768-5af1a8a3f031_414127_1.png"
         ],
         "images_v2": null,
-        "quantity": "200 g",
-        "sku_quantity_with_combo": "200 g",
+        "quantity": "5 pieces",
+        "sku_quantity_with_combo": "140 g x 5",
         "unit_of_measure": null,
-        "weight_in_grams": 200,
+        "weight_in_grams": 700,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "QRGTCMXX63",
+        "display_name": "D'lecta Shredded Mozzarella Cheese",
+        "price": {
+          "mrp": 354,
+          "store_price": 354,
+          "offer_price": 294,
+          "unit_level_price": "70/100 g",
+          "discount_value": 60
+        },
+        "brand": "D'lecta",
+        "brand_id": "ca5dbeaa3729fc7bb37e5a47adf6f8f77382876e",
+        "category": "Cheese",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Shredded Mozzarella Cheese",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/22/0fe02ed8-e039-4a8b-9aa2-a9504291ab1f_477531_1.png"
+        ],
+        "images_v2": null,
+        "quantity": "3 pieces",
+        "sku_quantity_with_combo": "140 g x 3",
+        "unit_of_measure": null,
+        "weight_in_grams": 420,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "H7761MPTWW",
+        "display_name": "D'lecta Shredded Mozzarella Cheese",
+        "price": {
+          "mrp": 236,
+          "store_price": 236,
+          "offer_price": 201,
+          "unit_level_price": "71.8/100 g",
+          "discount_value": 35
+        },
+        "brand": "D'lecta",
+        "brand_id": "ca5dbeaa3729fc7bb37e5a47adf6f8f77382876e",
+        "category": "Cheese",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Shredded Mozzarella Cheese",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/23/fbdf169f-1d36-4a49-b158-2eabc7af5181_21127.png",
+          "8afa932e59e4bf5f2fff63db57f2a2d5",
+          "2ff453e1f60f16e85c86fc0519078b5e"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "140 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 280,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "59ANP59UCT",
+        "display_name": "D'lecta Shredded Mozzarella Cheese",
+        "price": {
+          "mrp": 118,
+          "store_price": 118,
+          "offer_price": 100,
+          "unit_level_price": "71.4/100 g",
+          "discount_value": 18
+        },
+        "brand": "D'lecta",
+        "brand_id": "ca5dbeaa3729fc7bb37e5a47adf6f8f77382876e",
+        "category": "Cheese",
+        "super_category": "Dairy, Bread and Eggs",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Shredded Mozzarella Cheese",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/18/e16a2064-d7b3-499b-86d9-4d40a66cc55d_6275_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/18/6964429c-c66a-46c5-9b21-ef18c3dbbc91_6275_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/18/13fd76d8-4a95-46a2-aad6-e4848027beb8_6275_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "140 g",
+        "sku_quantity_with_combo": "140 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 140,
         "volumetric_weight": 0,
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
     "display_name": "Amul Processed Cheese Slices",
@@ -2581,7 +2945,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
     "display_name": "Heritage Fresh Paneer",
@@ -2595,9 +2966,9 @@
         "price": {
           "mrp": 240,
           "store_price": 240,
-          "offer_price": 192,
-          "unit_level_price": "48/100 g",
-          "discount_value": 48
+          "offer_price": 194,
+          "unit_level_price": "48.5/100 g",
+          "discount_value": 46
         },
         "brand": "Heritage",
         "brand_id": "51dc3b4e5ba07bd22af816dc9d9c3dcaad6ea06c",
@@ -2627,9 +2998,9 @@
         "price": {
           "mrp": 120,
           "store_price": 120,
-          "offer_price": 96,
-          "unit_level_price": "48/100 g",
-          "discount_value": 24
+          "offer_price": 97,
+          "unit_level_price": "48.5/100 g",
+          "discount_value": 23
         },
         "brand": "Heritage",
         "brand_id": "51dc3b4e5ba07bd22af816dc9d9c3dcaad6ea06c",
@@ -2653,7 +3024,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   },
   {
     "display_name": "NOICE Italian Garlic Bread (Freshly made)",
@@ -2696,6 +3074,13 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25abb",
+        "name": "Dairy, Bread and Eggs"
+      },
+      "category_name_from_url": "Dairy, Bread and Eggs"
+    }
   }
 ]

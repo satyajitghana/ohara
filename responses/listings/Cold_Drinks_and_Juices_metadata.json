@@ -1,0 +1,185 @@
+{
+  "categories": [
+    {
+      "id": "6822eeebed32000001e25a46",
+      "display_name": "Cold Drinks and Juices",
+      "product_count": 1960,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/ba386d44-a570-47cb-9b7d-9c02554b06ef_3977c023-7f0f-45f0-aea5-11bc873a5546",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a57",
+      "display_name": "Ice Creams and Frozen Desserts",
+      "product_count": 1084,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/4fe55f10-32b9-4762-8d41-be76ea7f67a8_cc703675-e18b-4331-9617-db8a881f0ab2",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a62",
+      "display_name": "Chips and Namkeens",
+      "product_count": 4163,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/70be19a4-dc51-4ab3-969b-65736cd2cdf6_c0031c9c-5f6e-422c-a84b-1428e1787d28",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a70",
+      "display_name": "Chocolates",
+      "product_count": 1285,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/a5c36315-21b0-4dd9-8afc-80210e95df0c_77305056-9bb7-47a4-822d-6ee188bd00f6",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a7c",
+      "display_name": "Noodles, Pasta, Vermicelli",
+      "product_count": 987,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/da9542e9-0c6b-4fc3-bd65-422ab537a4aa_ac5adc39-bf55-492f-94d4-1c0ac65dea46",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a87",
+      "display_name": "Frozen Food",
+      "product_count": 742,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/7e355480-0793-4ac0-a0d7-ca7236109bf7_6bf77c55-7d76-4a96-ab88-9d0690dbd822",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a90",
+      "display_name": "Sweets",
+      "product_count": 360,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/f028cb2e-9593-48c0-95c5-86af909d7198_5ef3e945-a61d-4487-a50f-f5e341b1eee4",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a98",
+      "display_name": "Paan Corner",
+      "product_count": 602,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/9cd93ba2-f843-4b57-9c08-56b9a78bcd50_b45772ad-2905-4b44-9c02-fbcbe43bc67a",
+      "age_consent_required": true
+    }
+  ],
+  "selected_category": {
+    "id": "6822eeebed32000001e25a46",
+    "name": "Cold Drinks and Juices"
+  },
+  "filters": [
+    {
+      "id": "6822eeebed32000001e25a47",
+      "name": "Top Deals",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/a3fb28c4-3010-4eed-bff1-9d93ae04692e_1283dfb7-2aba-4adf-b09d-ffaf1851c6d1",
+      "type": "Speciality taxonomy 3",
+      "product_count": 74
+    },
+    {
+      "id": "6822eeebed32000001e25a48",
+      "name": "Soft Drinks",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/c65b22f2-2caa-4320-8144-d20133f2713a_1251ab20-eef9-4fe0-b53a-ced3d50328fe",
+      "type": "Speciality taxonomy 3",
+      "product_count": 242
+    },
+    {
+      "id": "6822eeebed32000001e25a49",
+      "name": "Juices and Fruit Drinks",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/5a10c051-ab42-4b10-b4c0-78dd382c9212_b36f0dfd-2959-49b7-8d61-7cf266c77aeb",
+      "type": "Speciality taxonomy 3",
+      "product_count": 243
+    },
+    {
+      "id": "6822eeebed32000001e25a4a",
+      "name": "Energy Drinks",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/11/b809265d-c069-404b-964b-66759cb898f8_2bf51644-3601-4bb6-8bb7-bf4db72b9d4a",
+      "type": "Speciality taxonomy 3",
+      "product_count": 88
+    },
+    {
+      "id": "6822eeebed32000001e25a4c",
+      "name": "Newly Added",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/68d7e7ef-eb28-4332-b6b7-870519454f6a_b8cf1cb8-410c-4654-b53b-18ffaa7bd416",
+      "type": "Speciality taxonomy 3",
+      "product_count": 111
+    },
+    {
+      "id": "6822eeebed32000001e25a4b",
+      "name": "Mango Drinks",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/c6eedcab-f3c9-4110-ab77-eac8343d2b64_853fd5eb-684b-472a-bf89-0e7b324b4366",
+      "type": "Speciality taxonomy 3",
+      "product_count": 51
+    },
+    {
+      "id": "6822eeebed32000001e25a4f",
+      "name": "Fresh Juices",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/8a6a9cb9-113e-4258-9e5e-0427f3e7cdf7_fae4e2f9-462b-4e02-91eb-a0df924853c2",
+      "type": "Speciality taxonomy 3",
+      "product_count": 30
+    },
+    {
+      "id": "6822eeebed32000001e25a4d",
+      "name": "Soda and Mixers",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/11/c8cf3dcb-e968-48a6-a2cb-4d325c797c2f_6f3ad772-2833-409f-b447-c92d1e02d4f2",
+      "type": "Speciality taxonomy 3",
+      "product_count": 207
+    },
+    {
+      "id": "6822eeebed32000001e25a4e",
+      "name": "Coconut Water",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/1fe317e8-c3f6-4cb3-a302-862d347905d2_bd60a2c5-6d4b-49b0-b51e-026a7c0ac883",
+      "type": "Speciality taxonomy 3",
+      "product_count": 33
+    },
+    {
+      "id": "6822eeebed32000001e25a50",
+      "name": "Diet Soft Drinks",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/1/6/3d518bb9-fd36-4bd8-baa8-11f9b4c69e0e_74390870-d96e-4506-9932-9cde06c4ff77",
+      "type": "Speciality taxonomy 3",
+      "product_count": 46
+    },
+    {
+      "id": "6822eeebed32000001e25a51",
+      "name": "Hydration",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/12/5/3d98899f-3d90-4235-81cd-26e247e4fec6_dbaca2d5-67c4-4d42-bfd5-daadeea2bd9c",
+      "type": "Speciality taxonomy 3",
+      "product_count": 122
+    },
+    {
+      "id": "6822eeebed32000001e25a52",
+      "name": "Water and Ice Cubes",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/a03c3f5a-cc08-4cf8-8a77-460264e41e71_30bcb1ed-bd8d-412a-abae-90cae8d14429",
+      "type": "Speciality taxonomy 3",
+      "product_count": 109
+    },
+    {
+      "id": "6822eeebed32000001e25a53",
+      "name": "Non Alcoholic Beverages",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/52cdcdb6-69a8-4719-a656-9458cefc9f65_01be016e-ee69-4556-a7ba-ff0dfc6e4f6c",
+      "type": "Speciality taxonomy 3",
+      "product_count": 119
+    },
+    {
+      "id": "6822eeebed32000001e25a54",
+      "name": "Ice Tea & Kombucha",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/f80a26b8-e3fd-4d14-b28b-b796a99a2292_88f34353-d948-4745-bc5e-af9a448afdab",
+      "type": "Speciality taxonomy 3",
+      "product_count": 59
+    },
+    {
+      "id": "6822eeebed32000001e25a55",
+      "name": "Instant Drink Mixes",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/11/6d0165ef-6be9-42f4-9f92-94d3914a2238_6877030c-737b-4a20-81aa-995dff362d55",
+      "type": "Speciality taxonomy 3",
+      "product_count": 66
+    },
+    {
+      "id": "6822eeebed32000001e25a56",
+      "name": "Milk Based Drinks",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/11/da13ca0d-4680-48ca-8f28-6728295ba436_3c1cd2d5-d789-4347-95f6-924c0fda8bfc",
+      "type": "Speciality taxonomy 3",
+      "product_count": 300
+    },
+    {
+      "id": "6838268a45a39b000196b340",
+      "name": "Cold Coffee",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/7/11f85461-5398-4146-aa00-b892450c58de_42e3727c-3d3c-424c-aad1-445e323e961f",
+      "type": "Speciality taxonomy 3",
+      "product_count": 60
+    }
+  ]
+}

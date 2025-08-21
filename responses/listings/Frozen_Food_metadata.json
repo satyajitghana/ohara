@@ -1,0 +1,143 @@
+{
+  "categories": [
+    {
+      "id": "6822eeebed32000001e25a46",
+      "display_name": "Cold Drinks and Juices",
+      "product_count": 1960,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/ba386d44-a570-47cb-9b7d-9c02554b06ef_3977c023-7f0f-45f0-aea5-11bc873a5546",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a57",
+      "display_name": "Ice Creams and Frozen Desserts",
+      "product_count": 1084,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/4fe55f10-32b9-4762-8d41-be76ea7f67a8_cc703675-e18b-4331-9617-db8a881f0ab2",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a62",
+      "display_name": "Chips and Namkeens",
+      "product_count": 4163,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/70be19a4-dc51-4ab3-969b-65736cd2cdf6_c0031c9c-5f6e-422c-a84b-1428e1787d28",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a70",
+      "display_name": "Chocolates",
+      "product_count": 1285,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/a5c36315-21b0-4dd9-8afc-80210e95df0c_77305056-9bb7-47a4-822d-6ee188bd00f6",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a7c",
+      "display_name": "Noodles, Pasta, Vermicelli",
+      "product_count": 987,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/da9542e9-0c6b-4fc3-bd65-422ab537a4aa_ac5adc39-bf55-492f-94d4-1c0ac65dea46",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a87",
+      "display_name": "Frozen Food",
+      "product_count": 742,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/7e355480-0793-4ac0-a0d7-ca7236109bf7_6bf77c55-7d76-4a96-ab88-9d0690dbd822",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a90",
+      "display_name": "Sweets",
+      "product_count": 360,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/f028cb2e-9593-48c0-95c5-86af909d7198_5ef3e945-a61d-4487-a50f-f5e341b1eee4",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a98",
+      "display_name": "Paan Corner",
+      "product_count": 602,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/9cd93ba2-f843-4b57-9c08-56b9a78bcd50_b45772ad-2905-4b44-9c02-fbcbe43bc67a",
+      "age_consent_required": true
+    }
+  ],
+  "selected_category": {
+    "id": "6822eeebed32000001e25a87",
+    "name": "Frozen Food"
+  },
+  "filters": [
+    {
+      "id": "6878ca7165553e00015806d1",
+      "name": "Top Deals",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/19/6e82fb5f-c76b-4e52-a0ed-9091db3dffc7_39edba76-be69-4f5d-b2b8-81726d784c56",
+      "type": "Speciality taxonomy 3",
+      "product_count": 60
+    },
+    {
+      "id": "6822eeebed32000001e25a88",
+      "name": "Veg Frozen Snacks",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/8df749d8-c167-4e00-87b8-e2736570dc6b_3a256bb5-97f7-476f-8636-a29788374e5c",
+      "type": "Speciality taxonomy 3",
+      "product_count": 146
+    },
+    {
+      "id": "6822eeebed32000001e25a89",
+      "name": "Non Veg Frozen Snacks",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/3383ffb2-5ea8-41d8-a4a1-7d8c82430a01_3a119208-c960-43a2-8fb4-f15534e241ca",
+      "type": "Speciality taxonomy 3",
+      "product_count": 126
+    },
+    {
+      "id": "6822eeebed32000001e25a8a",
+      "name": "Cold Cuts",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/88d87ceb-de4c-4c8e-a1ff-5fa13f4ac080_a2a0d422-0a16-4f7c-a97e-ba3786cb3eb9",
+      "type": "Speciality taxonomy 3",
+      "product_count": 61
+    },
+    {
+      "id": "6822eeebed32000001e25a8b",
+      "name": "Kebabs",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/16/414edd0b-f169-4ed1-986b-f4ca3d1f792f_f5c8cb6d-51b9-41d0-92f2-04cf6b63737c",
+      "type": "Speciality taxonomy 3",
+      "product_count": 19
+    },
+    {
+      "id": "6889d4c294e0930001900068",
+      "name": "Seafood",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/30/720d524c-09fa-4c07-90e8-4b330ae65794_e1f278e4-2aef-4d72-a9d2-3dc0cf7f831f",
+      "type": "Speciality taxonomy 3",
+      "product_count": 16
+    },
+    {
+      "id": "6889d4c294e0930001900069",
+      "name": "Raw Frozen",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/30/7acd30a0-4bd5-4976-b602-a6b16bf641f3_4aea7223-4aa4-45c5-b538-171d9da46e08",
+      "type": "Speciality taxonomy 3",
+      "product_count": 23
+    },
+    {
+      "id": "6822eeebed32000001e25a8d",
+      "name": "Newly Added",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/68d7e7ef-eb28-4332-b6b7-870519454f6a_b8cf1cb8-410c-4654-b53b-18ffaa7bd416",
+      "type": "Speciality taxonomy 3",
+      "product_count": 74
+    },
+    {
+      "id": "6822eeebed32000001e25a8c",
+      "name": "Roti, Paranthas & Sheets",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/1ebaedef-10d3-4c7c-a426-856aab874fac_bfa32024-1bbe-4325-8058-4aa86252c6d4",
+      "type": "Speciality taxonomy 3",
+      "product_count": 59
+    },
+    {
+      "id": "6822eeebed32000001e25a8e",
+      "name": "Frozen Vegetables",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/55133af6-f945-4342-9c68-a8c059de3ce7_c311988c-bc45-4bb2-8b98-dd690a960025",
+      "type": "Speciality taxonomy 3",
+      "product_count": 36
+    },
+    {
+      "id": "6822eeebed32000001e25a8f",
+      "name": "Momos & Baos",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/654cfc79-cc23-4925-a725-efa21b6beb4c_c912667a-0d80-4e57-8385-cce18f016110",
+      "type": "Speciality taxonomy 3",
+      "product_count": 122
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "categories": [
+    {
+      "id": "6822eeefed32000001e25b4b",
+      "display_name": "Bath and Body",
+      "product_count": 1622,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/062ce6fe-c90e-4017-831b-c931f11b2c24_c5520d03-1113-4832-a1ed-a119cdfa2902",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b59",
+      "display_name": "Hair Care",
+      "product_count": 1033,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/7dd2200a-cb1c-41d9-b1e8-46f38473553c_159a7f53-ba98-4d60-850a-4c6190902c57",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b62",
+      "display_name": "Skincare",
+      "product_count": 1184,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/742eda61-6595-416f-9053-a22333a0ff94_2bbb3337-9f69-4f9d-ae1b-b306e3e53e86",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b6a",
+      "display_name": "Makeup",
+      "product_count": 1024,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/693e91dc-ce1a-4dee-9646-ee3b90eabff7_5faab24b-46ab-41f7-ae12-4d29c6dedb76",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b71",
+      "display_name": "Oral Care",
+      "product_count": 247,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/9fcdb58a-f84e-4a63-94dd-2d85dc0288c2_a326cf61-577b-44c5-a296-1c9f4898df40",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b79",
+      "display_name": "Grooming",
+      "product_count": 359,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/ac9c2e1b-1791-40ec-bd2f-b0036a737f34_9a79e7e7-799e-4d9b-b043-c6a2e8fe76cb",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b89",
+      "display_name": "Baby Care",
+      "product_count": 814,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/ed3380cf-9912-4eb9-9127-3745d77973eb_a6944c2b-75b9-44f2-9697-517615d7af62",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b9a",
+      "display_name": "Fragrances",
+      "product_count": 482,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/2840ac14-2e8d-4424-841b-0a3625359b29_ce126c72-564e-40b2-9ee3-925f7ad0d037",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25ba2",
+      "display_name": "Protein and Supplements",
+      "product_count": 620,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/b86a895c-e4e8-4653-bda9-633e953e64fc_34e3a030-9ae0-4be4-bf29-664dbe9416a7",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25baf",
+      "display_name": "Feminine Hygiene",
+      "product_count": 465,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/408f229e-01c6-4afd-929b-0ace3ccd8bc4_70ce3354-bfd7-4b03-9972-238d77503f24",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25bb7",
+      "display_name": "Sexual Wellness",
+      "product_count": 316,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/dd818ead-6ea9-4c81-a133-2e1a446a98a3_9c80e128-d615-42a0-b7d7-70ac0687408e",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25bbf",
+      "display_name": "Health and Pharma",
+      "product_count": 922,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/a234c550-ec96-4130-a7ed-ae067ac82e33_d7161c27-69fd-405a-a691-8d01d9ddb375",
+      "age_consent_required": false
+    }
+  ],
+  "selected_category": {
+    "id": "6822eeefed32000001e25b89",
+    "name": "Baby Care"
+  },
+  "filters": [
+    {
+      "id": "687a0b88031e8f00014f1edf",
+      "name": "Top Deals",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/19/6e82fb5f-c76b-4e52-a0ed-9091db3dffc7_39edba76-be69-4f5d-b2b8-81726d784c56",
+      "type": "Supermarket",
+      "product_count": 121
+    },
+    {
+      "id": "6822eeefed32000001e25b8a",
+      "name": "Baby Diapers",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/e2da1990-e8a6-464e-8640-f522bd86dc40_d9102eae-6495-4df3-9f0f-24ce2ea4c6a4",
+      "type": "Supermarket",
+      "product_count": 193
+    },
+    {
+      "id": "6822eeefed32000001e25b8b",
+      "name": "Baby Food and Formula",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/5/28/537a025f-8044-4603-a086-6f52e08b9b80_4bfd589c-4933-447a-b5d0-fb1572f05e17",
+      "type": "Supermarket",
+      "product_count": 91
+    },
+    {
+      "id": "6822eeefed32000001e25b8c",
+      "name": "Baby Bathing",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/bc192d44-9857-42f7-a179-549f6b819bf0_99bb79e6-6203-430c-86d2-cff507d0c62e",
+      "type": "Supermarket",
+      "product_count": 73
+    },
+    {
+      "id": "6822eeefed32000001e25b8d",
+      "name": "Baby Wipes",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/7d927e3b-24c5-4645-9f52-f856a630147b_bd71344a-9a0e-4b8e-94e2-9fa3763f6611",
+      "type": "Supermarket",
+      "product_count": 27
+    },
+    {
+      "id": "6822eeefed32000001e25b8f",
+      "name": "Newly Added",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/68d7e7ef-eb28-4332-b6b7-870519454f6a_b8cf1cb8-410c-4654-b53b-18ffaa7bd416",
+      "type": "Supermarket",
+      "product_count": 112
+    },
+    {
+      "id": "6822eeefed32000001e25b8e",
+      "name": "Baby Cream & Lotions",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/3/12/e7322109-3c6c-42b1-b053-cd33b36cd2a1_df5db2b0-47eb-4778-84ae-ef1bae68725c",
+      "type": "Supermarket",
+      "product_count": 42
+    },
+    {
+      "id": "6822eeefed32000001e25b90",
+      "name": "Baby Oral Care",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/31e02c58-eb7c-4e30-a93d-a05abd181d1c_993e0552-3aff-4446-b602-d8f56f6f21bb",
+      "type": "Supermarket",
+      "product_count": 22
+    },
+    {
+      "id": "6822eeefed32000001e25b91",
+      "name": "Baby Oil and Talc",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/9986a163-644c-46a1-a24f-a76b8aaa86fb_7ee23983-fde8-4548-9bab-5ded8e6982ab",
+      "type": "Supermarket",
+      "product_count": 23
+    },
+    {
+      "id": "6822eeefed32000001e25b92",
+      "name": "Baby Pharma",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/5/23/3b7509f5-3313-46c0-bf41-1ba55ea261ff_9a65c1fc-d5e1-444b-9239-b710fb5a4e11",
+      "type": "Supermarket",
+      "product_count": 20
+    },
+    {
+      "id": "6822eeefed32000001e25b93",
+      "name": "Feeding and Teething Needs",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/df9b7b02-9c47-4c42-b6f3-faf36d497eca_a3adfbdc-969a-497f-bda3-0832634fdcaa",
+      "type": "Supermarket",
+      "product_count": 21
+    },
+    {
+      "id": "6822eeefed32000001e25b94",
+      "name": "Books and Toys",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/67b2508d-fe39-44b0-94e1-c422a65976a7_cd4e46b4-74e0-4867-bb9d-f943f93cadeb",
+      "type": "Supermarket",
+      "product_count": 14
+    },
+    {
+      "id": "6822eeefed32000001e25b95",
+      "name": "Baby Hygiene",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/1/690280c5-5e45-4fe8-a503-4f3e64fff377_f7e9a08e-afdb-44c9-b8a4-fac58c05e50d",
+      "type": "Supermarket",
+      "product_count": 25
+    },
+    {
+      "id": "6822eeefed32000001e25b96",
+      "name": "Clothes & Accessories",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/1/b37ee2de-067e-4091-8ca5-8fbdb06db360_d026e01a-88ab-4c59-8a17-8594ccacd462",
+      "type": "Supermarket",
+      "product_count": 2
+    },
+    {
+      "id": "6822eeefed32000001e25b97",
+      "name": "Gifts & More",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/1/55cb97dd-b078-4523-a764-510c59d8ecd0_2f68adb5-d604-4a65-8d85-821ea045b016",
+      "type": "Supermarket",
+      "product_count": 18
+    },
+    {
+      "id": "6822eeefed32000001e25b98",
+      "name": "Mom Care",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/13/cdf3d9de-a96a-42b3-aaa4-2bcfe5853882_68889984-3b84-45dd-a645-10da5f611f88",
+      "type": "Supermarket",
+      "product_count": 6
+    },
+    {
+      "id": "6822eeefed32000001e25b99",
+      "name": "Travel Needs & Baby Gears",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/1/89a4cb03-873a-4e68-b7fa-deb481a534f9_a845175d-5077-4f4e-bdae-fa1592cc081c",
+      "type": "Supermarket",
+      "product_count": 4
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "categories": [
+    {
+      "id": "6822eef009ab2e00019aa5e2",
+      "display_name": "Home and Furnishing",
+      "product_count": 2318,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/c34ad44b-5b83-4b51-a254-f472c175fd4e_4a8b97f3-6a60-4404-a0ec-93eb72db73e1",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa5f3",
+      "display_name": "Kitchen and Dining",
+      "product_count": 868,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/c416dbf8-210d-480e-94ca-805ddb720a77_925991fe-2da3-49b0-b0d1-3d29a07174d2",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa601",
+      "display_name": "Cleaning Essentials",
+      "product_count": 1202,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/6976d426-ca5f-4071-8ae2-ab684888645a_e83f0668-cdd1-40f7-950c-11f51b43f351",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa614",
+      "display_name": "Clothing",
+      "product_count": 150,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/11bdd409-0389-4572-9d4b-06d3235c7aaf_7434539d-4963-49d6-8234-3a85d1d7ec76",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa621",
+      "display_name": "Mobiles and Electronics ",
+      "product_count": 871,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/dd815b3d-ce43-454a-aef0-846a8fca399c_4ce8b093-a81e-484b-a35c-6ca079145ac8",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa630",
+      "display_name": "Appliances",
+      "product_count": 238,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/ae055b85-221c-42dc-87cb-efae5e048e9a_8f020cc6-fea1-4a9c-9235-7cec4b0206b2",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa63f",
+      "display_name": "Books and Stationery",
+      "product_count": 424,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/fa971c1e-4344-41a4-85e5-10d921df0818_13beb56f-0d66-403d-839f-eb63fdf25a83",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa649",
+      "display_name": "Jewellery and Accessories",
+      "product_count": 293,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/1e2fd208-7180-46bc-954f-db70777eba12_556f0a21-db31-41f3-bcc0-c48a33e1afd6",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa65d",
+      "display_name": "Puja",
+      "product_count": 867,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/3accc5d4-38b2-4487-b3b5-5891bf4806ea_a9c87ee0-3dbb-4cb3-9ee2-a4b421823f45",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa670",
+      "display_name": "Toys and Games",
+      "product_count": 509,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/26e9ad5c-4299-42a1-8536-c72dfdf419c0_be8dbebf-8cff-4118-9e81-6085959c39b0",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa67f",
+      "display_name": "Sports and Fitness",
+      "product_count": 173,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/65126402-7605-4caf-974e-4acc8514fb41_6660a2f1-7912-4432-b9dd-90a23fa99b6b",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa68e",
+      "display_name": "Pet Supplies",
+      "product_count": 468,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/f00fffd7-11da-402f-bf95-17b07b8c0fda_5745df60-e848-427e-af64-abb9a91d6949",
+      "age_consent_required": false
+    }
+  ],
+  "selected_category": {
+    "id": "6822eef009ab2e00019aa67f",
+    "name": "Sports and Fitness"
+  },
+  "filters": [
+    {
+      "id": "6822eef009ab2e00019aa680",
+      "name": "Badminton, Squash, Lawn Tennis & Table Tennis",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/e3531ce3-7c0a-4079-bc04-4268e4665e6e_8c60aed9-ee29-474a-a5f6-5dca23807497",
+      "type": "Health and Wellness Stores",
+      "product_count": 25
+    },
+    {
+      "id": "6822eef009ab2e00019aa681",
+      "name": "Cricket",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/29b1f516-ac72-4549-8121-13ab2ee49319_7cd21d20-d192-419f-918b-755102f19076",
+      "type": "Health and Wellness Stores",
+      "product_count": 16
+    },
+    {
+      "id": "6822eef009ab2e00019aa682",
+      "name": "Basketball, Football & Volleyball",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/816a2206-e985-42a9-b30f-60755cb134ec_d21a74ec-5d4d-4fc5-b520-aba52bba6200",
+      "type": "Health and Wellness Stores",
+      "product_count": 8
+    },
+    {
+      "id": "6822eef009ab2e00019aa683",
+      "name": "Gym Accessories",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/6b9f1c3a-9df9-4926-90b4-b28decf22db4_ef6d023f-dd16-4187-b305-a9719e23928e",
+      "type": "Health and Wellness Stores",
+      "product_count": 31
+    },
+    {
+      "id": "6822eef009ab2e00019aa684",
+      "name": "Gym & Sports Supports",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/99cb8cc4-ad7d-4bca-941d-4b366f7973f5_24fc585f-2e11-4672-b655-298b11903cb5",
+      "type": "Health and Wellness Stores",
+      "product_count": 10
+    },
+    {
+      "id": "683ec01dfc89680001bc3730",
+      "name": "Newly Added",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/68d7e7ef-eb28-4332-b6b7-870519454f6a_b8cf1cb8-410c-4654-b53b-18ffaa7bd416",
+      "type": "Health and Wellness Stores",
+      "product_count": 23
+    },
+    {
+      "id": "6822eef009ab2e00019aa685",
+      "name": "Yoga & Meditation",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/4c74df96-cc14-4eb4-b8ec-911fa9c6a798_43e6eaef-7ab7-4a12-b309-ca63eaafb3a5",
+      "type": "Health and Wellness Stores",
+      "product_count": 11
+    },
+    {
+      "id": "6822eef009ab2e00019aa687",
+      "name": "Pain and Wound Management",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/dd91deae-54be-48a7-8636-b400cffd894f_554c19fb-448f-4a47-83fa-e3e1b5d9c038",
+      "type": "Health and Wellness Stores",
+      "product_count": 13
+    },
+    {
+      "id": "6822eef009ab2e00019aa688",
+      "name": "Outdoor Kids Toys",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/25/d7f6da35-95b6-4deb-b935-f802f87e9270_a69518a4-fc6d-44bb-b377-3a0ebedae623",
+      "type": "Health and Wellness Stores",
+      "product_count": 1
+    },
+    {
+      "id": "6822eef009ab2e00019aa689",
+      "name": "Outdoor Plastic Toys",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/25/e87f5158-5421-4826-b375-249907ddb716_0231cf3f-edf7-4701-a739-c6b859e0cf40",
+      "type": "Health and Wellness Stores",
+      "product_count": 8
+    },
+    {
+      "id": "6822eef009ab2e00019aa68a",
+      "name": "Chess, Carrom, Darts",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/babe580d-3383-45a3-88b2-36bcf01f67e0_2023e9cd-547b-4379-9bf2-f07a4b5df6fc",
+      "type": "Health and Wellness Stores",
+      "product_count": 3
+    },
+    {
+      "id": "6822eef009ab2e00019aa68b",
+      "name": "Cycling, Skating & Others",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/44c4aaf2-d48b-4f33-892c-0b29b8641e9c_47e0967d-1f92-4bc4-ac49-ac41cb252a00",
+      "type": "Health and Wellness Stores",
+      "product_count": 16
+    },
+    {
+      "id": "6822eef009ab2e00019aa68c",
+      "name": "Table Tennis",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/25/4cb8c207-779b-42f1-83d4-3614410af91d_de385fe2-f6ed-4b6c-b44e-6571f9b36e7a",
+      "type": "Health and Wellness Stores",
+      "product_count": 7
+    },
+    {
+      "id": "6822eef009ab2e00019aa68d",
+      "name": "Pickle Ball",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/25/b8957aa5-5cd3-4378-90b0-1c15e7c1fd12_eb7a3800-2660-43e0-a3a2-b2b6ba0e4111",
+      "type": "Health and Wellness Stores",
+      "product_count": 1
+    }
+  ]
+}

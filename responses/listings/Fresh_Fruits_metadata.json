@@ -1,0 +1,178 @@
+{
+  "categories": [
+    {
+      "id": "6822eeeded32000001e25aa1",
+      "display_name": "Fresh Vegetables",
+      "product_count": 582,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/e9395c2f-a316-4899-8a05-c08afa34de5a_9ada60fa-2794-45d7-b780-50015de09230",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25aae",
+      "display_name": "Fresh Fruits",
+      "product_count": 567,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/7e47a6e7-f40d-457f-9b46-fa23e3e015d6_3954cc97-e485-4725-b595-3a6e7029211f",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25abb",
+      "display_name": "Dairy, Bread and Eggs",
+      "product_count": 1319,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/a8042459-6e03-40b7-88e6-5d7acb437880_1f641338-2306-4841-97aa-cb65b497d132",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25aca",
+      "display_name": "Cereals and Breakfast",
+      "product_count": 1758,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/1f081643-e392-4585-a8e7-04ace4ace1ef_2e314d6c-ed11-49af-8927-e3eadde4dbad",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25add",
+      "display_name": "Atta, Rice and Dal",
+      "product_count": 1225,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/fe25fe8b-a26f-49dc-af50-c748fff09475_165b10b8-00b7-4837-a27e-6399a3c99c29",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25aec",
+      "display_name": "Oils and Ghee",
+      "product_count": 810,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/b5e07c24-ed2b-4101-a87d-aeed35b4e2e7_30d06ae8-5347-4961-8d68-02b189159321",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25af9",
+      "display_name": "Masalas",
+      "product_count": 1218,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/5fb9f911-93e8-47d2-afd3-a9c876bbffe2_f00a60a1-de42-4132-808e-dc1136c27bac",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b06",
+      "display_name": "Dry Fruits and Seeds Mix",
+      "product_count": 917,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/49c9852b-967f-40ef-8ff1-6c28a4282c65_9dcb6679-51f7-45ae-a367-eb056a8713e2",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b13",
+      "display_name": "Biscuits and Cakes",
+      "product_count": 1201,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/93e396cf-71df-4ed3-9015-af13fa3c9081_ccdcba8a-aa86-4ff9-9229-ed8f6c53cac0",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b24",
+      "display_name": "Tea, Coffee and Milk drinks",
+      "product_count": 1231,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/c54610b9-868e-4fdd-83d5-4d723ee93261_d0ee1b6c-dd6a-45fc-8f99-929a56764014",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b31",
+      "display_name": "Sauces and Spreads",
+      "product_count": 584,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/49f512f4-5613-45af-bbd4-2eaa13906240_a026b538-95c9-4060-8cd0-0f44e0c2742f",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b3c",
+      "display_name": "Meat and Seafood",
+      "product_count": 692,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/774ad667-efe6-4145-ad58-3362632508fd_b8600286-4ff0-45bf-bfc6-45f4098cec35",
+      "age_consent_required": false
+    }
+  ],
+  "selected_category": {
+    "id": "6822eeeded32000001e25aae",
+    "name": "Fresh Fruits"
+  },
+  "filters": [
+    {
+      "id": "6822eeeded32000001e25aaf",
+      "name": "Fresh Fruits",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/19/f369d6d4-49c6-4f57-a801-dfe3d0f3073b_057f4b62-a4b2-4c82-80b2-fbc20d06387a",
+      "type": "Speciality taxonomy 1",
+      "product_count": 84
+    },
+    {
+      "id": "6822eeeded32000001e25ab0",
+      "name": "Seasonal Fruits",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/31/e145ae5c-bbb4-48dc-9f74-f6e97797a70f_7c202265-3074-4fb5-8298-8f4903e4ad02",
+      "type": "Speciality taxonomy 1",
+      "product_count": 17
+    },
+    {
+      "id": "6822eeeded32000001e25ab1",
+      "name": "Exotic Fruits",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/5/14/e9baeaed-9583-4ef2-8d1a-675282f1a35b_a9dc3683-c0e0-4b71-bb97-7e71da9e7744",
+      "type": "Speciality taxonomy 1",
+      "product_count": 44
+    },
+    {
+      "id": "6822eeeded32000001e25ab2",
+      "name": "Cut Fruits and Juices",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/19/1a650bf3-bd22-49c9-a77f-e23ba0b598b5_b22f5453-8374-40f6-840a-2ba00b46e881",
+      "type": "Speciality taxonomy 1",
+      "product_count": 39
+    },
+    {
+      "id": "6822eeeded32000001e25ab3",
+      "name": "Pooja & Festive",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/19/15b9ed6a-7961-453d-9e19-61001e78666a_b9a24a86-77e1-49e2-892e-305a2a45b25a",
+      "type": "Speciality taxonomy 1",
+      "product_count": 46
+    },
+    {
+      "id": "6822eeeded32000001e25ab4",
+      "name": "Bouquet & Plants",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/19/609e1e73-ef28-4d72-bdec-139e414d40e1_3a95431a-6c61-4b42-95b2-965640f7600b",
+      "type": "Speciality taxonomy 1",
+      "product_count": 22
+    },
+    {
+      "id": "6822eeeded32000001e25ab5",
+      "name": "Combos",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/19/292cee7c-d800-4171-aa01-4de71a1d144e_e7513aae-2462-4834-8c24-4f4e6cd897ba",
+      "type": "Speciality taxonomy 1",
+      "product_count": 42
+    },
+    {
+      "id": "6822eeeded32000001e25ab6",
+      "name": "Certified Organics",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/8/16/f8aca2f6-4317-4eb5-9b96-8cd5fb4fd616_Certifiedorganic.png",
+      "type": "Speciality taxonomy 1",
+      "product_count": 46
+    },
+    {
+      "id": "6822eeeded32000001e25ab7",
+      "name": "Exotic Vegetables",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/19/4ee251e0-82ba-470e-a5c1-29660f5ca2cd_10165714-d5c1-4e05-b29a-d1598937f73b",
+      "type": "Speciality taxonomy 1",
+      "product_count": 45
+    },
+    {
+      "id": "6822eeeded32000001e25ab8",
+      "name": "Fresh Vegetables",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/1/ab23eff7-836b-47ea-9700-d86e55a114bb_63646b55-8a3f-4737-9aaa-d1bb77f3aa34",
+      "type": "Speciality taxonomy 1",
+      "product_count": 88
+    },
+    {
+      "id": "6822eeeded32000001e25ab9",
+      "name": "Leafy and Seasonings",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/19/30b88794-29ec-4c4a-a983-1e9c7b75bde3_0496956a-6096-4027-842b-7505f9bd3196",
+      "type": "Speciality taxonomy 1",
+      "product_count": 62
+    },
+    {
+      "id": "6822eeeded32000001e25aba",
+      "name": "Cuts & sprouts",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/19/03b3be59-51bc-4127-9cea-8179017f68d5_4420c246-b05a-413a-8494-deeb470112c7",
+      "type": "Speciality taxonomy 1",
+      "product_count": 32
+    }
+  ]
+}

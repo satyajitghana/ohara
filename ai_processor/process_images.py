@@ -109,10 +109,10 @@ def main():
         # Setup client
         client = setup_gemini_client(api_key)
         
-        # Get base path
-        base_path = Path(directories['scraped_data'])
+        # Get base path for the new swiggy listings directory
+        base_path = Path(directories['scraped_data']) / "swiggy" / "listings"
         if not base_path.exists():
-            print_error(f"Scraped data directory not found: {base_path}")
+            print_error(f"Scraped data listings directory not found: {base_path}")
             return
         
         # For single processing, let's process the first brand with variations

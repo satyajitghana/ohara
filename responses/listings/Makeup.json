@@ -1,93 +1,5 @@
 [
   {
-    "display_name": "KIRO Multicolour 4 in1 Lipstick (Liquid, Full Coverage, Matte)",
-    "brand": "KIRO",
-    "brand_id": "033b5bf92e9125319c185a8b9d0ffdb17a5eeba2",
-    "product_id": "YK6EQHDI7S",
-    "variations": [
-      {
-        "id": "4VZKIQB848",
-        "display_name": "KIRO Multicolour 4 in1 Lipstick (Liquid, Full Coverage, Matte)",
-        "price": {
-          "mrp": 1175,
-          "store_price": 1175,
-          "offer_price": 940,
-          "unit_level_price": "",
-          "discount_value": 235
-        },
-        "brand": "KIRO",
-        "brand_id": "033b5bf92e9125319c185a8b9d0ffdb17a5eeba2",
-        "category": "Lip Makeup",
-        "super_category": "Makeup",
-        "sub_category_l3": "Lipsticks",
-        "sub_category_l4": "Liquid Lipstick",
-        "sub_category_l5": "Single",
-        "product_name_without_brand": "Multicolour 4 in1 Lipstick (Liquid, Full Coverage, Matte)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/9/3/c67389fd-902c-4583-9d1c-0fad76772042_194529_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/3/4a55e1b2-30ed-4885-a3e5-ef18822b0020_194529_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/3/fb67f2bc-b458-4e81-b822-7c81448992db_194529_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/3/efb7c126-e63c-4e85-a5cb-d2055580c551_194529_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/3/b5f7a6aa-12a1-468a-a9d0-b5e8ec76fe92_194529_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/3/22305017-6915-415f-baf6-f58436f90c16_194529_6.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/3/8ab45a58-e3f8-4f9e-9a24-d392ecabc3f4_194529_7.png"
-        ],
-        "images_v2": [],
-        "quantity": "6",
-        "sku_quantity_with_combo": "6 ml",
-        "unit_of_measure": "ml",
-        "weight_in_grams": 6,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "KIRO Multicolour Wand Multi-Stick",
-    "brand": "KIRO",
-    "brand_id": "033b5bf92e9125319c185a8b9d0ffdb17a5eeba2",
-    "product_id": "HB4Z6MHAFC",
-    "variations": [
-      {
-        "id": "38AKNXTDDX",
-        "display_name": "KIRO Multicolour Wand Multi-Stick",
-        "price": {
-          "mrp": 850,
-          "store_price": 850,
-          "offer_price": 680,
-          "unit_level_price": "",
-          "discount_value": 170
-        },
-        "brand": "KIRO",
-        "brand_id": "033b5bf92e9125319c185a8b9d0ffdb17a5eeba2",
-        "category": "Face Makeup",
-        "super_category": "Makeup",
-        "sub_category_l3": "Blush",
-        "sub_category_l4": "Cream",
-        "sub_category_l5": "Single",
-        "product_name_without_brand": "Multicolour Wand Multi-Stick",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/9/3/565b6ab1-e90e-44e3-9a2f-b4d75af4d99c_769519_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/3/c57a5c99-9c28-40d1-b554-be2bf031f36f_769519_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/3/101784ca-688b-4d90-a98b-8655fad14b70_769519_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/3/435e77a0-cf67-42ef-b45b-8d6e6532ceac_769519_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/3/b0e9bc13-a18f-4214-975a-42ac45aadf20_769519_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/3/655ba4f7-62d9-45d3-8211-7a47dcaf21e3_769519_6.png",
-          "NI_CATALOG/IMAGES/CIW/2024/9/3/1ebe08d5-2a80-4b47-ac15-d2bb12fe4b4d_769519_7.png"
-        ],
-        "images_v2": [],
-        "quantity": "7.5",
-        "sku_quantity_with_combo": "7.5 ml",
-        "unit_of_measure": "ml",
-        "weight_in_grams": 0,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
     "display_name": "KIRO Pink Funfetti Lip & Cheek Oil",
     "brand": "KIRO",
     "brand_id": "033b5bf92e9125319c185a8b9d0ffdb17a5eeba2",
@@ -128,7 +40,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeefed32000001e25b6a",
+        "name": "Makeup"
+      },
+      "category_name_from_url": "Makeup"
+    }
   },
   {
     "display_name": "KIRO 4 in 1 Lipstick Supreme Quad (Liquid, Full Coverage, Matte)",
@@ -172,7 +91,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeefed32000001e25b6a",
+        "name": "Makeup"
+      },
+      "category_name_from_url": "Makeup"
+    }
   },
   {
     "display_name": "KIRO Nutmeg Nude Lipstick (Liquid, Full Coverage, Matte)",
@@ -215,7 +141,116 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeefed32000001e25b6a",
+        "name": "Makeup"
+      },
+      "category_name_from_url": "Makeup"
+    }
+  },
+  {
+    "display_name": "KIRO Multicolour 4 in1 Lipstick (Liquid, Full Coverage, Matte)",
+    "brand": "KIRO",
+    "brand_id": "033b5bf92e9125319c185a8b9d0ffdb17a5eeba2",
+    "product_id": "YK6EQHDI7S",
+    "variations": [
+      {
+        "id": "4VZKIQB848",
+        "display_name": "KIRO Multicolour 4 in1 Lipstick (Liquid, Full Coverage, Matte)",
+        "price": {
+          "mrp": 1175,
+          "store_price": 1175,
+          "offer_price": 940,
+          "unit_level_price": "",
+          "discount_value": 235
+        },
+        "brand": "KIRO",
+        "brand_id": "033b5bf92e9125319c185a8b9d0ffdb17a5eeba2",
+        "category": "Lip Makeup",
+        "super_category": "Makeup",
+        "sub_category_l3": "Lipsticks",
+        "sub_category_l4": "Liquid Lipstick",
+        "sub_category_l5": "Single",
+        "product_name_without_brand": "Multicolour 4 in1 Lipstick (Liquid, Full Coverage, Matte)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/3/c67389fd-902c-4583-9d1c-0fad76772042_194529_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/3/4a55e1b2-30ed-4885-a3e5-ef18822b0020_194529_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/3/fb67f2bc-b458-4e81-b822-7c81448992db_194529_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/3/efb7c126-e63c-4e85-a5cb-d2055580c551_194529_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/3/b5f7a6aa-12a1-468a-a9d0-b5e8ec76fe92_194529_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/3/22305017-6915-415f-baf6-f58436f90c16_194529_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/3/8ab45a58-e3f8-4f9e-9a24-d392ecabc3f4_194529_7.png"
+        ],
+        "images_v2": [],
+        "quantity": "6",
+        "sku_quantity_with_combo": "6 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 6,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeefed32000001e25b6a",
+        "name": "Makeup"
+      },
+      "category_name_from_url": "Makeup"
+    }
+  },
+  {
+    "display_name": "KIRO Multicolour Wand Multi-Stick",
+    "brand": "KIRO",
+    "brand_id": "033b5bf92e9125319c185a8b9d0ffdb17a5eeba2",
+    "product_id": "HB4Z6MHAFC",
+    "variations": [
+      {
+        "id": "38AKNXTDDX",
+        "display_name": "KIRO Multicolour Wand Multi-Stick",
+        "price": {
+          "mrp": 850,
+          "store_price": 850,
+          "offer_price": 680,
+          "unit_level_price": "",
+          "discount_value": 170
+        },
+        "brand": "KIRO",
+        "brand_id": "033b5bf92e9125319c185a8b9d0ffdb17a5eeba2",
+        "category": "Face Makeup",
+        "super_category": "Makeup",
+        "sub_category_l3": "Blush",
+        "sub_category_l4": "Cream",
+        "sub_category_l5": "Single",
+        "product_name_without_brand": "Multicolour Wand Multi-Stick",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/3/565b6ab1-e90e-44e3-9a2f-b4d75af4d99c_769519_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/3/c57a5c99-9c28-40d1-b554-be2bf031f36f_769519_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/3/101784ca-688b-4d90-a98b-8655fad14b70_769519_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/3/435e77a0-cf67-42ef-b45b-8d6e6532ceac_769519_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/3/b0e9bc13-a18f-4214-975a-42ac45aadf20_769519_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/3/655ba4f7-62d9-45d3-8211-7a47dcaf21e3_769519_6.png",
+          "NI_CATALOG/IMAGES/CIW/2024/9/3/1ebe08d5-2a80-4b47-ac15-d2bb12fe4b4d_769519_7.png"
+        ],
+        "images_v2": [],
+        "quantity": "7.5",
+        "sku_quantity_with_combo": "7.5 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 0,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeefed32000001e25b6a",
+        "name": "Makeup"
+      },
+      "category_name_from_url": "Makeup"
+    }
   },
   {
     "display_name": "KIRO Brown Lipstick (Liquid, Full Coverage, Matte)",
@@ -258,6 +293,13 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeefed32000001e25b6a",
+        "name": "Makeup"
+      },
+      "category_name_from_url": "Makeup"
+    }
   }
 ]

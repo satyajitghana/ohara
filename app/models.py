@@ -119,7 +119,8 @@ class ProductBase(SQLModel):
     approx_serves_per_pack: Optional[int] = None
     
     # Image paths
-    image_paths: Optional[str] = None  # JSON string of image paths
+    image_paths: Optional[str] = None  # JSON string of actual file paths
+    catalog_images: Optional[str] = None  # JSON string of original catalog image names
 
 
 class Product(ProductBase, table=True):
@@ -241,3 +242,16 @@ class ProductListResponse(SQLModel):
     total: int
     limit: int
     offset: int
+
+
+class ImageInfo(SQLModel):
+    """Image information model."""
+    url: str
+    filename: str
+    catalog_name: Optional[str] = None
+
+
+class ProductImagesResponse(SQLModel):
+    """Product images response model."""
+    product_id: int
+    images: List[ImageInfo]

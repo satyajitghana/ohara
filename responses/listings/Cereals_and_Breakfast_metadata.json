@@ -1,0 +1,220 @@
+{
+  "categories": [
+    {
+      "id": "6822eeeded32000001e25aa1",
+      "display_name": "Fresh Vegetables",
+      "product_count": 582,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/e9395c2f-a316-4899-8a05-c08afa34de5a_9ada60fa-2794-45d7-b780-50015de09230",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25aae",
+      "display_name": "Fresh Fruits",
+      "product_count": 567,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/7e47a6e7-f40d-457f-9b46-fa23e3e015d6_3954cc97-e485-4725-b595-3a6e7029211f",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25abb",
+      "display_name": "Dairy, Bread and Eggs",
+      "product_count": 1319,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/a8042459-6e03-40b7-88e6-5d7acb437880_1f641338-2306-4841-97aa-cb65b497d132",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25aca",
+      "display_name": "Cereals and Breakfast",
+      "product_count": 1758,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/1f081643-e392-4585-a8e7-04ace4ace1ef_2e314d6c-ed11-49af-8927-e3eadde4dbad",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25add",
+      "display_name": "Atta, Rice and Dal",
+      "product_count": 1225,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/fe25fe8b-a26f-49dc-af50-c748fff09475_165b10b8-00b7-4837-a27e-6399a3c99c29",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25aec",
+      "display_name": "Oils and Ghee",
+      "product_count": 810,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/b5e07c24-ed2b-4101-a87d-aeed35b4e2e7_30d06ae8-5347-4961-8d68-02b189159321",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25af9",
+      "display_name": "Masalas",
+      "product_count": 1218,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/5fb9f911-93e8-47d2-afd3-a9c876bbffe2_f00a60a1-de42-4132-808e-dc1136c27bac",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b06",
+      "display_name": "Dry Fruits and Seeds Mix",
+      "product_count": 917,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/49c9852b-967f-40ef-8ff1-6c28a4282c65_9dcb6679-51f7-45ae-a367-eb056a8713e2",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b13",
+      "display_name": "Biscuits and Cakes",
+      "product_count": 1201,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/93e396cf-71df-4ed3-9015-af13fa3c9081_ccdcba8a-aa86-4ff9-9229-ed8f6c53cac0",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b24",
+      "display_name": "Tea, Coffee and Milk drinks",
+      "product_count": 1231,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/c54610b9-868e-4fdd-83d5-4d723ee93261_d0ee1b6c-dd6a-45fc-8f99-929a56764014",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b31",
+      "display_name": "Sauces and Spreads",
+      "product_count": 584,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/49f512f4-5613-45af-bbd4-2eaa13906240_a026b538-95c9-4060-8cd0-0f44e0c2742f",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b3c",
+      "display_name": "Meat and Seafood",
+      "product_count": 692,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/774ad667-efe6-4145-ad58-3362632508fd_b8600286-4ff0-45bf-bfc6-45f4098cec35",
+      "age_consent_required": false
+    }
+  ],
+  "selected_category": {
+    "id": "6822eeeded32000001e25aca",
+    "name": "Cereals and Breakfast"
+  },
+  "filters": [
+    {
+      "id": "6822eeeded32000001e25acb",
+      "name": "Crazy Deals",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/19/6e82fb5f-c76b-4e52-a0ed-9091db3dffc7_39edba76-be69-4f5d-b2b8-81726d784c56",
+      "type": "Speciality taxonomy 1",
+      "product_count": 76
+    },
+    {
+      "id": "6822eeeded32000001e25acc",
+      "name": "Muesli & Granola",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/b8182668-f246-4c7a-9d1f-5bc74e9ac438_bbc14e81-2aee-4f8b-aea8-734c6be07ffb",
+      "type": "Speciality taxonomy 1",
+      "product_count": 122
+    },
+    {
+      "id": "6822eeeded32000001e25acd",
+      "name": "Oats",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/e31caad8-1d4d-4caa-b39b-bbb7767edb21_0d8d6118-8fe8-467c-a626-c2ff6e5c22bf",
+      "type": "Speciality taxonomy 1",
+      "product_count": 91
+    },
+    {
+      "id": "6822eeeded32000001e25ace",
+      "name": "Kids Cereals",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/3/9/6f0b1b08-0f95-419b-bb9b-51850feacd28_3ab2c201-9768-4ad6-bbec-de87c95d123a",
+      "type": "Speciality taxonomy 1",
+      "product_count": 33
+    },
+    {
+      "id": "6822eeeded32000001e25acf",
+      "name": "Flakes",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/62ea11a3-9a15-4eb6-856d-84fd5cedf5c8_cd98ebf0-8021-4a3b-b62b-be9c3ad0d21b",
+      "type": "Speciality taxonomy 1",
+      "product_count": 21
+    },
+    {
+      "id": "6822eeeded32000001e25ad0",
+      "name": "Newly Added",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/68d7e7ef-eb28-4332-b6b7-870519454f6a_b8cf1cb8-410c-4654-b53b-18ffaa7bd416",
+      "type": "Speciality taxonomy 1",
+      "product_count": 100
+    },
+    {
+      "id": "6822eeeded32000001e25ad1",
+      "name": "Energy Bars",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/7/2/1f94576c-c0f6-4bde-b6fc-eeecce982881_79fe714e-a773-4488-967e-6bafce33c8e7",
+      "type": "Speciality taxonomy 1",
+      "product_count": 127
+    },
+    {
+      "id": "6822eeeded32000001e25ad2",
+      "name": "Ready Mixes",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/18/547cf775-d44c-46a9-a1c0-cc09af538ee3_af32c835-a053-474e-9814-1e89d567fe68",
+      "type": "Speciality taxonomy 1",
+      "product_count": 93
+    },
+    {
+      "id": "6822eeeded32000001e25ad3",
+      "name": "Pancake Mixes",
+      "image_id": "7de51067d513bcef6ab6224efb37b717",
+      "type": "Speciality taxonomy 1",
+      "product_count": 48
+    },
+    {
+      "id": "6822eeeded32000001e25ad4",
+      "name": "Peanut Butters",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/4a83b45a-4b4c-4cd7-b0c7-27dc4c5eab34_56180655-7497-43d8-8e47-abe3d1f67535",
+      "type": "Speciality taxonomy 1",
+      "product_count": 92
+    },
+    {
+      "id": "6822eeeded32000001e25ad5",
+      "name": "Chocolate Spreads",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/dfd900f4-51d9-4efd-868e-fba844f61285_386b8e26-2370-4675-813c-e33d773e4f42",
+      "type": "Speciality taxonomy 1",
+      "product_count": 26
+    },
+    {
+      "id": "6822eeeded32000001e25ad6",
+      "name": "Mayo & Spreads",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/3/11/87e7448b-0c60-409f-af69-9411278c5da7_89601a09-56f6-4f74-8fdf-53d516e5b899",
+      "type": "Speciality taxonomy 1",
+      "product_count": 41
+    },
+    {
+      "id": "6822eeeded32000001e25ad7",
+      "name": "Instant Oats",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/cf814bda-404b-46b6-8a36-56d27e153a56_73c580a2-f6ee-4ab4-93c8-aba474f186a0",
+      "type": "Speciality taxonomy 1",
+      "product_count": 91
+    },
+    {
+      "id": "6822eeeded32000001e25ad8",
+      "name": "Seeds and trail Mixes",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/15/a0852622-42ba-4786-a4c0-e29c82b334c3_f5edbd2d-6d4d-42d0-9b04-d269228cd080",
+      "type": "Speciality taxonomy 1",
+      "product_count": 70
+    },
+    {
+      "id": "6822eeeded32000001e25ad9",
+      "name": "Hot Beverages",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/5a268210-ca61-499e-84f9-618a94f35554_f33547ba-3df1-4a21-8b13-f841d107ed5a",
+      "type": "Speciality taxonomy 1",
+      "product_count": 425
+    },
+    {
+      "id": "6822eeeded32000001e25ada",
+      "name": "Juices & Fruit Drinks",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/c778ffa0-e14c-4aa7-99aa-dbceda3a6b25_bfce1d06-15f8-4fd9-a5bd-a8c90784cf90",
+      "type": "Speciality taxonomy 1",
+      "product_count": 243
+    },
+    {
+      "id": "6822eeeded32000001e25adb",
+      "name": "Jams",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/d91947c7-eda0-422b-88e7-4a4066f50004_7a20af7e-8897-4d96-844e-620f746881ee",
+      "type": "Speciality taxonomy 1",
+      "product_count": 15
+    },
+    {
+      "id": "6822eeeded32000001e25adc",
+      "name": "Batters",
+      "image_id": "b1db5bec6970667db3519798ed546e0d",
+      "type": "Speciality taxonomy 1",
+      "product_count": 44
+    }
+  ]
+}

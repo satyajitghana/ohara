@@ -40,7 +40,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa621",
+        "name": "Mobiles and Electronics "
+      },
+      "category_name_from_url": "Mobiles and Electronics "
+    }
   },
   {
     "display_name": "realme Narzo 70 Turbo | 6 GB RAM & 128 GB Storage | 5000 mAh Battery | 50 MP + 2 MP Rear Camera | 6.67\" Display | Turbo Yellow",
@@ -85,7 +92,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa621",
+        "name": "Mobiles and Electronics "
+      },
+      "category_name_from_url": "Mobiles and Electronics "
+    }
   },
   {
     "display_name": "Apple iPhone 16e | 128 GB Storage | 4005 mAh Battery | 48 MP + 12 MP Rear Camera | 6.1\" Display | Black",
@@ -132,6 +146,13 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa621",
+        "name": "Mobiles and Electronics "
+      },
+      "category_name_from_url": "Mobiles and Electronics "
+    }
   }
 ]

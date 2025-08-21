@@ -1,1 +1,3006 @@
-[]
+[
+  {
+    "display_name": "Meatzza Chicken Seekh Kebab",
+    "brand": "Meatzza",
+    "brand_id": "b574a5d43a3e9770dc802a4d88782d4ec3bc99db",
+    "product_id": "QO1CWKBEAN",
+    "variations": [
+      {
+        "id": "YWADYNB8ZJ",
+        "display_name": "Meatzza Chicken Seekh Kebab",
+        "price": {
+          "mrp": 670,
+          "store_price": 670,
+          "offer_price": 389,
+          "unit_level_price": "",
+          "discount_value": 281
+        },
+        "brand": "Meatzza",
+        "brand_id": "b574a5d43a3e9770dc802a4d88782d4ec3bc99db",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Kebab",
+        "sub_category_l4": "Chicken",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chicken Seekh Kebab",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/4/12/fbdc8b89-35bf-43cf-9aff-d6acc22b3f16_readytocook_SG0PQO7TYM_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/12/0b888087-f35a-4df6-ba8c-d12c9796fec0_readytocook_SG0PQO7TYM_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/12/7dd2c94b-f688-4935-a7e9-a1261e7c22da_readytocook_SG0PQO7TYM_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "HyFun Frozen French Fries Family Pack",
+    "brand": "HyFun",
+    "brand_id": "f43c55cd3f788154072081f5ae2d9c9dcc634b03",
+    "product_id": "ZT1RK7K4PD",
+    "variations": [
+      {
+        "id": "L2Q2UPU34S",
+        "display_name": "HyFun Frozen French Fries Family Pack",
+        "price": {
+          "mrp": 300,
+          "store_price": 300,
+          "offer_price": 180,
+          "unit_level_price": "",
+          "discount_value": 120
+        },
+        "brand": "HyFun",
+        "brand_id": "f43c55cd3f788154072081f5ae2d9c9dcc634b03",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Fries, Nuggets and Snacks",
+        "sub_category_l4": "Fries",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Frozen French Fries Family Pack",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/b917492b-2d18-4946-97dd-2d9f48d3ce33_80792_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/9031a795-6fa4-47f1-87dd-1559403a0cbf_80792_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/5c94d488-b4ab-48c5-ba73-dad48a6cf7a6_510752_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/24c4757e-b249-4bca-97d3-5aad93941452_80792_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Godrej Yummiez Chicken Nuggets",
+    "brand": "Godrej Yummiez",
+    "brand_id": "bb89efa9fd167a0d071e49f9b0dbb095b13142c0",
+    "product_id": "8XAHDT7HPV",
+    "variations": [
+      {
+        "id": "XLF7GVFUD7",
+        "display_name": "Godrej Yummiez Chicken Nuggets",
+        "price": {
+          "mrp": 370,
+          "store_price": 370,
+          "offer_price": 277,
+          "unit_level_price": "55.4/100 g",
+          "discount_value": 93
+        },
+        "brand": "Godrej Yummiez",
+        "brand_id": "bb89efa9fd167a0d071e49f9b0dbb095b13142c0",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Fries, Nuggets and Snacks",
+        "sub_category_l4": "Chicken Nuggets",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chicken Nuggets",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/6/4d1b441d-4764-4a86-b9ee-db6dfb791bbc_1582_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/6/99535b0c-b244-4f2f-987c-15bb68e7824e_1582_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/6/8f133f8b-91c3-4698-98ea-b685b82a16e5_1582_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/6/d57fcf8e-f1c1-46b8-bfdb-f8956b6e9f2d_1582_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/6/d30ca744-b253-401f-ac4c-d466478e9035_1582_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/6/d9ad65e4-fd6f-4d5f-a3c6-3271d3bd8623_1582_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/6/387a9086-2c6d-4b61-8940-7f225af28c5d_1582_7.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "SPT Frozen Sweet Corn",
+    "brand": "SPT",
+    "brand_id": "1eb3649de26d319049991933a8b89397627efc96",
+    "product_id": "BLOYD1GFZZ",
+    "variations": [
+      {
+        "id": "G1VWU6CWT9",
+        "display_name": "SPT Frozen Sweet Corn",
+        "price": {
+          "mrp": 135,
+          "store_price": 135,
+          "offer_price": 83,
+          "unit_level_price": "16.6/100 g",
+          "discount_value": 52
+        },
+        "brand": "SPT",
+        "brand_id": "1eb3649de26d319049991933a8b89397627efc96",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Frozen Veggies",
+        "sub_category_l4": "Sweet Corn",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Frozen Sweet Corn",
+        "images": [
+          "d3e36b2416bdf4ad93b2cd83e33852b8",
+          "a4d4fa5966f78c6dd02203cd2660f5d5",
+          "50edd61d63898c15882cc74922f4c9ac"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Wow! Momo Chicken Delight Premium Momos",
+    "brand": "Wow! Momo",
+    "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+    "product_id": "S7E3E2HL1Z",
+    "variations": [
+      {
+        "id": "TZHQ99CQ8T",
+        "display_name": "Wow! Momo Chicken Delight Premium Momos",
+        "price": {
+          "mrp": 109,
+          "store_price": 109,
+          "offer_price": 82,
+          "unit_level_price": "",
+          "discount_value": 27
+        },
+        "brand": "Wow! Momo",
+        "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Momos and Bao",
+        "sub_category_l4": "Momos",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chicken Delight Premium Momos",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/12/49131dc6-b68b-4f08-98df-cf8d159f29ae_270900_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/12/4dcddeff-60ab-4d02-ba32-9d03bf4e860c_270900_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/12/80d0d114-f34f-4779-b635-39ac3f3cd22f_270900_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "5",
+        "sku_quantity_with_combo": "5 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 120,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Itc Master Chef Farmland Frozen Vegetables Green Peas",
+    "brand": "Itc Master Chef",
+    "brand_id": "4ed554c3a7e79a967ed8c258545a252d26b5255d",
+    "product_id": "L9LUPSIF0G",
+    "variations": [
+      {
+        "id": "OCVZXGU64W",
+        "display_name": "Itc Master Chef Farmland Frozen Vegetables Green Peas",
+        "price": {
+          "mrp": 160,
+          "store_price": 160,
+          "offer_price": 101,
+          "unit_level_price": "",
+          "discount_value": 59
+        },
+        "brand": "Itc Master Chef",
+        "brand_id": "4ed554c3a7e79a967ed8c258545a252d26b5255d",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Frozen Veggies",
+        "sub_category_l4": "Green Pea",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Farmland Frozen Vegetables Green Peas",
+        "images": [
+          "d2793c5a502b2b8fc58b351e0065488d",
+          "42341ad169776b00553a900ba265c938",
+          "f1394342e1da73bdcc9fa2c5bf599d6b",
+          "e4e7dd763398ec505d4c7f011d5c0ffa"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "HyFun Chilli Garlic Poppers",
+    "brand": "HyFun",
+    "brand_id": "f43c55cd3f788154072081f5ae2d9c9dcc634b03",
+    "product_id": "GDBL3NMWNE",
+    "variations": [
+      {
+        "id": "T6CF3H0GF5",
+        "display_name": "HyFun Chilli Garlic Poppers",
+        "price": {
+          "mrp": 150,
+          "store_price": 150,
+          "offer_price": 105,
+          "unit_level_price": "26.3/100 g",
+          "discount_value": 45
+        },
+        "brand": "HyFun",
+        "brand_id": "f43c55cd3f788154072081f5ae2d9c9dcc634b03",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Fries, Nuggets and Snacks",
+        "sub_category_l4": "Popcorn And Bites",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chilli Garlic Poppers",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/29/d9e6b5f8-8ca4-4851-b01e-2ac5b5f8cd71_11858_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/29/51aefaa6-270a-4183-874d-4df02d561e44_11858_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/29/eda8c8a3-9135-49f2-8cef-5057ee4815c7_11858_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "400",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "iD Fresh Aloo Paratha",
+    "brand": "iD Fresh",
+    "brand_id": "784f232f152028824c36ff9681b7088cda1000d1",
+    "product_id": "L7V6JHCJIC",
+    "variations": [
+      {
+        "id": "PDY3XJ186S",
+        "display_name": "iD Fresh Aloo Paratha",
+        "price": {
+          "mrp": 160,
+          "store_price": 160,
+          "offer_price": 118,
+          "unit_level_price": "",
+          "discount_value": 42
+        },
+        "brand": "iD Fresh",
+        "brand_id": "784f232f152028824c36ff9681b7088cda1000d1",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Indian Breads",
+        "sub_category_l4": "Stuffed Parantha",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Aloo Paratha",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/7/3bbc9e09-1e96-4866-a175-cc9c8da29001_803250_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/7/2e382878-be45-4057-8103-4286278c855e_803250_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/7/151cbc61-3697-41f4-b195-8531d05b4526_803250_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "400",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Mccain French Fries",
+    "brand": "Mccain",
+    "brand_id": "3afe16e585d19c978b0be7bed51036be128c2b5f",
+    "product_id": "973SFIGUIK",
+    "variations": [
+      {
+        "id": "87GYQNQGIT",
+        "display_name": "Mccain French Fries",
+        "price": {
+          "mrp": 370,
+          "store_price": 370,
+          "offer_price": 207,
+          "unit_level_price": "",
+          "discount_value": 163
+        },
+        "brand": "Mccain",
+        "brand_id": "3afe16e585d19c978b0be7bed51036be128c2b5f",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Fries, Nuggets and Snacks",
+        "sub_category_l4": "Fries",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "French Fries",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/782505be-1ca2-413c-a8ea-f1caa7b4da32_28448_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/a148425e-429e-484d-aeca-0bc73627dca1_28448_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/024d868c-ed81-49da-9467-03f205205ee6_28448_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/fb238ca4-221e-4785-8018-fe91544130d2_28448_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/09d47ba5-c975-49fc-a9fb-0db4cd6192ba_28448_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/e7344489-63d4-4dd9-8248-d70720eee21a_28448_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/68127101-1141-4a81-8862-496f0ee69eba_28448_7.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/7d50d0fc-a3a1-404a-b59d-aa9e613027aa_28448_8.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/20/6629c5fd-987b-46c5-8fbc-b08c4181a4ee_28448_9.png"
+        ],
+        "images_v2": [],
+        "quantity": "1.25",
+        "sku_quantity_with_combo": "1.25 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 0,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Wow! Momo Veg Darjeeling Momos",
+    "brand": "Wow! Momo",
+    "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+    "product_id": "R5WPYCF5WO",
+    "variations": [
+      {
+        "id": "VZNJ362UVI",
+        "display_name": "Wow! Momo Veg Darjeeling Momos",
+        "price": {
+          "mrp": 165,
+          "store_price": 165,
+          "offer_price": 130,
+          "unit_level_price": "13/piece",
+          "discount_value": 35
+        },
+        "brand": "Wow! Momo",
+        "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Momos and Bao",
+        "sub_category_l4": "Momo",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Veg Darjeeling Momos",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/b9f31cec-3d50-483c-8ad9-05cbdb619460_readytocook_ZNI7ZTFHLO_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/247882f4-642f-4c83-b52e-e7cb3a7b2b1c_readytocook_ZNI7ZTFHLO_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/16d5f75a-5fe8-4486-baa6-5c79b05a5fb6_readytocook_ZNI7ZTFHLO_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/d898ecd6-6d94-4e41-ad70-1eed4808e808_readytocook_ZNI7ZTFHLO_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/36e9e42d-bef8-4907-b439-548904314151_readytocook_ZNI7ZTFHLO_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/cc151f8d-4aa9-4a67-830a-0521fb945459_readytocook_ZNI7ZTFHLO_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "10",
+        "sku_quantity_with_combo": "10 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 0,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "ITC Master Chef Chili Garlic Potato Shots Nuggets - Super Saver| 125 pieces",
+    "brand": "Itc Master Chef",
+    "brand_id": "4ed554c3a7e79a967ed8c258545a252d26b5255d",
+    "product_id": "5QYWD3BON4",
+    "variations": [
+      {
+        "id": "ZTD25RWQ99",
+        "display_name": "ITC Master Chef Chili Garlic Potato Shots Nuggets - Super Saver| 125 pieces",
+        "price": {
+          "mrp": 385,
+          "store_price": 385,
+          "offer_price": 273,
+          "unit_level_price": "",
+          "discount_value": 112
+        },
+        "brand": "Itc Master Chef",
+        "brand_id": "4ed554c3a7e79a967ed8c258545a252d26b5255d",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Fries, Nuggets and Snacks",
+        "sub_category_l4": "Popcorn And Bites",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "ITC Master Chef Chili Garlic Potato Shots Nuggets - Super Saver| 125 pieces",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/b8c77c69-1422-4e4d-b5d0-628238840a81_33386_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/5fa8cd26-ffbb-48ce-8148-b33da69c31c5_33386_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/24910dbf-ee40-4ea7-8276-e60c3a7a7a17_33386_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/ded3b53d-1086-40af-9b6b-eb33685b03f3_33386_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/ea13421f-3be6-4da0-b89d-1236784ac8e6_33386_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/4d0d8e82-4cd9-4f7e-81c7-f5bf684af36d_33386_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Wow! Momo Chicken Darjeeling Momos",
+    "brand": "Wow! Momo",
+    "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+    "product_id": "SAJIWB5URS",
+    "variations": [
+      {
+        "id": "0IT9203LNV",
+        "display_name": "Wow! Momo Chicken Darjeeling Momos",
+        "price": {
+          "mrp": 195,
+          "store_price": 195,
+          "offer_price": 149,
+          "unit_level_price": "14.9/piece",
+          "discount_value": 46
+        },
+        "brand": "Wow! Momo",
+        "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Momos and Bao",
+        "sub_category_l4": "Momos",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chicken Darjeeling Momos",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/f0f0a08a-1f38-4f90-9f83-fe9e2a488107_readytocook_HWN0DMN16R_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/04f915b8-d712-4208-b0ec-220875c80e12_readytocook_HWN0DMN16R_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/06de2dfe-e22a-4fff-a229-63d1fc8944d6_readytocook_8UMWZYH4AO_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/0e78d011-81a1-4409-8875-9ef02f213582_readytocook_8UMWZYH4AO_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/1b23b8c0-1d77-4f7b-9268-b3d9bac1cd0d_readytocook_8UMWZYH4AO_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/2128fee7-7dd8-4244-9f68-b44185009a48_readytocook_HWN0DMN16R_AL5.png"
+        ],
+        "images_v2": [],
+        "quantity": "10",
+        "sku_quantity_with_combo": "10 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 0,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "HyFun Aloo Tikki Frozen Ready To Fry",
+    "brand": "HyFun",
+    "brand_id": "f43c55cd3f788154072081f5ae2d9c9dcc634b03",
+    "product_id": "HUKQYR82W3",
+    "variations": [
+      {
+        "id": "YLISHPF7R3",
+        "display_name": "HyFun Aloo Tikki Frozen Ready To Fry",
+        "price": {
+          "mrp": 140,
+          "store_price": 140,
+          "offer_price": 98,
+          "unit_level_price": "24.5/100 g",
+          "discount_value": 42
+        },
+        "brand": "HyFun",
+        "brand_id": "f43c55cd3f788154072081f5ae2d9c9dcc634b03",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Fries, Nuggets and Snacks",
+        "sub_category_l4": "Popcorn And Bites",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Aloo Tikki Frozen Ready To Fry",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/29/3351c2cd-358c-4380-a5ef-8a7ccf397202_11274_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/29/f891e209-ae04-4041-94bf-16ccaa4ee32c_11274_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/29/5b301e84-0451-404c-a91f-fbbfe599d28c_11274_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "400",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "ITC Master Chef Veggie Pizza Pocket| With Real Cheese| 9 pieces",
+    "brand": "Itc Master Chef",
+    "brand_id": "4ed554c3a7e79a967ed8c258545a252d26b5255d",
+    "product_id": "Q12TESSTEE",
+    "variations": [
+      {
+        "id": "136M8MFJSJ",
+        "display_name": "ITC Master Chef Veggie Pizza Pocket| With Real Cheese| 9 pieces",
+        "price": {
+          "mrp": 195,
+          "store_price": 195,
+          "offer_price": 157,
+          "unit_level_price": "",
+          "discount_value": 38
+        },
+        "brand": "Itc Master Chef",
+        "brand_id": "4ed554c3a7e79a967ed8c258545a252d26b5255d",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Fries, Nuggets and Snacks",
+        "sub_category_l4": "Popcorn And Bites",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "ITC Master Chef Veggie Pizza Pocket| With Real Cheese| 9 pieces",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/30/fe8329c8-3dd3-4703-a2bd-3aa0dc6be8d7_4240_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/e592a390-9291-4726-9eee-4cf378b6b2c6_4240_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/0a478aed-cf55-48cd-91af-a6e358243fa6_4240_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/5de18553-dcb1-4fc0-9a73-c5684133eadd_4240_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/ed4e7955-cfd9-4db2-9738-a1722c340b2c_4240_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/af380e20-dd3b-4db1-a543-aa4af33afc26_4240_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "340",
+        "sku_quantity_with_combo": "340 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 340,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Prasuma Chicken Breakfast Sausage Super Saver Pack",
+    "brand": "Prasuma",
+    "brand_id": "4651082fee52beb021b19460fc6fa09a86653753",
+    "product_id": "6CTHGVSXQN",
+    "variations": [
+      {
+        "id": "MPXYM27D5H",
+        "display_name": "Prasuma Chicken Breakfast Sausage Super Saver Pack",
+        "price": {
+          "mrp": 625,
+          "store_price": 625,
+          "offer_price": 344,
+          "unit_level_price": "",
+          "discount_value": 281
+        },
+        "brand": "Prasuma",
+        "brand_id": "4651082fee52beb021b19460fc6fa09a86653753",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Cold Cuts",
+        "sub_category_l4": "Sausages",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chicken Breakfast Sausage Super Saver Pack",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/24/d37565e9-009a-4b0f-a74b-f5b3376b61c4_Z45RAI9YT1_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/24/ee0da8b9-b4e0-487a-adad-808cf5257427_Z45RAI9YT1_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/22/62ac3d68-e154-4909-9794-520958d0fe50_89201_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "ITC Master Chef Crunchy Chicken Nuggets| Source of Protein| No Added Preservatives| 25 pieces",
+    "brand": "Itc Master Chef",
+    "brand_id": "4ed554c3a7e79a967ed8c258545a252d26b5255d",
+    "product_id": "ACJHO8H1WU",
+    "variations": [
+      {
+        "id": "ZK9HYQWQDB",
+        "display_name": "ITC Master Chef Crunchy Chicken Nuggets| Source of Protein| No Added Preservatives| 25 pieces",
+        "price": {
+          "mrp": 325,
+          "store_price": 325,
+          "offer_price": 265,
+          "unit_level_price": "",
+          "discount_value": 60
+        },
+        "brand": "Itc Master Chef",
+        "brand_id": "4ed554c3a7e79a967ed8c258545a252d26b5255d",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Fries, Nuggets and Snacks",
+        "sub_category_l4": "Chicken Nuggets",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "ITC Master Chef Crunchy Chicken Nuggets| Source of Protein| No Added Preservatives| 25 pieces",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/4f2309ff-ea20-456f-936c-05224a0c6804_3514_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/e2716e78-19f4-4df4-8284-6e830119b47a_3514_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/83d8a07a-e08e-4ec3-98dd-1daf793a2c85_3514_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/b3f68797-ef45-4ed8-aa4e-6ad57e840723_3514_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/2104e2ac-8615-40b1-bfc1-2aba3bb8a114_3514_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/2/740ea1c9-f103-4135-9528-d43e5e3d8861_3514_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "450",
+        "sku_quantity_with_combo": "450 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 450,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Prasuma Spicy Chicken Momos",
+    "brand": "Prasuma",
+    "brand_id": "4651082fee52beb021b19460fc6fa09a86653753",
+    "product_id": "YGJO1JUYWO",
+    "variations": [
+      {
+        "id": "IP8IGQPUPU",
+        "display_name": "Prasuma Spicy Chicken Momos",
+        "price": {
+          "mrp": 325,
+          "store_price": 325,
+          "offer_price": 305,
+          "unit_level_price": "12.7/piece",
+          "discount_value": 20
+        },
+        "brand": "Prasuma",
+        "brand_id": "4651082fee52beb021b19460fc6fa09a86653753",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Momos and Bao",
+        "sub_category_l4": "Momos",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Spicy Chicken Momos",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/14/f2846ef3-fc2e-42aa-bf3a-af081c39d922_4460_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/14/95bb27df-f238-4cc5-b010-bdf9f6c27213_4460_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/8/f085cb51-2245-48d6-aef5-12df940c5cc2_4460_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/8/39b5617f-39a1-47d6-8f98-6205b2ccdb2a_4460_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/8/cd4614b3-16e4-4ba9-9946-a2cd4bd41c04_4460_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/14/3479bf84-8a78-4950-8194-e2640008565a_4460_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "24",
+        "sku_quantity_with_combo": "24 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 240,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      },
+      {
+        "id": "8CHSI9KNBT",
+        "display_name": "Prasuma Spicy Chicken Momos",
+        "price": {
+          "mrp": 195,
+          "store_price": 195,
+          "offer_price": 137,
+          "unit_level_price": "13.7/piece",
+          "discount_value": 58
+        },
+        "brand": "Prasuma",
+        "brand_id": "4651082fee52beb021b19460fc6fa09a86653753",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Momos and Bao",
+        "sub_category_l4": "Momos",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Spicy Chicken Momos",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/14/c6206844-31dc-468f-860b-a618afba310c_4695_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/14/7f268f25-9ecf-4a72-82c4-736633998535_4695_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/8/f31dbd5d-abab-45ad-b9be-5c8a3524853e_4695_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/8/7949e4d9-280a-48b0-84dc-e3fee6947574_4695_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/8/c120dda8-0f82-4704-b745-0e7e62f26242_4695_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/14/6831018c-874a-4331-a333-e15ff19182dc_4695_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "10",
+        "sku_quantity_with_combo": "10 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Hyfun Jalapeno Cheesy Pops",
+    "brand": "HyFun",
+    "brand_id": "f43c55cd3f788154072081f5ae2d9c9dcc634b03",
+    "product_id": "ZLEIMXOAV4",
+    "variations": [
+      {
+        "id": "C2FZBQLKJH",
+        "display_name": "Hyfun Jalapeno Cheesy Pops",
+        "price": {
+          "mrp": 200,
+          "store_price": 200,
+          "offer_price": 140,
+          "unit_level_price": "56/100 g",
+          "discount_value": 60
+        },
+        "brand": "HyFun",
+        "brand_id": "f43c55cd3f788154072081f5ae2d9c9dcc634b03",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Fries, Nuggets and Snacks",
+        "sub_category_l4": "Popcorn And Bites",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Hyfun Jalapeno Cheesy Pops",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/714fbe47-5205-4843-8c90-2f06fb83fb27_189421_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/30d47ad9-d276-4143-bde4-44827a749b40_189421_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/c44a5149-e63d-4363-a633-b2f12d252ff1_189421_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/85be4e58-fb4a-4b14-9539-6dd949afc524_189421_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Wow Smiley Chicken Nuggets",
+    "brand": "Wow! Momo",
+    "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+    "product_id": "AEXYWF9Z9B",
+    "variations": [
+      {
+        "id": "STPHV4S20W",
+        "display_name": "Wow Smiley Chicken Nuggets",
+        "price": {
+          "mrp": 249,
+          "store_price": 249,
+          "offer_price": 162,
+          "unit_level_price": "",
+          "discount_value": 87
+        },
+        "brand": "Wow! Momo",
+        "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Fries, Nuggets and Snacks",
+        "sub_category_l4": "Nuggets",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Wow Smiley Chicken Nuggets",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/8/1303bf7a-254d-436f-81ef-3b66aed206a7_513852_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/8/7b8bc9e3-bc58-4498-9908-33d8a674e801_513852_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/8/1606efbd-765e-41e3-8a9b-8cd9fd968847_513852_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Godrej Yummiez Chicken Momo’s",
+    "brand": "Godrej Yummiez",
+    "brand_id": "bb89efa9fd167a0d071e49f9b0dbb095b13142c0",
+    "product_id": "AVI0XT15HW",
+    "variations": [
+      {
+        "id": "LSUS7YNK42",
+        "display_name": "Godrej Yummiez Chicken Momo’s",
+        "price": {
+          "mrp": 250,
+          "store_price": 250,
+          "offer_price": 179,
+          "unit_level_price": "",
+          "discount_value": 71
+        },
+        "brand": "Godrej Yummiez",
+        "brand_id": "bb89efa9fd167a0d071e49f9b0dbb095b13142c0",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Momos and Bao",
+        "sub_category_l4": "Momos",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chicken Momo’s",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/26/fd1fcc98-9c22-4da3-b0d6-2aaefa0b4305_747995_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/26/560c5d61-6074-4b5b-9b7e-55438a080c7e_747995_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/26/b4eb5283-1b6f-490e-8594-377f8cf6ad62_747995_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "420",
+        "sku_quantity_with_combo": "420 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 420,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Wow! Momo Chicken Cheese Momos",
+    "brand": "Wow! Momo",
+    "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+    "product_id": "7Z1AHCAPQ2",
+    "variations": [
+      {
+        "id": "O68ZYPRC6W",
+        "display_name": "Wow! Momo Chicken Cheese Momos",
+        "price": {
+          "mrp": 210,
+          "store_price": 210,
+          "offer_price": 169,
+          "unit_level_price": "16.9/piece",
+          "discount_value": 41
+        },
+        "brand": "Wow! Momo",
+        "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Momos and Bao",
+        "sub_category_l4": "Momos",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chicken Cheese Momos",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/f05832b1-f4c5-44cc-b7e0-fdca1b9cbcd0_26504_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/81b99fda-5ad9-42c4-93ca-fe4b113a1fc9_26504_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/bd07bf2e-9ff7-43a7-b3ea-1d8f2ad709ad_26504_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/744b7471-44d1-481b-b902-6f6c4a869b9f_26504_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/f93c6246-e88e-4392-a26f-38e09a676a53_26504_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/3/625665b2-f139-4375-aeca-06f8a6daada5_26504_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "10",
+        "sku_quantity_with_combo": "10 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "iD Fresh Paneer Paratha",
+    "brand": "iD Fresh",
+    "brand_id": "784f232f152028824c36ff9681b7088cda1000d1",
+    "product_id": "VBIQO18LS2",
+    "variations": [
+      {
+        "id": "URBR8JIKAG",
+        "display_name": "iD Fresh Paneer Paratha",
+        "price": {
+          "mrp": 260,
+          "store_price": 260,
+          "offer_price": 195,
+          "unit_level_price": "",
+          "discount_value": 65
+        },
+        "brand": "iD Fresh",
+        "brand_id": "784f232f152028824c36ff9681b7088cda1000d1",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Indian Breads",
+        "sub_category_l4": "Stuffed Parantha",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Paneer Paratha",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/7/a27f3cc4-59af-4df4-ae75-f48e995f3c73_278720_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/7/2cb73cfb-2362-44d1-899f-540582430cc2_278720_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/8/7/aa254b5d-18c0-4872-ae1e-9351848f3281_278720_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "400",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "ITC Master Chef Large Prawns| Freshly Frozen | Super Safe Prawns",
+    "brand": "Itc Master Chef",
+    "brand_id": "4ed554c3a7e79a967ed8c258545a252d26b5255d",
+    "product_id": "DPT23NBZBP",
+    "variations": [
+      {
+        "id": "L2I068JFJG",
+        "display_name": "ITC Master Chef Large Prawns| Freshly Frozen | Super Safe Prawns",
+        "price": {
+          "mrp": 275,
+          "store_price": 275,
+          "offer_price": 254,
+          "unit_level_price": "",
+          "discount_value": 21
+        },
+        "brand": "Itc Master Chef",
+        "brand_id": "4ed554c3a7e79a967ed8c258545a252d26b5255d",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Seafood",
+        "sub_category_l4": "Prawns",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "ITC Master Chef Large Prawns| Freshly Frozen | Super Safe Prawns",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/11908b2e-d765-4ebe-bb58-a10ad39c2b2a_3519_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/bac6ff89-4632-4427-90b4-b0deea4e0ddf_3519_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/4559c6dc-9a82-4d39-bf89-8ff922e253be_3519_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/59693d9c-250a-43e9-aa1a-67c6ce594d4f_3519_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/d7af5229-5534-4cb1-a091-776d92d4951c_3519_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/271295e2-4e31-4dfd-b7e0-c037050513d2_3519_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Godrej Yummiez Green Peas",
+    "brand": "Godrej Yummiez",
+    "brand_id": "bb89efa9fd167a0d071e49f9b0dbb095b13142c0",
+    "product_id": "4AXADLZLW2",
+    "variations": [
+      {
+        "id": "54WTTPUC3C",
+        "display_name": "Godrej Yummiez Green Peas",
+        "price": {
+          "mrp": 160,
+          "store_price": 160,
+          "offer_price": 129,
+          "unit_level_price": "25.8/100 g",
+          "discount_value": 31
+        },
+        "brand": "Godrej Yummiez",
+        "brand_id": "bb89efa9fd167a0d071e49f9b0dbb095b13142c0",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Frozen Veggies",
+        "sub_category_l4": "Green Pea",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Green Peas",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/10/0e93aa1e-7143-448d-9340-6201e01df335_6790_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/10/4bce53a0-563a-4130-8619-96739d6df139_6790_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/10/64be9660-6968-48bf-9a70-1f4b54d78d03_6790_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/10/fb72e225-d340-4ec5-9bb7-4423566ce62e_6790_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "SPT Frozen Green Peas",
+    "brand": "SPT",
+    "brand_id": "1eb3649de26d319049991933a8b89397627efc96",
+    "product_id": "WRH11751VJ",
+    "variations": [
+      {
+        "id": "PNJPD28PL1",
+        "display_name": "SPT Frozen Green Peas",
+        "price": {
+          "mrp": 299,
+          "store_price": 299,
+          "offer_price": 299,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "SPT",
+        "brand_id": "1eb3649de26d319049991933a8b89397627efc96",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Frozen Veggies",
+        "sub_category_l4": "Green Pea",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Frozen Green Peas",
+        "images": [
+          "fde99db98ef6188c0ba429699fb65bda",
+          "0808de1f7adbfd90af3413775826bd27",
+          "dec72984c18f262bdb61c12a77dd5218"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "SPT Frozen Green Peas",
+    "brand": "SPT",
+    "brand_id": "1eb3649de26d319049991933a8b89397627efc96",
+    "product_id": "OV4KI93QV0",
+    "variations": [
+      {
+        "id": "4NJL2JWI91",
+        "display_name": "SPT Frozen Green Peas",
+        "price": {
+          "mrp": 169,
+          "store_price": 169,
+          "offer_price": 98,
+          "unit_level_price": "19.6/100 g",
+          "discount_value": 71
+        },
+        "brand": "SPT",
+        "brand_id": "1eb3649de26d319049991933a8b89397627efc96",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Frozen Veggies",
+        "sub_category_l4": "Green Pea",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Frozen Green Peas",
+        "images": [
+          "08ea724c22e608d3e7d1d7d9d64c702f",
+          "9067358175522c2b9fea98dd29df0734",
+          "d938919152737ade72ac56a9cdab5f64"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Safal Frozen Chilli Garlic Nuggets",
+    "brand": "Safal",
+    "brand_id": "46e35e6fd5722c0ecefbbec2c53e11949e617d42",
+    "product_id": "KSR8TWNVC1",
+    "variations": [
+      {
+        "id": "SP5QC8BHDF",
+        "display_name": "Safal Frozen Chilli Garlic Nuggets",
+        "price": {
+          "mrp": 110,
+          "store_price": 110,
+          "offer_price": 77,
+          "unit_level_price": "",
+          "discount_value": 33
+        },
+        "brand": "Safal",
+        "brand_id": "46e35e6fd5722c0ecefbbec2c53e11949e617d42",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Fries, Nuggets and Snacks",
+        "sub_category_l4": "Nuggets",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Frozen Chilli Garlic Nuggets",
+        "images": [
+          "wk9k6hzv8b18p8iha13f",
+          "t4rrz5ryvpx2s5otm1aa",
+          "irdiibro9niwasqflh2r"
+        ],
+        "images_v2": [],
+        "quantity": "400",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "SPT Frozen Soya Chaap",
+    "brand": "SPT",
+    "brand_id": "1eb3649de26d319049991933a8b89397627efc96",
+    "product_id": "360S3E30NC",
+    "variations": [
+      {
+        "id": "52OYBA6704",
+        "display_name": "SPT Frozen Soya Chaap",
+        "price": {
+          "mrp": 150,
+          "store_price": 150,
+          "offer_price": 97,
+          "unit_level_price": "19.4/100 g",
+          "discount_value": 53
+        },
+        "brand": "SPT",
+        "brand_id": "1eb3649de26d319049991933a8b89397627efc96",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Fries, Nuggets and Snacks",
+        "sub_category_l4": "Soya Chaap",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Frozen Soya Chaap",
+        "images": [
+          "7ddaef7e92235fff9b9ed54fc1a975b8",
+          "ea9993df0e29d47fe2ab3dc492e4840c",
+          "471f7037e66eb6bba25707dfb07e45e5"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "ITC Master Chef Farmland Green Peas | No Added Colours",
+    "brand": "Farmland",
+    "brand_id": "b41775dfa8ca7f3eeff955b107b88ff5d2034c82",
+    "product_id": "0R8CEOI3G3",
+    "variations": [
+      {
+        "id": "QJZD2CBKV9",
+        "display_name": "ITC Master Chef Farmland Green Peas | No Added Colours",
+        "price": {
+          "mrp": 320,
+          "store_price": 320,
+          "offer_price": 257,
+          "unit_level_price": "",
+          "discount_value": 63
+        },
+        "brand": "Farmland",
+        "brand_id": "b41775dfa8ca7f3eeff955b107b88ff5d2034c82",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Frozen Veggies",
+        "sub_category_l4": "pea",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "ITC Master Chef  Green Peas | No Added Colours",
+        "images": [
+          "0eec502ee0986af7b3546891c830aafa",
+          "399d825f78bc9d9250dfc008c44df4cb",
+          "7218c98f554eeb83cbd2e71d80b28ce5",
+          "539892e726dcf082aa62d93660ee5a62"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Aashirvaad Ready To Cook Paneer Paratha",
+    "brand": "Aashirvaad",
+    "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+    "product_id": "M5C3L285BA",
+    "variations": [
+      {
+        "id": "9CXRJVZJHT",
+        "display_name": "Aashirvaad Ready To Cook Paneer Paratha",
+        "price": {
+          "mrp": 250,
+          "store_price": 250,
+          "offer_price": 197,
+          "unit_level_price": "",
+          "discount_value": 53
+        },
+        "brand": "Aashirvaad",
+        "brand_id": "5f45e2cf6df6f233ee57a59a34fbef9d432c5927",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Indian Breads",
+        "sub_category_l4": "Stuffed Parantha",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Ready To Cook Paneer Paratha",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/6/2490a7cf-a74c-4bd4-ba18-8bb388ef1a4a_24840_1.png",
+          "455e1a51bd9aa353067b1ae7c2ee88a7",
+          "be6f0f8a74aef336989b4dcfa9b218b0"
+        ],
+        "images_v2": [],
+        "quantity": "400",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Meatzza Chicken Burger Patty",
+    "brand": "Meatzza",
+    "brand_id": "b574a5d43a3e9770dc802a4d88782d4ec3bc99db",
+    "product_id": "8N5GI9JVZP",
+    "variations": [
+      {
+        "id": "M1KS0NP9NS",
+        "display_name": "Meatzza Chicken Burger Patty",
+        "price": {
+          "mrp": 330,
+          "store_price": 330,
+          "offer_price": 250,
+          "unit_level_price": "",
+          "discount_value": 80
+        },
+        "brand": "Meatzza",
+        "brand_id": "b574a5d43a3e9770dc802a4d88782d4ec3bc99db",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Fries, Nuggets and Snacks",
+        "sub_category_l4": "Burger Patty",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Chicken Burger Patty",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/11/28/15adabc4-f754-4b1c-a0ec-bb1346cccda0_373071_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/28/bdbc61be-08ae-411f-a86b-0041fe077c78_373071_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/11/28/d99e481a-8e9c-48ee-9f5e-92d74e4a1942_373071_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Wow! Momo Smileys Chicken Peri Peri Nuggets",
+    "brand": "Wow! Momo",
+    "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+    "product_id": "MMIA7MS9KU",
+    "variations": [
+      {
+        "id": "F172O3NOXB",
+        "display_name": "Wow! Momo Smileys Chicken Peri Peri Nuggets",
+        "price": {
+          "mrp": 275,
+          "store_price": 275,
+          "offer_price": 192,
+          "unit_level_price": "",
+          "discount_value": 83
+        },
+        "brand": "Wow! Momo",
+        "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant food and frozen food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Smileys Chicken Peri Peri Nuggets",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/30/65e67de7-cfe7-439d-9071-7586bf401388_654187_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/30/a2f95eb1-c1dd-4c9c-8b7e-958aa94d468c_654187_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/30/3ba838c5-c915-4eec-8883-4f99923db237_654187_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 gm",
+        "unit_of_measure": "gm",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "HyFun Pizza Regular 7” Margherita",
+    "brand": "HyFun",
+    "brand_id": "f43c55cd3f788154072081f5ae2d9c9dcc634b03",
+    "product_id": "TNVX30F3T1",
+    "variations": [
+      {
+        "id": "2S8B0OUQD2",
+        "display_name": "HyFun Pizza Regular 7” Margherita",
+        "price": {
+          "mrp": 199,
+          "store_price": 199,
+          "offer_price": 149,
+          "unit_level_price": "69.3/100 g",
+          "discount_value": 50
+        },
+        "brand": "HyFun",
+        "brand_id": "f43c55cd3f788154072081f5ae2d9c9dcc634b03",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Fries, Nuggets and Snacks",
+        "sub_category_l4": "Snacks",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Pizza Regular 7” Margherita",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/257edcdb-e405-47a1-909d-e48a5c6749cb_52604_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/fc6566b1-1b8e-4477-8707-6b9d5c892c9a_52604_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/453d0596-b19d-4cea-bd78-c724f8e79ee3_52604_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/404a39b2-78a7-43c2-817a-c1f93b96c55b_52604_4.png"
+        ],
+        "images_v2": [],
+        "quantity": "215",
+        "sku_quantity_with_combo": "215 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 215,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "BRILLAR Chicken Gizzard",
+    "brand": "BRILLAR",
+    "brand_id": "f0ae41584662c867613f3c305af5820f85b51c9c",
+    "product_id": "8E4M003ZFD",
+    "variations": [
+      {
+        "id": "W8OXT8IXRI",
+        "display_name": "BRILLAR Chicken Gizzard",
+        "price": {
+          "mrp": 149,
+          "store_price": 149,
+          "offer_price": 119,
+          "unit_level_price": "",
+          "discount_value": 30
+        },
+        "brand": "BRILLAR",
+        "brand_id": "f0ae41584662c867613f3c305af5820f85b51c9c",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Fries, Nuggets & Snacks",
+        "sub_category_l4": "Chicken Nuggets",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chicken Gizzard",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/26/96ba151a-526b-4536-a659-c93d0a745d2e_115023_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/26/345aefb5-08a8-452e-8c17-224ef2ca772c_115023_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/26/0f18396b-7644-48f5-8a97-a8d73a713b61_115023_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/26/de4e0c65-d208-4454-af61-5bc2d18b7204_115023_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/26/a389779a-b02b-4297-9973-063927a06c86_115023_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "450",
+        "sku_quantity_with_combo": "450 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 450,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Laa Frozen Mutton Curry Cut",
+    "brand": "Laa Frozen",
+    "brand_id": "25199c0e2c76771e0f4cd4ad8f7d7f1262145326",
+    "product_id": "TE1M4OI9EY",
+    "variations": [
+      {
+        "id": "0CWNQTHB01",
+        "display_name": "Laa Frozen Mutton Curry Cut",
+        "price": {
+          "mrp": 449,
+          "store_price": 449,
+          "offer_price": 354,
+          "unit_level_price": "",
+          "discount_value": 95
+        },
+        "brand": "Laa Frozen",
+        "brand_id": "25199c0e2c76771e0f4cd4ad8f7d7f1262145326",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Raw Frozen",
+        "sub_category_l4": "Mutton",
+        "sub_category_l5": null,
+        "product_name_without_brand": "Mutton Curry Cut",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/24/72ea64ea-4c93-484b-a401-d6bcce4aa372_928979_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/24/8013ce84-fdfd-4e4f-afa4-f15d5f27b6ce_928979_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/24/615de99d-87c5-4c74-9f00-44f8ab9cef5c_928979_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "350",
+        "sku_quantity_with_combo": "350 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 350,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Keventer Street Chicken Momo",
+    "brand": "Keventer",
+    "brand_id": "0a4067543142a3a8991b45dc161c30d2371b867e",
+    "product_id": "2VE9QSSODH",
+    "variations": [
+      {
+        "id": "UOLFWU8FCW",
+        "display_name": "Keventer Street Chicken Momo",
+        "price": {
+          "mrp": 215,
+          "store_price": 215,
+          "offer_price": 140,
+          "unit_level_price": "",
+          "discount_value": 75
+        },
+        "brand": "Keventer",
+        "brand_id": "0a4067543142a3a8991b45dc161c30d2371b867e",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Momos and Bao",
+        "sub_category_l4": "Momos",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Street Chicken Momo",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/21/29307e91-e699-418b-a355-8fb7f762e6ae_readytocook_O0W79UKUG1_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/21/0129c6a8-3bd0-480b-986d-2d81ba703d68_readytocook_O0W79UKUG1_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/21/43add058-2dc9-4ef7-ad01-f7530dd84993_readytocook_O0W79UKUG1_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "220",
+        "sku_quantity_with_combo": "220 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 220,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "La Carne Breakfast Chicken Sausage",
+    "brand": "La Carne",
+    "brand_id": "b362d6c8184da83cb29f205c6cda322989cef4e0",
+    "product_id": "14GUZL6YLV",
+    "variations": [
+      {
+        "id": "01UV8HL4XS",
+        "display_name": "La Carne Breakfast Chicken Sausage",
+        "price": {
+          "mrp": 360,
+          "store_price": 360,
+          "offer_price": 284,
+          "unit_level_price": "",
+          "discount_value": 76
+        },
+        "brand": "La Carne",
+        "brand_id": "b362d6c8184da83cb29f205c6cda322989cef4e0",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Cold Cuts",
+        "sub_category_l4": "Sausages",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Breakfast Chicken Sausage",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/4/97e3a5ee-16c9-49fb-a9c3-52dc6f5919e2_317711_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/4/07f59159-f96a-498e-96de-520a26af772b_317711_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/4/1e5bc811-71e8-474d-a93c-145cd2303af7_317711_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Prasuma Peri Peri Veg Momos",
+    "brand": "Prasuma",
+    "brand_id": "4651082fee52beb021b19460fc6fa09a86653753",
+    "product_id": "QXPU2H7YZ1",
+    "variations": [
+      {
+        "id": "PBRRRXV6NG",
+        "display_name": "Prasuma Peri Peri Veg Momos",
+        "price": {
+          "mrp": 260,
+          "store_price": 260,
+          "offer_price": 257,
+          "unit_level_price": "",
+          "discount_value": 3
+        },
+        "brand": "Prasuma",
+        "brand_id": "4651082fee52beb021b19460fc6fa09a86653753",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Momos and Bao",
+        "sub_category_l4": "Momo",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Peri Peri Veg Momos",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/15/dfd7a539-0196-4038-beb4-93799f257677_49168_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/15/718625a3-127d-4359-bc4c-c45107787274_49168_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/15/aa8fe0d1-ad1e-4681-b357-312763001db4_49168_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/15/b522085b-47e1-42d9-80f0-bef5b901ad14_49168_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/15/96d14c76-ef57-4f97-98eb-89feecb6c201_49168_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/15/94f5efbc-35ca-499c-88dd-0443508f56e9_49168_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "15",
+        "sku_quantity_with_combo": "15 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 15,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "HyFun Veggie Stix",
+    "brand": "HyFun",
+    "brand_id": "f43c55cd3f788154072081f5ae2d9c9dcc634b03",
+    "product_id": "W5MIY1UAD7",
+    "variations": [
+      {
+        "id": "O7RZL0Q7CM",
+        "display_name": "HyFun Veggie Stix",
+        "price": {
+          "mrp": 165,
+          "store_price": 165,
+          "offer_price": 124,
+          "unit_level_price": "29.2/100 g",
+          "discount_value": 41
+        },
+        "brand": "HyFun",
+        "brand_id": "f43c55cd3f788154072081f5ae2d9c9dcc634b03",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Fries, Nuggets and Snacks",
+        "sub_category_l4": "Popcorn And Bites",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Veggie Stix",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/c168a9fb-2ac0-4c17-b99c-08c0e6dbd0ec_988545_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/2835a52f-cbd5-4580-bbd0-7b8ff5da9350_988545_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/5/02b8a696-89ba-44e6-9751-4c272404911d_988545_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "425",
+        "sku_quantity_with_combo": "425 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 425,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "La Carne Piri Piri Chicken Sausage",
+    "brand": "La Carne",
+    "brand_id": "b362d6c8184da83cb29f205c6cda322989cef4e0",
+    "product_id": "CQ2DSHMD54",
+    "variations": [
+      {
+        "id": "I41MWBR7QW",
+        "display_name": "La Carne Piri Piri Chicken Sausage",
+        "price": {
+          "mrp": 225,
+          "store_price": 225,
+          "offer_price": 169,
+          "unit_level_price": "",
+          "discount_value": 56
+        },
+        "brand": "La Carne",
+        "brand_id": "b362d6c8184da83cb29f205c6cda322989cef4e0",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": "Fries, Nuggets and Snacks",
+        "sub_category_l4": "Chicken Snacks",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Piri Piri Chicken Sausage",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/3/29389109-6a4c-4b4d-8ea3-6691c7942fbd_535353_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/3/7cbfae9c-5c93-4752-9a87-74b4e66c1bed_535353_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/3/bcd316ac-fa0d-4f91-b3a2-63a4b7221faf_535353_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Godrej Yummiez Green Peas",
+    "brand": "Godrej Yummiez",
+    "brand_id": "bb89efa9fd167a0d071e49f9b0dbb095b13142c0",
+    "product_id": "FGZ1ZK3UTS",
+    "variations": [
+      {
+        "id": "0NTU1GP665",
+        "display_name": "Godrej Yummiez Green Peas",
+        "price": {
+          "mrp": 560,
+          "store_price": 560,
+          "offer_price": 458,
+          "unit_level_price": "229/kg",
+          "discount_value": 102
+        },
+        "brand": "Godrej Yummiez",
+        "brand_id": "bb89efa9fd167a0d071e49f9b0dbb095b13142c0",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Green Peas",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/18/f9371479-a4d8-4f79-b98b-9f36ab2c86df_23458_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/18/bfe966ed-f32d-4dab-bf5d-7ba8e8193960_23458_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/18/97ceae21-ef4f-4822-9d24-4e2cd02faf1f_23458_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/1/18/2270aa44-bc53-4b17-903f-5a06a949dfde_23458_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 kg",
+        "sku_quantity_with_combo": "1 kg x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 2000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "IYQ8FZQZM7",
+        "display_name": "Godrej Yummiez Green Peas",
+        "price": {
+          "mrp": 280,
+          "store_price": 280,
+          "offer_price": 229,
+          "unit_level_price": "",
+          "discount_value": 51
+        },
+        "brand": "Godrej Yummiez",
+        "brand_id": "bb89efa9fd167a0d071e49f9b0dbb095b13142c0",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Green Peas",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/10/92f9f325-f1d9-4adc-b3bb-66c6f643a868_12706_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/10/025f249d-575b-470e-9cf2-a907fb6abaa1_12706_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/10/64be9660-6968-48bf-9a70-1f4b54d78d03_6790_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/10/b41e84d7-ff34-42ed-ab71-5afffab213c5_12706_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Wow! Momo Jain Momos No Onion No Garlic",
+    "brand": "Wow! Momo",
+    "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+    "product_id": "MEK8J3DVC0",
+    "variations": [
+      {
+        "id": "B1ZK8Z4W7S",
+        "display_name": "Wow! Momo Jain Momos No Onion No Garlic",
+        "price": {
+          "mrp": 195,
+          "store_price": 195,
+          "offer_price": 131,
+          "unit_level_price": "13.1/piece",
+          "discount_value": 64
+        },
+        "brand": "Wow! Momo",
+        "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Jain Momos No Onion No Garlic",
+        "images": [
+          "ae15042e8c6776203d556383880d97f0",
+          "d0f8b3787aa6ec705bd080ccf29ecb9e",
+          "81f2d729fbd8d84447ab902c881ee970",
+          "091930c2e4abf253254b7024d72ad3ee",
+          "341de2ce7dc78b8a7b3deab306492a87",
+          "948af42f580f54f11c556c58bb1c9436"
+        ],
+        "images_v2": null,
+        "quantity": "10 pieces",
+        "sku_quantity_with_combo": "10 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "IBSXDYUMUM",
+        "display_name": "Wow! Momo Jain Momos No Onion No Garlic",
+        "price": {
+          "mrp": 585,
+          "store_price": 585,
+          "offer_price": 380,
+          "unit_level_price": "12.7/piece",
+          "discount_value": 205
+        },
+        "brand": "Wow! Momo",
+        "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Jain Momos No Onion No Garlic",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/6/29071339-8076-4114-9eb0-8939372d5fba_readytocook_VF68LHCTF1_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "3 pieces",
+        "sku_quantity_with_combo": "10 pieces x 3",
+        "unit_of_measure": null,
+        "weight_in_grams": 750,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "WJ9GVVODQO",
+        "display_name": "Wow! Momo Jain Momos No Onion No Garlic",
+        "price": {
+          "mrp": 390,
+          "store_price": 390,
+          "offer_price": 261,
+          "unit_level_price": "13.1/piece",
+          "discount_value": 129
+        },
+        "brand": "Wow! Momo",
+        "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Jain Momos No Onion No Garlic",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/5/6/cf8fd800-0e81-4912-867b-878d5d6ec087_readytocook_Y857OA6OMR_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "10 pieces x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "HyFun Frozen French Fries 1kg pack & Coca-Coca Soft Drink Bottle 750 ml",
+    "brand": "HyFun",
+    "brand_id": "f43c55cd3f788154072081f5ae2d9c9dcc634b03",
+    "product_id": "U94LYSNL4D",
+    "variations": [
+      {
+        "id": "LFHV6V1VHF",
+        "display_name": "HyFun Frozen French Fries 1kg pack & Coca-Coca Soft Drink Bottle 750 ml",
+        "price": {
+          "mrp": 345,
+          "store_price": 345,
+          "offer_price": 225,
+          "unit_level_price": "",
+          "discount_value": 120
+        },
+        "brand": "HyFun",
+        "brand_id": "f43c55cd3f788154072081f5ae2d9c9dcc634b03",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Frozen French Fries 1kg pack & Coca-Coca Soft Drink Bottle 750 ml",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/9/17/a883e20e-aab8-40c9-afe6-2a78dc3e5b47_64053.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 751,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Fresh to home Hyderabadi Chicken Dum Biryani",
+    "brand": "Fresh to home",
+    "brand_id": "e34f4dbfbf20ce73bf5ea9da3160a3e59fe3882e",
+    "product_id": "ON47G7TDIP",
+    "variations": [
+      {
+        "id": "2FGWRUHTA4",
+        "display_name": "Fresh to home Hyderabadi Chicken Dum Biryani",
+        "price": {
+          "mrp": 299,
+          "store_price": 299,
+          "offer_price": 224,
+          "unit_level_price": "",
+          "discount_value": 75
+        },
+        "brand": "Fresh to home",
+        "brand_id": "e34f4dbfbf20ce73bf5ea9da3160a3e59fe3882e",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Hyderabadi Chicken Dum Biryani",
+        "images": [
+          "NI_CATALOG/IMAGES/ciw/2025/4/22/4a30a6dd-3b24-4782-8ec3-60a47951bac3_004607_1_20250422_112240.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/7/ea60276e-8f4d-4525-b58c-34489370704b_974443_2.png",
+          "NI_CATALOG/IMAGES/ciw/2025/4/22/1cf756da-5bc6-4204-8c24-dda09f6db756_004607_2_20250422_112241.png",
+          "NI_CATALOG/IMAGES/ciw/2025/4/22/3fbd35b7-409e-4b9a-bec0-e349a4c3bbdb_004607_3_20250422_112241.png",
+          "NI_CATALOG/IMAGES/ciw/2025/4/22/f080af67-dc03-4853-9037-23ebca1c669d_004607_4_20250422_112241.png"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Fresh to home Chicken Breakfast Sausage",
+    "brand": "Fresh to home",
+    "brand_id": "e34f4dbfbf20ce73bf5ea9da3160a3e59fe3882e",
+    "product_id": "MXO7OQLOGO",
+    "variations": [
+      {
+        "id": "GU05DXYT26",
+        "display_name": "Fresh to home Chicken Breakfast Sausage",
+        "price": {
+          "mrp": 325,
+          "store_price": 325,
+          "offer_price": 244,
+          "unit_level_price": "",
+          "discount_value": 81
+        },
+        "brand": "Fresh to home",
+        "brand_id": "e34f4dbfbf20ce73bf5ea9da3160a3e59fe3882e",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chicken Breakfast Sausage",
+        "images": [
+          "NI_CATALOG/IMAGES/ciw/2025/4/22/dff0487d-aa4b-458c-ac8e-a77c460ff743_127533_1_20250422_125611.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/7/a4e3674e-94c7-488a-9aa9-67b2988f7579_112941_2.png",
+          "NI_CATALOG/IMAGES/ciw/2025/4/22/cb27a2e5-0bc4-47e6-8d9a-f5619dd910ba_127533_2_20250422_125612.png",
+          "NI_CATALOG/IMAGES/ciw/2025/4/22/4ee54a9b-4b6a-42c3-b90a-0a6d4d360c16_127533_3_20250422_125612.png",
+          "NI_CATALOG/IMAGES/ciw/2025/4/22/0dbe191a-66db-424e-91ab-bb9246b14349_127533_4_20250422_125613.png"
+        ],
+        "images_v2": null,
+        "quantity": "220 g",
+        "sku_quantity_with_combo": "220 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 220,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Keventer Crispy Onion Rings",
+    "brand": "Keventer",
+    "brand_id": "0a4067543142a3a8991b45dc161c30d2371b867e",
+    "product_id": "JEZLP6I81X",
+    "variations": [
+      {
+        "id": "3LOJT60B1I",
+        "display_name": "Keventer Crispy Onion Rings",
+        "price": {
+          "mrp": 235,
+          "store_price": 235,
+          "offer_price": 211,
+          "unit_level_price": "",
+          "discount_value": 24
+        },
+        "brand": "Keventer",
+        "brand_id": "0a4067543142a3a8991b45dc161c30d2371b867e",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Crispy Onion Rings",
+        "images": [
+          "n4ze3348wjvnh5plurug",
+          "ysqqrkbiqppbapiqnhty",
+          "etnrnjmd3sv1ojodac2l"
+        ],
+        "images_v2": null,
+        "quantity": "400 g",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Godrej Yummiez Crispy Chicken Bites",
+    "brand": "Godrej Yummiez",
+    "brand_id": "bb89efa9fd167a0d071e49f9b0dbb095b13142c0",
+    "product_id": "5YU4L14L1Z",
+    "variations": [
+      {
+        "id": "72T9H0XOUW",
+        "display_name": "Godrej Yummiez Crispy Chicken Bites",
+        "price": {
+          "mrp": 360,
+          "store_price": 360,
+          "offer_price": 259,
+          "unit_level_price": "",
+          "discount_value": 101
+        },
+        "brand": "Godrej Yummiez",
+        "brand_id": "bb89efa9fd167a0d071e49f9b0dbb095b13142c0",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Crispy Chicken Bites",
+        "images": [
+          "e23178a743f851cdd8ac395e3c5ec9ad",
+          "9cc89b015f74c5a236254d527625682a",
+          "cd85ccb273135e807e09b800b297a4b1"
+        ],
+        "images_v2": null,
+        "quantity": "360 g",
+        "sku_quantity_with_combo": "360 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 360,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Laa Frozen Mutton Boneless",
+    "brand": "Laa Frozen",
+    "brand_id": "25199c0e2c76771e0f4cd4ad8f7d7f1262145326",
+    "product_id": "O2Z8ENWY98",
+    "variations": [
+      {
+        "id": "U17P1RX319",
+        "display_name": "Laa Frozen Mutton Boneless",
+        "price": {
+          "mrp": 599,
+          "store_price": 599,
+          "offer_price": 329,
+          "unit_level_price": "",
+          "discount_value": 270
+        },
+        "brand": "Laa Frozen",
+        "brand_id": "25199c0e2c76771e0f4cd4ad8f7d7f1262145326",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Mutton Boneless",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/24/291a9ef3-afcd-443c-a6c5-a2f29b8ad9f8_773309_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/24/262b0354-0570-4179-bfa6-3d996b4add80_773309_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/24/2c2450ba-ac5f-4e4c-ac36-33728c32365e_773309_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "350 g",
+        "sku_quantity_with_combo": "350 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 350,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Prasuma Spicy Chicken Momos & Coca-Cola Can Combo",
+    "brand": "Prasuma",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "0SL9GYQX50",
+    "variations": [
+      {
+        "id": "S3Z78508CC",
+        "display_name": "Prasuma Spicy Chicken Momos & Coca-Cola Can Combo",
+        "price": {
+          "mrp": 235,
+          "store_price": 235,
+          "offer_price": 206,
+          "unit_level_price": "",
+          "discount_value": 29
+        },
+        "brand": "Prasuma",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Spicy Chicken Momos & Coca-Cola Can Combo",
+        "images": [
+          "c6178905eee0f71e7098df44801928e2"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 400,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Prasuma spicy chicken momos 10_pc & Nongshim Shin Red Super Spicy Cup Noodle Soup",
+    "brand": "Prasuma",
+    "brand_id": "4651082fee52beb021b19460fc6fa09a86653753",
+    "product_id": "9AM0386SOR",
+    "variations": [
+      {
+        "id": "6GCNO0CONJ",
+        "display_name": "Prasuma spicy chicken momos 10_pc & Nongshim Shin Red Super Spicy Cup Noodle Soup",
+        "price": {
+          "mrp": 334,
+          "store_price": 334,
+          "offer_price": 305,
+          "unit_level_price": "",
+          "discount_value": 29
+        },
+        "brand": "Prasuma",
+        "brand_id": "4651082fee52beb021b19460fc6fa09a86653753",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "spicy chicken momos 10_pc & Nongshim Shin Red Super Spicy Cup Noodle Soup",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/6/26/77ee428a-c0f7-4852-bc07-92f5ea9e9f1a_readytocook_NTTCPY7SHZ_MN.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Wow Smileys Cheese Nuggets",
+    "brand": "Wow! Momo",
+    "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+    "product_id": "UYY74JWYWI",
+    "variations": [
+      {
+        "id": "D3ISDO19VV",
+        "display_name": "Wow Smileys Cheese Nuggets",
+        "price": {
+          "mrp": 279,
+          "store_price": 279,
+          "offer_price": 181,
+          "unit_level_price": "",
+          "discount_value": 98
+        },
+        "brand": "Wow! Momo",
+        "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Wow Smileys Cheese Nuggets",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/07ec426d-d197-4739-ac37-bc23111de149_222114_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/ccdd2073-d29d-4873-a9b4-2db77a1d072d_222114_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/9/f80a6482-a63c-46dc-9af5-8b42c8c85141_222114_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "250 g",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "ITC Master Chef Medium Prawns| Freshly Frozen | Super Safe Prawns",
+    "brand": "Itc Master Chef",
+    "brand_id": "4ed554c3a7e79a967ed8c258545a252d26b5255d",
+    "product_id": "YXIN8JMBFX",
+    "variations": [
+      {
+        "id": "CVC4DII6L0",
+        "display_name": "ITC Master Chef Medium Prawns| Freshly Frozen | Super Safe Prawns",
+        "price": {
+          "mrp": 250,
+          "store_price": 250,
+          "offer_price": 213,
+          "unit_level_price": "",
+          "discount_value": 37
+        },
+        "brand": "Itc Master Chef",
+        "brand_id": "4ed554c3a7e79a967ed8c258545a252d26b5255d",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "ITC Master Chef Medium Prawns| Freshly Frozen | Super Safe Prawns",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/5481a0b6-728c-4473-a0fe-a6fd50b08a23_3518_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/80adcb37-6a4c-4655-8233-fa98dbbb92db_3518_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/16408e4f-106b-4fe3-8007-278092411a1d_3518_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/8dd3b95f-9f5b-4011-af0e-a8a96aaea56f_3518_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/513fd4c3-d7dd-4d9f-9294-e4d3f080a8b8_3518_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/6/11/4d70fb84-a549-4c42-a44c-c1039241b6ee_3518_6.png"
+        ],
+        "images_v2": null,
+        "quantity": "200 g",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Wow! Momo Chicken Darjeeling Momos",
+    "brand": "Wow! Momo",
+    "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+    "product_id": "F1KU8RDV7Z",
+    "variations": [
+      {
+        "id": "DK7L6KQOBY",
+        "display_name": "Wow! Momo Chicken Darjeeling Momos",
+        "price": {
+          "mrp": 335,
+          "store_price": 335,
+          "offer_price": 270,
+          "unit_level_price": "",
+          "discount_value": 65
+        },
+        "brand": "Wow! Momo",
+        "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Chicken Darjeeling Momos",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/be894d8a-27e1-427e-b8a7-8be66d3828c2_readytocook_8UMWZYH4AO_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/80e2e43c-27f1-4b05-93e4-42758d11644e_readytocook_8UMWZYH4AO_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/06de2dfe-e22a-4fff-a229-63d1fc8944d6_readytocook_8UMWZYH4AO_AL2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/0e78d011-81a1-4409-8875-9ef02f213582_readytocook_8UMWZYH4AO_AL3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/1b23b8c0-1d77-4f7b-9268-b3d9bac1cd0d_readytocook_8UMWZYH4AO_AL4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/a862d465-2edb-4edf-8877-84139b8ee2a9_readytocook_8UMWZYH4AO_AL5.png"
+        ],
+        "images_v2": null,
+        "quantity": "20 pieces",
+        "sku_quantity_with_combo": "20 pieces",
+        "unit_of_measure": null,
+        "weight_in_grams": 20,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "SPT Frozen Mix Veg",
+    "brand": "SPT",
+    "brand_id": "1eb3649de26d319049991933a8b89397627efc96",
+    "product_id": "JC7T4JGX2H",
+    "variations": [
+      {
+        "id": "OZPDQBOVTI",
+        "display_name": "SPT Frozen Mix Veg",
+        "price": {
+          "mrp": 120,
+          "store_price": 120,
+          "offer_price": 66,
+          "unit_level_price": "",
+          "discount_value": 54
+        },
+        "brand": "SPT",
+        "brand_id": "1eb3649de26d319049991933a8b89397627efc96",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Frozen Mix Veg",
+        "images": [
+          "362784ea4510d516b2570828cd45e344",
+          "eaffa9862f3986ea34ce85d684ea3b19",
+          "1bacb7095276f873ef0212d0b4395a9c"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Mr Freeze Fresh Frozen Green Peas ",
+    "brand": "Mr Freeze",
+    "brand_id": "6d03b38399f9aa1ed470c3d75a1feb014566d6b0",
+    "product_id": "G01TFX658C",
+    "variations": [
+      {
+        "id": "QRP6455CYX",
+        "display_name": "Mr Freeze Fresh Frozen Green Peas ",
+        "price": {
+          "mrp": 243,
+          "store_price": 243,
+          "offer_price": 109,
+          "unit_level_price": "",
+          "discount_value": 134
+        },
+        "brand": "Mr Freeze",
+        "brand_id": "6d03b38399f9aa1ed470c3d75a1feb014566d6b0",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Fresh Frozen Green Peas ",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/5133ec6e-b63b-4a70-90d5-f9231e128348_460800_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/2321f4f5-8e5a-4d6d-90e4-172567fbc746_460800_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/19/e48d5e24-7a1d-4376-910a-887270bd5cb6_460800_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "1 kg",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": null,
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Wow! Corn & Cheese Momos & Del Monte Tomato Ketchup Combo",
+    "brand": "Wow! Momo",
+    "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+    "product_id": "HNGSZ0HFS1",
+    "variations": [
+      {
+        "id": "0LXR0I2UKG",
+        "display_name": "Wow! Corn & Cheese Momos & Del Monte Tomato Ketchup Combo",
+        "price": {
+          "mrp": 290,
+          "store_price": 290,
+          "offer_price": 237,
+          "unit_level_price": "",
+          "discount_value": 53
+        },
+        "brand": "Wow! Momo",
+        "brand_id": "f945332e63fffc189578bb45dc242aa10d897d68",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Wow! Corn & Cheese Momos & Del Monte Tomato Ketchup Combo",
+        "images": [
+          "8e4021ecadc767966670750e03f66216"
+        ],
+        "images_v2": null,
+        "quantity": "1 combo",
+        "sku_quantity_with_combo": "1 combo",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "ITC Master Chef Classic Aloo Tikki| No Added Preservatives| 12 pieces",
+    "brand": "Itc Master Chef",
+    "brand_id": "4ed554c3a7e79a967ed8c258545a252d26b5255d",
+    "product_id": "AT5JKUWSRQ",
+    "variations": [
+      {
+        "id": "DJQO45CLVY",
+        "display_name": "ITC Master Chef Classic Aloo Tikki| No Added Preservatives| 12 pieces",
+        "price": {
+          "mrp": 135,
+          "store_price": 135,
+          "offer_price": 105,
+          "unit_level_price": "",
+          "discount_value": 30
+        },
+        "brand": "Itc Master Chef",
+        "brand_id": "4ed554c3a7e79a967ed8c258545a252d26b5255d",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "ITC Master Chef Classic Aloo Tikki| No Added Preservatives| 12 pieces",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/21/d30e0f54-dacd-4208-b998-c2ee79dbda4d_3446_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/21/3cd783f1-ceb7-48da-a4d2-704cdc00c851_3446_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/21/e682614d-15be-4cbb-b46c-a23b5ab3d566_3446_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/21/951381e1-5520-4fb9-b165-03fca7ea3fea_3446_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/21/e742b5cf-bdd3-45a0-a12a-1201dc407e46_3446_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/21/21d04762-fe5b-4cb0-9b0e-4b97d2b8b77e_3446_6.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/21/8e1f670c-932b-452c-ab44-0b6549acb6e8_3446_8.png"
+        ],
+        "images_v2": null,
+        "quantity": "400 g",
+        "sku_quantity_with_combo": "400 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 480,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Farmland Frozen Sweet Corn Ready To Cook Frozen Vegetable",
+    "brand": "Farmland",
+    "brand_id": "b41775dfa8ca7f3eeff955b107b88ff5d2034c82",
+    "product_id": "EINBXX6NTD",
+    "variations": [
+      {
+        "id": "99Z53NYX8Q",
+        "display_name": "Farmland Frozen Sweet Corn Ready To Cook Frozen Vegetable",
+        "price": {
+          "mrp": 125,
+          "store_price": 125,
+          "offer_price": 125,
+          "unit_level_price": "",
+          "discount_value": 0
+        },
+        "brand": "Farmland",
+        "brand_id": "b41775dfa8ca7f3eeff955b107b88ff5d2034c82",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Frozen Sweet Corn Ready To Cook Frozen Vegetable",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/086be2c3-cbec-4a9e-a4f7-ff683d514200_45893_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/7e812e59-b67e-492d-b23f-3bc1c89a01fe_45893_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/9b7a53b2-4d9b-48da-bf2e-23c10a149b6d_45893_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/4/17/12ce41fa-0b8a-41af-9623-5e228d37e005_45893_4.png"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Wow Smileys Veggie Nuggets",
+    "brand": "Wow! Momo",
+    "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+    "product_id": "LG9DSGQG68",
+    "variations": [
+      {
+        "id": "SPGU2VMH6C",
+        "display_name": "Wow Smileys Veggie Nuggets",
+        "price": {
+          "mrp": 199,
+          "store_price": 199,
+          "offer_price": 129,
+          "unit_level_price": "",
+          "discount_value": 70
+        },
+        "brand": "Wow! Momo",
+        "brand_id": "b4f04811b80b175009f9bcda402e50b3d7807011",
+        "category": "Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Wow Smileys Veggie Nuggets",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/8/633c28d2-a5cc-4e36-86a2-a79245961315_268991_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/8/3f836778-0200-4500-86ac-3c8a66e6ba86_268991_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/8/260c4911-e403-4977-a5af-7e63acbfbaea_268991_3.png"
+        ],
+        "images_v2": null,
+        "quantity": "250 gm",
+        "sku_quantity_with_combo": "250 gm",
+        "unit_of_measure": null,
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  },
+  {
+    "display_name": "Godrej Yummiez Medium Prawns",
+    "brand": "Godrej Yummiez",
+    "brand_id": "bb89efa9fd167a0d071e49f9b0dbb095b13142c0",
+    "product_id": "PCB0O9LK5E",
+    "variations": [
+      {
+        "id": "WVQJ5TY1OP",
+        "display_name": "Godrej Yummiez Medium Prawns",
+        "price": {
+          "mrp": 265,
+          "store_price": 265,
+          "offer_price": 199,
+          "unit_level_price": "",
+          "discount_value": 66
+        },
+        "brand": "Godrej Yummiez",
+        "brand_id": "bb89efa9fd167a0d071e49f9b0dbb095b13142c0",
+        "category": "Non Veg Frozen Food",
+        "super_category": "Instant Food and Frozen Food",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Medium Prawns",
+        "images": [
+          "6b3bdf5e1a0a6d926bf08cf7ed4c0200",
+          "b4b94ecc372c88fc92ad29284d10422a",
+          "f2e79d52c12287e8a15e62f5c5f21267"
+        ],
+        "images_v2": null,
+        "quantity": "200 g",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeebed32000001e25a87",
+        "name": "Frozen Food"
+      },
+      "category_name_from_url": "Frozen Food"
+    }
+  }
+]

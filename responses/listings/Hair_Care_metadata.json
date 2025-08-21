@@ -1,0 +1,171 @@
+{
+  "categories": [
+    {
+      "id": "6822eeefed32000001e25b4b",
+      "display_name": "Bath and Body",
+      "product_count": 1622,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/062ce6fe-c90e-4017-831b-c931f11b2c24_c5520d03-1113-4832-a1ed-a119cdfa2902",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b59",
+      "display_name": "Hair Care",
+      "product_count": 1033,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/7dd2200a-cb1c-41d9-b1e8-46f38473553c_159a7f53-ba98-4d60-850a-4c6190902c57",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b62",
+      "display_name": "Skincare",
+      "product_count": 1184,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/742eda61-6595-416f-9053-a22333a0ff94_2bbb3337-9f69-4f9d-ae1b-b306e3e53e86",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b6a",
+      "display_name": "Makeup",
+      "product_count": 1024,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/693e91dc-ce1a-4dee-9646-ee3b90eabff7_5faab24b-46ab-41f7-ae12-4d29c6dedb76",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b71",
+      "display_name": "Oral Care",
+      "product_count": 247,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/9fcdb58a-f84e-4a63-94dd-2d85dc0288c2_a326cf61-577b-44c5-a296-1c9f4898df40",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b79",
+      "display_name": "Grooming",
+      "product_count": 359,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/ac9c2e1b-1791-40ec-bd2f-b0036a737f34_9a79e7e7-799e-4d9b-b043-c6a2e8fe76cb",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b89",
+      "display_name": "Baby Care",
+      "product_count": 814,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/ed3380cf-9912-4eb9-9127-3745d77973eb_a6944c2b-75b9-44f2-9697-517615d7af62",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b9a",
+      "display_name": "Fragrances",
+      "product_count": 482,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/2840ac14-2e8d-4424-841b-0a3625359b29_ce126c72-564e-40b2-9ee3-925f7ad0d037",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25ba2",
+      "display_name": "Protein and Supplements",
+      "product_count": 620,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/b86a895c-e4e8-4653-bda9-633e953e64fc_34e3a030-9ae0-4be4-bf29-664dbe9416a7",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25baf",
+      "display_name": "Feminine Hygiene",
+      "product_count": 465,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/408f229e-01c6-4afd-929b-0ace3ccd8bc4_70ce3354-bfd7-4b03-9972-238d77503f24",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25bb7",
+      "display_name": "Sexual Wellness",
+      "product_count": 316,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/dd818ead-6ea9-4c81-a133-2e1a446a98a3_9c80e128-d615-42a0-b7d7-70ac0687408e",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25bbf",
+      "display_name": "Health and Pharma",
+      "product_count": 922,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/a234c550-ec96-4130-a7ed-ae067ac82e33_d7161c27-69fd-405a-a691-8d01d9ddb375",
+      "age_consent_required": false
+    }
+  ],
+  "selected_category": {
+    "id": "6822eeefed32000001e25b59",
+    "name": "Hair Care"
+  },
+  "filters": [
+    {
+      "id": "687a0b88031e8f00014f1edd",
+      "name": "Top Deals",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/19/6e82fb5f-c76b-4e52-a0ed-9091db3dffc7_39edba76-be69-4f5d-b2b8-81726d784c56",
+      "type": "Supermarket",
+      "product_count": 132
+    },
+    {
+      "id": "6822eeefed32000001e25b5a",
+      "name": "Hair Oils and Serums",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/4/1/f6148376-a640-4c89-a7c3-a351050773ac_723b8da1-247f-4bba-95ae-2bca029c41ee",
+      "type": "Supermarket",
+      "product_count": 173
+    },
+    {
+      "id": "6822eeefed32000001e25b5b",
+      "name": "Shampoo",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/4/1/40f5b832-2306-4ca3-ba05-c37a6e80903b_8c37ab85-9d35-467c-b143-8fa801d86ba3",
+      "type": "Supermarket",
+      "product_count": 299
+    },
+    {
+      "id": "6822eeefed32000001e25b5c",
+      "name": "Conditioners & Masks",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/4/2/d60fa190-8be5-4a2f-9b8f-4203dd984fd1_9f1e809a-ac04-46b1-abba-22f048888bcc",
+      "type": "Supermarket",
+      "product_count": 126
+    },
+    {
+      "id": "6822eeefed32000001e25b5d",
+      "name": "Hair Colour",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/1b7ad827-a858-41cc-9889-53c26267620e_0cb07177-b6b9-4c8f-bf04-58d26742ed1c",
+      "type": "Supermarket",
+      "product_count": 90
+    },
+    {
+      "id": "6888b9b91e589b0001309805",
+      "name": "Premium Brands",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/29/24aebf35-586a-41fe-804c-6d5ac15b1752_210e1dcb-ebee-45e6-93a2-98397727c5dd",
+      "type": "Supermarket",
+      "product_count": 32
+    },
+    {
+      "id": "6822eeefed32000001e25b5f",
+      "name": "Newly Added",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/68d7e7ef-eb28-4332-b6b7-870519454f6a_b8cf1cb8-410c-4654-b53b-18ffaa7bd416",
+      "type": "Supermarket",
+      "product_count": 112
+    },
+    {
+      "id": "6822eeefed32000001e25b5e",
+      "name": "Hair Styling Gels & Creams",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/b29fd1be-57aa-45db-b0d2-dc1fbe353fdd_221b774f-49fd-45d3-9708-b191572181df",
+      "type": "Supermarket",
+      "product_count": 40
+    },
+    {
+      "id": "6822eeefed32000001e25b60",
+      "name": "Combs & Brushes",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/13989e14-8bd8-40e2-bbb2-55f4ca6d0f2c_471b5bb0-ebcd-43a1-a42f-4d97151e8cf3",
+      "type": "Supermarket",
+      "product_count": 8
+    },
+    {
+      "id": "6822eeefed32000001e25b61",
+      "name": "Hair Dryers and Stylers",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/84a362bf-e12d-4584-af24-4ed4b527a832_29b3c09d-3cd9-43d1-985d-a1a2801ddb0a",
+      "type": "Supermarket",
+      "product_count": 17
+    },
+    {
+      "id": "6824a99856df9b0001250152",
+      "name": "Hair Supplements",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/5/14/532cd0f9-d423-4f13-be7b-90e146b653bb_e1c6be69-ed03-443e-b13f-ee1f47955992",
+      "type": "Supermarket",
+      "product_count": 4
+    }
+  ]
+}

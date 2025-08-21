@@ -1,0 +1,136 @@
+{
+  "categories": [
+    {
+      "id": "6822eeefed32000001e25b4b",
+      "display_name": "Bath and Body",
+      "product_count": 1622,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/062ce6fe-c90e-4017-831b-c931f11b2c24_c5520d03-1113-4832-a1ed-a119cdfa2902",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b59",
+      "display_name": "Hair Care",
+      "product_count": 1033,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/7dd2200a-cb1c-41d9-b1e8-46f38473553c_159a7f53-ba98-4d60-850a-4c6190902c57",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b62",
+      "display_name": "Skincare",
+      "product_count": 1184,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/742eda61-6595-416f-9053-a22333a0ff94_2bbb3337-9f69-4f9d-ae1b-b306e3e53e86",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b6a",
+      "display_name": "Makeup",
+      "product_count": 1024,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/693e91dc-ce1a-4dee-9646-ee3b90eabff7_5faab24b-46ab-41f7-ae12-4d29c6dedb76",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b71",
+      "display_name": "Oral Care",
+      "product_count": 247,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/9fcdb58a-f84e-4a63-94dd-2d85dc0288c2_a326cf61-577b-44c5-a296-1c9f4898df40",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b79",
+      "display_name": "Grooming",
+      "product_count": 359,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/ac9c2e1b-1791-40ec-bd2f-b0036a737f34_9a79e7e7-799e-4d9b-b043-c6a2e8fe76cb",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b89",
+      "display_name": "Baby Care",
+      "product_count": 814,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/ed3380cf-9912-4eb9-9127-3745d77973eb_a6944c2b-75b9-44f2-9697-517615d7af62",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25b9a",
+      "display_name": "Fragrances",
+      "product_count": 482,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/2840ac14-2e8d-4424-841b-0a3625359b29_ce126c72-564e-40b2-9ee3-925f7ad0d037",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25ba2",
+      "display_name": "Protein and Supplements",
+      "product_count": 620,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/b86a895c-e4e8-4653-bda9-633e953e64fc_34e3a030-9ae0-4be4-bf29-664dbe9416a7",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25baf",
+      "display_name": "Feminine Hygiene",
+      "product_count": 465,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/408f229e-01c6-4afd-929b-0ace3ccd8bc4_70ce3354-bfd7-4b03-9972-238d77503f24",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25bb7",
+      "display_name": "Sexual Wellness",
+      "product_count": 316,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/dd818ead-6ea9-4c81-a133-2e1a446a98a3_9c80e128-d615-42a0-b7d7-70ac0687408e",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeefed32000001e25bbf",
+      "display_name": "Health and Pharma",
+      "product_count": 922,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/a234c550-ec96-4130-a7ed-ae067ac82e33_d7161c27-69fd-405a-a691-8d01d9ddb375",
+      "age_consent_required": false
+    }
+  ],
+  "selected_category": {
+    "id": "6822eeefed32000001e25bb7",
+    "name": "Sexual Wellness"
+  },
+  "filters": [
+    {
+      "id": "6822eeefed32000001e25bb8",
+      "name": "Condoms",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/21/c2cfb241-ef30-45bf-8379-369066294cf1_dc291e7a-711f-45af-acad-798a360fff0a",
+      "type": "Supermarket",
+      "product_count": 146
+    },
+    {
+      "id": "6822eeefed32000001e25bb9",
+      "name": "Lubricants",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/21/38a9807f-e3ec-4740-9edd-c7b1856aeb68_837ec60a-3748-4bcd-a180-c43436bf5277",
+      "type": "Supermarket",
+      "product_count": 34
+    },
+    {
+      "id": "6822eeefed32000001e25bba",
+      "name": "Massagers",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/21/0e15bfd7-9f38-4dd8-9ebe-9c787666e877_3b9a62c2-a8af-4177-9723-3992eff8c9c2",
+      "type": "Supermarket",
+      "product_count": 26
+    },
+    {
+      "id": "6822eeefed32000001e25bbb",
+      "name": "Enhancers",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/cb4aeefb-84b1-4a75-94d6-18be00d20b30_62ecdea7-f61b-4dc4-bf29-481aa8641f46",
+      "type": "Supermarket",
+      "product_count": 37
+    },
+    {
+      "id": "6822eeefed32000001e25bbc",
+      "name": "Gift Kits",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/26/5e6fd852-9628-4005-b305-e95f4f764e0d_496e52ab-75f1-4d2a-a7f8-e351c2d0a057",
+      "type": "Supermarket",
+      "product_count": 11
+    },
+    {
+      "id": "6822eeefed32000001e25bbd",
+      "name": "Newly Added",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/68d7e7ef-eb28-4332-b6b7-870519454f6a_b8cf1cb8-410c-4654-b53b-18ffaa7bd416",
+      "type": "Supermarket",
+      "product_count": 62
+    }
+  ]
+}

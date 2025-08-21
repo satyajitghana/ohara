@@ -1,0 +1,178 @@
+{
+  "categories": [
+    {
+      "id": "6822eeeded32000001e25aa1",
+      "display_name": "Fresh Vegetables",
+      "product_count": 582,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/e9395c2f-a316-4899-8a05-c08afa34de5a_9ada60fa-2794-45d7-b780-50015de09230",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25aae",
+      "display_name": "Fresh Fruits",
+      "product_count": 567,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/7e47a6e7-f40d-457f-9b46-fa23e3e015d6_3954cc97-e485-4725-b595-3a6e7029211f",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25abb",
+      "display_name": "Dairy, Bread and Eggs",
+      "product_count": 1319,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/a8042459-6e03-40b7-88e6-5d7acb437880_1f641338-2306-4841-97aa-cb65b497d132",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25aca",
+      "display_name": "Cereals and Breakfast",
+      "product_count": 1758,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/1f081643-e392-4585-a8e7-04ace4ace1ef_2e314d6c-ed11-49af-8927-e3eadde4dbad",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25add",
+      "display_name": "Atta, Rice and Dal",
+      "product_count": 1225,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/fe25fe8b-a26f-49dc-af50-c748fff09475_165b10b8-00b7-4837-a27e-6399a3c99c29",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25aec",
+      "display_name": "Oils and Ghee",
+      "product_count": 810,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/b5e07c24-ed2b-4101-a87d-aeed35b4e2e7_30d06ae8-5347-4961-8d68-02b189159321",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25af9",
+      "display_name": "Masalas",
+      "product_count": 1218,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/5fb9f911-93e8-47d2-afd3-a9c876bbffe2_f00a60a1-de42-4132-808e-dc1136c27bac",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b06",
+      "display_name": "Dry Fruits and Seeds Mix",
+      "product_count": 917,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/49c9852b-967f-40ef-8ff1-6c28a4282c65_9dcb6679-51f7-45ae-a367-eb056a8713e2",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b13",
+      "display_name": "Biscuits and Cakes",
+      "product_count": 1201,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/93e396cf-71df-4ed3-9015-af13fa3c9081_ccdcba8a-aa86-4ff9-9229-ed8f6c53cac0",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b24",
+      "display_name": "Tea, Coffee and Milk drinks",
+      "product_count": 1231,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/c54610b9-868e-4fdd-83d5-4d723ee93261_d0ee1b6c-dd6a-45fc-8f99-929a56764014",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b31",
+      "display_name": "Sauces and Spreads",
+      "product_count": 584,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/49f512f4-5613-45af-bbd4-2eaa13906240_a026b538-95c9-4060-8cd0-0f44e0c2742f",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b3c",
+      "display_name": "Meat and Seafood",
+      "product_count": 692,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/774ad667-efe6-4145-ad58-3362632508fd_b8600286-4ff0-45bf-bfc6-45f4098cec35",
+      "age_consent_required": false
+    }
+  ],
+  "selected_category": {
+    "id": "6822eeeded32000001e25b3c",
+    "name": "Meat and Seafood"
+  },
+  "filters": [
+    {
+      "id": "6822eeeded32000001e25b3d",
+      "name": "Fresh Chicken",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/4b0b663e-fb13-49ec-bd52-dfae2328fcd1_7adcab28-51f3-4a68-88d5-b9f8ce7d64b7",
+      "type": "Speciality taxonomy 1",
+      "product_count": 24
+    },
+    {
+      "id": "6822eeeded32000001e25b3e",
+      "name": "Fresh Seafood",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/fde3a928-55e0-4367-9145-6b2f69e331f1_f24f6a02-28e5-481b-af67-9354fccd64a3",
+      "type": "Speciality taxonomy 1",
+      "product_count": 16
+    },
+    {
+      "id": "6822eeeded32000001e25b3f",
+      "name": "Fresh Mutton",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/8b12d872-0b01-4d38-b134-8c4f759f0fe6_f8f00b58-6739-4ce7-b1ef-33b62b8e6470",
+      "type": "Speciality taxonomy 1",
+      "product_count": 8
+    },
+    {
+      "id": "6822eeeded32000001e25b45",
+      "name": "Marinated",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/2e3197ba-cef2-4615-bba8-09d64665d76a_192a1248-304b-466e-8621-a6803a03edbe",
+      "type": "Speciality taxonomy 1",
+      "product_count": 4
+    },
+    {
+      "id": "6822eeeded32000001e25b43",
+      "name": "Newly Added",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/68d7e7ef-eb28-4332-b6b7-870519454f6a_b8cf1cb8-410c-4654-b53b-18ffaa7bd416",
+      "type": "Speciality taxonomy 1",
+      "product_count": 13
+    },
+    {
+      "id": "6822eeeded32000001e25b46",
+      "name": "Cold Cuts",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/c25c60e8-4a7e-40e1-8734-a7c81ba5785e_615ffaf2-bb2e-4532-a2f0-e674a9c10cd8",
+      "type": "Speciality taxonomy 1",
+      "product_count": 64
+    },
+    {
+      "id": "6822eeeded32000001e25b44",
+      "name": "Eggs",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/e1434bc8-a092-458b-be2d-6a54202c4252_ec3fc198-ba9c-4ec4-a9ef-481f00966d0f",
+      "type": "Speciality taxonomy 1",
+      "product_count": 38
+    },
+    {
+      "id": "6822eeeded32000001e25b48",
+      "name": "Paste and Spreads",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/e70e3f93-9497-4fe4-98b4-1934fa8dea36_a2dadb5d-b050-4957-89ac-02e076736852",
+      "type": "Speciality taxonomy 1",
+      "product_count": 27
+    },
+    {
+      "id": "6822eeeded32000001e25b42",
+      "name": "Frozen Food",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/3e2d1d2d-164b-4cb3-8385-bf98dce0fe41_09603283-f832-427f-92f8-75a37b646035",
+      "type": "Speciality taxonomy 1",
+      "product_count": 223
+    },
+    {
+      "id": "6822eeeded32000001e25b41",
+      "name": "Leafy and Seasonings",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/24/37ff3ca0-1d8d-45bb-bbd0-a1904a293c53_79d2c6a4-7c10-450e-b53d-f17322d22bc7",
+      "type": "Speciality taxonomy 1",
+      "product_count": 62
+    },
+    {
+      "id": "6822eeeded32000001e25b47",
+      "name": "Masalas",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/68b38691-9f5b-43ae-9cfb-fc88c20a7bba_7de848dd-df2f-43ea-b533-c874a60f374f",
+      "type": "Speciality taxonomy 1",
+      "product_count": 192
+    },
+    {
+      "id": "6822eeeded32000001e25b49",
+      "name": "Plant Based Meat",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/4fec724a-c344-4b23-b6fd-e6d696577cfd_444bb828-6365-413c-b7d0-ef1864b95ad5",
+      "type": "Speciality taxonomy 1",
+      "product_count": 21
+    }
+  ]
+}

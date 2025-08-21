@@ -1,0 +1,185 @@
+{
+  "categories": [
+    {
+      "id": "6822eeeded32000001e25aa1",
+      "display_name": "Fresh Vegetables",
+      "product_count": 582,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/e9395c2f-a316-4899-8a05-c08afa34de5a_9ada60fa-2794-45d7-b780-50015de09230",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25aae",
+      "display_name": "Fresh Fruits",
+      "product_count": 567,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/7e47a6e7-f40d-457f-9b46-fa23e3e015d6_3954cc97-e485-4725-b595-3a6e7029211f",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25abb",
+      "display_name": "Dairy, Bread and Eggs",
+      "product_count": 1319,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/a8042459-6e03-40b7-88e6-5d7acb437880_1f641338-2306-4841-97aa-cb65b497d132",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25aca",
+      "display_name": "Cereals and Breakfast",
+      "product_count": 1758,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/1f081643-e392-4585-a8e7-04ace4ace1ef_2e314d6c-ed11-49af-8927-e3eadde4dbad",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25add",
+      "display_name": "Atta, Rice and Dal",
+      "product_count": 1225,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/fe25fe8b-a26f-49dc-af50-c748fff09475_165b10b8-00b7-4837-a27e-6399a3c99c29",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25aec",
+      "display_name": "Oils and Ghee",
+      "product_count": 810,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/b5e07c24-ed2b-4101-a87d-aeed35b4e2e7_30d06ae8-5347-4961-8d68-02b189159321",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25af9",
+      "display_name": "Masalas",
+      "product_count": 1218,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/5fb9f911-93e8-47d2-afd3-a9c876bbffe2_f00a60a1-de42-4132-808e-dc1136c27bac",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b06",
+      "display_name": "Dry Fruits and Seeds Mix",
+      "product_count": 917,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/49c9852b-967f-40ef-8ff1-6c28a4282c65_9dcb6679-51f7-45ae-a367-eb056a8713e2",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b13",
+      "display_name": "Biscuits and Cakes",
+      "product_count": 1201,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/93e396cf-71df-4ed3-9015-af13fa3c9081_ccdcba8a-aa86-4ff9-9229-ed8f6c53cac0",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b24",
+      "display_name": "Tea, Coffee and Milk drinks",
+      "product_count": 1231,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/c54610b9-868e-4fdd-83d5-4d723ee93261_d0ee1b6c-dd6a-45fc-8f99-929a56764014",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b31",
+      "display_name": "Sauces and Spreads",
+      "product_count": 584,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/49f512f4-5613-45af-bbd4-2eaa13906240_a026b538-95c9-4060-8cd0-0f44e0c2742f",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b3c",
+      "display_name": "Meat and Seafood",
+      "product_count": 692,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/774ad667-efe6-4145-ad58-3362632508fd_b8600286-4ff0-45bf-bfc6-45f4098cec35",
+      "age_consent_required": false
+    }
+  ],
+  "selected_category": {
+    "id": "6822eeeded32000001e25b24",
+    "name": "Tea, Coffee and Milk drinks"
+  },
+  "filters": [
+    {
+      "id": "6822eeeded32000001e25b25",
+      "name": "Top Deals",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/8/24/04b511b0-1bc7-40df-ba3a-b060b8e8cbe3_ba39f4fe-84a2-4acd-9643-d2a22a3b254e",
+      "type": "Speciality taxonomy 1",
+      "product_count": 73
+    },
+    {
+      "id": "6822eeeded32000001e25b26",
+      "name": "Tea",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/73074c56-8f1f-43b0-b664-1c9fc1dca985_95772c47-cf44-4561-b9f7-a384a03c24a1",
+      "type": "Speciality taxonomy 1",
+      "product_count": 191
+    },
+    {
+      "id": "6822eeeded32000001e25b27",
+      "name": "Instant Coffee",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/25/1f5ee8c9-450f-4d41-aef3-a76131d2bace_f2424ace-0bd8-469e-b7ec-238535c7f768",
+      "type": "Speciality taxonomy 1",
+      "product_count": 151
+    },
+    {
+      "id": "6822eeeded32000001e25b28",
+      "name": "Filter & Ground Coffee",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/767163d3-3502-4a32-aabf-890de1a1c1fc_8bcdd82a-21d3-4fc0-850a-08ba7d8f006a",
+      "type": "Speciality taxonomy 1",
+      "product_count": 48
+    },
+    {
+      "id": "6822eeeded32000001e25b29",
+      "name": "Green & Herbal Tea",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/522aaeae-6759-4829-852b-b8e7c41f0f4a_37a3469a-baf4-4f76-811f-81ca5270646b",
+      "type": "Speciality taxonomy 1",
+      "product_count": 82
+    },
+    {
+      "id": "6822eeeded32000001e25b2b",
+      "name": "Newly Added",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/68d7e7ef-eb28-4332-b6b7-870519454f6a_b8cf1cb8-410c-4654-b53b-18ffaa7bd416",
+      "type": "Speciality taxonomy 1",
+      "product_count": 105
+    },
+    {
+      "id": "6822eeeded32000001e25b2a",
+      "name": "Cold Coffee",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/15/45294cd5-fc73-49aa-bdba-4f5cec41ead4_8b42b99e-1691-46e7-8c03-88bbf5c014c5",
+      "type": "Speciality taxonomy 1",
+      "product_count": 85
+    },
+    {
+      "id": "6822eeeded32000001e25b2c",
+      "name": "Drink Mixes",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/494907a8-805d-4bee-9ca0-d79b0ba4396f_9432f180-aee6-4e7d-a044-df37d02f7c4e",
+      "type": "Speciality taxonomy 1",
+      "product_count": 126
+    },
+    {
+      "id": "6822eeeded32000001e25b2d",
+      "name": "Adult Nutrition",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/4ece3080-a172-4c8f-abd0-2c79fb1221ba_727d0834-86ab-47a9-b4f0-aa71a261c83f",
+      "type": "Speciality taxonomy 1",
+      "product_count": 71
+    },
+    {
+      "id": "6822eeeded32000001e25b2e",
+      "name": "Milkshake & Smoothie",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/23/9b920b46-7e16-4198-a619-b3832b8bebe0_7fbd569c-60dd-4fe4-bb14-6d6558e0dfb6",
+      "type": "Speciality taxonomy 1",
+      "product_count": 122
+    },
+    {
+      "id": "6822eeeded32000001e25b2f",
+      "name": "Syrups & Powder",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/1baecec3-7807-4e9f-84bf-5bdb347307a5_0f4a1bf4-90cf-4711-9d70-ab72fa186d11",
+      "type": "Speciality taxonomy 1",
+      "product_count": 82
+    },
+    {
+      "id": "6822eeeded32000001e25b30",
+      "name": "Premixes",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/6a4c7998-b235-4761-9380-90a402af09d2_514d7a9b-7d8f-4ac2-92d7-8dd73474f6c2",
+      "type": "Speciality taxonomy 1",
+      "product_count": 32
+    },
+    {
+      "id": "683d96378efe96000132a121",
+      "name": "Cookies and Rusks",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/6/2/e0e506d0-9867-4d6a-a080-79849f6caa97_ee9053a0-92d2-4990-b166-ac0c602a860a",
+      "type": "Speciality taxonomy 1",
+      "product_count": 63
+    }
+  ]
+}

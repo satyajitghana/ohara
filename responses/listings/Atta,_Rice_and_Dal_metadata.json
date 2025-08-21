@@ -1,0 +1,199 @@
+{
+  "categories": [
+    {
+      "id": "6822eeeded32000001e25aa1",
+      "display_name": "Fresh Vegetables",
+      "product_count": 582,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/e9395c2f-a316-4899-8a05-c08afa34de5a_9ada60fa-2794-45d7-b780-50015de09230",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25aae",
+      "display_name": "Fresh Fruits",
+      "product_count": 567,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/7e47a6e7-f40d-457f-9b46-fa23e3e015d6_3954cc97-e485-4725-b595-3a6e7029211f",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25abb",
+      "display_name": "Dairy, Bread and Eggs",
+      "product_count": 1319,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/a8042459-6e03-40b7-88e6-5d7acb437880_1f641338-2306-4841-97aa-cb65b497d132",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25aca",
+      "display_name": "Cereals and Breakfast",
+      "product_count": 1758,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/1f081643-e392-4585-a8e7-04ace4ace1ef_2e314d6c-ed11-49af-8927-e3eadde4dbad",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25add",
+      "display_name": "Atta, Rice and Dal",
+      "product_count": 1225,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/fe25fe8b-a26f-49dc-af50-c748fff09475_165b10b8-00b7-4837-a27e-6399a3c99c29",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25aec",
+      "display_name": "Oils and Ghee",
+      "product_count": 810,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/b5e07c24-ed2b-4101-a87d-aeed35b4e2e7_30d06ae8-5347-4961-8d68-02b189159321",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25af9",
+      "display_name": "Masalas",
+      "product_count": 1218,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/5fb9f911-93e8-47d2-afd3-a9c876bbffe2_f00a60a1-de42-4132-808e-dc1136c27bac",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b06",
+      "display_name": "Dry Fruits and Seeds Mix",
+      "product_count": 917,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/49c9852b-967f-40ef-8ff1-6c28a4282c65_9dcb6679-51f7-45ae-a367-eb056a8713e2",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b13",
+      "display_name": "Biscuits and Cakes",
+      "product_count": 1201,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/93e396cf-71df-4ed3-9015-af13fa3c9081_ccdcba8a-aa86-4ff9-9229-ed8f6c53cac0",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b24",
+      "display_name": "Tea, Coffee and Milk drinks",
+      "product_count": 1231,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/c54610b9-868e-4fdd-83d5-4d723ee93261_d0ee1b6c-dd6a-45fc-8f99-929a56764014",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b31",
+      "display_name": "Sauces and Spreads",
+      "product_count": 584,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/49f512f4-5613-45af-bbd4-2eaa13906240_a026b538-95c9-4060-8cd0-0f44e0c2742f",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeeded32000001e25b3c",
+      "display_name": "Meat and Seafood",
+      "product_count": 692,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/774ad667-efe6-4145-ad58-3362632508fd_b8600286-4ff0-45bf-bfc6-45f4098cec35",
+      "age_consent_required": false
+    }
+  ],
+  "selected_category": {
+    "id": "6822eeeded32000001e25add",
+    "name": "Atta, Rice and Dal"
+  },
+  "filters": [
+    {
+      "id": "6822eeeded32000001e25ade",
+      "name": "Top Deals",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/8/24/04b511b0-1bc7-40df-ba3a-b060b8e8cbe3_ba39f4fe-84a2-4acd-9643-d2a22a3b254e",
+      "type": "Speciality taxonomy 1",
+      "product_count": 101
+    },
+    {
+      "id": "6822eeeded32000001e25adf",
+      "name": "Basmati Rice",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/6b4f6368-c143-4a0c-b515-ea96103fe6cf_b1d6f34d-0466-4c44-bf42-d1595ec141f4",
+      "type": "Speciality taxonomy 1",
+      "product_count": 71
+    },
+    {
+      "id": "6822eeeded32000001e25ae0",
+      "name": "Atta",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/1561a092-2185-4dbc-93e9-fe006529737b_5215c0e8-8432-4fae-a5e5-b6bc358652e1",
+      "type": "Speciality taxonomy 1",
+      "product_count": 63
+    },
+    {
+      "id": "6822eeeded32000001e25ae1",
+      "name": "Rice",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/9/20/e5f2e2e4-ad26-45cb-9453-7e9efcec4bad_47e132f5-18d0-4597-89db-e8b74342e933",
+      "type": "Speciality taxonomy 1",
+      "product_count": 207
+    },
+    {
+      "id": "6822eeeded32000001e25ae2",
+      "name": "Besan, Sooji and Maida",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/6c94b481-ac42-4084-b6b9-787cd2ea1838_26194284-b619-4b4c-9029-35a03ea15f7a",
+      "type": "Speciality taxonomy 1",
+      "product_count": 57
+    },
+    {
+      "id": "687a33b4031e8f00014f1ee1",
+      "name": "Premium Brands",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/18/5fca27ed-278a-43d0-87ba-0b4b6cb222be_0e80c51d-9a5c-4feb-a14f-e4c18ee70bbe",
+      "type": "Speciality taxonomy 1",
+      "product_count": 110
+    },
+    {
+      "id": "6822eeeded32000001e25ae4",
+      "name": "Newly Added",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/68d7e7ef-eb28-4332-b6b7-870519454f6a_b8cf1cb8-410c-4654-b53b-18ffaa7bd416",
+      "type": "Speciality taxonomy 1",
+      "product_count": 88
+    },
+    {
+      "id": "6822eeeded32000001e25ae3",
+      "name": "Toor, Moong and Urad",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/20/8c2a4cf7-83b2-469d-abcc-cf5e41200fa1_ea666101-d9a8-457f-87d2-8394e5c3e449",
+      "type": "Speciality taxonomy 1",
+      "product_count": 134
+    },
+    {
+      "id": "6822eeeded32000001e25ae5",
+      "name": "Rajma, Chola and Others",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/20/d11e7b08-61a0-472e-92f3-249874f60bd2_c0673b92-a94a-4941-a796-9027612c5735",
+      "type": "Speciality taxonomy 1",
+      "product_count": 149
+    },
+    {
+      "id": "6822eeeded32000001e25ae6",
+      "name": "Poha & Puffed Rice",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/f3931a4a-8bef-4a9d-8c10-d385d77f54a6_455f39ac-456f-4098-a66f-477a57bb2155",
+      "type": "Speciality taxonomy 1",
+      "product_count": 29
+    },
+    {
+      "id": "6822eeeded32000001e25ae7",
+      "name": "Ready to Cook Flour Mix",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/9/20/aac3e14a-e853-4e6c-ad11-47f823c5b974_85a731bf-aa6b-4fae-ac17-6d96385b7644",
+      "type": "Speciality taxonomy 1",
+      "product_count": 15
+    },
+    {
+      "id": "6822eeeded32000001e25ae8",
+      "name": "Millets & Daliya",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/6f7d4ca3-c7b6-4644-a8f7-8b7a56a04542_cc7fc1c2-1007-46a5-9cb0-7f502fa93b63",
+      "type": "Speciality taxonomy 1",
+      "product_count": 39
+    },
+    {
+      "id": "6822eeeded32000001e25ae9",
+      "name": "Other Flours",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/304bffef-3aee-4ae6-a258-f889e4d1545c_b45b08bb-854d-4bb7-ba33-80a415d07c38",
+      "type": "Speciality taxonomy 1",
+      "product_count": 82
+    },
+    {
+      "id": "6822eeeded32000001e25aea",
+      "name": "Soya Chunk & Badi",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/17/60a9d5dd-f628-41bb-93e4-52b7e42ab58f_df8a22f9-a0ec-4112-b11a-d30cbcb6b904",
+      "type": "Speciality taxonomy 1",
+      "product_count": 20
+    },
+    {
+      "id": "6822eeeded32000001e25aeb",
+      "name": "Limited Time Deal",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/11/f40d682e-429a-48ac-8da1-d9b4d6fefb1f_058d9336-6dd9-4d69-986b-b5f4a8af9c7a",
+      "type": "Speciality taxonomy 1",
+      "product_count": 60
+    }
+  ]
+}

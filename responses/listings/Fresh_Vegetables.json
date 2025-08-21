@@ -1,5 +1,51 @@
 [
   {
+    "display_name": "Onion (Eerulli)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "4M2JLMBEXY",
+    "variations": [
+      {
+        "id": "2300B5R496",
+        "display_name": "Onion (Eerulli)",
+        "price": {
+          "mrp": 39,
+          "store_price": 39,
+          "offer_price": 27,
+          "unit_level_price": "",
+          "discount_value": 12
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Onion",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Onion (Eerulli)",
+        "images": [
+          "765ff374dd4023fde2d3936ec482814d",
+          "05b5c3c44a0fd1ac737337add052f4a3"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
     "display_name": "Indian Tomato",
     "brand": "Fruits and Vegetables",
     "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -9,11 +55,11 @@
         "id": "P6PDPBMO1Y",
         "display_name": "Indian Tomato",
         "price": {
-          "mrp": 40,
-          "store_price": 40,
-          "offer_price": 30,
-          "unit_level_price": "6/100 g",
-          "discount_value": 10
+          "mrp": 41,
+          "store_price": 41,
+          "offer_price": 27,
+          "unit_level_price": "5.4/100 g",
+          "discount_value": 14
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -36,7 +82,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Hybrid Tomato",
@@ -48,11 +101,11 @@
         "id": "M7PLPQ2TK2",
         "display_name": "Hybrid Tomato",
         "price": {
-          "mrp": 38,
-          "store_price": 38,
-          "offer_price": 28,
-          "unit_level_price": "5.6/100 g",
-          "discount_value": 10
+          "mrp": 40,
+          "store_price": 40,
+          "offer_price": 26,
+          "unit_level_price": "5.2/100 g",
+          "discount_value": 14
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -75,7 +128,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Organic Certified Hybrid Tomato",
@@ -87,11 +147,11 @@
         "id": "D4SAIU4FUH",
         "display_name": "Organic Certified Hybrid Tomato",
         "price": {
-          "mrp": 56,
-          "store_price": 56,
-          "offer_price": 45,
+          "mrp": 59,
+          "store_price": 59,
+          "offer_price": 47,
           "unit_level_price": "",
-          "discount_value": 11
+          "discount_value": 12
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -114,7 +174,60 @@
         "scm_item_type": "NORMAL",
         "filters_tag": "Organics"
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Organic Certified Indian Tomato",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "KQI7X2NLB1",
+    "variations": [
+      {
+        "id": "J7F0T9QNJ8",
+        "display_name": "Organic Certified Indian Tomato",
+        "price": {
+          "mrp": 59,
+          "store_price": 59,
+          "offer_price": 47,
+          "unit_level_price": "9.4/100 g",
+          "discount_value": 12
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Organic",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Tomato",
+        "sub_category_l4": "Indian Tomato",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Organic Certified Indian Tomato",
+        "images": [
+          "90fba939adf709ef8f8ead5c936ae3fc",
+          "d039c76b32c904f9e778bee65160fb24"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Organics"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Gourmet Garden Organic Certified Tomato",
@@ -153,7 +266,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": "Organics"
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Potato (Aloo Gadde)",
@@ -165,11 +285,11 @@
         "id": "1MKJH1AZTM",
         "display_name": "Potato (Aloo Gadde)",
         "price": {
-          "mrp": 39,
-          "store_price": 39,
+          "mrp": 43,
+          "store_price": 43,
           "offer_price": 29,
           "unit_level_price": "",
-          "discount_value": 10
+          "discount_value": 14
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -192,7 +312,59 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Potato (Aloo Gadde) Value Pack",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "KZ622OA6QV",
+    "variations": [
+      {
+        "id": "V99DNJB7W8",
+        "display_name": "Potato (Aloo Gadde) Value Pack",
+        "price": {
+          "mrp": 125,
+          "store_price": 125,
+          "offer_price": 100,
+          "unit_level_price": "",
+          "discount_value": 25
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Potato",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Potato (Aloo Gadde) Value Pack",
+        "images": [
+          "gslhg2y6ythtu14d3skh"
+        ],
+        "images_v2": [],
+        "quantity": "3",
+        "sku_quantity_with_combo": "3 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 3000,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Ooty Potato (Aloo Gadde)",
@@ -204,11 +376,11 @@
         "id": "1ALSZUUNNS",
         "display_name": "Ooty Potato (Aloo Gadde)",
         "price": {
-          "mrp": 74,
-          "store_price": 74,
-          "offer_price": 59,
+          "mrp": 78,
+          "store_price": 78,
+          "offer_price": 62,
           "unit_level_price": "",
-          "discount_value": 15
+          "discount_value": 16
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -231,241 +403,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
-  },
-  {
-    "display_name": "Potato (Aloo Gadde) Value Pack",
-    "brand": "Fruits and Vegetables",
-    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "KZ622OA6QV",
-    "variations": [
-      {
-        "id": "V99DNJB7W8",
-        "display_name": "Potato (Aloo Gadde) Value Pack",
-        "price": {
-          "mrp": 118,
-          "store_price": 118,
-          "offer_price": 85,
-          "unit_level_price": "",
-          "discount_value": 33
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Potato",
-        "sub_category_l4": "Regular",
-        "sub_category_l5": "Normal",
-        "product_name_without_brand": "Potato (Aloo Gadde) Value Pack",
-        "images": [
-          "gslhg2y6ythtu14d3skh"
-        ],
-        "images_v2": [],
-        "quantity": "3",
-        "sku_quantity_with_combo": "3 kg",
-        "unit_of_measure": "kg",
-        "weight_in_grams": 3000,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Organic Certified Potato (Aloo Gadde)",
-    "brand": "Fruits and Vegetables",
-    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "GHYKQ0JOGK",
-    "variations": [
-      {
-        "id": "H8MHV4U7ZS",
-        "display_name": "Organic Certified Potato (Aloo Gadde)",
-        "price": {
-          "mrp": 60,
-          "store_price": 60,
-          "offer_price": 48,
-          "unit_level_price": "",
-          "discount_value": 12
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Organic",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Potato",
-        "sub_category_l4": "Regular",
-        "sub_category_l5": "Normal",
-        "product_name_without_brand": "Organic Certified Potato (Aloo Gadde)",
-        "images": [
-          "62dcb64ffe8e03419c79d5b621a784d5",
-          "eb30d285ea5775511afb9c28e1047a1b"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 kg",
-        "unit_of_measure": "kg",
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Organics"
-      }
-    ]
-  },
-  {
-    "display_name": "Onion (Eerulli)",
-    "brand": "Fruits and Vegetables",
-    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "4M2JLMBEXY",
-    "variations": [
-      {
-        "id": "2300B5R496",
-        "display_name": "Onion (Eerulli)",
-        "price": {
-          "mrp": 35,
-          "store_price": 35,
-          "offer_price": 26,
-          "unit_level_price": "",
-          "discount_value": 9
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Onion",
-        "sub_category_l4": "Regular",
-        "sub_category_l5": "Normal",
-        "product_name_without_brand": "Onion (Eerulli)",
-        "images": [
-          "765ff374dd4023fde2d3936ec482814d",
-          "05b5c3c44a0fd1ac737337add052f4a3"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 kg",
-        "unit_of_measure": "kg",
-        "weight_in_grams": 1000,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Gourmet Garden Organic Certified Onion",
-    "brand": "Gourmet Garden",
-    "brand_id": "d6d1ebc9f4f0f51d217c9f592b0bf3995bd78213",
-    "product_id": "ICE9ZRBNVU",
-    "variations": [
-      {
-        "id": "7ZYFJXAYBU",
-        "display_name": "Gourmet Garden Organic Certified Onion",
-        "price": {
-          "mrp": 39,
-          "store_price": 39,
-          "offer_price": 31,
-          "unit_level_price": "",
-          "discount_value": 8
-        },
-        "brand": "Gourmet Garden",
-        "brand_id": "d6d1ebc9f4f0f51d217c9f592b0bf3995bd78213",
-        "category": "Organic",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Onion",
-        "sub_category_l4": "Vegetable",
-        "sub_category_l5": "Normal",
-        "product_name_without_brand": "Organic Certified Onion",
-        "images": [
-          "1e33bcda197ac3fa049b55edd21feec3",
-          "8be8b0b1982af1a32dd387743c38a9a2",
-          "a500e77825510aadae5112d5321a9d6d"
-        ],
-        "images_v2": [],
-        "quantity": "500",
-        "sku_quantity_with_combo": "500 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Organics"
-      }
-    ]
-  },
-  {
-    "display_name": "Lady's Finger (Bendekaayi)",
-    "brand": "Fruits and Vegetables",
-    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "AHEHQCK0WW",
-    "variations": [
-      {
-        "id": "D49UIPWWVF",
-        "display_name": "Lady's Finger (Bendekaayi)",
-        "price": {
-          "mrp": 16,
-          "store_price": 16,
-          "offer_price": 10,
-          "unit_level_price": "4/100 g",
-          "discount_value": 6
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Lady's Finger",
-        "sub_category_l4": "Regular",
-        "sub_category_l5": "Normal",
-        "product_name_without_brand": "Lady's Finger (Bendekaayi)",
-        "images": [
-          "576c7500d96e8d87fa5194ecc977a9ce",
-          "83b2b1365e771c008e5dcb18b8c6c766"
-        ],
-        "images_v2": [],
-        "quantity": "250",
-        "sku_quantity_with_combo": "250 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 250,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Cauliflower (Hoo Kosu)",
-    "brand": "Fruits and Vegetables",
-    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "MHAMOSB40R",
-    "variations": [
-      {
-        "id": "AMYLUT8W65",
-        "display_name": "Cauliflower (Hoo Kosu)",
-        "price": {
-          "mrp": 33,
-          "store_price": 33,
-          "offer_price": 23,
-          "unit_level_price": "",
-          "discount_value": 10
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Cauliflower",
-        "sub_category_l4": "Regular",
-        "sub_category_l5": "Normal",
-        "product_name_without_brand": "Cauliflower (Hoo Kosu)",
-        "images": [
-          "d09c188edec2c8652bc56594b7ae57af",
-          "2ef0c61dab6809a963ccf52510ce8da2"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Medium",
-        "unit_of_measure": "Medium",
-        "weight_in_grams": 750,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Green Capsicum (Donne Menasinakaayi)",
@@ -477,11 +422,11 @@
         "id": "2WJMC7Z2GI",
         "display_name": "Green Capsicum (Donne Menasinakaayi)",
         "price": {
-          "mrp": 21,
-          "store_price": 21,
-          "offer_price": 13,
+          "mrp": 24,
+          "store_price": 24,
+          "offer_price": 15,
           "unit_level_price": "",
-          "discount_value": 8
+          "discount_value": 9
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -504,124 +449,105 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
-    "display_name": "Ooty Carrot",
+    "display_name": "Red Bell Pepper",
     "brand": "Fruits and Vegetables",
     "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "8XUTKS0CZ3",
+    "product_id": "J85PYRHKRQ",
     "variations": [
       {
-        "id": "JK9B5UCADN",
-        "display_name": "Ooty Carrot",
+        "id": "BH8M0HMT2G",
+        "display_name": "Red Bell Pepper",
         "price": {
-          "mrp": 41,
-          "store_price": 41,
-          "offer_price": 25,
-          "unit_level_price": "10/100 g",
-          "discount_value": 16
+          "mrp": 74,
+          "store_price": 74,
+          "offer_price": 59,
+          "unit_level_price": "",
+          "discount_value": 15
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
         "category": "Vegetables",
         "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Carrot",
-        "sub_category_l4": "Ooty Carrot",
+        "sub_category_l3": "Capsicum",
+        "sub_category_l4": "Exotics",
         "sub_category_l5": "Normal",
-        "product_name_without_brand": "Ooty Carrot",
+        "product_name_without_brand": "Red Bell Pepper",
         "images": [
-          "cd9136ecedec6ed4f49a568cf7be8dbc",
-          "c9b9f394e9e1d8e64e1a1bd84fd7d90b",
-          "900a402fbc4a570045137509591e1478"
+          "NI_CATALOG/IMAGES/CIW/2025/6/17/ad0bdfb2-b74c-4532-afe4-77055cdd7a44_956524_1.png"
         ],
         "images_v2": [],
-        "quantity": "250",
-        "sku_quantity_with_combo": "250 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 250,
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 1,
         "volumetric_weight": 0,
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
-    "display_name": "French Beans (Bili Hurulikaayi)",
+    "display_name": "Cauliflower (Hoo Kosu)",
     "brand": "Fruits and Vegetables",
     "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "GYZQB43AGT",
+    "product_id": "MHAMOSB40R",
     "variations": [
       {
-        "id": "M4GP9ZFTWD",
-        "display_name": "French Beans (Bili Hurulikaayi)",
+        "id": "AMYLUT8W65",
+        "display_name": "Cauliflower (Hoo Kosu)",
         "price": {
-          "mrp": 21,
-          "store_price": 21,
-          "offer_price": 17,
-          "unit_level_price": "6.8/100 g",
-          "discount_value": 4
+          "mrp": 35,
+          "store_price": 35,
+          "offer_price": 23,
+          "unit_level_price": "",
+          "discount_value": 12
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
         "category": "Vegetables",
         "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Beans",
-        "sub_category_l4": "French Beans",
+        "sub_category_l3": "Cauliflower",
+        "sub_category_l4": "Regular",
         "sub_category_l5": "Normal",
-        "product_name_without_brand": "French Beans (Bili Hurulikaayi)",
+        "product_name_without_brand": "Cauliflower (Hoo Kosu)",
         "images": [
-          "cf1faf72f6945dada7ffccf44a98ca01",
-          "7b2256bc7f66a8ab65173866c7c8d7e1"
+          "d09c188edec2c8652bc56594b7ae57af",
+          "2ef0c61dab6809a963ccf52510ce8da2"
         ],
         "images_v2": [],
-        "quantity": "250",
-        "sku_quantity_with_combo": "250 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 250,
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Medium",
+        "unit_of_measure": "Medium",
+        "weight_in_grams": 750,
         "volumetric_weight": 0,
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
-  },
-  {
-    "display_name": "Broad Beans (Huralikaayi)",
-    "brand": "Fruits and Vegetables",
-    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "ATRAP5N2Q2",
-    "variations": [
-      {
-        "id": "9FQCFX78NO",
-        "display_name": "Broad Beans (Huralikaayi)",
-        "price": {
-          "mrp": 26,
-          "store_price": 26,
-          "offer_price": 21,
-          "unit_level_price": "8.4/100 g",
-          "discount_value": 5
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Beans",
-        "sub_category_l4": "Broad Beans",
-        "sub_category_l5": "Normal",
-        "product_name_without_brand": "Broad Beans (Huralikaayi)",
-        "images": [
-          "944706ea08114d097b6b8df44d652acd"
-        ],
-        "images_v2": [],
-        "quantity": "250",
-        "sku_quantity_with_combo": "250 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 250,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Green Cucumber (Hasiru Soutekaayi)",
@@ -633,11 +559,11 @@
         "id": "FMJO6N0AWK",
         "display_name": "Green Cucumber (Hasiru Soutekaayi)",
         "price": {
-          "mrp": 21,
-          "store_price": 21,
+          "mrp": 26,
+          "store_price": 26,
           "offer_price": 12,
           "unit_level_price": "6/piece",
-          "discount_value": 9
+          "discount_value": 14
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -659,7 +585,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "English Cucumber (Sowthekaayi)",
@@ -671,11 +604,11 @@
         "id": "Y8DAZUGY9A",
         "display_name": "English Cucumber (Sowthekaayi)",
         "price": {
-          "mrp": 40,
-          "store_price": 40,
-          "offer_price": 32,
-          "unit_level_price": "6.4/100 g",
-          "discount_value": 8
+          "mrp": 43,
+          "store_price": 43,
+          "offer_price": 34,
+          "unit_level_price": "6.8/100 g",
+          "discount_value": 9
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -698,35 +631,41 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
-    "display_name": "Beetroot",
+    "display_name": "English Cucumber - Protected Cultivation",
     "brand": "Fruits and Vegetables",
     "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "QY3LA3QLL3",
+    "product_id": "SLW9GXE0MI",
     "variations": [
       {
-        "id": "IHFAMJ4WWQ",
-        "display_name": "Beetroot",
+        "id": "F6L5K757UG",
+        "display_name": "English Cucumber - Protected Cultivation",
         "price": {
-          "mrp": 24,
-          "store_price": 24,
-          "offer_price": 16,
+          "mrp": 45,
+          "store_price": 45,
+          "offer_price": 36,
           "unit_level_price": "",
-          "discount_value": 8
+          "discount_value": 9
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
         "category": "Vegetables",
         "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Beetroot",
-        "sub_category_l4": "Vegetable",
+        "sub_category_l3": "Cucumber",
+        "sub_category_l4": "English Cucumber",
         "sub_category_l5": "Normal",
-        "product_name_without_brand": "Beetroot",
+        "product_name_without_brand": "English Cucumber - Protected Cultivation",
         "images": [
-          "2c16f47d900ff298b17c4e95fe1d755c",
-          "d6383f3b798a8bdaee611dd8a504cc6d"
+          "NI_CATALOG/IMAGES/CIW/2025/5/15/6f705bbd-7e02-4988-97e9-ebb9eca1e11e_854514.png"
         ],
         "images_v2": [],
         "quantity": "500",
@@ -737,124 +676,366 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
-    "display_name": "Organic Certified Beetroot",
+    "display_name": "Haricot Beans",
     "brand": "Fruits and Vegetables",
     "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "NOCZFCJCCX",
+    "product_id": "XP92WKXMKJ",
     "variations": [
       {
-        "id": "4LLDH69Z37",
-        "display_name": "Organic Certified Beetroot",
+        "id": "8GQ8WUT909",
+        "display_name": "Haricot Beans",
         "price": {
-          "mrp": 29,
-          "store_price": 29,
-          "offer_price": 23,
-          "unit_level_price": "11.5/piece",
-          "discount_value": 6
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Organic",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Beetroot",
-        "sub_category_l4": "Vegetable",
-        "sub_category_l5": "Normal",
-        "product_name_without_brand": "Organic Certified Beetroot",
-        "images": [
-          "de1c8452815f684d3914f4d94ea26eb8",
-          "d6383f3b798a8bdaee611dd8a504cc6d"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "2 pieces",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 2,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Organics"
-      }
-    ]
-  },
-  {
-    "display_name": "Bharta Purple Brinjal (Badanekaayi)",
-    "brand": "Fruits and Vegetables",
-    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "WUG5SXPJGP",
-    "variations": [
-      {
-        "id": "KD2JAJOFRQ",
-        "display_name": "Bharta Purple Brinjal (Badanekaayi)",
-        "price": {
-          "mrp": 23,
-          "store_price": 23,
-          "offer_price": 11,
-          "unit_level_price": "",
-          "discount_value": 12
+          "mrp": 33,
+          "store_price": 33,
+          "offer_price": 18,
+          "unit_level_price": "7.2/100 g",
+          "discount_value": 15
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
         "category": "Vegetables",
         "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Brinjal",
-        "sub_category_l4": "Purple Bharta Brinjal",
+        "sub_category_l3": "Beans",
+        "sub_category_l4": "Haricot Beans",
         "sub_category_l5": "Normal",
-        "product_name_without_brand": "Bharta Purple Brinjal (Badanekaayi)",
+        "product_name_without_brand": "Haricot Beans",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/5/31/7cc6c585-7f9f-4a57-ac38-0d5d61e672d4_freshvegetables_AHH0F7IKBG_MN.png",
-          "bda9f02b09eff3f24a39850e933702b2"
+          "9becaad5aba13a550b823ac19f06acbe",
+          "17d34b396e113b5d3e61daae44b5a382"
+        ],
+        "images_v2": [],
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Broad Beans (Huralikaayi)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "ATRAP5N2Q2",
+    "variations": [
+      {
+        "id": "9FQCFX78NO",
+        "display_name": "Broad Beans (Huralikaayi)",
+        "price": {
+          "mrp": 29,
+          "store_price": 29,
+          "offer_price": 23,
+          "unit_level_price": "9.2/100 g",
+          "discount_value": 6
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Beans",
+        "sub_category_l4": "Broad Beans",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Broad Beans (Huralikaayi)",
+        "images": [
+          "944706ea08114d097b6b8df44d652acd"
+        ],
+        "images_v2": [],
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Cluster Beans - Gawar Phali",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "VU4ORFLGMQ",
+    "variations": [
+      {
+        "id": "GWFNV6KS31",
+        "display_name": "Cluster Beans - Gawar Phali",
+        "price": {
+          "mrp": 26,
+          "store_price": 26,
+          "offer_price": 21,
+          "unit_level_price": "8.4/100 g",
+          "discount_value": 5
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Beans",
+        "sub_category_l4": "Cluster Beans",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Cluster Beans - Gawar Phali",
+        "images": [
+          "467bffabd4fda9f03e53653736cb63c9",
+          "c12f44289f5beb66ae0c693ded6eedad"
+        ],
+        "images_v2": [],
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Bottle Gourd (Sorekaayi)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "W3LA7AN0IS",
+    "variations": [
+      {
+        "id": "S49FPG0TI1",
+        "display_name": "Bottle Gourd (Sorekaayi)",
+        "price": {
+          "mrp": 65,
+          "store_price": 65,
+          "offer_price": 41,
+          "unit_level_price": "",
+          "discount_value": 24
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Gourd",
+        "sub_category_l4": "Bottle Gourd",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Bottle Gourd (Sorekaayi)",
+        "images": [
+          "59d3c516f4a1416db60258e3075c0d5b",
+          "d4886939727436651f47e03991f4c56f"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Medium",
+        "unit_of_measure": "Medium",
+        "weight_in_grams": 800,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      },
+      {
+        "id": "F3B064F56R",
+        "display_name": "Bottle Gourd ( Sorekaayi)",
+        "price": {
+          "mrp": 38,
+          "store_price": 38,
+          "offer_price": 30,
+          "unit_level_price": "",
+          "discount_value": 8
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Gourd",
+        "sub_category_l4": "Baby Bottle Gourd",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Bottle Gourd ( Sorekaayi)",
+        "images": [
+          "dd10391f717713ea6a7134c5502d1787",
+          "0f7ff1453ec62b8e85cc3396ad477aec"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Small",
+        "unit_of_measure": "Small",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Bitter Gourd (Haagalakaayi)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "BVZ65J77L3",
+    "variations": [
+      {
+        "id": "PLC7JAFY4U",
+        "display_name": "Bitter Gourd (Haagalakaayi)",
+        "price": {
+          "mrp": 23,
+          "store_price": 23,
+          "offer_price": 18,
+          "unit_level_price": "7.2/100 g",
+          "discount_value": 5
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Gourd",
+        "sub_category_l4": "Bitter Gourd",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Bitter Gourd (Haagalakaayi)",
+        "images": [
+          "ff7290a4f81377da57bda4adc791c71c",
+          "a9f710acf61494715455950950fb79d4"
+        ],
+        "images_v2": [],
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Forest Bitter Gourd (Kaadu Hagalakaayi)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "SIFIVGMJ6W",
+    "variations": [
+      {
+        "id": "VMA8X6IXBO",
+        "display_name": "Forest Bitter Gourd (Kaadu Hagalakaayi)",
+        "price": {
+          "mrp": 45,
+          "store_price": 45,
+          "offer_price": 36,
+          "unit_level_price": "",
+          "discount_value": 9
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Gourd",
+        "sub_category_l4": "Bitter Gourd",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Forest Bitter Gourd (Kaadu Hagalakaayi)",
+        "images": [
+          "45b7d00f3508ba48ea936d440f92ddf8",
+          "db6854b54e8e92367fe0c6c53a76ea2f"
+        ],
+        "images_v2": [],
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Pumpkin Whole (Disco Pumpkin)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "M8ZWLYA8M7",
+    "variations": [
+      {
+        "id": "BLR78G5WJ9",
+        "display_name": "Pumpkin Whole (Disco Pumpkin)",
+        "price": {
+          "mrp": 55,
+          "store_price": 55,
+          "offer_price": 44,
+          "unit_level_price": "",
+          "discount_value": 11
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Pumpkin",
+        "sub_category_l4": "Disco Pumpkin",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Pumpkin Whole (Disco Pumpkin)",
+        "images": [
+          "85a1109b72bc9de92519ef54f6a634ac",
+          "ee788c97b6cb6666f24b41e01f1916cf"
         ],
         "images_v2": [],
         "quantity": "1",
         "sku_quantity_with_combo": "1 Piece",
         "unit_of_measure": "Piece",
-        "weight_in_grams": 400,
+        "weight_in_grams": 1000,
         "volumetric_weight": 0,
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
-  },
-  {
-    "display_name": "Sweet Corn (Sihi Mekkejola)",
-    "brand": "Fruits and Vegetables",
-    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "GF1ST5YGE6",
-    "variations": [
-      {
-        "id": "VF5385WS3V",
-        "display_name": "Sweet Corn (Sihi Mekkejola)",
-        "price": {
-          "mrp": 64,
-          "store_price": 64,
-          "offer_price": 51,
-          "unit_level_price": "",
-          "discount_value": 13
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Sweet Corn",
-        "sub_category_l4": "Exotics",
-        "sub_category_l5": "Normal",
-        "product_name_without_brand": "Sweet Corn (Sihi Mekkejola)",
-        "images": [
-          "3cc58bf99badb8469fbf6b62559a66fc",
-          "7a6030225b8afc28aaf0e3cc302e2df5"
-        ],
-        "images_v2": [],
-        "quantity": "2",
-        "sku_quantity_with_combo": "2 pieces",
-        "unit_of_measure": "pieces",
-        "weight_in_grams": 600,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Exotics"
-      }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Coccinia (Tondekaayi)",
@@ -866,10 +1047,10 @@
         "id": "61KOVM3Z38",
         "display_name": "Coccinia (Tondekaayi)",
         "price": {
-          "mrp": 18,
-          "store_price": 18,
-          "offer_price": 14,
-          "unit_level_price": "5.6/100 g",
+          "mrp": 19,
+          "store_price": 19,
+          "offer_price": 15,
+          "unit_level_price": "6/100 g",
           "discount_value": 4
         },
         "brand": "Fruits and Vegetables",
@@ -893,85 +1074,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
-  },
-  {
-    "display_name": "Gourmet Garden Organic Certified Green Chilli",
-    "brand": "Gourmet Garden",
-    "brand_id": "d6d1ebc9f4f0f51d217c9f592b0bf3995bd78213",
-    "product_id": "5KZUL5TY6G",
-    "variations": [
-      {
-        "id": "8J0QMZG3YD",
-        "display_name": "Gourmet Garden Organic Certified Green Chilli",
-        "price": {
-          "mrp": 39,
-          "store_price": 39,
-          "offer_price": 31,
-          "unit_level_price": "",
-          "discount_value": 8
-        },
-        "brand": "Gourmet Garden",
-        "brand_id": "d6d1ebc9f4f0f51d217c9f592b0bf3995bd78213",
-        "category": "Organic",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Chilli",
-        "sub_category_l4": "Green Chilli",
-        "sub_category_l5": "Normal",
-        "product_name_without_brand": "Organic Certified Green Chilli",
-        "images": [
-          "e85c9d0b1473434524a25b288cf04802",
-          "b7fb9229918bfa5b9913536afd673a06"
-        ],
-        "images_v2": [],
-        "quantity": "100",
-        "sku_quantity_with_combo": "100 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Organics"
-      }
-    ]
-  },
-  {
-    "display_name": "Green Zucchini",
-    "brand": "Fruits and Vegetables",
-    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "5IW5JVJJD1",
-    "variations": [
-      {
-        "id": "LJ5030IU7T",
-        "display_name": "Green Zucchini",
-        "price": {
-          "mrp": 40,
-          "store_price": 40,
-          "offer_price": 25,
-          "unit_level_price": "",
-          "discount_value": 15
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Zucchini",
-        "sub_category_l4": "Exotics",
-        "sub_category_l5": "Normal",
-        "product_name_without_brand": "Green Zucchini",
-        "images": [
-          "1784371265a5f4a8acc2fc3710f3a7e2",
-          "1ad8369510be7000e14de8399fee92e6"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 300,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Exotics"
-      }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Small Coconut",
@@ -983,9 +1093,9 @@
         "id": "QNPGWLDFT2",
         "display_name": "Coconut (Thenginakaayi)",
         "price": {
-          "mrp": 68,
-          "store_price": 68,
-          "offer_price": 54,
+          "mrp": 70,
+          "store_price": 70,
+          "offer_price": 56,
           "unit_level_price": "",
           "discount_value": 14
         },
@@ -1014,11 +1124,11 @@
         "id": "HMRADSVR3V",
         "display_name": "Small Coconut",
         "price": {
-          "mrp": 60,
-          "store_price": 60,
-          "offer_price": 48,
+          "mrp": 63,
+          "store_price": 63,
+          "offer_price": 50,
           "unit_level_price": "",
-          "discount_value": 12
+          "discount_value": 13
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -1042,7 +1152,60 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Raw Banana (Baalekaayi)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "472LWN102M",
+    "variations": [
+      {
+        "id": "Z2KZNJSM4W",
+        "display_name": "Raw Banana (Baalekaayi)",
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 29,
+          "unit_level_price": "14.5/piece",
+          "discount_value": 21
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Raw Banana",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Raw Banana (Baalekaayi)",
+        "images": [
+          "77c140b6aece7dfcaf37f69f02580895",
+          "2331134f686b4aaf2b280ed4dd4bec6b"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "2 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 2,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Knol Khol (Gedde Kosu)",
@@ -1054,11 +1217,11 @@
         "id": "10UTK7FG50",
         "display_name": "Knol Khol (Gedde Kosu)",
         "price": {
-          "mrp": 25,
-          "store_price": 25,
-          "offer_price": 15,
-          "unit_level_price": "3/100 g",
-          "discount_value": 10
+          "mrp": 26,
+          "store_price": 26,
+          "offer_price": 21,
+          "unit_level_price": "4.2/100 g",
+          "discount_value": 5
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -1081,273 +1244,107 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
-  },
-  {
-    "display_name": "Broccoli",
-    "brand": "Fruits and Vegetables",
-    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "IKTH5T6WWY",
-    "variations": [
-      {
-        "id": "HBZWQNMAAQ",
-        "display_name": "Broccoli",
-        "price": {
-          "mrp": 56,
-          "store_price": 56,
-          "offer_price": 45,
-          "unit_level_price": "",
-          "discount_value": 11
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Broccoli",
-        "sub_category_l4": "Exotics",
-        "sub_category_l5": "Normal",
-        "product_name_without_brand": "Broccoli",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/13/1639f427-957b-4287-a30f-c5741d454c06_1025.png",
-          "b1166ce15ef290c334908bc31a2ea73d",
-          "1bc1253a1f43acd19c3d14002213e706"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 350,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Exotics"
-      }
-    ]
-  },
-  {
-    "display_name": "Gourmet Garden Organic Certified Garlic",
-    "brand": "Gourmet Garden",
-    "brand_id": "d6d1ebc9f4f0f51d217c9f592b0bf3995bd78213",
-    "product_id": "YKJVZCMKU5",
-    "variations": [
-      {
-        "id": "G144S8X0FP",
-        "display_name": "Gourmet Garden Organic Certified Garlic",
-        "price": {
-          "mrp": 101,
-          "store_price": 101,
-          "offer_price": 81,
-          "unit_level_price": "",
-          "discount_value": 20
-        },
-        "brand": "Gourmet Garden",
-        "brand_id": "d6d1ebc9f4f0f51d217c9f592b0bf3995bd78213",
-        "category": "Organic",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Garlic",
-        "sub_category_l4": "Regular",
-        "sub_category_l5": "Normal",
-        "product_name_without_brand": "Organic Certified Garlic",
-        "images": [
-          "d88d40240cca66dedaa88a64671d6c22",
-          "84e6f156a10698dfad0a4c49f6af4b80"
-        ],
-        "images_v2": [],
-        "quantity": "200",
-        "sku_quantity_with_combo": "200 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 200,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Organics"
-      }
-    ]
-  },
-  {
-    "display_name": "Organic Certified Garlic (Bellulli)",
-    "brand": "Fruits and Vegetables",
-    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "MD1B10T7VW",
-    "variations": [
-      {
-        "id": "TW25O2N5L9",
-        "display_name": "Organic Certified Garlic (Bellulli)",
-        "price": {
-          "mrp": 58,
-          "store_price": 58,
-          "offer_price": 46,
-          "unit_level_price": "",
-          "discount_value": 12
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Organic",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Garlic",
-        "sub_category_l4": "Regular",
-        "sub_category_l5": "Normal",
-        "product_name_without_brand": "Organic Certified Garlic (Bellulli)",
-        "images": [
-          "d88d40240cca66dedaa88a64671d6c22",
-          "84e6f156a10698dfad0a4c49f6af4b80"
-        ],
-        "images_v2": [],
-        "quantity": "200",
-        "sku_quantity_with_combo": "200 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 200,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Organics"
-      }
-    ]
-  },
-  {
-    "display_name": "Raw Papaya (Parangikaayi)",
-    "brand": "Fruits and Vegetables",
-    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "TWVVL97WHP",
-    "variations": [
-      {
-        "id": "TY0AVTXMFM",
-        "display_name": "Raw Papaya (Parangikaayi)",
-        "price": {
-          "mrp": 53,
-          "store_price": 53,
-          "offer_price": 42,
-          "unit_level_price": "",
-          "discount_value": 11
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Raw Papaya",
-        "sub_category_l4": "Papaya",
-        "sub_category_l5": "Normal",
-        "product_name_without_brand": "Raw Papaya (Parangikaayi)",
-        "images": [
-          "eaffd7f25a6eed009567aabd07be1f2a",
-          "2de819e9d9c4b073047e82c4117e6b01"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Cabbage (Yelekosu)",
-    "brand": "Fruits and Vegetables",
-    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "OJ3BOLQ7JF",
-    "variations": [
-      {
-        "id": "A32SKQPU06",
-        "display_name": "Cabbage (Yelekosu)",
-        "price": {
-          "mrp": 20,
-          "store_price": 20,
-          "offer_price": 16,
-          "unit_level_price": "",
-          "discount_value": 4
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Cabbage",
-        "sub_category_l4": "Regular",
-        "sub_category_l5": "Normal",
-        "product_name_without_brand": "Cabbage (Yelekosu)",
-        "images": [
-          "e413b66d3f09c7ebce4d723e8521492b",
-          "9916752c94453a370192e97d387066ec"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Medium",
-        "unit_of_measure": "Medium",
-        "weight_in_grams": 1000,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
       },
-      {
-        "id": "04AF1RK6NM",
-        "display_name": "Cabbage (Yelekosu)",
-        "price": {
-          "mrp": 18,
-          "store_price": 18,
-          "offer_price": 10,
-          "unit_level_price": "",
-          "discount_value": 8
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Cabbage",
-        "sub_category_l4": "Baby Cabbage",
-        "sub_category_l5": "Normal",
-        "product_name_without_brand": "Cabbage (Yelekosu)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/3/7/70f46845-cd58-4373-9eb0-7e322a5ee3e9_freshvegetables_9VMC2NN0US_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/3/7/cd2bed86-f754-45c8-898d-4cf741b88832_freshvegetables_9VMC2NN0US_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/3/7/4d4a3a74-e797-4773-8fa3-9ad63b7399e9_freshvegetables_9VMC2NN0US_AL2.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Small",
-        "unit_of_measure": "Small",
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
-    "display_name": "Cabbage Flat",
+    "display_name": "Sambar Onion (Sambar Eerulli)",
     "brand": "Fruits and Vegetables",
     "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "0TMCPJNUVQ",
+    "product_id": "PA8AUTS6T8",
     "variations": [
       {
-        "id": "934HTZW1J2",
-        "display_name": "Cabbage Flat",
+        "id": "HGP9OPBJFA",
+        "display_name": "Sambar Onion (Sambar Eerulli)",
         "price": {
-          "mrp": 15,
-          "store_price": 15,
-          "offer_price": 12,
-          "unit_level_price": "",
-          "discount_value": 3
+          "mrp": 30,
+          "store_price": 30,
+          "offer_price": 24,
+          "unit_level_price": "9.6/100 g",
+          "discount_value": 6
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
         "category": "Vegetables",
         "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Cabbage",
-        "sub_category_l4": "Exotics",
+        "sub_category_l3": "Sambar Onion",
+        "sub_category_l4": "Regular",
         "sub_category_l5": "Normal",
-        "product_name_without_brand": "Cabbage Flat",
+        "product_name_without_brand": "Sambar Onion (Sambar Eerulli)",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/7/29/dc870b7f-fa78-4d66-8977-fb19c0bbd649_887539_1.png"
+          "c4bf6be996dcdcc63d36a1733a99d7db",
+          "9068b0383baff57c3a8f5d74d15c5992"
         ],
         "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Medium",
-        "unit_of_measure": "Medium",
-        "weight_in_grams": 1,
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 250,
         "volumetric_weight": 0,
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Peeled Sambhar Onion by Urban Harvest",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "D9IFLQCZFG",
+    "variations": [
+      {
+        "id": "QBI5GI4Q8I",
+        "display_name": "Peeled Sambhar Onion by Urban Harvest",
+        "price": {
+          "mrp": 81,
+          "store_price": 81,
+          "offer_price": 65,
+          "unit_level_price": "",
+          "discount_value": 16
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Sambar Onion",
+        "sub_category_l4": "Fresh Cuts and Salads",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Peeled Sambhar Onion by Urban Harvest",
+        "images": [
+          "c9b97c2e823f815c65a805c0efd1421c",
+          "ce4abb44e4099e5307ff26e2cb39313e",
+          "4439e55e434d9452ee5b9fcbae768235"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Baby Lady's Finger  (Bendekaayi)",
@@ -1359,9 +1356,9 @@
         "id": "AWTOGDN6S2",
         "display_name": "Baby Lady's Finger  (Bendekaayi)",
         "price": {
-          "mrp": 14,
-          "store_price": 14,
-          "offer_price": 11,
+          "mrp": 15,
+          "store_price": 15,
+          "offer_price": 12,
           "unit_level_price": "",
           "discount_value": 3
         },
@@ -1385,7 +1382,60 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Organic Certified Potato (Aloo Gadde)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "GHYKQ0JOGK",
+    "variations": [
+      {
+        "id": "H8MHV4U7ZS",
+        "display_name": "Organic Certified Potato (Aloo Gadde)",
+        "price": {
+          "mrp": 63,
+          "store_price": 63,
+          "offer_price": 50,
+          "unit_level_price": "",
+          "discount_value": 13
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Organic",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Potato",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Organic Certified Potato (Aloo Gadde)",
+        "images": [
+          "62dcb64ffe8e03419c79d5b621a784d5",
+          "eb30d285ea5775511afb9c28e1047a1b"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 kg",
+        "unit_of_measure": "kg",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Organics"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Snibs Snack Tomatoes(Mixed Colour)",
@@ -1425,7 +1475,105 @@
         "scm_item_type": "NORMAL",
         "filters_tag": "Exotics"
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Cabbage Flat",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "0TMCPJNUVQ",
+    "variations": [
+      {
+        "id": "934HTZW1J2",
+        "display_name": "Cabbage Flat",
+        "price": {
+          "mrp": 15,
+          "store_price": 15,
+          "offer_price": 12,
+          "unit_level_price": "",
+          "discount_value": 3
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Cabbage",
+        "sub_category_l4": "Exotics",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Cabbage Flat",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/29/dc870b7f-fa78-4d66-8977-fb19c0bbd649_887539_1.png"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Medium",
+        "unit_of_measure": "Medium",
+        "weight_in_grams": 1,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Organic Certified Beetroot",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "NOCZFCJCCX",
+    "variations": [
+      {
+        "id": "4LLDH69Z37",
+        "display_name": "Organic Certified Beetroot",
+        "price": {
+          "mrp": 34,
+          "store_price": 34,
+          "offer_price": 27,
+          "unit_level_price": "13.5/piece",
+          "discount_value": 7
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Organic",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Beetroot",
+        "sub_category_l4": "Vegetable",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Organic Certified Beetroot",
+        "images": [
+          "de1c8452815f684d3914f4d94ea26eb8",
+          "d6383f3b798a8bdaee611dd8a504cc6d"
+        ],
+        "images_v2": [],
+        "quantity": "2",
+        "sku_quantity_with_combo": "2 pieces",
+        "unit_of_measure": "pieces",
+        "weight_in_grams": 2,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Organics"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Gourmet Garden Organic Certified Lady's Finger",
@@ -1437,9 +1585,9 @@
         "id": "PZK5D8MSAU",
         "display_name": "Gourmet Garden Organic Certified Lady's Finger",
         "price": {
-          "mrp": 48,
-          "store_price": 48,
-          "offer_price": 38,
+          "mrp": 49,
+          "store_price": 49,
+          "offer_price": 39,
           "unit_level_price": "",
           "discount_value": 10
         },
@@ -1464,7 +1612,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": "Organics"
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Baby Potato (Chikka Aloo Gadde)",
@@ -1503,45 +1658,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
-  },
-  {
-    "display_name": "Red Bell Pepper",
-    "brand": "Fruits and Vegetables",
-    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "J85PYRHKRQ",
-    "variations": [
-      {
-        "id": "BH8M0HMT2G",
-        "display_name": "Red Bell Pepper",
-        "price": {
-          "mrp": 73,
-          "store_price": 73,
-          "offer_price": 58,
-          "unit_level_price": "",
-          "discount_value": 15
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": "Capsicum",
-        "sub_category_l4": "Exotics",
-        "sub_category_l5": "Normal",
-        "product_name_without_brand": "Red Bell Pepper",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/6/17/ad0bdfb2-b74c-4532-afe4-77055cdd7a44_956524_1.png"
-        ],
-        "images_v2": [],
-        "quantity": "1",
-        "sku_quantity_with_combo": "1 Piece",
-        "unit_of_measure": "Piece",
-        "weight_in_grams": 1,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Long Purple Brinjal (Udda Badanekaayi)",
@@ -1549,37 +1673,6 @@
     "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
     "product_id": "H3J4UN1DXU",
     "variations": [
-      {
-        "id": "CRWVN1VKVI",
-        "display_name": "Long Purple Brinjal (Udda Badanekaayi)",
-        "price": {
-          "mrp": 78,
-          "store_price": 78,
-          "offer_price": 59,
-          "unit_level_price": "11.8/100 g",
-          "discount_value": 19
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Long Purple Brinjal (Udda Badanekaayi)",
-        "images": [
-          "e2078e9925da104a0f4497dd79e8bef9",
-          "45d45158948f4aba24358fe2ed5fb4c4"
-        ],
-        "images_v2": null,
-        "quantity": "500 g",
-        "sku_quantity_with_combo": "250 g x 2",
-        "unit_of_measure": null,
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      },
       {
         "id": "HZ4FMOX3LZ",
         "display_name": "Long Purple Brinjal (Udda Badanekaayi)",
@@ -1594,64 +1687,32 @@
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
         "category": "Vegetables",
         "super_category": "Fruits and Vegetables",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
+        "sub_category_l3": "Brinjal",
+        "sub_category_l4": "Long Brinjal",
+        "sub_category_l5": "Normal",
         "product_name_without_brand": "Long Purple Brinjal (Udda Badanekaayi)",
         "images": [
           "67880d057c94c4c902be397ce6b88fd5",
           "a154c882754f865151e52c0ba856405c",
           "3f93d1baf461845cc06347a2844af1e7"
         ],
-        "images_v2": null,
-        "quantity": "250 g",
+        "images_v2": [],
+        "quantity": "250",
         "sku_quantity_with_combo": "250 g",
-        "unit_of_measure": null,
+        "unit_of_measure": "g",
         "weight_in_grams": 250,
         "volumetric_weight": 0,
-        "scm_item_type": null,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
-  },
-  {
-    "display_name": "Forest Bitter Gourd (Kaadu Hagalakaayi)",
-    "brand": "Fruits and Vegetables",
-    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "SIFIVGMJ6W",
-    "variations": [
-      {
-        "id": "VMA8X6IXBO",
-        "display_name": "Forest Bitter Gourd (Kaadu Hagalakaayi)",
-        "price": {
-          "mrp": 44,
-          "store_price": 44,
-          "offer_price": 35,
-          "unit_level_price": "",
-          "discount_value": 9
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Forest Bitter Gourd (Kaadu Hagalakaayi)",
-        "images": [
-          "45b7d00f3508ba48ea936d440f92ddf8",
-          "db6854b54e8e92367fe0c6c53a76ea2f"
-        ],
-        "images_v2": null,
-        "quantity": "250 g",
-        "sku_quantity_with_combo": "250 g",
-        "unit_of_measure": null,
-        "weight_in_grams": 250,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Bhoomi Farms Organically Grown Bitter Gourd",
@@ -1673,23 +1734,77 @@
         "brand_id": "f4a2811a1de6d7e2d9bfdbd5c116cd29de44f723",
         "category": "Vegetables",
         "super_category": "Fruits and Vegetables",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
+        "sub_category_l3": "Gourd",
+        "sub_category_l4": "Bitter Gourd",
+        "sub_category_l5": "Normal",
         "product_name_without_brand": "Bhoomi Farms Organically Grown Bitter Gourd",
         "images": [
           "NI_CATALOG/IMAGES/CIW/2025/7/5/67228864-c38a-48eb-a470-5cdc1e4cd309_220874.png"
         ],
-        "images_v2": null,
-        "quantity": "1 pack",
+        "images_v2": [],
+        "quantity": "1",
         "sku_quantity_with_combo": "1 pack",
-        "unit_of_measure": null,
+        "unit_of_measure": "pack",
         "weight_in_grams": 500,
         "volumetric_weight": 0,
-        "scm_item_type": null,
+        "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Broccoli",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "IKTH5T6WWY",
+    "variations": [
+      {
+        "id": "HBZWQNMAAQ",
+        "display_name": "Broccoli",
+        "price": {
+          "mrp": 59,
+          "store_price": 59,
+          "offer_price": 47,
+          "unit_level_price": "",
+          "discount_value": 12
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": "Broccoli",
+        "sub_category_l4": "Exotics",
+        "sub_category_l5": "Normal",
+        "product_name_without_brand": "Broccoli",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/5/13/1639f427-957b-4287-a30f-c5741d454c06_1025.png",
+          "b1166ce15ef290c334908bc31a2ea73d",
+          "1bc1253a1f43acd19c3d14002213e706"
+        ],
+        "images_v2": [],
+        "quantity": "1",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": "Piece",
+        "weight_in_grams": 350,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Exotics"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Cowpea Beans (Karamani)",
@@ -1703,9 +1818,9 @@
         "price": {
           "mrp": 48,
           "store_price": 48,
-          "offer_price": 27,
-          "unit_level_price": "5.4/100 g",
-          "discount_value": 21
+          "offer_price": 23,
+          "unit_level_price": "4.6/100 g",
+          "discount_value": 25
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -1734,9 +1849,9 @@
         "price": {
           "mrp": 24,
           "store_price": 24,
-          "offer_price": 15,
-          "unit_level_price": "6/100 g",
-          "discount_value": 9
+          "offer_price": 13,
+          "unit_level_price": "5.2/100 g",
+          "discount_value": 11
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -1759,22 +1874,29 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
-    "display_name": "Sambar Onion (Sambar Eerulli)",
+    "display_name": "Sweet Corn (Sihi Mekkejola)",
     "brand": "Fruits and Vegetables",
     "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "PA8AUTS6T8",
+    "product_id": "GF1ST5YGE6",
     "variations": [
       {
-        "id": "MS95YC95MM",
-        "display_name": "Sambar Onion (Sambar Eerulli)",
+        "id": "VF5385WS3V",
+        "display_name": "Sweet Corn (Sihi Mekkejola)",
         "price": {
-          "mrp": 56,
-          "store_price": 56,
-          "offer_price": 42,
-          "unit_level_price": "8.4/100 g",
+          "mrp": 68,
+          "store_price": 68,
+          "offer_price": 54,
+          "unit_level_price": "",
           "discount_value": 14
         },
         "brand": "Fruits and Vegetables",
@@ -1784,67 +1906,43 @@
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Sambar Onion (Sambar Eerulli)",
+        "product_name_without_brand": "Sweet Corn (Sihi Mekkejola)",
         "images": [
-          "c4bf6be996dcdcc63d36a1733a99d7db",
-          "9068b0383baff57c3a8f5d74d15c5992"
+          "3cc58bf99badb8469fbf6b62559a66fc",
+          "7a6030225b8afc28aaf0e3cc302e2df5"
         ],
         "images_v2": null,
-        "quantity": "500 g",
-        "sku_quantity_with_combo": "250 g x 2",
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "2 pieces",
         "unit_of_measure": null,
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      },
-      {
-        "id": "HGP9OPBJFA",
-        "display_name": "Sambar Onion (Sambar Eerulli)",
-        "price": {
-          "mrp": 28,
-          "store_price": 28,
-          "offer_price": 22,
-          "unit_level_price": "8.8/100 g",
-          "discount_value": 6
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Sambar Onion (Sambar Eerulli)",
-        "images": [
-          "c4bf6be996dcdcc63d36a1733a99d7db",
-          "9068b0383baff57c3a8f5d74d15c5992"
-        ],
-        "images_v2": null,
-        "quantity": "250 g",
-        "sku_quantity_with_combo": "250 g",
-        "unit_of_measure": null,
-        "weight_in_grams": 250,
+        "weight_in_grams": 600,
         "volumetric_weight": 0,
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
-    "display_name": "Raw Banana (Baalekaayi)",
+    "display_name": "Purple Bharta Brinjal (Badanekaayi)",
     "brand": "Fruits and Vegetables",
     "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "472LWN102M",
+    "product_id": "WUG5SXPJGP",
     "variations": [
       {
-        "id": "CB9BHKTPW6",
-        "display_name": "Raw Banana (Baalekaayi)",
+        "id": "0DOLUA88O1",
+        "display_name": "Purple Bharta Brinjal (Badanekaayi)",
         "price": {
-          "mrp": 82,
-          "store_price": 82,
-          "offer_price": 55,
-          "unit_level_price": "13.8/piece",
+          "mrp": 42,
+          "store_price": 42,
+          "offer_price": 15,
+          "unit_level_price": "7.5/piece",
           "discount_value": 27
         },
         "brand": "Fruits and Vegetables",
@@ -1854,28 +1952,28 @@
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Raw Banana (Baalekaayi)",
+        "product_name_without_brand": "Purple Bharta Brinjal (Badanekaayi)",
         "images": [
-          "77c140b6aece7dfcaf37f69f02580895",
-          "2331134f686b4aaf2b280ed4dd4bec6b"
+          "NI_CATALOG/IMAGES/CIW/2024/6/3/f249a564-bce8-428d-a927-5456bac1a045_freshvegetables_AHH0F7IKBG_MN.png",
+          "bda9f02b09eff3f24a39850e933702b2"
         ],
         "images_v2": null,
-        "quantity": "6 pieces",
-        "sku_quantity_with_combo": "2 pieces x 2",
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "1 Piece x 2",
         "unit_of_measure": null,
-        "weight_in_grams": 4,
+        "weight_in_grams": 800,
         "volumetric_weight": 0,
         "scm_item_type": null,
         "filters_tag": null
       },
       {
-        "id": "Z2KZNJSM4W",
-        "display_name": "Raw Banana (Baalekaayi)",
+        "id": "KD2JAJOFRQ",
+        "display_name": "Purple Bharta Brinjal (Badanekaayi)",
         "price": {
-          "mrp": 41,
-          "store_price": 41,
-          "offer_price": 29,
-          "unit_level_price": "14.5/piece",
+          "mrp": 21,
+          "store_price": 21,
+          "offer_price": 9,
+          "unit_level_price": "",
           "discount_value": 12
         },
         "brand": "Fruits and Vegetables",
@@ -1885,21 +1983,28 @@
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Raw Banana (Baalekaayi)",
+        "product_name_without_brand": "Bharta Purple Brinjal (Badanekaayi)",
         "images": [
-          "77c140b6aece7dfcaf37f69f02580895",
-          "2331134f686b4aaf2b280ed4dd4bec6b"
+          "NI_CATALOG/IMAGES/CIW/2024/5/31/7cc6c585-7f9f-4a57-ac38-0d5d61e672d4_freshvegetables_AHH0F7IKBG_MN.png",
+          "bda9f02b09eff3f24a39850e933702b2"
         ],
         "images_v2": null,
-        "quantity": "2 pieces",
-        "sku_quantity_with_combo": "2 pieces",
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
         "unit_of_measure": null,
-        "weight_in_grams": 2,
+        "weight_in_grams": 400,
         "volumetric_weight": 0,
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Carrot",
@@ -1911,11 +2016,11 @@
         "id": "2C6NGJNSGD",
         "display_name": "Carrot",
         "price": {
-          "mrp": 49,
-          "store_price": 49,
+          "mrp": 51,
+          "store_price": 51,
           "offer_price": 36,
           "unit_level_price": "",
-          "discount_value": 13
+          "discount_value": 15
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -1937,7 +2042,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Organic Certified Coconut (Thenginakaayi)",
@@ -1976,7 +2088,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Bhoomi Farms Organic Sweet Potato",
@@ -2014,23 +2133,76 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
-    "display_name": "Bitter Gourd (Haagalakaayi)",
+    "display_name": "Organic Certified Garlic (Bellulli)",
     "brand": "Fruits and Vegetables",
     "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "BVZ65J77L3",
+    "product_id": "MD1B10T7VW",
     "variations": [
       {
-        "id": "3H17RTPNHI",
-        "display_name": "Bitter Gourd (Haagalakaayi)",
+        "id": "TW25O2N5L9",
+        "display_name": "Organic Certified Garlic (Bellulli)",
         "price": {
-          "mrp": 40,
-          "store_price": 40,
-          "offer_price": 29,
-          "unit_level_price": "5.8/100 g",
-          "discount_value": 11
+          "mrp": 58,
+          "store_price": 58,
+          "offer_price": 46,
+          "unit_level_price": "",
+          "discount_value": 12
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Organic",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Organic Certified Garlic (Bellulli)",
+        "images": [
+          "d88d40240cca66dedaa88a64671d6c22",
+          "84e6f156a10698dfad0a4c49f6af4b80"
+        ],
+        "images_v2": null,
+        "quantity": "200 g",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Beetroot",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "QY3LA3QLL3",
+    "variations": [
+      {
+        "id": "IHFAMJ4WWQ",
+        "display_name": "Beetroot",
+        "price": {
+          "mrp": 26,
+          "store_price": 26,
+          "offer_price": 16,
+          "unit_level_price": "",
+          "discount_value": 10
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -2039,52 +2211,28 @@
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Bitter Gourd (Haagalakaayi)",
+        "product_name_without_brand": "Beetroot",
         "images": [
-          "3fa5a377d6895669170e2cf99331b0ba",
-          "13cfd9de6e839ae9cf774392eed43357"
+          "2c16f47d900ff298b17c4e95fe1d755c",
+          "d6383f3b798a8bdaee611dd8a504cc6d"
         ],
         "images_v2": null,
         "quantity": "500 g",
-        "sku_quantity_with_combo": "250 g x 2",
+        "sku_quantity_with_combo": "500 g",
         "unit_of_measure": null,
         "weight_in_grams": 500,
         "volumetric_weight": 0,
         "scm_item_type": null,
         "filters_tag": null
-      },
-      {
-        "id": "PLC7JAFY4U",
-        "display_name": "Bitter Gourd (Haagalakaayi)",
-        "price": {
-          "mrp": 20,
-          "store_price": 20,
-          "offer_price": 16,
-          "unit_level_price": "6.4/100 g",
-          "discount_value": 4
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Bitter Gourd (Haagalakaayi)",
-        "images": [
-          "ff7290a4f81377da57bda4adc791c71c",
-          "a9f710acf61494715455950950fb79d4"
-        ],
-        "images_v2": null,
-        "quantity": "250 g",
-        "sku_quantity_with_combo": "250 g",
-        "unit_of_measure": null,
-        "weight_in_grams": 250,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Raw Groundnut (Kadlekaayi)",
@@ -2123,7 +2271,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Totapuri Raw Mango (Mavinahannu)",
@@ -2135,11 +2290,11 @@
         "id": "F2G1JWTQU0",
         "display_name": "Totapuri Raw Mango (Mavinahannu)",
         "price": {
-          "mrp": 81,
-          "store_price": 81,
-          "offer_price": 79,
+          "mrp": 106,
+          "store_price": 106,
+          "offer_price": 85,
           "unit_level_price": "",
-          "discount_value": 2
+          "discount_value": 21
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -2163,7 +2318,60 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Gourmet Garden Organic Certified Green Chilli",
+    "brand": "Gourmet Garden",
+    "brand_id": "d6d1ebc9f4f0f51d217c9f592b0bf3995bd78213",
+    "product_id": "5KZUL5TY6G",
+    "variations": [
+      {
+        "id": "8J0QMZG3YD",
+        "display_name": "Gourmet Garden Organic Certified Green Chilli",
+        "price": {
+          "mrp": 40,
+          "store_price": 40,
+          "offer_price": 32,
+          "unit_level_price": "",
+          "discount_value": 8
+        },
+        "brand": "Gourmet Garden",
+        "brand_id": "d6d1ebc9f4f0f51d217c9f592b0bf3995bd78213",
+        "category": "Organic",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Organic Certified Green Chilli",
+        "images": [
+          "e85c9d0b1473434524a25b288cf04802",
+          "b7fb9229918bfa5b9913536afd673a06"
+        ],
+        "images_v2": null,
+        "quantity": "100 g",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Jackfruit Seed (Halasina Beeja)",
@@ -2201,7 +2409,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Chow Chow (Seeme Badane)",
@@ -2271,7 +2486,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Pointed Gourd (Parwal)",
@@ -2283,9 +2505,9 @@
         "id": "Y954XJQXJT",
         "display_name": "Pointed Gourd (Parwal)",
         "price": {
-          "mrp": 73,
-          "store_price": 73,
-          "offer_price": 58,
+          "mrp": 74,
+          "store_price": 74,
+          "offer_price": 59,
           "unit_level_price": "",
           "discount_value": 15
         },
@@ -2310,77 +2532,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
-  },
-  {
-    "display_name": "Cluster Beans (Gorikaayi)",
-    "brand": "Fruits and Vegetables",
-    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "VU4ORFLGMQ",
-    "variations": [
-      {
-        "id": "LGNVFM8M6A",
-        "display_name": "Cluster Beans (Gorikaayi)",
-        "price": {
-          "mrp": 42,
-          "store_price": 42,
-          "offer_price": 31,
-          "unit_level_price": "6.2/100 g",
-          "discount_value": 11
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Cluster Beans (Gorikaayi)",
-        "images": [
-          "467bffabd4fda9f03e53653736cb63c9",
-          "c12f44289f5beb66ae0c693ded6eedad"
-        ],
-        "images_v2": null,
-        "quantity": "500 g",
-        "sku_quantity_with_combo": "250 g x 2",
-        "unit_of_measure": null,
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
       },
-      {
-        "id": "GWFNV6KS31",
-        "display_name": "Cluster Beans (Gorikaayi)",
-        "price": {
-          "mrp": 21,
-          "store_price": 21,
-          "offer_price": 17,
-          "unit_level_price": "6.8/100 g",
-          "discount_value": 4
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Cluster Beans - Gawar Phali",
-        "images": [
-          "467bffabd4fda9f03e53653736cb63c9",
-          "c12f44289f5beb66ae0c693ded6eedad"
-        ],
-        "images_v2": null,
-        "quantity": "250 g",
-        "sku_quantity_with_combo": "250 g",
-        "unit_of_measure": null,
-        "weight_in_grams": 250,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      }
-    ]
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Sweet Potato (Sihi Genasu)",
@@ -2392,11 +2551,11 @@
         "id": "FBPPYMH9T8",
         "display_name": "Sweet Potato (Sihi Genasu)",
         "price": {
-          "mrp": 102,
-          "store_price": 102,
-          "offer_price": 79,
-          "unit_level_price": "7.9/100 g",
-          "discount_value": 23
+          "mrp": 106,
+          "store_price": 106,
+          "offer_price": 82,
+          "unit_level_price": "8.2/100 g",
+          "discount_value": 24
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -2423,11 +2582,11 @@
         "id": "V7WY8DR129",
         "display_name": "Sweet Potato (Sihi Genasu)",
         "price": {
-          "mrp": 51,
-          "store_price": 51,
-          "offer_price": 41,
-          "unit_level_price": "8.2/100 g",
-          "discount_value": 10
+          "mrp": 53,
+          "store_price": 53,
+          "offer_price": 42,
+          "unit_level_price": "8.4/100 g",
+          "discount_value": 11
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -2450,7 +2609,91 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "French Beans (Bili Hurulikaayi)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "GYZQB43AGT",
+    "variations": [
+      {
+        "id": "AC57BRSPCM",
+        "display_name": "French Beans (Bili Hurulikaayi)",
+        "price": {
+          "mrp": 46,
+          "store_price": 46,
+          "offer_price": 34,
+          "unit_level_price": "6.8/100 g",
+          "discount_value": 12
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "French Beans (Bili Hurulikaayi)",
+        "images": [
+          "7b2256bc7f66a8ab65173866c7c8d7e1",
+          "cf1faf72f6945dada7ffccf44a98ca01"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "250 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "M4GP9ZFTWD",
+        "display_name": "French Beans (Bili Hurulikaayi)",
+        "price": {
+          "mrp": 23,
+          "store_price": 23,
+          "offer_price": 18,
+          "unit_level_price": "7.2/100 g",
+          "discount_value": 5
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "French Beans (Bili Hurulikaayi)",
+        "images": [
+          "cf1faf72f6945dada7ffccf44a98ca01",
+          "7b2256bc7f66a8ab65173866c7c8d7e1"
+        ],
+        "images_v2": null,
+        "quantity": "250 g",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Onion -Value Pack (Eerulli)",
@@ -2462,11 +2705,11 @@
         "id": "1B0LYA2JR5",
         "display_name": "Onion -Value Pack (Eerulli)",
         "price": {
-          "mrp": 106,
-          "store_price": 106,
-          "offer_price": 76,
+          "mrp": 114,
+          "store_price": 114,
+          "offer_price": 91,
           "unit_level_price": "",
-          "discount_value": 30
+          "discount_value": 23
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -2488,7 +2731,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Ridge Gourd (Herekaayi)",
@@ -2500,11 +2750,11 @@
         "id": "8MU1U0D3W5",
         "display_name": "Ridge Gourd (Herekaayi)",
         "price": {
-          "mrp": 46,
-          "store_price": 46,
-          "offer_price": 37,
+          "mrp": 59,
+          "store_price": 59,
+          "offer_price": 47,
           "unit_level_price": "",
-          "discount_value": 9
+          "discount_value": 12
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -2528,7 +2778,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Round Gourd (Dundagina Sorekaayi)",
@@ -2540,11 +2797,11 @@
         "id": "807A9AMO5S",
         "display_name": "Round Gourd (Dundagina Sorekaayi)",
         "price": {
-          "mrp": 73,
-          "store_price": 73,
-          "offer_price": 58,
+          "mrp": 71,
+          "store_price": 71,
+          "offer_price": 57,
           "unit_level_price": "",
-          "discount_value": 15
+          "discount_value": 14
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -2567,7 +2824,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Mangalore Brinjal",
@@ -2606,7 +2870,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Snake Gourd (Padavalakaayi)",
@@ -2676,7 +2947,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Yellow Zucchini",
@@ -2688,10 +2966,10 @@
         "id": "DBDMIA4Q4R",
         "display_name": "Yellow Zucchini",
         "price": {
-          "mrp": 88,
-          "store_price": 88,
-          "offer_price": 67,
-          "unit_level_price": "33.5/piece",
+          "mrp": 92,
+          "store_price": 92,
+          "offer_price": 71,
+          "unit_level_price": "35.5/piece",
           "discount_value": 21
         },
         "brand": "Fruits and Vegetables",
@@ -2720,9 +2998,9 @@
         "id": "YQBXO80BBD",
         "display_name": "Yellow Zucchini",
         "price": {
-          "mrp": 44,
-          "store_price": 44,
-          "offer_price": 35,
+          "mrp": 46,
+          "store_price": 46,
+          "offer_price": 37,
           "unit_level_price": "",
           "discount_value": 9
         },
@@ -2748,77 +3026,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
-  },
-  {
-    "display_name": "Haricot Beans",
-    "brand": "Fruits and Vegetables",
-    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "XP92WKXMKJ",
-    "variations": [
-      {
-        "id": "VRQDBU8F32",
-        "display_name": "Haricot Beans",
-        "price": {
-          "mrp": 40,
-          "store_price": 40,
-          "offer_price": 23,
-          "unit_level_price": "4.6/100 g",
-          "discount_value": 17
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Haricot Beans (Hasiru Huralikaayi)",
-        "images": [
-          "9becaad5aba13a550b823ac19f06acbe",
-          "17d34b396e113b5d3e61daae44b5a382"
-        ],
-        "images_v2": null,
-        "quantity": "500 g",
-        "sku_quantity_with_combo": "250 g x 2",
-        "unit_of_measure": null,
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
       },
-      {
-        "id": "8GQ8WUT909",
-        "display_name": "Haricot Beans",
-        "price": {
-          "mrp": 20,
-          "store_price": 20,
-          "offer_price": 13,
-          "unit_level_price": "5.2/100 g",
-          "discount_value": 7
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Haricot Beans",
-        "images": [
-          "9becaad5aba13a550b823ac19f06acbe",
-          "17d34b396e113b5d3e61daae44b5a382"
-        ],
-        "images_v2": null,
-        "quantity": "250 g",
-        "sku_quantity_with_combo": "250 g",
-        "unit_of_measure": null,
-        "weight_in_grams": 250,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      }
-    ]
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Yam Portion (Suvarna Gedde)",
@@ -2830,10 +3045,10 @@
         "id": "G8WSZNRZA9",
         "display_name": "Yam Portion (Suvarna Gedde)",
         "price": {
-          "mrp": 180,
-          "store_price": 180,
-          "offer_price": 141,
-          "unit_level_price": "28.2/100 g",
+          "mrp": 182,
+          "store_price": 182,
+          "offer_price": 143,
+          "unit_level_price": "28.6/100 g",
           "discount_value": 39
         },
         "brand": "Fruits and Vegetables",
@@ -2861,10 +3076,10 @@
         "id": "TOUPT1BHKZ",
         "display_name": "Yam Portion (Suvarna Gedde)",
         "price": {
-          "mrp": 90,
-          "store_price": 90,
-          "offer_price": 72,
-          "unit_level_price": "28.8/100 g",
+          "mrp": 91,
+          "store_price": 91,
+          "offer_price": 73,
+          "unit_level_price": "29.2/100 g",
           "discount_value": 18
         },
         "brand": "Fruits and Vegetables",
@@ -2888,7 +3103,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Drumstick (Nuggekaayi)",
@@ -2900,11 +3122,11 @@
         "id": "AN8DSRQH9Z",
         "display_name": "Drumstick (Nuggekaayi)",
         "price": {
-          "mrp": 38,
-          "store_price": 38,
+          "mrp": 46,
+          "store_price": 46,
           "offer_price": 25,
           "unit_level_price": "6.3/piece",
-          "discount_value": 13
+          "discount_value": 21
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -2931,11 +3153,11 @@
         "id": "O2WVM8I63P",
         "display_name": "Drumstick (Nuggekaayi)",
         "price": {
-          "mrp": 19,
-          "store_price": 19,
+          "mrp": 23,
+          "store_price": 23,
           "offer_price": 14,
           "unit_level_price": "7/piece",
-          "discount_value": 5
+          "discount_value": 9
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -2958,7 +3180,60 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Gourmet Garden Organic Certified Garlic",
+    "brand": "Gourmet Garden",
+    "brand_id": "d6d1ebc9f4f0f51d217c9f592b0bf3995bd78213",
+    "product_id": "YKJVZCMKU5",
+    "variations": [
+      {
+        "id": "G144S8X0FP",
+        "display_name": "Gourmet Garden Organic Certified Garlic",
+        "price": {
+          "mrp": 103,
+          "store_price": 103,
+          "offer_price": 82,
+          "unit_level_price": "",
+          "discount_value": 21
+        },
+        "brand": "Gourmet Garden",
+        "brand_id": "d6d1ebc9f4f0f51d217c9f592b0bf3995bd78213",
+        "category": "Organic",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Organic Certified Garlic",
+        "images": [
+          "d88d40240cca66dedaa88a64671d6c22",
+          "84e6f156a10698dfad0a4c49f6af4b80"
+        ],
+        "images_v2": null,
+        "quantity": "200 g",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Raw Banana Nendran",
@@ -2998,7 +3273,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Organic Certified Green Chilli (Hasiru Menasinakaayi)",
@@ -3010,11 +3292,11 @@
         "id": "WIP0JZBJ7J",
         "display_name": "Organic Certified Green Chilli (Hasiru Menasinakaayi)",
         "price": {
-          "mrp": 60,
-          "store_price": 60,
-          "offer_price": 45,
-          "unit_level_price": "22.5/100 g",
-          "discount_value": 15
+          "mrp": 66,
+          "store_price": 66,
+          "offer_price": 50,
+          "unit_level_price": "25/100 g",
+          "discount_value": 16
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -3041,11 +3323,11 @@
         "id": "4LCVTI5TCK",
         "display_name": "Organic Certified Green Chilli (Hasiru Menasinakaayi)",
         "price": {
-          "mrp": 30,
-          "store_price": 30,
-          "offer_price": 24,
+          "mrp": 33,
+          "store_price": 33,
+          "offer_price": 26,
           "unit_level_price": "",
-          "discount_value": 6
+          "discount_value": 7
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -3068,7 +3350,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Gourmet Garden Organic Certified Ginger",
@@ -3080,9 +3369,9 @@
         "id": "UCVJILGFIG",
         "display_name": "Gourmet Garden Organic Certified Ginger",
         "price": {
-          "mrp": 38,
-          "store_price": 38,
-          "offer_price": 30,
+          "mrp": 40,
+          "store_price": 40,
+          "offer_price": 32,
           "unit_level_price": "",
           "discount_value": 8
         },
@@ -3107,7 +3396,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Organic Certified Lemon (Nimbe Hannu)",
@@ -3119,11 +3415,11 @@
         "id": "AO3811WHK9",
         "display_name": "Organic Certified Lemon (Nimbe Hannu)",
         "price": {
-          "mrp": 43,
-          "store_price": 43,
-          "offer_price": 34,
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 40,
           "unit_level_price": "",
-          "discount_value": 9
+          "discount_value": 10
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -3145,22 +3441,139 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
-    "display_name": "Pumpkin Whole (Disco Pumpkin)",
+    "display_name": "Ooty Carrot",
     "brand": "Fruits and Vegetables",
     "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "M8ZWLYA8M7",
+    "product_id": "8XUTKS0CZ3",
     "variations": [
       {
-        "id": "BLR78G5WJ9",
-        "display_name": "Pumpkin Whole (Disco Pumpkin)",
+        "id": "SRG5A7FVMR",
+        "display_name": "Ooty Carrot",
         "price": {
-          "mrp": 53,
-          "store_price": 53,
-          "offer_price": 42,
-          "unit_level_price": "",
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 47,
+          "unit_level_price": "9.4/100 g",
+          "discount_value": 53
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Ooty Carrot",
+        "images": [
+          "cd9136ecedec6ed4f49a568cf7be8dbc",
+          "c9b9f394e9e1d8e64e1a1bd84fd7d90b",
+          "900a402fbc4a570045137509591e1478"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "250 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "JK9B5UCADN",
+        "display_name": "Ooty Carrot",
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 25,
+          "unit_level_price": "10/100 g",
+          "discount_value": 25
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Ooty Carrot",
+        "images": [
+          "cd9136ecedec6ed4f49a568cf7be8dbc",
+          "c9b9f394e9e1d8e64e1a1bd84fd7d90b",
+          "900a402fbc4a570045137509591e1478"
+        ],
+        "images_v2": null,
+        "quantity": "250 g",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Lady's Finger (Bendekaayi)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "AHEHQCK0WW",
+    "variations": [
+      {
+        "id": "FYJ9XSK0U1",
+        "display_name": "Lady's Finger (Bendekaayi)",
+        "price": {
+          "mrp": 46,
+          "store_price": 46,
+          "offer_price": 21,
+          "unit_level_price": "4.2/100 g",
+          "discount_value": 25
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Lady's Finger (Bendekaayi)",
+        "images": [
+          "576c7500d96e8d87fa5194ecc977a9ce",
+          "83b2b1365e771c008e5dcb18b8c6c766"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "250 g x 2",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "D49UIPWWVF",
+        "display_name": "Lady's Finger (Bendekaayi)",
+        "price": {
+          "mrp": 23,
+          "store_price": 23,
+          "offer_price": 12,
+          "unit_level_price": "4.8/100 g",
           "discount_value": 11
         },
         "brand": "Fruits and Vegetables",
@@ -3170,80 +3583,56 @@
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Pumpkin Whole (Disco Pumpkin)",
+        "product_name_without_brand": "Lady's Finger (Bendekaayi)",
         "images": [
-          "85a1109b72bc9de92519ef54f6a634ac",
-          "ee788c97b6cb6666f24b41e01f1916cf"
+          "576c7500d96e8d87fa5194ecc977a9ce",
+          "83b2b1365e771c008e5dcb18b8c6c766"
         ],
         "images_v2": null,
-        "quantity": "1 Piece",
-        "sku_quantity_with_combo": "1 Piece",
+        "quantity": "250 g",
+        "sku_quantity_with_combo": "250 g",
         "unit_of_measure": null,
-        "weight_in_grams": 1000,
+        "weight_in_grams": 250,
         "volumetric_weight": 0,
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
-    "display_name": "Organic Certified Indian Tomato",
+    "display_name": "Green Peas (Batani)",
     "brand": "Fruits and Vegetables",
     "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "KQI7X2NLB1",
+    "product_id": "BSN7CF9GBV",
     "variations": [
       {
-        "id": "NUTQFRI6BS",
-        "display_name": "Organic Certified Indian Tomato",
+        "id": "4822PGG7HA",
+        "display_name": "Green Peas (Batani)",
         "price": {
-          "mrp": 108,
-          "store_price": 108,
-          "offer_price": 83,
-          "unit_level_price": "8.3/100 g",
-          "discount_value": 25
+          "mrp": 119,
+          "store_price": 119,
+          "offer_price": 95,
+          "unit_level_price": "",
+          "discount_value": 24
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Organic",
+        "category": "Vegetables",
         "super_category": "Fruits and Vegetables",
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Organic Certified Indian Tomato",
+        "product_name_without_brand": "Green Peas (Batani)",
         "images": [
-          "90fba939adf709ef8f8ead5c936ae3fc",
-          "f00e32194bcd76550c7e3dc1fe2e4ac4"
-        ],
-        "images_v2": null,
-        "quantity": "1 kg",
-        "sku_quantity_with_combo": "500 g x 2",
-        "unit_of_measure": null,
-        "weight_in_grams": 1000,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      },
-      {
-        "id": "J7F0T9QNJ8",
-        "display_name": "Organic Certified Indian Tomato",
-        "price": {
-          "mrp": 54,
-          "store_price": 54,
-          "offer_price": 43,
-          "unit_level_price": "8.6/100 g",
-          "discount_value": 11
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Organic",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "Organic Certified Indian Tomato",
-        "images": [
-          "90fba939adf709ef8f8ead5c936ae3fc",
-          "d039c76b32c904f9e778bee65160fb24"
+          "9334ed74e5ec6472e4ac60404fc22a5e",
+          "e07e0954951773ff1488c40bb217ebfc"
         ],
         "images_v2": null,
         "quantity": "500 g",
@@ -3254,23 +3643,30 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
-    "display_name": "Bottle Gourd ( Sorekaayi)",
+    "display_name": "Cabbage (Yelekosu)",
     "brand": "Fruits and Vegetables",
     "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "W3LA7AN0IS",
+    "product_id": "OJ3BOLQ7JF",
     "variations": [
       {
-        "id": "S49FPG0TI1",
-        "display_name": "Bottle Gourd ( Sorekaayi)",
+        "id": "A32SKQPU06",
+        "display_name": "Cabbage (Yelekosu)",
         "price": {
-          "mrp": 51,
-          "store_price": 51,
-          "offer_price": 35,
+          "mrp": 23,
+          "store_price": 23,
+          "offer_price": 13,
           "unit_level_price": "",
-          "discount_value": 16
+          "discount_value": 10
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -3279,29 +3675,29 @@
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Bottle Gourd (Sorekaayi)",
+        "product_name_without_brand": "Cabbage (Yelekosu)",
         "images": [
-          "59d3c516f4a1416db60258e3075c0d5b",
-          "d4886939727436651f47e03991f4c56f"
+          "e413b66d3f09c7ebce4d723e8521492b",
+          "9916752c94453a370192e97d387066ec"
         ],
         "images_v2": null,
         "quantity": "1 Medium",
         "sku_quantity_with_combo": "1 Medium",
         "unit_of_measure": null,
-        "weight_in_grams": 800,
+        "weight_in_grams": 1000,
         "volumetric_weight": 0,
         "scm_item_type": null,
         "filters_tag": null
       },
       {
-        "id": "F3B064F56R",
-        "display_name": "Bottle Gourd ( Sorekaayi)",
+        "id": "04AF1RK6NM",
+        "display_name": "Cabbage (Yelekosu)",
         "price": {
-          "mrp": 34,
-          "store_price": 34,
-          "offer_price": 30,
+          "mrp": 20,
+          "store_price": 20,
+          "offer_price": 10,
           "unit_level_price": "",
-          "discount_value": 4
+          "discount_value": 10
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -3310,10 +3706,11 @@
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Bottle Gourd ( Sorekaayi)",
+        "product_name_without_brand": "Cabbage (Yelekosu)",
         "images": [
-          "dd10391f717713ea6a7134c5502d1787",
-          "0f7ff1453ec62b8e85cc3396ad477aec"
+          "NI_CATALOG/IMAGES/CIW/2024/3/7/70f46845-cd58-4373-9eb0-7e322a5ee3e9_freshvegetables_9VMC2NN0US_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/7/cd2bed86-f754-45c8-898d-4cf741b88832_freshvegetables_9VMC2NN0US_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/7/4d4a3a74-e797-4773-8fa3-9ad63b7399e9_freshvegetables_9VMC2NN0US_AL2.png"
         ],
         "images_v2": null,
         "quantity": "1 Small",
@@ -3324,23 +3721,30 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
-    "display_name": "Peeled Sambhar Onion by Urban Harvest",
+    "display_name": "Green Zucchini",
     "brand": "Fruits and Vegetables",
     "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "D9IFLQCZFG",
+    "product_id": "5IW5JVJJD1",
     "variations": [
       {
-        "id": "QBI5GI4Q8I",
-        "display_name": "Peeled Sambhar Onion by Urban Harvest",
+        "id": "8MQ1F7U47H",
+        "display_name": "Green Zucchini",
         "price": {
-          "mrp": 80,
-          "store_price": 80,
-          "offer_price": 64,
-          "unit_level_price": "",
-          "discount_value": 16
+          "mrp": 86,
+          "store_price": 86,
+          "offer_price": 66,
+          "unit_level_price": "33/piece",
+          "discount_value": 20
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -3349,22 +3753,105 @@
         "sub_category_l3": null,
         "sub_category_l4": null,
         "sub_category_l5": null,
-        "product_name_without_brand": "Peeled Sambhar Onion by Urban Harvest",
+        "product_name_without_brand": "Green Zucchini",
         "images": [
-          "c9b97c2e823f815c65a805c0efd1421c",
-          "ce4abb44e4099e5307ff26e2cb39313e",
-          "4439e55e434d9452ee5b9fcbae768235"
+          "1784371265a5f4a8acc2fc3710f3a7e2",
+          "1ad8369510be7000e14de8399fee92e6"
         ],
         "images_v2": null,
-        "quantity": "200 g",
-        "sku_quantity_with_combo": "200 g",
+        "quantity": "2 pieces",
+        "sku_quantity_with_combo": "1 Piece x 2",
         "unit_of_measure": null,
-        "weight_in_grams": 200,
+        "weight_in_grams": 600,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      },
+      {
+        "id": "LJ5030IU7T",
+        "display_name": "Green Zucchini",
+        "price": {
+          "mrp": 43,
+          "store_price": 43,
+          "offer_price": 34,
+          "unit_level_price": "",
+          "discount_value": 9
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Green Zucchini",
+        "images": [
+          "1784371265a5f4a8acc2fc3710f3a7e2",
+          "1ad8369510be7000e14de8399fee92e6"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 300,
         "volumetric_weight": 0,
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Spine Gourd",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "84RZ355T2B",
+    "variations": [
+      {
+        "id": "6VWV02QZBS",
+        "display_name": "Spine Gourd",
+        "price": {
+          "mrp": 118,
+          "store_price": 118,
+          "offer_price": 94,
+          "unit_level_price": "",
+          "discount_value": 24
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Spine Gourd",
+        "images": [
+          "fda6956ad0a2f75884b2758a11db800f",
+          "2babf46982a79e9741a0690d5128be71"
+        ],
+        "images_v2": null,
+        "quantity": "250 g",
+        "sku_quantity_with_combo": "250 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 250,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Organic Certified Ginger (Shunti)",
@@ -3376,9 +3863,9 @@
         "id": "99FB3DOK61",
         "display_name": "Organic Certified Ginger (Shunti)",
         "price": {
-          "mrp": 39,
-          "store_price": 39,
-          "offer_price": 31,
+          "mrp": 41,
+          "store_price": 41,
+          "offer_price": 33,
           "unit_level_price": "",
           "discount_value": 8
         },
@@ -3403,7 +3890,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Organic Certified Cauliflower (Hoo kosu)",
@@ -3415,9 +3909,9 @@
         "id": "XS16QI76OG",
         "display_name": "Organic Certified Cauliflower (Hoo kosu)",
         "price": {
-          "mrp": 33,
-          "store_price": 33,
-          "offer_price": 26,
+          "mrp": 34,
+          "store_price": 34,
+          "offer_price": 27,
           "unit_level_price": "",
           "discount_value": 7
         },
@@ -3441,7 +3935,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Organic Certified Lady's Finger (Bendekaayi)",
@@ -3453,11 +3954,11 @@
         "id": "I4XHTHDK1Y",
         "display_name": "Organic Certified Lady's Finger (Bendekaayi)",
         "price": {
-          "mrp": 60,
-          "store_price": 60,
-          "offer_price": 45,
-          "unit_level_price": "9/100 g",
-          "discount_value": 15
+          "mrp": 66,
+          "store_price": 66,
+          "offer_price": 50,
+          "unit_level_price": "10/100 g",
+          "discount_value": 16
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -3484,11 +3985,11 @@
         "id": "5ZLY89PD9K",
         "display_name": "Organic Certified Lady's Finger (Bendekaayi)",
         "price": {
-          "mrp": 30,
-          "store_price": 30,
-          "offer_price": 24,
-          "unit_level_price": "9.6/100 g",
-          "discount_value": 6
+          "mrp": 33,
+          "store_price": 33,
+          "offer_price": 26,
+          "unit_level_price": "10.4/100 g",
+          "discount_value": 7
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -3510,7 +4011,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Kateri Brinjal (Geeru Gundu Badanekaayi)",
@@ -3522,11 +4030,11 @@
         "id": "PCGRPU47DK",
         "display_name": "Kateri Brinjal (Geeru Gundu Badanekaayi)",
         "price": {
-          "mrp": 42,
-          "store_price": 42,
+          "mrp": 50,
+          "store_price": 50,
           "offer_price": 25,
           "unit_level_price": "5/100 g",
-          "discount_value": 17
+          "discount_value": 25
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -3553,11 +4061,11 @@
         "id": "V54MKXP54Q",
         "display_name": "Kateri Brinjal (Geeru Gundu Badanekaayi)",
         "price": {
-          "mrp": 21,
-          "store_price": 21,
+          "mrp": 25,
+          "store_price": 25,
           "offer_price": 14,
           "unit_level_price": "5.6/100 g",
-          "discount_value": 7
+          "discount_value": 11
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -3580,7 +4088,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "White Bitter Gourd (Bili Haagalakaayi)",
@@ -3618,7 +4133,61 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Gourmet Garden Organic Certified Onion",
+    "brand": "Gourmet Garden",
+    "brand_id": "d6d1ebc9f4f0f51d217c9f592b0bf3995bd78213",
+    "product_id": "ICE9ZRBNVU",
+    "variations": [
+      {
+        "id": "7ZYFJXAYBU",
+        "display_name": "Gourmet Garden Organic Certified Onion",
+        "price": {
+          "mrp": 40,
+          "store_price": 40,
+          "offer_price": 32,
+          "unit_level_price": "",
+          "discount_value": 8
+        },
+        "brand": "Gourmet Garden",
+        "brand_id": "d6d1ebc9f4f0f51d217c9f592b0bf3995bd78213",
+        "category": "Organic",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Organic Certified Onion",
+        "images": [
+          "1e33bcda197ac3fa049b55edd21feec3",
+          "8be8b0b1982af1a32dd387743c38a9a2",
+          "a500e77825510aadae5112d5321a9d6d"
+        ],
+        "images_v2": null,
+        "quantity": "500 g",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "White Radish (Moolangi)",
@@ -3630,11 +4199,11 @@
         "id": "WXI1B6V25D",
         "display_name": "White Radish (Moolangi)",
         "price": {
-          "mrp": 30,
-          "store_price": 30,
-          "offer_price": 13,
-          "unit_level_price": "3.3/piece",
-          "discount_value": 17
+          "mrp": 36,
+          "store_price": 36,
+          "offer_price": 15,
+          "unit_level_price": "3.8/piece",
+          "discount_value": 21
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -3661,11 +4230,11 @@
         "id": "VTBQOUQ40S",
         "display_name": "White Radish (Moolangi)",
         "price": {
-          "mrp": 15,
-          "store_price": 15,
-          "offer_price": 8,
-          "unit_level_price": "4/piece",
-          "discount_value": 7
+          "mrp": 18,
+          "store_price": 18,
+          "offer_price": 9,
+          "unit_level_price": "4.5/piece",
+          "discount_value": 9
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -3688,7 +4257,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Yellow Bell Pepper",
@@ -3700,11 +4276,11 @@
         "id": "BC2NNOOOZY",
         "display_name": "Yellow Bell Pepper",
         "price": {
-          "mrp": 76,
-          "store_price": 76,
+          "mrp": 79,
+          "store_price": 79,
           "offer_price": 46,
           "unit_level_price": "",
-          "discount_value": 30
+          "discount_value": 33
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -3726,45 +4302,14 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
-  },
-  {
-    "display_name": "English Cucumber - Protected Cultivation",
-    "brand": "Fruits and Vegetables",
-    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-    "product_id": "SLW9GXE0MI",
-    "variations": [
-      {
-        "id": "F6L5K757UG",
-        "display_name": "English Cucumber - Protected Cultivation",
-        "price": {
-          "mrp": 44,
-          "store_price": 44,
-          "offer_price": 35,
-          "unit_level_price": "",
-          "discount_value": 9
-        },
-        "brand": "Fruits and Vegetables",
-        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
-        "category": "Vegetables",
-        "super_category": "Fruits and Vegetables",
-        "sub_category_l3": null,
-        "sub_category_l4": null,
-        "sub_category_l5": null,
-        "product_name_without_brand": "English Cucumber - Protected Cultivation",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/15/6f705bbd-7e02-4988-97e9-ebb9eca1e11e_854514.png"
-        ],
-        "images_v2": null,
-        "quantity": "500 g",
-        "sku_quantity_with_combo": "500 g",
-        "unit_of_measure": null,
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": null,
-        "filters_tag": null
-      }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Red & Yellow Bell Pepper - Protected Cultivation",
@@ -3776,11 +4321,11 @@
         "id": "1A6FZR5OOI",
         "display_name": "Red & Yellow Bell Pepper - Protected Cultivation",
         "price": {
-          "mrp": 100,
-          "store_price": 100,
-          "offer_price": 80,
+          "mrp": 144,
+          "store_price": 144,
+          "offer_price": 115,
           "unit_level_price": "",
-          "discount_value": 20
+          "discount_value": 29
         },
         "brand": "Fruits and Vegetables",
         "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
@@ -3802,7 +4347,60 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
+  },
+  {
+    "display_name": "Raw Papaya (Parangikaayi)",
+    "brand": "Fruits and Vegetables",
+    "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+    "product_id": "TWVVL97WHP",
+    "variations": [
+      {
+        "id": "TY0AVTXMFM",
+        "display_name": "Raw Papaya (Parangikaayi)",
+        "price": {
+          "mrp": 53,
+          "store_price": 53,
+          "offer_price": 42,
+          "unit_level_price": "",
+          "discount_value": 11
+        },
+        "brand": "Fruits and Vegetables",
+        "brand_id": "5a717015a4d30132dd6736e079d518d7eb56eade",
+        "category": "Vegetables",
+        "super_category": "Fruits and Vegetables",
+        "sub_category_l3": null,
+        "sub_category_l4": null,
+        "sub_category_l5": null,
+        "product_name_without_brand": "Raw Papaya (Parangikaayi)",
+        "images": [
+          "eaffd7f25a6eed009567aabd07be1f2a",
+          "2de819e9d9c4b073047e82c4117e6b01"
+        ],
+        "images_v2": null,
+        "quantity": "1 Piece",
+        "sku_quantity_with_combo": "1 Piece",
+        "unit_of_measure": null,
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": null,
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   },
   {
     "display_name": "Chandramukhi Potato",
@@ -3840,6 +4438,13 @@
         "scm_item_type": null,
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25aa1",
+        "name": "Fresh Vegetables"
+      },
+      "category_name_from_url": "Fresh Vegetables"
+    }
   }
 ]

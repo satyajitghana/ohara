@@ -11,9 +11,9 @@
         "price": {
           "mrp": 675,
           "store_price": 675,
-          "offer_price": 484,
-          "unit_level_price": "96.8/100 g",
-          "discount_value": 191
+          "offer_price": 546,
+          "unit_level_price": "109.2/100 g",
+          "discount_value": 129
         },
         "brand": "Tata Sampann",
         "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
@@ -40,7 +40,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
   },
   {
     "display_name": "Tata Sampann 100% Pure Premium Cashews/Kaju",
@@ -54,9 +61,9 @@
         "price": {
           "mrp": 775,
           "store_price": 775,
-          "offer_price": 607,
-          "unit_level_price": "121.4/100 g",
-          "discount_value": 168
+          "offer_price": 606,
+          "unit_level_price": "121.2/100 g",
+          "discount_value": 169
         },
         "brand": "Tata Sampann",
         "brand_id": "654ab1690811c0fb4aba83e174d9a33dc01f6382",
@@ -83,7 +90,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
   },
   {
     "display_name": "Farmley Mix Dry Fruits Panchmeva Snacks- Almond,Cashew,Dates,Green And Black Raisins",
@@ -97,9 +111,9 @@
         "price": {
           "mrp": 549,
           "store_price": 549,
-          "offer_price": 450,
-          "unit_level_price": "111.1/100 g",
-          "discount_value": 99
+          "offer_price": 479,
+          "unit_level_price": "118.3/100 g",
+          "discount_value": 70
         },
         "brand": "Farmley",
         "brand_id": "f64ef856e990a5a9a8e6e6bb14d89ae5e4b4e536",
@@ -126,7 +140,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": "Best Value"
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
   },
   {
     "display_name": "Supreme Harvest Almond",
@@ -140,9 +161,9 @@
         "price": {
           "mrp": 775,
           "store_price": 775,
-          "offer_price": 498,
-          "unit_level_price": "99.6/100 g",
-          "discount_value": 277
+          "offer_price": 482,
+          "unit_level_price": "96.4/100 g",
+          "discount_value": 293
         },
         "brand": "Supreme Harvest",
         "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
@@ -172,9 +193,9 @@
         "price": {
           "mrp": 310,
           "store_price": 310,
-          "offer_price": 223,
-          "unit_level_price": "111.5/100 g",
-          "discount_value": 87
+          "offer_price": 219,
+          "unit_level_price": "109.5/100 g",
+          "discount_value": 91
         },
         "brand": "Supreme Harvest",
         "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
@@ -198,7 +219,160 @@
         "scm_item_type": "NORMAL",
         "filters_tag": "Best Value"
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
+  },
+  {
+    "display_name": "Happilo Roasted Salted California Pistachios",
+    "brand": "Happilo",
+    "brand_id": "636313fc620ad8570a749c178aa4e5bf8076bd63",
+    "product_id": "T7GZNRCM5R",
+    "variations": [
+      {
+        "id": "88SN5CSK9O",
+        "display_name": "Happilo Roasted Salted California Pistachios",
+        "price": {
+          "mrp": 445,
+          "store_price": 445,
+          "offer_price": 320,
+          "unit_level_price": "",
+          "discount_value": 125
+        },
+        "brand": "Happilo",
+        "brand_id": "636313fc620ad8570a749c178aa4e5bf8076bd63",
+        "category": "Almond, Cashew and Pista",
+        "super_category": "Dry Fruits and Nuts",
+        "sub_category_l3": "Pistachios",
+        "sub_category_l4": "Flavoured",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Roasted Salted California Pistachios",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/10/6/86e3a2d5-f8a3-422c-8685-14dd65888195_3948_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/6/61e64439-82e0-4bf2-b5be-33afc6f5a554_3948_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/6/f6b26474-31ce-4069-8e58-4398a84dffed_3948_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/6/991ed4df-755a-4abb-9ce8-78029fed7496_38354_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/6/57561e7c-e7bd-464e-927e-98406b1a9990_3948_5.png"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
+  },
+  {
+    "display_name": "Nutraj Premium Arabian Dates",
+    "brand": "Nutraj",
+    "brand_id": "3fbdc928438b6601dc482757da603f65d08683e3",
+    "product_id": "X8L15DFXT6",
+    "variations": [
+      {
+        "id": "N2GMT0G36K",
+        "display_name": "Nutraj Premium Arabian Dates",
+        "price": {
+          "mrp": 199,
+          "store_price": 199,
+          "offer_price": 131,
+          "unit_level_price": "",
+          "discount_value": 68
+        },
+        "brand": "Nutraj",
+        "brand_id": "3fbdc928438b6601dc482757da603f65d08683e3",
+        "category": "Dates and Walnuts",
+        "super_category": "Dry Fruits and Nuts",
+        "sub_category_l3": "Dates",
+        "sub_category_l4": "With Seed",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Premium Arabian Dates",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/3/18/a7da22a7-be91-484d-aaff-f3a2e0a6cc6b_driedfruitsnutsandseeds_7UWZITXBU7_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/18/337217f7-fcc3-48dd-ae2b-83d4a8225e1b_driedfruitsnutsandseeds_7UWZITXBU7_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/3/18/2e201475-ab3a-4c4e-a180-221e1a233c58_driedfruitsnutsandseeds_7UWZITXBU7_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
+  },
+  {
+    "display_name": "Happilo Premium Californian Roasted & Salted Pistachios",
+    "brand": "Happilo",
+    "brand_id": "636313fc620ad8570a749c178aa4e5bf8076bd63",
+    "product_id": "33XNKW8PBX",
+    "variations": [
+      {
+        "id": "U39S1Q06UH",
+        "display_name": "Happilo Premium Californian Roasted & Salted Pistachios",
+        "price": {
+          "mrp": 1115,
+          "store_price": 1115,
+          "offer_price": 750,
+          "unit_level_price": "",
+          "discount_value": 365
+        },
+        "brand": "Happilo",
+        "brand_id": "636313fc620ad8570a749c178aa4e5bf8076bd63",
+        "category": "Almond, Cashew and Pista",
+        "super_category": "Dry Fruits and Nuts",
+        "sub_category_l3": "Pistachios",
+        "sub_category_l4": "Flavoured",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Premium Californian Roasted & Salted Pistachios",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/12/9/9bf95b55-a5a2-4091-8735-bda46b78f5e0_38354_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/9/5efdad5c-704e-486c-aa59-1d46e68c3f12_38354_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/9/ad0d2587-cf45-4148-9050-a5359f6a55cb_38354_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/9/aed8362f-38d5-491e-ada8-12f1c746002a_38354_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/9/c57b452d-e06e-4482-ba00-882979130e00_38354_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/10/6/7f9a9e36-3369-4a82-bfe9-1f34592f0900_38354_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
   },
   {
     "display_name": "Supreme Harvest Indian Raisins",
@@ -212,9 +386,9 @@
         "price": {
           "mrp": 230,
           "store_price": 230,
-          "offer_price": 126,
-          "unit_level_price": "63/100 g",
-          "discount_value": 104
+          "offer_price": 121,
+          "unit_level_price": "60.5/100 g",
+          "discount_value": 109
         },
         "brand": "Supreme Harvest",
         "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
@@ -238,7 +412,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": "Best Value"
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
   },
   {
     "display_name": "Farmley Prasadam Makhana",
@@ -252,9 +433,9 @@
         "price": {
           "mrp": 299,
           "store_price": 299,
-          "offer_price": 217,
+          "offer_price": 223,
           "unit_level_price": "",
-          "discount_value": 82
+          "discount_value": 76
         },
         "brand": "Farmley",
         "brand_id": "f64ef856e990a5a9a8e6e6bb14d89ae5e4b4e536",
@@ -278,7 +459,108 @@
         "scm_item_type": "NORMAL",
         "filters_tag": "Best Value"
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Cashew Whole",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "OQ98UE3YZ1",
+    "variations": [
+      {
+        "id": "IO4O1RXJFY",
+        "display_name": "Supreme Harvest Cashew Whole",
+        "price": {
+          "mrp": 900,
+          "store_price": 900,
+          "offer_price": 465,
+          "unit_level_price": "93/100 g",
+          "discount_value": 435
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Almond, Cashew and Pista",
+        "super_category": "Dry Fruits and Nuts",
+        "sub_category_l3": "Cashew",
+        "sub_category_l4": "Whole",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Cashew Whole",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/15/a4d6c494-9bfb-4b12-b5c5-9d2926594473_15752_1.png",
+          "akr52zfervvkfaqkofb6",
+          "gutza5crwar7ahmwudzz"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Fig (Anjeer)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "M1LKL2TJ2Z",
+    "variations": [
+      {
+        "id": "NJAK5XW6JR",
+        "display_name": "Supreme Harvest Fig (Anjeer)",
+        "price": {
+          "mrp": 250,
+          "store_price": 250,
+          "offer_price": 194,
+          "unit_level_price": "",
+          "discount_value": 56
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dried Fruits and Berries",
+        "super_category": "Dry Fruits and Nuts",
+        "sub_category_l3": "Anjeer",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Fig (Anjeer)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/15/5a46d4f4-6f3b-4445-8dc1-2636e420b7bd_15735_1.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
   },
   {
     "display_name": "Happilo 100% Natural Premium Whole Cashews",
@@ -292,9 +574,9 @@
         "price": {
           "mrp": 395,
           "store_price": 395,
-          "offer_price": 274,
+          "offer_price": 291,
           "unit_level_price": "",
-          "discount_value": 121
+          "discount_value": 104
         },
         "brand": "Happilo",
         "brand_id": "636313fc620ad8570a749c178aa4e5bf8076bd63",
@@ -321,87 +603,159 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
   },
   {
-    "display_name": "Nutraj Premium Arabian Dates",
+    "display_name": "Nutraj RR Walnut Kernels",
     "brand": "Nutraj",
     "brand_id": "3fbdc928438b6601dc482757da603f65d08683e3",
-    "product_id": "X8L15DFXT6",
+    "product_id": "U0Z3BXS5N9",
     "variations": [
       {
-        "id": "N2GMT0G36K",
-        "display_name": "Nutraj Premium Arabian Dates",
+        "id": "3XZ1AZT3MN",
+        "display_name": "Nutraj RR Walnut Kernels",
         "price": {
-          "mrp": 199,
-          "store_price": 199,
-          "offer_price": 129,
-          "unit_level_price": "",
-          "discount_value": 70
+          "mrp": 449,
+          "store_price": 449,
+          "offer_price": 318,
+          "unit_level_price": "127.2/100 g",
+          "discount_value": 131
         },
         "brand": "Nutraj",
         "brand_id": "3fbdc928438b6601dc482757da603f65d08683e3",
         "category": "Dates and Walnuts",
         "super_category": "Dry Fruits and Nuts",
-        "sub_category_l3": "Dates",
-        "sub_category_l4": "With Seed",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Premium Arabian Dates",
+        "sub_category_l3": "Walnuts",
+        "sub_category_l4": "Kernels",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "RR Walnut Kernels",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/3/18/a7da22a7-be91-484d-aaff-f3a2e0a6cc6b_driedfruitsnutsandseeds_7UWZITXBU7_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/3/18/337217f7-fcc3-48dd-ae2b-83d4a8225e1b_driedfruitsnutsandseeds_7UWZITXBU7_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/3/18/2e201475-ab3a-4c4e-a180-221e1a233c58_driedfruitsnutsandseeds_7UWZITXBU7_AL2.png"
+          "NI_CATALOG/IMAGES/CIW/2024/6/14/c17431a7-e082-4a5b-878a-3ce24150f730_driedfruitsnutsandseeds_8VG9CHUNMM_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/14/61c75708-2435-47ff-bf70-99bfa5681139_driedfruitsnutsandseeds_8VG9CHUNMM_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/6/14/1f255624-c638-43f0-a1c1-a13d22b28cc9_driedfruitsnutsandseeds_8VG9CHUNMM_AL2.png",
+          "60a94d2632eeb16a24601994c9a81676"
         ],
         "images_v2": [],
-        "quantity": "500",
-        "sku_quantity_with_combo": "500 g",
+        "quantity": "250",
+        "sku_quantity_with_combo": "250 g",
         "unit_of_measure": "g",
-        "weight_in_grams": 500,
+        "weight_in_grams": 250,
         "volumetric_weight": 0,
         "scm_item_type": "NORMAL",
-        "filters_tag": "Best Value"
+        "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
   },
   {
-    "display_name": "Supreme Harvest Cashew Whole",
-    "brand": "Supreme Harvest",
-    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
-    "product_id": "OQ98UE3YZ1",
+    "display_name": "Happilo 100% Natural Premium Californian Almonds",
+    "brand": "Happilo",
+    "brand_id": "636313fc620ad8570a749c178aa4e5bf8076bd63",
+    "product_id": "PHX2051PIF",
     "variations": [
       {
-        "id": "IO4O1RXJFY",
-        "display_name": "Supreme Harvest Cashew Whole",
+        "id": "M0OWQD2LK7",
+        "display_name": "Happilo 100% Natural Premium Californian Almonds",
         "price": {
-          "mrp": 900,
-          "store_price": 900,
-          "offer_price": 472,
-          "unit_level_price": "94.4/100 g",
-          "discount_value": 428
+          "mrp": 295,
+          "store_price": 295,
+          "offer_price": 253,
+          "unit_level_price": "",
+          "discount_value": 42
         },
-        "brand": "Supreme Harvest",
-        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "brand": "Happilo",
+        "brand_id": "636313fc620ad8570a749c178aa4e5bf8076bd63",
         "category": "Almond, Cashew and Pista",
         "super_category": "Dry Fruits and Nuts",
-        "sub_category_l3": "Cashew",
-        "sub_category_l4": "Whole",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Cashew Whole",
+        "sub_category_l3": "Almonds",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "100% Natural Premium Californian Almonds",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/15/a4d6c494-9bfb-4b12-b5c5-9d2926594473_15752_1.png",
-          "akr52zfervvkfaqkofb6",
-          "gutza5crwar7ahmwudzz"
+          "NI_CATALOG/IMAGES/CIW/2025/5/8/0e7a642a-10ba-4f5b-85ff-22fa9333ce92_3371_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/8/23cd04d1-995f-4445-87ca-15ee2ec90360_3371_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/8/d464bb56-eeb5-405f-a1c8-920178f9e906_3371_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/8/a182b8c1-aa87-4ba0-a131-8a804e7b7f2b_3371_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/8/c05eea93-892d-4c52-a034-f90ba477039a_3371_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/5/8/c04328f6-7944-4c62-aa4b-e218407de517_3371_6.png"
         ],
         "images_v2": [],
-        "quantity": "500",
-        "sku_quantity_with_combo": "500 g",
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
         "unit_of_measure": "g",
-        "weight_in_grams": 500,
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
+  },
+  {
+    "display_name": "Wonderland Foods Sliced Dried Cranberry Pouch",
+    "brand": "Wonderland Foods",
+    "brand_id": "f3caf60da8e7abc4d92648ecec02104d6fd32d28",
+    "product_id": "I0003YAMAX",
+    "variations": [
+      {
+        "id": "7YF98730Q1",
+        "display_name": "Wonderland Foods Sliced Dried Cranberry Pouch",
+        "price": {
+          "mrp": 290,
+          "store_price": 290,
+          "offer_price": 196,
+          "unit_level_price": "",
+          "discount_value": 94
+        },
+        "brand": "Wonderland Foods",
+        "brand_id": "f3caf60da8e7abc4d92648ecec02104d6fd32d28",
+        "category": "Dried Fruits and Berries",
+        "super_category": "Dry Fruits and Nuts",
+        "sub_category_l3": "Cranberries",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Sliced Dried Cranberry Pouch",
+        "images": [
+          "71a8bb75cae4bd029c8ab356bf1650ca",
+          "73cb4f971f38c08a7623f49ae445ef06",
+          "c281e60b9aa2d5bd8acdf14cec742ecb"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 200,
         "volumetric_weight": 0,
         "scm_item_type": "NORMAL",
         "filters_tag": "Best Value"
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
   },
   {
     "display_name": "Happilo 100% Natural Premium Whole Cashews",
@@ -415,9 +769,9 @@
         "price": {
           "mrp": 995,
           "store_price": 995,
-          "offer_price": 589,
+          "offer_price": 625,
           "unit_level_price": "",
-          "discount_value": 406
+          "discount_value": 370
         },
         "brand": "Happilo",
         "brand_id": "636313fc620ad8570a749c178aa4e5bf8076bd63",
@@ -444,38 +798,140 @@
         "scm_item_type": "NORMAL",
         "filters_tag": "Best Value"
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
   },
   {
-    "display_name": "Happilo Roasted Salted California Pistachios",
-    "brand": "Happilo",
-    "brand_id": "636313fc620ad8570a749c178aa4e5bf8076bd63",
-    "product_id": "T7GZNRCM5R",
+    "display_name": "Nutraj Raisin / Kishmish",
+    "brand": "Nutraj",
+    "brand_id": "3fbdc928438b6601dc482757da603f65d08683e3",
+    "product_id": "5PH7DXNIJS",
     "variations": [
       {
-        "id": "88SN5CSK9O",
-        "display_name": "Happilo Roasted Salted California Pistachios",
+        "id": "O2LHS61S3S",
+        "display_name": "Nutraj Raisin / Kishmish",
         "price": {
-          "mrp": 445,
-          "store_price": 445,
-          "offer_price": 300,
+          "mrp": 299,
+          "store_price": 299,
+          "offer_price": 252,
           "unit_level_price": "",
-          "discount_value": 145
+          "discount_value": 47
+        },
+        "brand": "Nutraj",
+        "brand_id": "3fbdc928438b6601dc482757da603f65d08683e3",
+        "category": "Dried Fruits and Berries",
+        "super_category": "Dry Fruits and Nuts",
+        "sub_category_l3": "Raisins",
+        "sub_category_l4": "Green",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Raisin / Kishmish",
+        "images": [
+          "b492cdd7b066904a8f17963645916a14",
+          "a31f7935ead9ea00bcd7d4d3bf3deb51",
+          "9387d7e807074f49cc03897e27b0b4c3"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Dry Dates",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "J32E94TDTO",
+    "variations": [
+      {
+        "id": "S1JTYN9CG3",
+        "display_name": "Supreme Harvest Dry Dates",
+        "price": {
+          "mrp": 400,
+          "store_price": 400,
+          "offer_price": 210,
+          "unit_level_price": "42/100 g",
+          "discount_value": 190
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dates and Walnuts",
+        "super_category": "Dry Fruits and Nuts",
+        "sub_category_l3": "Dates",
+        "sub_category_l4": "With Seed",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Dry Dates",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/4/a4d909e7-34ff-4b74-b9de-898b22647e9e_15734_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/4/e4bf5990-6ffb-4969-b752-4a8bfc7276ff_15734_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/4/15cd5ca6-5a6f-4377-9a33-a1ef623352dc_15734_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
+  },
+  {
+    "display_name": "Happilo Premium Dried Afghani Anjeer",
+    "brand": "Happilo",
+    "brand_id": "636313fc620ad8570a749c178aa4e5bf8076bd63",
+    "product_id": "E2C4TBXKS7",
+    "variations": [
+      {
+        "id": "55MJ2ZTNHH",
+        "display_name": "Happilo Premium Dried Afghani Anjeer",
+        "price": {
+          "mrp": 495,
+          "store_price": 495,
+          "offer_price": 389,
+          "unit_level_price": "",
+          "discount_value": 106
         },
         "brand": "Happilo",
         "brand_id": "636313fc620ad8570a749c178aa4e5bf8076bd63",
-        "category": "Almond, Cashew and Pista",
+        "category": "Dried Fruits and Berries",
         "super_category": "Dry Fruits and Nuts",
-        "sub_category_l3": "Pistachios",
-        "sub_category_l4": "Flavoured",
+        "sub_category_l3": "Anjeer",
+        "sub_category_l4": "Premium",
         "sub_category_l5": "Medium",
-        "product_name_without_brand": "Roasted Salted California Pistachios",
+        "product_name_without_brand": "Premium Dried Afghani Anjeer",
         "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/10/6/86e3a2d5-f8a3-422c-8685-14dd65888195_3948_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/6/61e64439-82e0-4bf2-b5be-33afc6f5a554_3948_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/6/f6b26474-31ce-4069-8e58-4398a84dffed_3948_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/6/991ed4df-755a-4abb-9ce8-78029fed7496_38354_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/6/57561e7c-e7bd-464e-927e-98406b1a9990_3948_5.png"
+          "NI_CATALOG/IMAGES/CIW/2024/12/9/cfdb9279-1e4d-4abf-ae83-610eb5b4938a_6198_1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/9/324f6830-5377-4dc5-a2b1-85e009b63a83_6198_2.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/9/bf15ec77-3bb8-4141-a158-6fdebd8e9d02_6198_3.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/9/9c7d9844-a1f4-4b28-be1d-007273a27e1a_6198_4.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/9/55a955f0-b7ae-4459-ae2e-423836c907d0_6198_5.png",
+          "NI_CATALOG/IMAGES/CIW/2024/12/9/17b90984-d333-4686-bc3b-5f5eb6726fbe_6198_6.png"
         ],
         "images_v2": [],
         "quantity": "200",
@@ -484,9 +940,16 @@
         "weight_in_grams": 200,
         "volumetric_weight": 0,
         "scm_item_type": "NORMAL",
-        "filters_tag": "Best Value"
+        "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
   },
   {
     "display_name": "Nutraj California Walnut / Akhrot inshell",
@@ -527,500 +990,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": "Best Value"
       }
-    ]
-  },
-  {
-    "display_name": "Nutraj RR Walnut Kernels",
-    "brand": "Nutraj",
-    "brand_id": "3fbdc928438b6601dc482757da603f65d08683e3",
-    "product_id": "U0Z3BXS5N9",
-    "variations": [
-      {
-        "id": "3XZ1AZT3MN",
-        "display_name": "Nutraj RR Walnut Kernels",
-        "price": {
-          "mrp": 449,
-          "store_price": 449,
-          "offer_price": 317,
-          "unit_level_price": "126.8/100 g",
-          "discount_value": 132
-        },
-        "brand": "Nutraj",
-        "brand_id": "3fbdc928438b6601dc482757da603f65d08683e3",
-        "category": "Dates and Walnuts",
-        "super_category": "Dry Fruits and Nuts",
-        "sub_category_l3": "Walnuts",
-        "sub_category_l4": "Kernels",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "RR Walnut Kernels",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/6/14/c17431a7-e082-4a5b-878a-3ce24150f730_driedfruitsnutsandseeds_8VG9CHUNMM_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/14/61c75708-2435-47ff-bf70-99bfa5681139_driedfruitsnutsandseeds_8VG9CHUNMM_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/6/14/1f255624-c638-43f0-a1c1-a13d22b28cc9_driedfruitsnutsandseeds_8VG9CHUNMM_AL2.png",
-          "60a94d2632eeb16a24601994c9a81676"
-        ],
-        "images_v2": [],
-        "quantity": "250",
-        "sku_quantity_with_combo": "250 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 250,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Supreme Harvest Fig (Anjeer)",
-    "brand": "Supreme Harvest",
-    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
-    "product_id": "M1LKL2TJ2Z",
-    "variations": [
-      {
-        "id": "NJAK5XW6JR",
-        "display_name": "Supreme Harvest Fig (Anjeer)",
-        "price": {
-          "mrp": 250,
-          "store_price": 250,
-          "offer_price": 197,
-          "unit_level_price": "",
-          "discount_value": 53
-        },
-        "brand": "Supreme Harvest",
-        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
-        "category": "Dried Fruits and Berries",
-        "super_category": "Dry Fruits and Nuts",
-        "sub_category_l3": "Anjeer",
-        "sub_category_l4": "Regular",
-        "sub_category_l5": "Small",
-        "product_name_without_brand": "Fig (Anjeer)",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/15/5a46d4f4-6f3b-4445-8dc1-2636e420b7bd_15735_1.png",
-          "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
-          "d0ea1c898952f277cd12c5bf935dafad"
-        ],
-        "images_v2": [],
-        "quantity": "100",
-        "sku_quantity_with_combo": "100 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 100,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Nutraj California Almond / Badam ",
-    "brand": "Nutraj",
-    "brand_id": "3fbdc928438b6601dc482757da603f65d08683e3",
-    "product_id": "7CRIHWML7D",
-    "variations": [
-      {
-        "id": "IV9IHQI9Y9",
-        "display_name": "Nutraj California Almond / Badam ",
-        "price": {
-          "mrp": 599,
-          "store_price": 599,
-          "offer_price": 429,
-          "unit_level_price": "85.8/100 g",
-          "discount_value": 170
-        },
-        "brand": "Nutraj",
-        "brand_id": "3fbdc928438b6601dc482757da603f65d08683e3",
-        "category": "Almond, Cashew and Pista",
-        "super_category": "Dry Fruits and Nuts",
-        "sub_category_l3": "Almonds",
-        "sub_category_l4": "Regular",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "California Almond / Badam ",
-        "images": [
-          "5c2659a5cd19bb570b87d5d23fc37cfd",
-          "f0b774ad3700df8073ac61d3b678eb1b",
-          "40cb53750ff44108e40574c3dc7273ce"
-        ],
-        "images_v2": [],
-        "quantity": "500",
-        "sku_quantity_with_combo": "500 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Happilo 100% Natural Premium Californian Almonds",
-    "brand": "Happilo",
-    "brand_id": "636313fc620ad8570a749c178aa4e5bf8076bd63",
-    "product_id": "PHX2051PIF",
-    "variations": [
-      {
-        "id": "M0OWQD2LK7",
-        "display_name": "Happilo 100% Natural Premium Californian Almonds",
-        "price": {
-          "mrp": 295,
-          "store_price": 295,
-          "offer_price": 237,
-          "unit_level_price": "",
-          "discount_value": 58
-        },
-        "brand": "Happilo",
-        "brand_id": "636313fc620ad8570a749c178aa4e5bf8076bd63",
-        "category": "Almond, Cashew and Pista",
-        "super_category": "Dry Fruits and Nuts",
-        "sub_category_l3": "Almonds",
-        "sub_category_l4": "Regular",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "100% Natural Premium Californian Almonds",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/5/8/0e7a642a-10ba-4f5b-85ff-22fa9333ce92_3371_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/8/23cd04d1-995f-4445-87ca-15ee2ec90360_3371_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/8/d464bb56-eeb5-405f-a1c8-920178f9e906_3371_3.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/8/a182b8c1-aa87-4ba0-a131-8a804e7b7f2b_3371_4.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/8/c05eea93-892d-4c52-a034-f90ba477039a_3371_5.png",
-          "NI_CATALOG/IMAGES/CIW/2025/5/8/c04328f6-7944-4c62-aa4b-e218407de517_3371_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "200",
-        "sku_quantity_with_combo": "200 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 200,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Healthsootra Organic Chia Seeds",
-    "brand": "Healthsootra",
-    "brand_id": "2ed8d0767b096b732c30dff9c26059d3b68ae4c0",
-    "product_id": "YP54769L5B",
-    "variations": [
-      {
-        "id": "ASOC0YK993",
-        "display_name": "Healthsootra Organic Chia Seeds",
-        "price": {
-          "mrp": 230,
-          "store_price": 230,
-          "offer_price": 99,
-          "unit_level_price": "",
-          "discount_value": 131
-        },
-        "brand": "Healthsootra",
-        "brand_id": "2ed8d0767b096b732c30dff9c26059d3b68ae4c0",
-        "category": "Makhana and Seeds",
-        "super_category": "Dry Fruits and Nuts",
-        "sub_category_l3": "Chia Seeds",
-        "sub_category_l4": "Raw Seeds",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Organic Chia Seeds",
-        "images": [
-          "c3838216eead7c9a886310e44c899ab9",
-          "765bfd176a5b3025855f66805422c207",
-          "fdad243c01e4cba53ed13556fa509c9e",
-          "231872ff0bc3345c6b25ca44f87bd2cd",
-          "g1osvsmitse7upg6p1cs",
-          "ulhk30j5xkhzuleiozzv"
-        ],
-        "images_v2": [],
-        "quantity": "200",
-        "sku_quantity_with_combo": "200 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 200,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Best Value"
-      }
-    ]
-  },
-  {
-    "display_name": "Supreme Harvest Indian Raisins",
-    "brand": "Supreme Harvest",
-    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
-    "product_id": "U25KWLWFAR",
-    "variations": [
-      {
-        "id": "VMGMMMSWTJ",
-        "display_name": "Supreme Harvest Indian Raisins",
-        "price": {
-          "mrp": 550,
-          "store_price": 550,
-          "offer_price": 310,
-          "unit_level_price": "62/100 g",
-          "discount_value": 240
-        },
-        "brand": "Supreme Harvest",
-        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
-        "category": "Dried Fruits and Berries",
-        "super_category": "Dry Fruits and Nuts",
-        "sub_category_l3": "Raisins",
-        "sub_category_l4": "Green",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Indian Raisins",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/3/15/1d2100bb-9dfd-41f7-8296-e39ea8500d67_15741_1.png",
-          "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
-          "d0ea1c898952f277cd12c5bf935dafad"
-        ],
-        "images_v2": [],
-        "quantity": "500",
-        "sku_quantity_with_combo": "500 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Best Value"
-      }
-    ]
-  },
-  {
-    "display_name": "Happilo Premium Californian Roasted & Salted Pistachios",
-    "brand": "Happilo",
-    "brand_id": "636313fc620ad8570a749c178aa4e5bf8076bd63",
-    "product_id": "33XNKW8PBX",
-    "variations": [
-      {
-        "id": "U39S1Q06UH",
-        "display_name": "Happilo Premium Californian Roasted & Salted Pistachios",
-        "price": {
-          "mrp": 1115,
-          "store_price": 1115,
-          "offer_price": 789,
-          "unit_level_price": "",
-          "discount_value": 326
-        },
-        "brand": "Happilo",
-        "brand_id": "636313fc620ad8570a749c178aa4e5bf8076bd63",
-        "category": "Almond, Cashew and Pista",
-        "super_category": "Dry Fruits and Nuts",
-        "sub_category_l3": "Pistachios",
-        "sub_category_l4": "Flavoured",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Premium Californian Roasted & Salted Pistachios",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/12/9/9bf95b55-a5a2-4091-8735-bda46b78f5e0_38354_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/9/5efdad5c-704e-486c-aa59-1d46e68c3f12_38354_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/9/ad0d2587-cf45-4148-9050-a5359f6a55cb_38354_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/9/aed8362f-38d5-491e-ada8-12f1c746002a_38354_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/9/c57b452d-e06e-4482-ba00-882979130e00_38354_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/10/6/7f9a9e36-3369-4a82-bfe9-1f34592f0900_38354_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "500",
-        "sku_quantity_with_combo": "500 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Best Value"
-      }
-    ]
-  },
-  {
-    "display_name": "Supreme Harvest Dry Dates",
-    "brand": "Supreme Harvest",
-    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
-    "product_id": "J32E94TDTO",
-    "variations": [
-      {
-        "id": "S1JTYN9CG3",
-        "display_name": "Supreme Harvest Dry Dates",
-        "price": {
-          "mrp": 400,
-          "store_price": 400,
-          "offer_price": 220,
-          "unit_level_price": "44/100 g",
-          "discount_value": 180
-        },
-        "brand": "Supreme Harvest",
-        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
-        "category": "Dates and Walnuts",
-        "super_category": "Dry Fruits and Nuts",
-        "sub_category_l3": "Dates",
-        "sub_category_l4": "With Seed",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Dry Dates",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2025/8/4/a4d909e7-34ff-4b74-b9de-898b22647e9e_15734_1.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/4/e4bf5990-6ffb-4969-b752-4a8bfc7276ff_15734_2.png",
-          "NI_CATALOG/IMAGES/CIW/2025/8/4/15cd5ca6-5a6f-4377-9a33-a1ef623352dc_15734_3.png"
-        ],
-        "images_v2": [],
-        "quantity": "500",
-        "sku_quantity_with_combo": "500 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Happilo Premium Dried Afghani Anjeer",
-    "brand": "Happilo",
-    "brand_id": "636313fc620ad8570a749c178aa4e5bf8076bd63",
-    "product_id": "E2C4TBXKS7",
-    "variations": [
-      {
-        "id": "55MJ2ZTNHH",
-        "display_name": "Happilo Premium Dried Afghani Anjeer",
-        "price": {
-          "mrp": 495,
-          "store_price": 495,
-          "offer_price": 403,
-          "unit_level_price": "",
-          "discount_value": 92
-        },
-        "brand": "Happilo",
-        "brand_id": "636313fc620ad8570a749c178aa4e5bf8076bd63",
-        "category": "Dried Fruits and Berries",
-        "super_category": "Dry Fruits and Nuts",
-        "sub_category_l3": "Anjeer",
-        "sub_category_l4": "Premium",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Premium Dried Afghani Anjeer",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/12/9/cfdb9279-1e4d-4abf-ae83-610eb5b4938a_6198_1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/9/324f6830-5377-4dc5-a2b1-85e009b63a83_6198_2.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/9/bf15ec77-3bb8-4141-a158-6fdebd8e9d02_6198_3.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/9/9c7d9844-a1f4-4b28-be1d-007273a27e1a_6198_4.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/9/55a955f0-b7ae-4459-ae2e-423836c907d0_6198_5.png",
-          "NI_CATALOG/IMAGES/CIW/2024/12/9/17b90984-d333-4686-bc3b-5f5eb6726fbe_6198_6.png"
-        ],
-        "images_v2": [],
-        "quantity": "200",
-        "sku_quantity_with_combo": "200 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 200,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": null
-      }
-    ]
-  },
-  {
-    "display_name": "Wonderland Foods Sliced Dried Cranberry Pouch",
-    "brand": "Wonderland Foods",
-    "brand_id": "f3caf60da8e7abc4d92648ecec02104d6fd32d28",
-    "product_id": "I0003YAMAX",
-    "variations": [
-      {
-        "id": "7YF98730Q1",
-        "display_name": "Wonderland Foods Sliced Dried Cranberry Pouch",
-        "price": {
-          "mrp": 290,
-          "store_price": 290,
-          "offer_price": 195,
-          "unit_level_price": "",
-          "discount_value": 95
-        },
-        "brand": "Wonderland Foods",
-        "brand_id": "f3caf60da8e7abc4d92648ecec02104d6fd32d28",
-        "category": "Dried Fruits and Berries",
-        "super_category": "Dry Fruits and Nuts",
-        "sub_category_l3": "Cranberries",
-        "sub_category_l4": "Regular",
-        "sub_category_l5": "Medium",
-        "product_name_without_brand": "Sliced Dried Cranberry Pouch",
-        "images": [
-          "71a8bb75cae4bd029c8ab356bf1650ca",
-          "73cb4f971f38c08a7623f49ae445ef06",
-          "c281e60b9aa2d5bd8acdf14cec742ecb"
-        ],
-        "images_v2": [],
-        "quantity": "200",
-        "sku_quantity_with_combo": "200 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 200,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Best Value"
-      }
-    ]
-  },
-  {
-    "display_name": "Wonderland Foods Raw Cashew Pouch",
-    "brand": "Wonderland Foods",
-    "brand_id": "f3caf60da8e7abc4d92648ecec02104d6fd32d28",
-    "product_id": "MXAK428D9C",
-    "variations": [
-      {
-        "id": "JV631UTS7F",
-        "display_name": "Wonderland Foods Raw Cashew Pouch",
-        "price": {
-          "mrp": 770,
-          "store_price": 770,
-          "offer_price": 459,
-          "unit_level_price": "91.8/100 g",
-          "discount_value": 311
-        },
-        "brand": "Wonderland Foods",
-        "brand_id": "f3caf60da8e7abc4d92648ecec02104d6fd32d28",
-        "category": "Almond, Cashew and Pista",
-        "super_category": "Dry Fruits and Nuts",
-        "sub_category_l3": "Cashew",
-        "sub_category_l4": "Whole",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Raw Cashew Pouch",
-        "images": [
-          "NI_CATALOG/IMAGES/CIW/2024/4/25/ce67fa38-385a-420f-9d34-6f8bab97386d_driedfruitsnutsandseeds_TRCWU17COD_MN.png",
-          "NI_CATALOG/IMAGES/CIW/2024/4/25/0ab54158-33bd-49c8-bbb9-c8e72fb476ce_driedfruitsnutsandseeds_TRCWU17COD_AL1.png",
-          "NI_CATALOG/IMAGES/CIW/2024/4/25/c699b47b-c3f0-4bef-aa13-a629ae642a24_driedfruitsnutsandseeds_TRCWU17COD_AL2.png"
-        ],
-        "images_v2": [],
-        "quantity": "500",
-        "sku_quantity_with_combo": "500 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Best Value"
-      }
-    ]
-  },
-  {
-    "display_name": "Nutraj Raisin / Kishmish",
-    "brand": "Nutraj",
-    "brand_id": "3fbdc928438b6601dc482757da603f65d08683e3",
-    "product_id": "5PH7DXNIJS",
-    "variations": [
-      {
-        "id": "O2LHS61S3S",
-        "display_name": "Nutraj Raisin / Kishmish",
-        "price": {
-          "mrp": 299,
-          "store_price": 299,
-          "offer_price": 269,
-          "unit_level_price": "",
-          "discount_value": 30
-        },
-        "brand": "Nutraj",
-        "brand_id": "3fbdc928438b6601dc482757da603f65d08683e3",
-        "category": "Dried Fruits and Berries",
-        "super_category": "Dry Fruits and Nuts",
-        "sub_category_l3": "Raisins",
-        "sub_category_l4": "Green",
-        "sub_category_l5": "Large",
-        "product_name_without_brand": "Raisin / Kishmish",
-        "images": [
-          "b492cdd7b066904a8f17963645916a14",
-          "a31f7935ead9ea00bcd7d4d3bf3deb51",
-          "9387d7e807074f49cc03897e27b0b4c3"
-        ],
-        "images_v2": [],
-        "quantity": "500",
-        "sku_quantity_with_combo": "500 g",
-        "unit_of_measure": "g",
-        "weight_in_grams": 500,
-        "volumetric_weight": 0,
-        "scm_item_type": "NORMAL",
-        "filters_tag": "Best Value"
-      }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
   },
   {
     "display_name": "Nutraj Cashew / Kaju ",
@@ -1034,9 +1011,9 @@
         "price": {
           "mrp": 699,
           "store_price": 699,
-          "offer_price": 519,
-          "unit_level_price": "103.8/100 g",
-          "discount_value": 180
+          "offer_price": 518,
+          "unit_level_price": "103.6/100 g",
+          "discount_value": 181
         },
         "brand": "Nutraj",
         "brand_id": "3fbdc928438b6601dc482757da603f65d08683e3",
@@ -1061,7 +1038,108 @@
         "scm_item_type": "NORMAL",
         "filters_tag": "Best Value"
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
+  },
+  {
+    "display_name": "Nutraj California Almond / Badam ",
+    "brand": "Nutraj",
+    "brand_id": "3fbdc928438b6601dc482757da603f65d08683e3",
+    "product_id": "7CRIHWML7D",
+    "variations": [
+      {
+        "id": "IV9IHQI9Y9",
+        "display_name": "Nutraj California Almond / Badam ",
+        "price": {
+          "mrp": 599,
+          "store_price": 599,
+          "offer_price": 431,
+          "unit_level_price": "86.2/100 g",
+          "discount_value": 168
+        },
+        "brand": "Nutraj",
+        "brand_id": "3fbdc928438b6601dc482757da603f65d08683e3",
+        "category": "Almond, Cashew and Pista",
+        "super_category": "Dry Fruits and Nuts",
+        "sub_category_l3": "Almonds",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "California Almond / Badam ",
+        "images": [
+          "5c2659a5cd19bb570b87d5d23fc37cfd",
+          "f0b774ad3700df8073ac61d3b678eb1b",
+          "40cb53750ff44108e40574c3dc7273ce"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
+  },
+  {
+    "display_name": "Wonderland Foods Raw Cashew Pouch",
+    "brand": "Wonderland Foods",
+    "brand_id": "f3caf60da8e7abc4d92648ecec02104d6fd32d28",
+    "product_id": "MXAK428D9C",
+    "variations": [
+      {
+        "id": "JV631UTS7F",
+        "display_name": "Wonderland Foods Raw Cashew Pouch",
+        "price": {
+          "mrp": 770,
+          "store_price": 770,
+          "offer_price": 466,
+          "unit_level_price": "93.2/100 g",
+          "discount_value": 304
+        },
+        "brand": "Wonderland Foods",
+        "brand_id": "f3caf60da8e7abc4d92648ecec02104d6fd32d28",
+        "category": "Almond, Cashew and Pista",
+        "super_category": "Dry Fruits and Nuts",
+        "sub_category_l3": "Cashew",
+        "sub_category_l4": "Whole",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Raw Cashew Pouch",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/4/25/ce67fa38-385a-420f-9d34-6f8bab97386d_driedfruitsnutsandseeds_TRCWU17COD_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/25/0ab54158-33bd-49c8-bbb9-c8e72fb476ce_driedfruitsnutsandseeds_TRCWU17COD_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/25/c699b47b-c3f0-4bef-aa13-a629ae642a24_driedfruitsnutsandseeds_TRCWU17COD_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
   },
   {
     "display_name": "Delight Nuts Cashew Roasted And Salted",
@@ -1101,7 +1179,64 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
+  },
+  {
+    "display_name": "Healthsootra Organic Chia Seeds",
+    "brand": "Healthsootra",
+    "brand_id": "2ed8d0767b096b732c30dff9c26059d3b68ae4c0",
+    "product_id": "YP54769L5B",
+    "variations": [
+      {
+        "id": "ASOC0YK993",
+        "display_name": "Healthsootra Organic Chia Seeds",
+        "price": {
+          "mrp": 230,
+          "store_price": 230,
+          "offer_price": 92,
+          "unit_level_price": "",
+          "discount_value": 138
+        },
+        "brand": "Healthsootra",
+        "brand_id": "2ed8d0767b096b732c30dff9c26059d3b68ae4c0",
+        "category": "Makhana and Seeds",
+        "super_category": "Dry Fruits and Nuts",
+        "sub_category_l3": "Chia Seeds",
+        "sub_category_l4": "Raw Seeds",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Organic Chia Seeds",
+        "images": [
+          "c3838216eead7c9a886310e44c899ab9",
+          "765bfd176a5b3025855f66805422c207",
+          "fdad243c01e4cba53ed13556fa509c9e",
+          "231872ff0bc3345c6b25ca44f87bd2cd",
+          "g1osvsmitse7upg6p1cs",
+          "ulhk30j5xkhzuleiozzv"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
   },
   {
     "display_name": "Wonderland Foods Premium Walnut Kernels",
@@ -1115,9 +1250,9 @@
         "price": {
           "mrp": 435,
           "store_price": 435,
-          "offer_price": 322,
+          "offer_price": 338,
           "unit_level_price": "",
-          "discount_value": 113
+          "discount_value": 97
         },
         "brand": "Wonderland Foods",
         "brand_id": "f3caf60da8e7abc4d92648ecec02104d6fd32d28",
@@ -1141,7 +1276,61 @@
         "scm_item_type": "NORMAL",
         "filters_tag": "Best Value"
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Raisins",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "U25KWLWFAR",
+    "variations": [
+      {
+        "id": "VMGMMMSWTJ",
+        "display_name": "Supreme Harvest Indian Raisins",
+        "price": {
+          "mrp": 550,
+          "store_price": 550,
+          "offer_price": 298,
+          "unit_level_price": "59.6/100 g",
+          "discount_value": 252
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Dried Fruits and Berries",
+        "super_category": "Dry Fruits and Nuts",
+        "sub_category_l3": "Raisins",
+        "sub_category_l4": "Green",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Indian Raisins",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/15/1d2100bb-9dfd-41f7-8296-e39ea8500d67_15741_1.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
   },
   {
     "display_name": "Wonderland Foods Raisin Pouch",
@@ -1181,7 +1370,14 @@
         "scm_item_type": "NORMAL",
         "filters_tag": "Best Value"
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
   },
   {
     "display_name": "Supreme Harvest Cashew Whole",
@@ -1221,6 +1417,13 @@
         "scm_item_type": "NORMAL",
         "filters_tag": "Best Value"
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25b06",
+        "name": "Dry Fruits and Seeds Mix"
+      },
+      "category_name_from_url": "Dry Fruits and Seeds Mix"
+    }
   }
 ]

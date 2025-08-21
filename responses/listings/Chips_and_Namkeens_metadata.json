@@ -1,0 +1,185 @@
+{
+  "categories": [
+    {
+      "id": "6822eeebed32000001e25a46",
+      "display_name": "Cold Drinks and Juices",
+      "product_count": 1960,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/ba386d44-a570-47cb-9b7d-9c02554b06ef_3977c023-7f0f-45f0-aea5-11bc873a5546",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a57",
+      "display_name": "Ice Creams and Frozen Desserts",
+      "product_count": 1084,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/4fe55f10-32b9-4762-8d41-be76ea7f67a8_cc703675-e18b-4331-9617-db8a881f0ab2",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a62",
+      "display_name": "Chips and Namkeens",
+      "product_count": 4163,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/70be19a4-dc51-4ab3-969b-65736cd2cdf6_c0031c9c-5f6e-422c-a84b-1428e1787d28",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a70",
+      "display_name": "Chocolates",
+      "product_count": 1285,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/a5c36315-21b0-4dd9-8afc-80210e95df0c_77305056-9bb7-47a4-822d-6ee188bd00f6",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a7c",
+      "display_name": "Noodles, Pasta, Vermicelli",
+      "product_count": 987,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/da9542e9-0c6b-4fc3-bd65-422ab537a4aa_ac5adc39-bf55-492f-94d4-1c0ac65dea46",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a87",
+      "display_name": "Frozen Food",
+      "product_count": 742,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/7e355480-0793-4ac0-a0d7-ca7236109bf7_6bf77c55-7d76-4a96-ab88-9d0690dbd822",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a90",
+      "display_name": "Sweets",
+      "product_count": 360,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/f028cb2e-9593-48c0-95c5-86af909d7198_5ef3e945-a61d-4487-a50f-f5e341b1eee4",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eeebed32000001e25a98",
+      "display_name": "Paan Corner",
+      "product_count": 602,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/9cd93ba2-f843-4b57-9c08-56b9a78bcd50_b45772ad-2905-4b44-9c02-fbcbe43bc67a",
+      "age_consent_required": true
+    }
+  ],
+  "selected_category": {
+    "id": "6822eeebed32000001e25a62",
+    "name": "Chips and Namkeens"
+  },
+  "filters": [
+    {
+      "id": "68836b0083e1e500019dbdc0",
+      "name": "Fasting Essentials",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/25/bbe928fe-7813-4ddd-a396-621f1a0656d2_740e590d-7ab5-49d5-85ea-df1c5fe55d27",
+      "type": "Speciality taxonomy 3",
+      "product_count": 34
+    },
+    {
+      "id": "6822eeebed32000001e25a63",
+      "name": "Top Deals",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/2/19/6e82fb5f-c76b-4e52-a0ed-9091db3dffc7_39edba76-be69-4f5d-b2b8-81726d784c56",
+      "type": "Speciality taxonomy 3",
+      "product_count": 118
+    },
+    {
+      "id": "6822eeebed32000001e25a64",
+      "name": "Chips and Crisps",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/11/23/3e212158-5de4-4d2d-8ba7-6d8e2121e267_46410106-bc80-46e5-8081-de3ca93b37cd",
+      "type": "Speciality taxonomy 3",
+      "product_count": 484
+    },
+    {
+      "id": "6822eeebed32000001e25a65",
+      "name": "Nachos",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/3b3f6a23-6993-4194-9d76-836fe86b18a1_3d719f1f-657e-4913-a5c4-8d3b9750b43e",
+      "type": "Speciality taxonomy 3",
+      "product_count": 71
+    },
+    {
+      "id": "6822eeebed32000001e25a66",
+      "name": "Puffs and Crunchies",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/cbe4e72b-c16a-4831-a1dc-aa874e4c4a3e_2f75d3a5-8f19-49d9-b29c-9c0cdf1e2ec0",
+      "type": "Speciality taxonomy 3",
+      "product_count": 215
+    },
+    {
+      "id": "6822eeebed32000001e25a67",
+      "name": "Bhujia and Namkeens",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/9/20/e3d41eaa-9802-42dd-97d5-a27a1a615bf5_273e9c7f-6210-4996-bdde-07d33c2f7e76",
+      "type": "Speciality taxonomy 3",
+      "product_count": 619
+    },
+    {
+      "id": "6822eeebed32000001e25a6a",
+      "name": "Indian Snacks",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/e9f54baf-bda5-458b-a861-9e90429e601b_7ac45ee2-4e12-4bbc-b7f7-c1032e52a2ae",
+      "type": "Speciality taxonomy 3",
+      "product_count": 1375
+    },
+    {
+      "id": "6822eeebed32000001e25a69",
+      "name": "Makhana & Dry Fruits",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/5f0279c3-2866-4956-8551-461aaec123ac_7347529d-38fe-4aae-873e-3899b1f29209",
+      "type": "Speciality taxonomy 3",
+      "product_count": 373
+    },
+    {
+      "id": "6884b8787738c300014fb9fb",
+      "name": "Nuts",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/26/a6bdde9d-5465-409b-9482-c326100146cb_0d830948-448f-458d-8975-b0f337e20470",
+      "type": "Speciality taxonomy 3",
+      "product_count": 127
+    },
+    {
+      "id": "6822eeebed32000001e25a6b",
+      "name": "Popcorn",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/26ea4b08-4d2b-4200-9b05-37c542a4671a_803e5dec-ee8f-447e-8fc5-db3a6aee1e88",
+      "type": "Speciality taxonomy 3",
+      "product_count": 148
+    },
+    {
+      "id": "6822eeebed32000001e25a6c",
+      "name": "Gift Hampers",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/11/23/ff12968b-3547-4304-ae94-a15ca53772b0_31051b20-10cf-4c48-aef7-118a0800be21",
+      "type": "Speciality taxonomy 3",
+      "product_count": 15
+    },
+    {
+      "id": "6822eeebed32000001e25a6d",
+      "name": "Healthy Snacking",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/4/11/f7d7b1cd-beb8-4b6d-b4b8-1617b5e7f3b6_b9c8aa59-e789-4e5a-879a-cf2a7f01e6aa",
+      "type": "Speciality taxonomy 3",
+      "product_count": 200
+    },
+    {
+      "id": "6878ca7165553e00015806cf",
+      "name": "Premium Brands",
+      "image_id": "3d5ff61fc7fbade91df5f85020af061e",
+      "type": "Speciality taxonomy 3",
+      "product_count": 57
+    },
+    {
+      "id": "6822eeebed32000001e25a68",
+      "name": "Newly Added",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/68d7e7ef-eb28-4332-b6b7-870519454f6a_b8cf1cb8-410c-4654-b53b-18ffaa7bd416",
+      "type": "Speciality taxonomy 3",
+      "product_count": 137
+    },
+    {
+      "id": "6822eeebed32000001e25a6f",
+      "name": "Party Packs",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/3/25/00379610-bb42-4870-bf17-171d6857c793_3d0de44c-c239-4ba2-803d-ac94d55ff698",
+      "type": "Speciality taxonomy 3",
+      "product_count": 45
+    },
+    {
+      "id": "68875c50eee7050001f1f3bf",
+      "name": "Sweet Treats",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/8/1/eed309f5-d2d6-4d8d-881f-03f0f1c98788_1530575a-e4c5-4cd7-bbae-9252d0445c1d",
+      "type": "Speciality taxonomy 3",
+      "product_count": 18
+    },
+    {
+      "id": "6822eeebed32000001e25a6e",
+      "name": "Snack Bars",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/7/2/1f94576c-c0f6-4bde-b6fc-eeecce982881_79fe714e-a773-4488-967e-6bafce33c8e7",
+      "type": "Speciality taxonomy 3",
+      "product_count": 127
+    }
+  ]
+}

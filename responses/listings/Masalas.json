@@ -1,1 +1,1668 @@
-[]
+[
+  {
+    "display_name": "Mother’s Recipe Ginger Garlic Paste | No Artificial Preservatives",
+    "brand": "Mother's Recipe",
+    "brand_id": "75fc0ec306289f97e6a3fd9e19a742afede471b1",
+    "product_id": "C4RS0VT0PD",
+    "variations": [
+      {
+        "id": "MBKPJN37BX",
+        "display_name": "Mother’s Recipe Ginger Garlic Paste | No Artificial Preservatives",
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 43,
+          "unit_level_price": "21.5/100 g",
+          "discount_value": 7
+        },
+        "brand": "Mother's Recipe",
+        "brand_id": "75fc0ec306289f97e6a3fd9e19a742afede471b1",
+        "category": "Cooking Paste and Puree",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Ginger Garlic Paste",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Mother’s Recipe Ginger Garlic Paste | No Artificial Preservatives",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/3/13/2a379fa0-c3d1-480e-b58e-f60e2ca87c8a_3067_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/13/82276ff0-c497-4069-ae6e-dbdaafc06427_3067_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/13/cc33ef10-267b-4174-9363-61c6f2d9e1b7_3067_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/13/79ceac05-8eef-42c3-b02f-f87fe04f0606_3067_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/3/13/a40f7626-17d3-441f-a7ce-bdcb7269bc85_3067_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Mustard Small Whole",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "BV1HUV9MZR",
+    "variations": [
+      {
+        "id": "1JX2LQP0OJ",
+        "display_name": "Supreme Harvest Mustard Small Whole",
+        "price": {
+          "mrp": 46,
+          "store_price": 46,
+          "offer_price": 19,
+          "unit_level_price": "",
+          "discount_value": 27
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Mustard Seeds",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Mustard Small Whole",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/25/2778826b-2401-477c-8073-f317905677a4_31255_1.png",
+          "423856fc745aef8b19c05109e47e17a4"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Catch Jeera Whole",
+    "brand": "Catch",
+    "brand_id": "bd970ec35bb3d0ef32bb0d23ae7912be05bff19b",
+    "product_id": "1JAT83D7DI",
+    "variations": [
+      {
+        "id": "2AFRMVS9QX",
+        "display_name": "Catch Jeera Whole",
+        "price": {
+          "mrp": 68,
+          "store_price": 68,
+          "offer_price": 51,
+          "unit_level_price": "",
+          "discount_value": 17
+        },
+        "brand": "Catch",
+        "brand_id": "bd970ec35bb3d0ef32bb0d23ae7912be05bff19b",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Jeera Whole",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Jeera Whole",
+        "images": [
+          "54f36c0f42bf6e0179ea4084416c21db",
+          "2f979d8c4d32b737d15a0fe75e5a02c6",
+          "950a4235d44ff8a50fed2fdc2385c4c5",
+          "3e295701179b02718e2ed4f797d6ad0b"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Cumin (Jeera ) Whole",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "Z4DVJL7KJS",
+    "variations": [
+      {
+        "id": "UDWKLI33CB",
+        "display_name": "Supreme Harvest Cumin (Jeera ) Whole",
+        "price": {
+          "mrp": 720,
+          "store_price": 720,
+          "offer_price": 188,
+          "unit_level_price": "37.6/100 g",
+          "discount_value": 532
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Jeera Whole",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Cumin (Jeera ) Whole",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/6ffdcbd3-e470-482a-b3f7-3b76b11ffc7d_masalaandspice_XUVLH4CWJP_MN.png",
+          "curypk4dtsamvwfl6rbn",
+          "egulctf05vgufrlffrpg"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      },
+      {
+        "id": "TCKAQ9VL28",
+        "display_name": "Supreme Harvest Cumin (Jeera ) Whole",
+        "price": {
+          "mrp": 180,
+          "store_price": 180,
+          "offer_price": 41,
+          "unit_level_price": "",
+          "discount_value": 139
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Jeera Whole",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Cumin (Jeera ) Whole",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/f378ea93-3bbe-4ab1-b1a8-fe559139babe_masalaandspice_4M4AF51ML2_MN.png",
+          "akr52zfervvkfaqkofb6",
+          "gutza5crwar7ahmwudzz"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Coriander Whole (Dhania)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "HW045BRACS",
+    "variations": [
+      {
+        "id": "2TPZ2GXV66",
+        "display_name": "Supreme Harvest Coriander Whole (Dhania)",
+        "price": {
+          "mrp": 143,
+          "store_price": 143,
+          "offer_price": 46,
+          "unit_level_price": "23/100 g",
+          "discount_value": 97
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Coriander Seeds",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Coriander Whole (Dhania)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/debbeae6-3685-4d3f-8942-52541ed02a27_masalaandspice_K6TR01Y2N6_MN.png",
+          "akr52zfervvkfaqkofb6",
+          "gutza5crwar7ahmwudzz"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Catch Coriander Powder",
+    "brand": "Catch",
+    "brand_id": "bd970ec35bb3d0ef32bb0d23ae7912be05bff19b",
+    "product_id": "JV0GDR0NK7",
+    "variations": [
+      {
+        "id": "38OT5477L0",
+        "display_name": "Catch Coriander Powder",
+        "price": {
+          "mrp": 40,
+          "store_price": 40,
+          "offer_price": 30,
+          "unit_level_price": "",
+          "discount_value": 10
+        },
+        "brand": "Catch",
+        "brand_id": "bd970ec35bb3d0ef32bb0d23ae7912be05bff19b",
+        "category": "Powdered Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Coriander Powder",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Coriander Powder",
+        "images": [
+          "zd5hcjw7pk9qfrhcujo0",
+          "pnce5bxn96gncuptnz8s",
+          "mgjajfefagz53csd5n6l"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Everest Turmeric Powder",
+    "brand": "Everest",
+    "brand_id": "886f8ad7614d80666b554e0110771f03b7da1584",
+    "product_id": "E5SPNR36Y2",
+    "variations": [
+      {
+        "id": "X6XP5TNMSN",
+        "display_name": "Everest Turmeric Powder",
+        "price": {
+          "mrp": 92,
+          "store_price": 92,
+          "offer_price": 87,
+          "unit_level_price": "43.5/100 g",
+          "discount_value": 5
+        },
+        "brand": "Everest",
+        "brand_id": "886f8ad7614d80666b554e0110771f03b7da1584",
+        "category": "Powdered Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Turmeric Powder",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Turmeric Powder",
+        "images": [
+          "uurnngwcponanc1w2imz",
+          "bpmoodnlwzg3almvgzj3",
+          "v3pibkgtga9opkt5mslw"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Dabur Hommade Coconut Milk",
+    "brand": "Dabur",
+    "brand_id": "76f20b3b2a1f4ab0b28150eff40148c223beb009",
+    "product_id": "ETKDS79WYS",
+    "variations": [
+      {
+        "id": "8B4O4TW53Q",
+        "display_name": "Dabur Hommade Coconut Milk",
+        "price": {
+          "mrp": 85,
+          "store_price": 85,
+          "offer_price": 76,
+          "unit_level_price": "38/100 ml",
+          "discount_value": 9
+        },
+        "brand": "Dabur",
+        "brand_id": "76f20b3b2a1f4ab0b28150eff40148c223beb009",
+        "category": "Cooking Paste and Puree",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Coconut Milk",
+        "sub_category_l4": "Cream",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Hommade Coconut Milk",
+        "images": [
+          "pwddscchvbgghjwz3jpb",
+          "ummtquv2gkgvbly2wusr",
+          "n7iv9gzquyhabwsk34mw",
+          "qn7il33qwij5swfmhxxj",
+          "b5ew7avrvjh9ggfsmgmp"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 ml",
+        "unit_of_measure": "ml",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Cumin (Jeera ) Whole",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "VJH3TZAS8K",
+    "variations": [
+      {
+        "id": "Q8SXZUC5I0",
+        "display_name": "Supreme Harvest Cumin (Jeera ) Whole",
+        "price": {
+          "mrp": 310,
+          "store_price": 310,
+          "offer_price": 96,
+          "unit_level_price": "48/100 g",
+          "discount_value": 214
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Jeera Whole",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Cumin (Jeera ) Whole",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/13/3e4245c2-2af4-40a3-80c8-9799ca505cee_masalaandspice_PX2WP9C6YD_MN.png",
+          "akr52zfervvkfaqkofb6",
+          "gutza5crwar7ahmwudzz"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Til White (Sesame White)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "35QAZEBZMY",
+    "variations": [
+      {
+        "id": "HZ1YUQB1UV",
+        "display_name": "Supreme Harvest Til White (Sesame White)",
+        "price": {
+          "mrp": 65,
+          "store_price": 65,
+          "offer_price": 33,
+          "unit_level_price": "",
+          "discount_value": 32
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Sesame",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Til White (Sesame White)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/1/2/5ba5eaf8-93b3-4e15-8cb5-fb2d9547590d_15730.png",
+          "b72984ed6187a7bc109a707cae628255",
+          "14717731f7521ca4c439e3f841d354be"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Everest Kashmirilal Brilliant Red Chilli Powder",
+    "brand": "Everest",
+    "brand_id": "886f8ad7614d80666b554e0110771f03b7da1584",
+    "product_id": "RC3K6K8EVA",
+    "variations": [
+      {
+        "id": "YKYQKXROMK",
+        "display_name": "Everest Kashmirilal Brilliant Red Chilli Powder",
+        "price": {
+          "mrp": 100,
+          "store_price": 100,
+          "offer_price": 87,
+          "unit_level_price": "",
+          "discount_value": 13
+        },
+        "brand": "Everest",
+        "brand_id": "886f8ad7614d80666b554e0110771f03b7da1584",
+        "category": "Powdered Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Chilli Powder",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Kashmirilal Brilliant Red Chilli Powder",
+        "images": [
+          "ialseegsvkxwnq0sxnf5",
+          "oroa3vtwyjzumf2fljxg",
+          "babuwnjpbbblgsiuyzm6",
+          "kngiost8hcoicrtzl2yr",
+          "v8za2kwpqvmluw7jwdhk"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Tamarind",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "YKZQ03EHB2",
+    "variations": [
+      {
+        "id": "KTXT66F5RV",
+        "display_name": "Supreme Harvest Tamarind",
+        "price": {
+          "mrp": 293,
+          "store_price": 293,
+          "offer_price": 144,
+          "unit_level_price": "28.8/100 g",
+          "discount_value": 149
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Tamarind",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Tamarind",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/4/26b6927d-d3f7-4ddb-add7-dd3205100e29_15733_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/4/47b42786-e978-4827-a5f8-82c8647c3020_15733_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/4/e5fdbdf9-e629-4a01-8251-fa253c575167_15733_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      },
+      {
+        "id": "4G2UK0HST3",
+        "display_name": "Supreme Harvest Tamarind",
+        "price": {
+          "mrp": 104,
+          "store_price": 104,
+          "offer_price": 62,
+          "unit_level_price": "31/100 g",
+          "discount_value": 42
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Tamarind",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Tamarind",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/4/c0b8875c-58d0-42f8-a879-4b7583aee6a0_15732_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/4/e970dc06-93fc-4676-b65f-beeb91a58998_15732_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/4/fe40856c-50a2-445a-9726-146b5cde88c4_15732_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Saunf Small (Fennel Small)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "Z0CTF462WA",
+    "variations": [
+      {
+        "id": "1UAAVJ7XUX",
+        "display_name": "Supreme Harvest Saunf Small (Fennel Small)",
+        "price": {
+          "mrp": 110,
+          "store_price": 110,
+          "offer_price": 68,
+          "unit_level_price": "",
+          "discount_value": 42
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Fennel Seeds",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Saunf Small (Fennel Small)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/0d03292e-50bb-4221-9f33-41bf34edd288_masalaandspice_C8CQAAOYBG_MN.png",
+          "e9e6876a00cec04ccd8cb18c5e79a559",
+          "060068cfed2bb138ad6e90445ecde437"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Catch Red Chilli Powder",
+    "brand": "Catch",
+    "brand_id": "bd970ec35bb3d0ef32bb0d23ae7912be05bff19b",
+    "product_id": "ND57FIQB7Z",
+    "variations": [
+      {
+        "id": "GQB6FOQ432",
+        "display_name": "Catch Red Chilli Powder",
+        "price": {
+          "mrp": 265,
+          "store_price": 265,
+          "offer_price": 199,
+          "unit_level_price": "39.8/100 g",
+          "discount_value": 66
+        },
+        "brand": "Catch",
+        "brand_id": "bd970ec35bb3d0ef32bb0d23ae7912be05bff19b",
+        "category": "Powdered Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Chilli Powder",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Red Chilli Powder",
+        "images": [
+          "59f8f881ca711cb2cca9508a5cb10d84",
+          "1efe09cc1dbfe93c21f9fd453ddfa662",
+          "aa693c281b5b5cfd91fe2590beb706e9",
+          "1959e3729d78c383e1911dd7e93eb590",
+          "916598c10218f72b15af2e8c271ebfcd",
+          "6ae89bb3f1f5fa6bb1a1eed9356d810f"
+        ],
+        "images_v2": [],
+        "quantity": "500",
+        "sku_quantity_with_combo": "500 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 500,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      },
+      {
+        "id": "3POI25TJSY",
+        "display_name": "Catch Red Chilli Powder",
+        "price": {
+          "mrp": 55,
+          "store_price": 55,
+          "offer_price": 41,
+          "unit_level_price": "",
+          "discount_value": 14
+        },
+        "brand": "Catch",
+        "brand_id": "bd970ec35bb3d0ef32bb0d23ae7912be05bff19b",
+        "category": "Powdered Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Chilli Powder",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Red Chilli Powder",
+        "images": [
+          "0f144e60d8fbe31ed88529c4248e38be",
+          "df6776350cffe787acdda54938dbbbef",
+          "c751cd0910ed022d3e029073248b3cac",
+          "694aa08002d60ff6278aacb08cf84db6"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Ajwain Whole (Ajowan)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "LTBYFF8ZR8",
+    "variations": [
+      {
+        "id": "ARXHV0RVSU",
+        "display_name": "Supreme Harvest Ajwain Whole (Ajowan)",
+        "price": {
+          "mrp": 75,
+          "store_price": 75,
+          "offer_price": 58,
+          "unit_level_price": "",
+          "discount_value": 17
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Ajwain",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Ajwain Whole (Ajowan)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/b48d3bdb-5f96-4a9d-a680-dcc06fb79ff7_masalaandspice_3OCLOD1RD6_MN.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Green Cardamom Whole (Elaichi Green)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "A9CF85O6JE",
+    "variations": [
+      {
+        "id": "19DWH4TUM0",
+        "display_name": "Supreme Harvest Green Cardamom Whole (Elaichi Green)",
+        "price": {
+          "mrp": 163,
+          "store_price": 163,
+          "offer_price": 138,
+          "unit_level_price": "552/100 g",
+          "discount_value": 25
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Cardamom Green",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Green Cardamom Whole (Elaichi Green)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/1e7580c0-4332-4e79-9940-002897373275_15643.png",
+          "akr52zfervvkfaqkofb6",
+          "gutza5crwar7ahmwudzz"
+        ],
+        "images_v2": [],
+        "quantity": "25",
+        "sku_quantity_with_combo": "25 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 25,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Chilli Whole With Stem",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "HAWOKW674J",
+    "variations": [
+      {
+        "id": "5XPT1X941R",
+        "display_name": "Supreme Harvest Chilli Whole With Stem",
+        "price": {
+          "mrp": 91,
+          "store_price": 91,
+          "offer_price": 57,
+          "unit_level_price": "",
+          "discount_value": 34
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Red Chilli Whole",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chilli Whole With Stem",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/8/4/24690e6b-5095-487d-92c7-3f3b494cd021_15651_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/4/3e16e053-9c49-40d0-92a7-6a2124479554_15651_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/8/4/ae07c3b9-9eb5-4143-9b0a-f8384f3d78b7_15651_3.png"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Coriander (Dhania) Whole",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "0XZ6B9KTZZ",
+    "variations": [
+      {
+        "id": "FFNNY0IYYH",
+        "display_name": "Supreme Harvest Coriander (Dhania) Whole",
+        "price": {
+          "mrp": 85,
+          "store_price": 85,
+          "offer_price": 28,
+          "unit_level_price": "",
+          "discount_value": 57
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Coriander Seeds",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Coriander (Dhania) Whole",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/8/36c178bb-177f-453e-83df-65c2bcf1bfa9_31220.png",
+          "40000198849b5f5af49927ee5fe455ba"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "SUPREME HARVEST Kalonji Seeds (Krishna jeerige)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "ZI9AG1KJTA",
+    "variations": [
+      {
+        "id": "COF1DX9CHN",
+        "display_name": "SUPREME HARVEST Kalonji Seeds (Krishna jeerige)",
+        "price": {
+          "mrp": 104,
+          "store_price": 104,
+          "offer_price": 63,
+          "unit_level_price": "",
+          "discount_value": 41
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Kalonji",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "SUPREME HARVEST Kalonji Seeds (Krishna jeerige)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/8/9/0edbd5d6-dda3-4d36-9d14-c90d6cdcf288_15719.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "d0ea1c898952f277cd12c5bf935dafad"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Everest Coriander Powder",
+    "brand": "Everest",
+    "brand_id": "886f8ad7614d80666b554e0110771f03b7da1584",
+    "product_id": "ZGPYQCOV2Z",
+    "variations": [
+      {
+        "id": "HRJ5ARI79T",
+        "display_name": "Everest Coriander Powder",
+        "price": {
+          "mrp": 80,
+          "store_price": 80,
+          "offer_price": 77,
+          "unit_level_price": "38.5/100 g",
+          "discount_value": 3
+        },
+        "brand": "Everest",
+        "brand_id": "886f8ad7614d80666b554e0110771f03b7da1584",
+        "category": "Powdered Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Coriander Powder",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Coriander Powder",
+        "images": [
+          "iml3sdnmpcx5vd7uckan",
+          "oi1sgdhufwkfth7h39bb",
+          "w7zweky0qaw80jkmoe7h"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Mustard Yellow",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "22ZURREJAP",
+    "variations": [
+      {
+        "id": "6NYQ2WRH9D",
+        "display_name": "Supreme Harvest Mustard Yellow",
+        "price": {
+          "mrp": 55,
+          "store_price": 55,
+          "offer_price": 32,
+          "unit_level_price": "",
+          "discount_value": 23
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Mustard Seeds",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Mustard Yellow",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/a05f82cb-a658-42d8-8dea-5f431284c308_masalaandspice_RC4QULSK02_MN.png",
+          "423856fc745aef8b19c05109e47e17a4",
+          "060068cfed2bb138ad6e90445ecde437"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Mustard Big Whole",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "V5DN7WV5U4",
+    "variations": [
+      {
+        "id": "QS8U3LVN7I",
+        "display_name": "Supreme Harvest Mustard Big Whole",
+        "price": {
+          "mrp": 78,
+          "store_price": 78,
+          "offer_price": 34,
+          "unit_level_price": "17/100 g",
+          "discount_value": 44
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Mustard Seeds",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Large",
+        "product_name_without_brand": "Mustard Big Whole",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/2/25/79a48eeb-b267-4e7d-9ec5-48929695f258_15715_1.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "d0ea1c898952f277cd12c5bf935dafad",
+          "regewfxukkjkrjfwilly"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Klf Coconad Coconut Milk Powder",
+    "brand": "Klf",
+    "brand_id": "4eefc5d7058e2ee149b19654a34fb7d54e3a2766",
+    "product_id": "1DKLQ3QE9Z",
+    "variations": [
+      {
+        "id": "J2JJUT7YNV",
+        "display_name": "Klf Coconad Coconut Milk Powder",
+        "price": {
+          "mrp": 149,
+          "store_price": 149,
+          "offer_price": 141,
+          "unit_level_price": "",
+          "discount_value": 8
+        },
+        "brand": "Klf",
+        "brand_id": "4eefc5d7058e2ee149b19654a34fb7d54e3a2766",
+        "category": "Cooking Paste and Puree",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Coconut Milk",
+        "sub_category_l4": "Powder",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Coconad Coconut Milk Powder",
+        "images": [
+          "bd5tmwvkpaatjjycxqfn",
+          "otpwztnqhuwnoxzf00uy",
+          "e9socdje0lzlebv4bicu"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": null
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Everest Yellow Hing Powder",
+    "brand": "Everest",
+    "brand_id": "886f8ad7614d80666b554e0110771f03b7da1584",
+    "product_id": "8SKY3OTU0A",
+    "variations": [
+      {
+        "id": "TVUXXWS8YM",
+        "display_name": "Everest Yellow Hing Powder",
+        "price": {
+          "mrp": 96,
+          "store_price": 96,
+          "offer_price": 95,
+          "unit_level_price": "190/100 g",
+          "discount_value": 1
+        },
+        "brand": "Everest",
+        "brand_id": "886f8ad7614d80666b554e0110771f03b7da1584",
+        "category": "Powdered Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Hing",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Yellow Hing Powder",
+        "images": [
+          "qxxsdxocgmci6qltmbgu",
+          "khp5mzo6jh25oktaccph",
+          "cwts82udtnhcx80zppnt"
+        ],
+        "images_v2": [],
+        "quantity": "50",
+        "sku_quantity_with_combo": "50 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 50,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Poppy Seed (Khas Khas)",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "GNWDOAWEDN",
+    "variations": [
+      {
+        "id": "5THQ5FIGXG",
+        "display_name": "Supreme Harvest Poppy Seed (Khas Khas)",
+        "price": {
+          "mrp": 520,
+          "store_price": 520,
+          "offer_price": 230,
+          "unit_level_price": "",
+          "discount_value": 290
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Poppy Seeds",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Poppy Seed (Khas Khas)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/f523e729-0d0a-4213-8a94-1aafb00a1b4d_masalaandspice_FGR217C5DO_MN.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/29/f93cdb66-d27d-4710-8ece-1572df893ae5_masalaandspice_FGR217C5DO_AL1.png",
+          "NI_CATALOG/IMAGES/CIW/2024/4/29/c9b7b9c5-57b7-4f85-b557-f7515dcadff8_masalaandspice_IJA991AR1B_AL2.png"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Catch Compounded Hing Powder",
+    "brand": "Catch",
+    "brand_id": "bd970ec35bb3d0ef32bb0d23ae7912be05bff19b",
+    "product_id": "THY7A0TOPH",
+    "variations": [
+      {
+        "id": "VMAAY4V07P",
+        "display_name": "Catch Compounded Hing Powder",
+        "price": {
+          "mrp": 143,
+          "store_price": 143,
+          "offer_price": 107,
+          "unit_level_price": "214/100 g",
+          "discount_value": 36
+        },
+        "brand": "Catch",
+        "brand_id": "bd970ec35bb3d0ef32bb0d23ae7912be05bff19b",
+        "category": "Powdered Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Hing",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Compounded Hing Powder",
+        "images": [
+          "hzbovvqizbmxodq3bpbt",
+          "zvrxa3wpzncizcwsdxfe",
+          "gdkagytqjr4fvwvxbgj1",
+          "p3vysttg0x0wuyrxprcj",
+          "e1wwdh6qe7aqihxrbcbz"
+        ],
+        "images_v2": [],
+        "quantity": "50",
+        "sku_quantity_with_combo": "50 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 50,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Mdh Deggi Mirch Powder",
+    "brand": "Mdh",
+    "brand_id": "0f291abcc367d5c84c87e6683b20aa0f8ea566cd",
+    "product_id": "RKNG4UPHUD",
+    "variations": [
+      {
+        "id": "0R5JY4CQHS",
+        "display_name": "Mdh Deggi Mirch Powder",
+        "price": {
+          "mrp": 110,
+          "store_price": 110,
+          "offer_price": 107,
+          "unit_level_price": "",
+          "discount_value": 3
+        },
+        "brand": "Mdh",
+        "brand_id": "0f291abcc367d5c84c87e6683b20aa0f8ea566cd",
+        "category": "Powdered Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Chilli Powder",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Deggi Mirch Powder",
+        "images": [
+          "f9v3knnypn6vjuapdpik",
+          "guvhtikro7bzlquhs3uh",
+          "daqwn2crjrmlwz5wewvw",
+          "ot8sfpp1jvjxrlblzi0c"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Catch Turmeric Powder",
+    "brand": "Catch",
+    "brand_id": "bd970ec35bb3d0ef32bb0d23ae7912be05bff19b",
+    "product_id": "0EUYHKXXEE",
+    "variations": [
+      {
+        "id": "IP7O1CMSH5",
+        "display_name": "Catch Turmeric Powder",
+        "price": {
+          "mrp": 90,
+          "store_price": 90,
+          "offer_price": 67,
+          "unit_level_price": "33.5/100 g",
+          "discount_value": 23
+        },
+        "brand": "Catch",
+        "brand_id": "bd970ec35bb3d0ef32bb0d23ae7912be05bff19b",
+        "category": "Powdered Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Turmeric Powder",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Turmeric Powder",
+        "images": [
+          "rytz4ecjtqr1ihfjtihq",
+          "hh5hsgbqagy7z4mc9kqv",
+          "tg2ut3j9p262tm7i507g"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Smith & Jones Ginger Garlic Paste",
+    "brand": "Smith & Jones",
+    "brand_id": "f6b94555b62b9ac3501f293a0300c38e361f149e",
+    "product_id": "OPXR0A6UW7",
+    "variations": [
+      {
+        "id": "T2P8WF1G0G",
+        "display_name": "Smith & Jones Ginger Garlic Paste",
+        "price": {
+          "mrp": 50,
+          "store_price": 50,
+          "offer_price": 44,
+          "unit_level_price": "22/100 g",
+          "discount_value": 6
+        },
+        "brand": "Smith & Jones",
+        "brand_id": "f6b94555b62b9ac3501f293a0300c38e361f149e",
+        "category": "Cooking Paste and Puree",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Ginger Garlic Paste",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Ginger Garlic Paste",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/fdc50fa0-328a-4d1a-b480-29ec090e980c_3084_1.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/d92da225-5ec3-4036-974a-c3ab3bf6c22d_3084_2.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/757b0572-e54a-4bc3-9254-2af70426578e_3084_3.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/4b8af412-57e0-4c2a-adbe-fd1d68869288_3084_4.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/4defae01-771a-4ac9-b520-c62dda36aa60_3084_5.png",
+          "NI_CATALOG/IMAGES/CIW/2025/7/17/ed95876f-6475-43e0-8f95-0ceaefb5e4ea_3084_6.png"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Lijjat Udad Papad",
+    "brand": "Lijjat",
+    "brand_id": "59e0c7682765b1ecb5a1eb76b2e3e38f17f3ab58",
+    "product_id": "RF4N91Q54A",
+    "variations": [
+      {
+        "id": "J3ITW96R7A",
+        "display_name": "Lijjat Udad Papad",
+        "price": {
+          "mrp": 77,
+          "store_price": 77,
+          "offer_price": 74,
+          "unit_level_price": "37/100 g",
+          "discount_value": 3
+        },
+        "brand": "Lijjat",
+        "brand_id": "59e0c7682765b1ecb5a1eb76b2e3e38f17f3ab58",
+        "category": "Papads and Fryums",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Papad",
+        "sub_category_l4": "Urad Papad",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Udad Papad",
+        "images": [
+          "qqwaw3i1ygkabv7peuoi",
+          "kv9yjfv5mgfkwadtpo3a",
+          "bm7r0s7fiwgv2qte9iuf"
+        ],
+        "images_v2": [],
+        "quantity": "200",
+        "sku_quantity_with_combo": "200 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 200,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Everest Chicken Masala Powder",
+    "brand": "Everest",
+    "brand_id": "886f8ad7614d80666b554e0110771f03b7da1584",
+    "product_id": "U9HSGMSL2N",
+    "variations": [
+      {
+        "id": "T7K5F7FNUF",
+        "display_name": "Everest Chicken Masala Powder",
+        "price": {
+          "mrp": 92,
+          "store_price": 92,
+          "offer_price": 91,
+          "unit_level_price": "",
+          "discount_value": 1
+        },
+        "brand": "Everest",
+        "brand_id": "886f8ad7614d80666b554e0110771f03b7da1584",
+        "category": "Ready and Blended Masala",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Chicken Masala",
+        "sub_category_l4": "Powder",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Chicken Masala Powder",
+        "images": [
+          "ct1bbcddyxvxqn3jerjv",
+          "eqeopeh0kokdgcw3j8xy",
+          "ymzimr2hbxstuogknpqs",
+          "iq879rexpxx64x1jz9yy",
+          "qwl4e6lnogi7ozblqaml"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Everest Tikhalal Hot & Red Chilli Powder",
+    "brand": "Everest",
+    "brand_id": "886f8ad7614d80666b554e0110771f03b7da1584",
+    "product_id": "BEM26XW2CT",
+    "variations": [
+      {
+        "id": "ZWJXX0ACJ6",
+        "display_name": "Everest Tikhalal Hot & Red Chilli Powder",
+        "price": {
+          "mrp": 54,
+          "store_price": 54,
+          "offer_price": 49,
+          "unit_level_price": "",
+          "discount_value": 5
+        },
+        "brand": "Everest",
+        "brand_id": "886f8ad7614d80666b554e0110771f03b7da1584",
+        "category": "Powdered Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Chilli Powder",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Small",
+        "product_name_without_brand": "Tikhalal Hot & Red Chilli Powder",
+        "images": [
+          "gjd8gnyc9du50f8suflh",
+          "hneu4kudqf3l5lm9snps",
+          "sffgnijqgrldjukfaftb"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  },
+  {
+    "display_name": "Supreme Harvest Black Pepper Whole",
+    "brand": "Supreme Harvest",
+    "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+    "product_id": "D67CD5LNRR",
+    "variations": [
+      {
+        "id": "A7RHQB8ZRT",
+        "display_name": "Supreme Harvest Black Pepper (Whole)",
+        "price": {
+          "mrp": 176,
+          "store_price": 176,
+          "offer_price": 148,
+          "unit_level_price": "",
+          "discount_value": 28
+        },
+        "brand": "Supreme Harvest",
+        "brand_id": "0b10ac32f1cd6aabe0f144bc473274196d275218",
+        "category": "Whole Spices",
+        "super_category": "Masala, Pickle and Papad",
+        "sub_category_l3": "Black Pepper",
+        "sub_category_l4": "Regular",
+        "sub_category_l5": "Medium",
+        "product_name_without_brand": "Black Pepper (Whole)",
+        "images": [
+          "NI_CATALOG/IMAGES/CIW/2024/7/12/50f9d5e0-b4f0-4f2a-a344-005435386aec_masalaandspice_VCGD5GGOTZ_MN.png",
+          "65b4f7ee1877a6823f2f6ac0eaa6b1f0",
+          "d0ea1c898952f277cd12c5bf935dafad",
+          "cdqddtpi9veuhys73gjl"
+        ],
+        "images_v2": [],
+        "quantity": "100",
+        "sku_quantity_with_combo": "100 g",
+        "unit_of_measure": "g",
+        "weight_in_grams": 100,
+        "volumetric_weight": 0,
+        "scm_item_type": "NORMAL",
+        "filters_tag": "Best Value"
+      }
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eeeded32000001e25af9",
+        "name": "Masalas"
+      },
+      "category_name_from_url": "Masalas"
+    }
+  }
+]

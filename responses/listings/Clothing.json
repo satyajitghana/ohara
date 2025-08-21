@@ -79,6 +79,13 @@
         "scm_item_type": "NORMAL",
         "filters_tag": null
       }
-    ]
+    ],
+    "category_context": {
+      "selected_category": {
+        "id": "6822eef009ab2e00019aa614",
+        "name": "Clothing"
+      },
+      "category_name_from_url": "Clothing"
+    }
   }
 ]

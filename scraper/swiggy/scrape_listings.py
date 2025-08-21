@@ -6,7 +6,7 @@ from utils.file_operations import (
     ensure_directories_exist, save_json, load_json, 
     get_timestamped_filename, save_error_response
 )
-from utils.data_processing import find_products_recursively, format_product_info, should_include_product
+from utils.data_processing import find_products_recursively, format_product_info, should_include_product, extract_categories_from_listing_response
 from utils.console_utils import (
     print_success, print_error, print_warning, print_info, print_banner,
     create_header, get_console, get_progress_bar, create_summary_table, log_message
@@ -76,6 +76,7 @@ async def scrape_listings_from_categories():
                     log_message(f"Processing: {category_name_raw}", "info")
                     
                     all_products = []
+                    category_metadata = None
                     current_offset = 0
                     page_no = 0
                     has_more = True
@@ -111,11 +112,23 @@ async def scrape_listings_from_categories():
                             raw_filepath = Path(directories['raw']) / raw_filename
                             save_json(data, raw_filepath)
 
+                            # Extract category metadata from first page only
+                            if page_no == 0:
+                                category_metadata = extract_categories_from_listing_response(data)
+
                             # Find and extract product data
                             found_items = find_products_recursively(data)
                             
                             for item in found_items:
-                                product_info = format_product_info(item)
+                                # Pass category context to product formatting
+                                category_context = None
+                                if category_metadata and category_metadata.get("selected_category"):
+                                    category_context = {
+                                        "selected_category": category_metadata["selected_category"],
+                                        "category_name_from_url": category_name_raw
+                                    }
+                                
+                                product_info = format_product_info(item, category_context)
                                 # Only include products that have at least one non-combo variation
                                 if should_include_product(product_info):
                                     all_products.append(product_info)
@@ -141,6 +154,12 @@ async def scrape_listings_from_categories():
                     parsed_filename = f"{category_name}.json"
                     parsed_filepath = Path(directories['listings']) / parsed_filename
                     save_json(all_products, parsed_filepath)
+                    
+                    # Save category metadata separately if we have it
+                    if category_metadata:
+                        category_meta_filename = f"{category_name}_metadata.json"
+                        category_meta_filepath = Path(directories['listings']) / category_meta_filename
+                        save_json(category_metadata, category_meta_filepath)
                     
                     total_products += len(all_products)
                     successful_categories += 1

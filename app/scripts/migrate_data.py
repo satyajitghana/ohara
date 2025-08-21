@@ -94,7 +94,7 @@ def migrate_brand(session: Session, brand_data: Dict[str, Any]) -> Brand:
 
 def migrate_product(session: Session, product_data: Dict[str, Any], variation_data: Dict[str, Any], 
                    ai_data: Dict[str, Any], brand: Brand, image_paths: List[str], 
-                   seen_barcodes: Set[str]) -> Product | None:
+                   catalog_images: List[str], seen_barcodes: Set[str]) -> Product | None:
     """Migrate a single product with its variation and AI data."""
     
     variation = variation_data.get("variation", {})
@@ -178,6 +178,7 @@ def migrate_product(session: Session, product_data: Dict[str, Any], variation_da
         
         # Update images
         if image_paths: existing_product.image_paths = json.dumps(image_paths)
+        if catalog_images: existing_product.catalog_images = json.dumps(catalog_images)
         
         existing_product.updated_at = datetime.utcnow()
         
@@ -241,7 +242,8 @@ def migrate_product(session: Session, product_data: Dict[str, Any], variation_da
             approx_serves_per_pack=safe_int(ai_data.get("approx_serves_per_pack")),
             
             # Images
-            image_paths=json.dumps(image_paths) if image_paths else None
+            image_paths=json.dumps(image_paths) if image_paths else None,
+            catalog_images=json.dumps(catalog_images) if catalog_images else None
         )
         
         try:
@@ -317,18 +319,40 @@ def migrate_ingredients(session: Session, product: Product, ai_data: Dict[str, A
         logger.info(f"{action} {len(parsed_ingredients)} ingredients for {product.display_name}")
 
 
-def get_image_paths(variation_dir: Path) -> List[str]:
-    """Get image paths for a variation."""
+def get_image_data(variation_dir: Path, variation_data: Dict[str, Any]) -> tuple[List[str], List[str]]:
+    """Get image paths and catalog image names for a variation."""
     images_dir = variation_dir / "images"
-    if not images_dir.exists():
-        return []
     
-    image_paths = []
+    # Get the list of image filenames from variation data
+    variation = variation_data.get("variation", {})
+    catalog_images = variation.get("images", [])
+    
+    if not images_dir.exists():
+        return [], catalog_images
+    
+    # Create a mapping from filename to full path
+    available_files = {}
     for image_file in images_dir.iterdir():
         if image_file.is_file():
-            image_paths.append(str(image_file.relative_to(Path("scraped_data"))))
+            available_files[image_file.name] = str(image_file.relative_to(Path("scraped_data")))
     
-    return image_paths
+    # Match catalog images with available files
+    image_paths = []
+    for catalog_image in catalog_images:
+        # Extract filename from catalog path (e.g., "NI_CATALOG/.../filename.png" -> "filename.png")
+        filename = Path(catalog_image).name
+        
+        if filename in available_files:
+            image_paths.append(available_files[filename])
+        else:
+            logger.warning(f"Image file {filename} not found in {images_dir}")
+    
+    # Add any additional files that weren't in the catalog (just in case)
+    for filename, path in available_files.items():
+        if path not in image_paths:
+            image_paths.append(path)
+    
+    return image_paths, catalog_images
 
 
 def migrate_scraped_data():
@@ -406,8 +430,8 @@ def migrate_scraped_data():
                         
                         product_info = products_info[product_id]
                         
-                        # Get image paths
-                        image_paths = get_image_paths(variation_dir)
+                        # Get image data
+                        image_paths, catalog_images = get_image_data(variation_dir, variation_data)
                         
                         # Check if product already exists
                         statement = select(Product).where(Product.original_product_id == product_id)
@@ -419,7 +443,7 @@ def migrate_scraped_data():
                         
                         # Migrate product
                         product = migrate_product(
-                            session, product_info, variation_data, ai_data, brand, image_paths, seen_barcodes
+                            session, product_info, variation_data, ai_data, brand, image_paths, catalog_images, seen_barcodes
                         )
                         
                         if product:

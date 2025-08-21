@@ -1,0 +1,192 @@
+{
+  "categories": [
+    {
+      "id": "6822eef009ab2e00019aa5e2",
+      "display_name": "Home and Furnishing",
+      "product_count": 2318,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/c34ad44b-5b83-4b51-a254-f472c175fd4e_4a8b97f3-6a60-4404-a0ec-93eb72db73e1",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa5f3",
+      "display_name": "Kitchen and Dining",
+      "product_count": 868,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/c416dbf8-210d-480e-94ca-805ddb720a77_925991fe-2da3-49b0-b0d1-3d29a07174d2",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa601",
+      "display_name": "Cleaning Essentials",
+      "product_count": 1202,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/6976d426-ca5f-4071-8ae2-ab684888645a_e83f0668-cdd1-40f7-950c-11f51b43f351",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa614",
+      "display_name": "Clothing",
+      "product_count": 150,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/11bdd409-0389-4572-9d4b-06d3235c7aaf_7434539d-4963-49d6-8234-3a85d1d7ec76",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa621",
+      "display_name": "Mobiles and Electronics ",
+      "product_count": 871,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/dd815b3d-ce43-454a-aef0-846a8fca399c_4ce8b093-a81e-484b-a35c-6ca079145ac8",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa630",
+      "display_name": "Appliances",
+      "product_count": 238,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/ae055b85-221c-42dc-87cb-efae5e048e9a_8f020cc6-fea1-4a9c-9235-7cec4b0206b2",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa63f",
+      "display_name": "Books and Stationery",
+      "product_count": 424,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/fa971c1e-4344-41a4-85e5-10d921df0818_13beb56f-0d66-403d-839f-eb63fdf25a83",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa649",
+      "display_name": "Jewellery and Accessories",
+      "product_count": 293,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/1e2fd208-7180-46bc-954f-db70777eba12_556f0a21-db31-41f3-bcc0-c48a33e1afd6",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa65d",
+      "display_name": "Puja",
+      "product_count": 867,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/3accc5d4-38b2-4487-b3b5-5891bf4806ea_a9c87ee0-3dbb-4cb3-9ee2-a4b421823f45",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa670",
+      "display_name": "Toys and Games",
+      "product_count": 509,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/26e9ad5c-4299-42a1-8536-c72dfdf419c0_be8dbebf-8cff-4118-9e81-6085959c39b0",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa67f",
+      "display_name": "Sports and Fitness",
+      "product_count": 173,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/65126402-7605-4caf-974e-4acc8514fb41_6660a2f1-7912-4432-b9dd-90a23fa99b6b",
+      "age_consent_required": false
+    },
+    {
+      "id": "6822eef009ab2e00019aa68e",
+      "display_name": "Pet Supplies",
+      "product_count": 468,
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/7/15/f00fffd7-11da-402f-bf95-17b07b8c0fda_5745df60-e848-427e-af64-abb9a91d6949",
+      "age_consent_required": false
+    }
+  ],
+  "selected_category": {
+    "id": "6822eef009ab2e00019aa630",
+    "name": "Appliances"
+  },
+  "filters": [
+    {
+      "id": "6822eef009ab2e00019aa631",
+      "name": "Juicer Mixer Grinders",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/1/20/daa9569e-6ccf-4a2b-bdc5-f3885407a6fe_88262552-f160-4cad-8599-3cddfedfc4d2",
+      "type": "Health and Wellness Stores",
+      "product_count": 22
+    },
+    {
+      "id": "6822eef009ab2e00019aa632",
+      "name": "Blenders & Frothers",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/1/20/ca417943-b329-4039-b6a4-b8f5e8ad39c4_58032bf7-74bd-43fd-9f6c-e4b8b0fe1bbc",
+      "type": "Health and Wellness Stores",
+      "product_count": 12
+    },
+    {
+      "id": "6822eef009ab2e00019aa633",
+      "name": "Electric Kettles",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/1/20/8c20f76b-72eb-4003-a6d5-4cfee3e69c60_80d424e9-38b5-4340-add4-9ccebad7e756",
+      "type": "Health and Wellness Stores",
+      "product_count": 9
+    },
+    {
+      "id": "6822eef009ab2e00019aa634",
+      "name": "Choppers & Egg Boilers",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/1/20/2a26eeb6-19dc-4294-acc0-b3d17c191bb2_14f62b63-a987-4b62-b5a9-9844f29ea4a6",
+      "type": "Health and Wellness Stores",
+      "product_count": 15
+    },
+    {
+      "id": "6822eef009ab2e00019aa635",
+      "name": "Toasters & Coffee Makers",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/1/20/7d6e2331-1a47-4fcb-8c11-a218c001da77_b1cf49d4-540f-4a84-9e80-b40dcff3f82c",
+      "type": "Health and Wellness Stores",
+      "product_count": 14
+    },
+    {
+      "id": "6822eef009ab2e00019aa636",
+      "name": "Newly Added",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2024/10/10/68d7e7ef-eb28-4332-b6b7-870519454f6a_b8cf1cb8-410c-4654-b53b-18ffaa7bd416",
+      "type": "Health and Wellness Stores",
+      "product_count": 68
+    },
+    {
+      "id": "6822eef009ab2e00019aa637",
+      "name": "Air Fryers",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/1/17/82924ca9-8bf2-49e2-a83b-df8085aeb397_8dc2225a-dc97-4bac-94fc-20eb22e28953",
+      "type": "Health and Wellness Stores",
+      "product_count": 9
+    },
+    {
+      "id": "6822eef009ab2e00019aa638",
+      "name": "Induction Cooktops",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/1/20/9e20df9b-035b-4c0b-b027-b87a2cb65774_609aebce-31f7-47fd-b117-c18cf362d926",
+      "type": "Health and Wellness Stores",
+      "product_count": 6
+    },
+    {
+      "id": "6822eef009ab2e00019aa639",
+      "name": "Irons & Steamers",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/1/17/fb58d91b-0fe2-4ecd-b3c7-4dc089ffa22b_da1732ed-9f99-45a0-9d97-64f661ee3bd3",
+      "type": "Health and Wellness Stores",
+      "product_count": 20
+    },
+    {
+      "id": "6822eef009ab2e00019aa63a",
+      "name": "Heaters, Geysers, Immersion Rods",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/1/20/fec1541e-1700-4bed-b5b3-5b0a4c964899_6fbf35c1-affe-470f-8306-ea9bb84c565d",
+      "type": "Health and Wellness Stores",
+      "product_count": 4
+    },
+    {
+      "id": "6822eef009ab2e00019aa63b",
+      "name": "Vacuum Cleaners",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/1/20/5670c851-01a6-41ed-a052-8a196e1d5154_12d4ee78-f3b1-4624-ad54-16d8060f03a1",
+      "type": "Health and Wellness Stores",
+      "product_count": 13
+    },
+    {
+      "id": "6822eef009ab2e00019aa63c",
+      "name": "Fans",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/1/20/cfcbb4c2-e95c-4c31-ae15-665ef336d0af_c785a67f-bc99-4ded-9100-ae75d88669b4",
+      "type": "Health and Wellness Stores",
+      "product_count": 27
+    },
+    {
+      "id": "6822eef009ab2e00019aa63d",
+      "name": "Camera & Networking Devices",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/1/20/1e65bc1f-64d7-4b55-883f-cd6ee930772c_f099aadf-be19-438b-8f1c-c8cb97fecad7",
+      "type": "Health and Wellness Stores",
+      "product_count": 12
+    },
+    {
+      "id": "6822eef009ab2e00019aa63e",
+      "name": "Others",
+      "image_id": "NI_CATALOG/IMAGES/CIW/2025/1/20/fa9e4528-7d51-4094-9fc6-9adea31f4b2a_404dfa65-d626-4d63-8ebc-306546be373a",
+      "type": "Health and Wellness Stores",
+      "product_count": 7
+    }
+  ]
+}

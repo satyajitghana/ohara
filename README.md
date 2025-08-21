@@ -68,8 +68,8 @@ python -m app.scripts.make_user admin mypassword admin@example.com "Admin User"
 - `GET /brands/{brand_id}/products` - Get products by brand
 
 ### Images
-- `GET /images/{image_path}` - Serve product images
-- `GET /images/product/{product_id}/images` - Get image URLs for a product
+- `GET /images/{image_path}` - Serve product images (use paths from image info API)
+- `GET /images/product/{product_id}/images` - Get detailed image information for a product
 
 ### Nutrition & Advanced Queries
 - `GET /nutrition/allergen-free` - Get allergen-free products
