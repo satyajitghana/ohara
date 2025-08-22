@@ -4,13 +4,13 @@ import os
 import logging
 from pathlib import Path
 from datetime import datetime
-from typing import Dict, Any, List, Set
+from typing import Dict, Any, List, Set, Optional
 from sqlmodel import Session, create_engine, select
 from sqlalchemy.exc import IntegrityError
 
 from ..models import (
-    Brand, Product, NutritionFact, Ingredient,
-    VegStatus, ProcessingLevel
+    Brand, SuperCategory, Category, Product, ProductImage,
+    NutritionFact, Ingredient, DataSource, VegStatus, ProcessingLevel
 )
 from ..database import engine, create_db_and_tables
 
@@ -22,7 +22,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-def load_json_file(file_path: Path) -> Dict[str, Any]:
+def load_json_file(file_path: Path) -> Dict[str, Any] | List[Any]:
     """Load JSON file safely."""
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
@@ -64,302 +64,320 @@ def safe_enum(value: Any, enum_class) -> Any:
         return None
 
 
-def migrate_brand(session: Session, brand_data: Dict[str, Any]) -> Brand:
+def migrate_super_categories(session: Session) -> Dict[str, SuperCategory]:
+    """Migrate super categories from super_categories.json."""
+    logger.info("Migrating super categories from super_categories.json...")
+    super_categories_file = Path("scraped_data/swiggy/categories/super_categories.json")
+    super_category_map = {}
+
+    if not super_categories_file.exists():
+        logger.error("super_categories.json not found!")
+        return {}
+
+    super_categories_data = load_json_file(super_categories_file)
+    if not isinstance(super_categories_data, list):
+        logger.error("Invalid super_categories.json format")
+        return {}
+
+    for sc_data in super_categories_data:
+        name = sc_data.get("description")
+        if not name:
+            continue
+
+        statement = select(SuperCategory).where(SuperCategory.name == name)
+        existing_sc = session.exec(statement).first()
+
+        if existing_sc:
+            super_category_map[name] = existing_sc
+            continue
+
+        image_filename = sc_data.get("image_filename")
+        image_path = f"swiggy/categories/images/{image_filename}" if image_filename else None
+
+        super_category = SuperCategory(
+            name=name,
+            image_filename=image_path,
+            taxonomy_type=sc_data.get("taxonomyType")
+        )
+        session.add(super_category)
+        try:
+            session.commit()
+            session.refresh(super_category)
+            super_category_map[name] = super_category
+        except IntegrityError:
+            session.rollback()
+            existing_sc = session.exec(select(SuperCategory).where(SuperCategory.name == name)).one()
+            super_category_map[name] = existing_sc
+
+    logger.info(f"Loaded {len(super_category_map)} super categories.")
+    return super_category_map
+
+
+def migrate_categories_and_build_map(session: Session, super_category_map: Dict[str, SuperCategory]) -> Dict[str, Category]:
+    """Migrate categories from metadata files and build a mapping."""
+    logger.info("Migrating categories from metadata files...")
+    categories_dir = Path("scraped_data/swiggy/categories")
+    category_map: Dict[str, Category] = {}
+
+    for metadata_file in categories_dir.glob("*_metadata.json"):
+        super_category_name_from_file = metadata_file.stem.replace("_metadata", "").replace("_", " ")
+
+        super_category = super_category_map.get(super_category_name_from_file)
+        if not super_category:
+            logger.warning(f"SuperCategory '{super_category_name_from_file}' from file name not in map. Skipping {metadata_file.name}")
+            continue
+
+        metadata = load_json_file(metadata_file)
+        if not isinstance(metadata, dict):
+            continue
+
+        # Process items in "filters" as the actual categories
+        items_to_process = metadata.get("filters", [])
+        
+        # Add the main category itself to the list of items to process
+        main_category_name = metadata.get("selected_category", {}).get("name")
+        if main_category_name:
+            main_category_data = next((c for c in metadata.get("categories", []) if c.get("display_name") == main_category_name), None)
+            if main_category_data:
+                # To make it compatible with filter items, we rename 'display_name' to 'name'
+                main_category_data['name'] = main_category_data.pop('display_name')
+                items_to_process.append(main_category_data)
+
+        for item in items_to_process:
+            category_name = item.get("name")
+            if not category_name:
+                continue
+
+            statement = select(Category).where(Category.name == category_name, Category.super_category_id == super_category.id)
+            existing_cat = session.exec(statement).first()
+
+            if existing_cat:
+                if category_name not in category_map:
+                    category_map[category_name] = existing_cat
+                continue
+
+            image_filename = item.get("image_filename")
+            image_path = f"swiggy/categories/images/{image_filename}" if image_filename else None
+
+            category = Category(
+                name=category_name,
+                image_filename=image_path,
+                super_category_id=super_category.id,
+                product_count=item.get("product_count", 0),
+                age_consent_required=item.get("age_consent_required", False)
+            )
+            session.add(category)
+            try:
+                session.commit()
+                session.refresh(category)
+                if category_name not in category_map:
+                    category_map[category_name] = category
+                logger.info(f"Created Category: '{category_name}' under SuperCategory: '{super_category.name}'")
+            except IntegrityError:
+                session.rollback()
+                existing_cat = session.exec(select(Category).where(Category.name == category_name, Category.super_category_id == super_category.id)).first()
+                if existing_cat and category_name not in category_map:
+                    category_map[category_name] = existing_cat
+
+    logger.info(f"Built map with {len(category_map)} categories.")
+    return category_map
+
+
+def migrate_brand(session: Session, brand_data: Dict[str, Any]) -> Optional[Brand]:
     """Migrate a single brand."""
-    brand_id = brand_data.get("brand_id")
     brand_name = brand_data.get("brand_name")
+    if not brand_name:
+        return None
     
-    if not brand_id or not brand_name:
-        raise ValueError(f"Invalid brand data: {brand_data}")
-    
-    # Check if brand already exists
-    statement = select(Brand).where(Brand.original_brand_id == brand_id)
+    statement = select(Brand).where(Brand.name == brand_name)
     existing_brand = session.exec(statement).first()
     
     if existing_brand:
         return existing_brand
     
-    # Create new brand
-    brand = Brand(
-        name=brand_name,
-        original_brand_id=brand_id
-    )
+    brand = Brand(name=brand_name)
     session.add(brand)
-    session.commit()
-    session.refresh(brand)
-    
-    logger.info(f"Created brand: {brand_name}")
-    return brand
+    try:
+        session.commit()
+        session.refresh(brand)
+        logger.info(f"Created brand: {brand_name}")
+        return brand
+    except IntegrityError:
+        session.rollback()
+        return session.exec(select(Brand).where(Brand.name == brand_name)).one()
 
 
-def migrate_product(session: Session, product_data: Dict[str, Any], variation_data: Dict[str, Any], 
-                   ai_data: Dict[str, Any], brand: Brand, image_paths: List[str], 
-                   catalog_images: List[str], seen_barcodes: Set[str]) -> Product | None:
+def migrate_product(
+    session: Session, 
+    variation_data: Dict[str, Any], 
+    ai_data: Dict[str, Any],
+    brand: Brand,
+    super_category: SuperCategory,
+    category: Category,
+    seen_barcodes: Set[str]
+) -> Optional[Product]:
     """Migrate a single product with its variation and AI data."""
     
     variation = variation_data.get("variation", {})
     price_info = variation.get("price", {})
     
-    # Check for barcode conflicts
-    barcode = ai_data.get("barcode")
-    existing_product = None
-    
-    if barcode and barcode.strip():
+    barcode = ai_data.get("barcode") if ai_data else None
+    if barcode:
         barcode = barcode.strip()
-        
-        # Check if we've already seen this barcode in this migration session
+        if not barcode:
+            barcode = None
+    
+    if barcode:
         if barcode in seen_barcodes:
-            logger.warning(f"Duplicate barcode {barcode} found for product {variation.get('display_name', '')} - skipping")
+            logger.warning(f"Duplicate barcode {barcode} found in this session for '{variation.get('display_name')}'. Skipping.")
             return None
         
-        # Check if barcode already exists in database
         existing_product = session.exec(select(Product).where(Product.barcode == barcode)).first()
         if existing_product:
-            logger.info(f"Barcode {barcode} already exists for product {existing_product.display_name} - updating with new data from {variation.get('display_name', '')}")
+            logger.info(f"Barcode {barcode} already exists in DB for product '{existing_product.display_name}'. Skipping.")
+            return None
         
         seen_barcodes.add(barcode)
-    else:
-        barcode = None
     
-    # Map VEG status
-    veg_status_str = ai_data.get("veg_non_veg")
-    veg_status = safe_enum(veg_status_str, VegStatus)
+    veg_status = safe_enum(ai_data.get("veg_non_veg") if ai_data else None, VegStatus)
+    processing_level = safe_enum(ai_data.get("processing_level") if ai_data else None, ProcessingLevel)
     
-    # Map processing level
-    processing_level_str = ai_data.get("processing_level")
-    processing_level = safe_enum(processing_level_str, ProcessingLevel)
+    product = Product(
+        name=ai_data.get("product_name") if ai_data else variation.get("product_name_without_brand", ""),
+        display_name=variation.get("display_name", ""),
+        primary_source=DataSource.SWIGGY,
+        primary_external_id=variation.get("id", ""),
+        primary_external_variation_id=variation_data.get("parent_product", {}).get("product_id"),
+        brand_id=brand.id,
+        super_category_id=super_category.id,
+        category_id=category.id,
+        sub_category_l3=variation.get("category"), # Mapping product's 'category' to sub_category_l3
+        sub_category_l4=variation.get("sub_category_l3"),
+        sub_category_l5=variation.get("sub_category_l4"),
+        mrp=safe_float(price_info.get("mrp")),
+        store_price=safe_float(price_info.get("store_price")),
+        offer_price=safe_float(price_info.get("offer_price")),
+        discount_value=safe_float(price_info.get("discount_value")),
+        unit_level_price=price_info.get("unit_level_price"),
+        quantity=variation.get("quantity"),
+        unit_of_measure=variation.get("unit_of_measure"),
+        weight_in_grams=safe_float(variation.get("weight_in_grams")),
+        volumetric_weight=safe_float(variation.get("volumetric_weight")),
+        sku_quantity_with_combo=variation.get("sku_quantity_with_combo"),
+        product_type=variation.get("scm_item_type"),
+        filters_tag=variation.get("filters_tag"),
+        barcode=barcode,
+        veg_status=veg_status,
+        health_rating=safe_int(ai_data.get("health_rating")) if ai_data else None,
+        processing_level=processing_level,
+        country_of_origin=ai_data.get("country_of_origin") if ai_data else None,
+        net_quantity_value=safe_float(ai_data.get("net_quantity_value")) if ai_data else None,
+        net_quantity_unit=ai_data.get("net_quantity_unit") if ai_data else None,
+        nutrition_serving_value=safe_float(ai_data.get("nutrition_serving_value")) if ai_data else None,
+        nutrition_serving_unit=ai_data.get("nutrition_serving_unit") if ai_data else None,
+        approx_serves_per_pack=safe_int(ai_data.get("approx_serves_per_pack")) if ai_data else None,
+        ingredients_string=ai_data.get("ingredients_string") if ai_data else None,
+        storage_instructions=ai_data.get("storage_instructions") if ai_data else None,
+        cooking_instructions=ai_data.get("cooking_instructions") if ai_data else None,
+        allergens=json.dumps(ai_data.get("allergens", [])) if ai_data and ai_data.get("allergens") else None,
+        certifications=json.dumps(ai_data.get("certifications", [])) if ai_data and ai_data.get("certifications") else None,
+        positive_health_aspects=json.dumps(ai_data.get("positive_health_aspects", [])) if ai_data and ai_data.get("positive_health_aspects") else None,
+        negative_health_aspects=json.dumps(ai_data.get("negative_health_aspects", [])) if ai_data and ai_data.get("negative_health_aspects") else None,
+        preservatives=json.dumps(ai_data.get("preservatives", [])) if ai_data and ai_data.get("preservatives") else None,
+        ins_numbers_found=json.dumps(ai_data.get("ins_numbers_found", [])) if ai_data and ai_data.get("ins_numbers_found") else None,
+        additives=json.dumps(ai_data.get("additives", [])) if ai_data and ai_data.get("additives") else None,
+        alarming_ingredients=json.dumps(ai_data.get("alarming_ingredients", [])) if ai_data and ai_data.get("alarming_ingredients") else None
+    )
     
-    # Update existing product or create new one
-    if existing_product:
-        # Update existing product with new data
-        existing_product.name = ai_data.get("product_name") or variation.get("product_name_without_brand", "") or existing_product.name
-        existing_product.display_name = variation.get("display_name", "") or existing_product.display_name
-        existing_product.brand_id = brand.id
-        
-        # Update pricing if available
-        if price_info.get("mrp"): existing_product.mrp = safe_float(price_info.get("mrp"))
-        if price_info.get("store_price"): existing_product.store_price = safe_float(price_info.get("store_price"))
-        if price_info.get("offer_price"): existing_product.offer_price = safe_float(price_info.get("offer_price"))
-        if price_info.get("discount_value"): existing_product.discount_value = safe_float(price_info.get("discount_value"))
-        
-        # Update product details
-        if variation.get("quantity"): existing_product.quantity = variation.get("quantity")
-        if variation.get("unit_of_measure"): existing_product.unit_of_measure = variation.get("unit_of_measure")
-        if variation.get("weight_in_grams"): existing_product.weight_in_grams = safe_float(variation.get("weight_in_grams"))
-        
-        # Update categories
-        if variation.get("category"): existing_product.category = variation.get("category")
-        if variation.get("super_category"): existing_product.super_category = variation.get("super_category")
-        if variation.get("sub_category_l3"): existing_product.sub_category_l3 = variation.get("sub_category_l3")
-        if variation.get("sub_category_l4"): existing_product.sub_category_l4 = variation.get("sub_category_l4")
-        if variation.get("sub_category_l5"): existing_product.sub_category_l5 = variation.get("sub_category_l5")
-        
-        # Update AI data
-        if ai_data.get("net_quantity_value"): existing_product.net_quantity_value = safe_float(ai_data.get("net_quantity_value"))
-        if ai_data.get("net_quantity_unit"): existing_product.net_quantity_unit = ai_data.get("net_quantity_unit")
-        if veg_status: existing_product.veg_status = veg_status
-        if ai_data.get("health_rating"): existing_product.health_rating = safe_int(ai_data.get("health_rating"))
-        if processing_level: existing_product.processing_level = processing_level
-        if ai_data.get("country_of_origin"): existing_product.country_of_origin = ai_data.get("country_of_origin")
-        
-        # Update text fields
-        if ai_data.get("ingredients_string"): existing_product.ingredients_string = ai_data.get("ingredients_string")
-        if ai_data.get("allergens"): existing_product.allergens = json.dumps(ai_data.get("allergens", []))
-        if ai_data.get("certifications"): existing_product.certifications = json.dumps(ai_data.get("certifications", []))
-        if ai_data.get("positive_health_aspects"): existing_product.positive_health_aspects = json.dumps(ai_data.get("positive_health_aspects", []))
-        if ai_data.get("negative_health_aspects"): existing_product.negative_health_aspects = json.dumps(ai_data.get("negative_health_aspects", []))
-        if ai_data.get("storage_instructions"): existing_product.storage_instructions = ai_data.get("storage_instructions")
-        if ai_data.get("cooking_instructions"): existing_product.cooking_instructions = ai_data.get("cooking_instructions")
-        
-        # Update nutrition info
-        if ai_data.get("nutrition_serving_value"): existing_product.nutrition_serving_value = safe_float(ai_data.get("nutrition_serving_value"))
-        if ai_data.get("nutrition_serving_unit"): existing_product.nutrition_serving_unit = ai_data.get("nutrition_serving_unit")
-        if ai_data.get("approx_serves_per_pack"): existing_product.approx_serves_per_pack = safe_int(ai_data.get("approx_serves_per_pack"))
-        
-        # Update images
-        if image_paths: existing_product.image_paths = json.dumps(image_paths)
-        if catalog_images: existing_product.catalog_images = json.dumps(catalog_images)
-        
-        existing_product.updated_at = datetime.utcnow()
-        
-        try:
-            session.commit()
-            session.refresh(existing_product)
-            existing_product._is_updated = True  # Mark as updated for nutrition/ingredients migration
-            logger.info(f"Updated existing product: {existing_product.display_name}")
-            return existing_product
-        except IntegrityError as e:
-            session.rollback()
-            logger.error(f"Database integrity error updating product {existing_product.display_name}: {e}")
-            return None
-    else:
-        # Create new product
-        product = Product(
-            name=ai_data.get("product_name") or variation.get("product_name_without_brand", ""),
-            display_name=variation.get("display_name", ""),
-            original_product_id=product_data.get("product_id", ""),
-            brand_id=brand.id,
-            
-            # Pricing
-            mrp=safe_float(price_info.get("mrp")),
-            store_price=safe_float(price_info.get("store_price")),
-            offer_price=safe_float(price_info.get("offer_price")),
-            discount_value=safe_float(price_info.get("discount_value")),
-            
-            # Product details
-            quantity=variation.get("quantity"),
-            unit_of_measure=variation.get("unit_of_measure"),
-            weight_in_grams=safe_float(variation.get("weight_in_grams")),
-            
-            # Categories
-            category=variation.get("category"),
-            super_category=variation.get("super_category"),
-            sub_category_l3=variation.get("sub_category_l3"),
-            sub_category_l4=variation.get("sub_category_l4"),
-            sub_category_l5=variation.get("sub_category_l5"),
-            
-            # AI data
-            barcode=barcode,
-            net_quantity_value=safe_float(ai_data.get("net_quantity_value")),
-            net_quantity_unit=ai_data.get("net_quantity_unit"),
-            veg_status=veg_status,
-            health_rating=safe_int(ai_data.get("health_rating")),
-            processing_level=processing_level,
-            country_of_origin=ai_data.get("country_of_origin"),
-            
-            # Text fields
-            ingredients_string=ai_data.get("ingredients_string"),
-            allergens=json.dumps(ai_data.get("allergens", [])) if ai_data.get("allergens") else None,
-            certifications=json.dumps(ai_data.get("certifications", [])) if ai_data.get("certifications") else None,
-            positive_health_aspects=json.dumps(ai_data.get("positive_health_aspects", [])) if ai_data.get("positive_health_aspects") else None,
-            negative_health_aspects=json.dumps(ai_data.get("negative_health_aspects", [])) if ai_data.get("negative_health_aspects") else None,
-            storage_instructions=ai_data.get("storage_instructions"),
-            cooking_instructions=ai_data.get("cooking_instructions"),
-            
-            # Nutrition info
-            nutrition_serving_value=safe_float(ai_data.get("nutrition_serving_value")),
-            nutrition_serving_unit=ai_data.get("nutrition_serving_unit"),
-            approx_serves_per_pack=safe_int(ai_data.get("approx_serves_per_pack")),
-            
-            # Images
-            image_paths=json.dumps(image_paths) if image_paths else None,
-            catalog_images=json.dumps(catalog_images) if catalog_images else None
-        )
-        
-        try:
-            session.add(product)
-            session.commit()
-            session.refresh(product)
-            
-            logger.info(f"Created product: {product.display_name}")
-            return product
-        except IntegrityError as e:
-            session.rollback()
-            logger.error(f"Database integrity error for product {product.display_name}: {e}")
-            return None
-
-
-def migrate_nutrition_facts(session: Session, product: Product, ai_data: Dict[str, Any], is_update: bool = False):
-    """Migrate nutrition facts for a product."""
-    nutrition_table = ai_data.get("nutrition_info_table", [])
-    
-    if is_update:
-        # Clear existing nutrition facts
-        existing_nutrition = session.exec(select(NutritionFact).where(NutritionFact.product_id == product.id)).all()
-        for nutrition in existing_nutrition:
-            session.delete(nutrition)
-    
-    for nutrition_item in nutrition_table:
-        if not isinstance(nutrition_item, dict):
-            continue
-            
-        nutrition_fact = NutritionFact(
-            product_id=product.id,
-            nutrient=nutrition_item.get("nutrient", ""),
-            value=safe_float(nutrition_item.get("value")) or 0.0,
-            unit=nutrition_item.get("unit", ""),
-            rda_percentage=safe_float(nutrition_item.get("rda_percentage"))
-        )
-        session.add(nutrition_fact)
-    
-    if nutrition_table:
+    try:
+        session.add(product)
         session.commit()
-        action = "Updated" if is_update else "Added"
-        logger.info(f"{action} {len(nutrition_table)} nutrition facts for {product.display_name}")
+        session.refresh(product)
+        logger.info(f"Created product: {product.display_name}")
+        return product
+    except IntegrityError as e:
+        session.rollback()
+        logger.error(f"Error creating product {product.display_name}: {e}")
+        return None
 
 
-def migrate_ingredients(session: Session, product: Product, ai_data: Dict[str, Any], is_update: bool = False):
-    """Migrate ingredients for a product."""
-    parsed_ingredients = ai_data.get("parsed_ingredients", [])
-    
-    if is_update:
-        # Clear existing ingredients
-        existing_ingredients = session.exec(select(Ingredient).where(Ingredient.product_id == product.id)).all()
-        for ingredient in existing_ingredients:
-            session.delete(ingredient)
-    
-    for ingredient_data in parsed_ingredients:
-        if not isinstance(ingredient_data, dict):
-            continue
-            
-        ingredient = Ingredient(
-            product_id=product.id,
-            name=ingredient_data.get("name", ""),
-            percentage=safe_float(ingredient_data.get("percentage")),
-            ins_numbers=json.dumps(ingredient_data.get("ins_numbers", [])) if ingredient_data.get("ins_numbers") else None,
-            additives=json.dumps(ingredient_data.get("additives", [])) if ingredient_data.get("additives") else None,
-            is_alarming=ingredient_data.get("is_alarming", False),
-            alarming_reason=ingredient_data.get("alarming_reason")
-        )
-        session.add(ingredient)
-    
-    if parsed_ingredients:
-        session.commit()
-        action = "Updated" if is_update else "Added"
-        logger.info(f"{action} {len(parsed_ingredients)} ingredients for {product.display_name}")
-
-
-def get_image_data(variation_dir: Path, variation_data: Dict[str, Any]) -> tuple[List[str], List[str]]:
-    """Get image paths and catalog image names for a variation."""
-    images_dir = variation_dir / "images"
-    
-    # Get the list of image filenames from variation data
+def migrate_product_images(session: Session, product: Product, variation_data: Dict[str, Any], brand_id: str, variation_id: str):
+    """Migrate product images."""
     variation = variation_data.get("variation", {})
-    catalog_images = variation.get("images", [])
+    images = variation.get("images", [])
     
-    if not images_dir.exists():
-        return [], catalog_images
-    
-    # Create a mapping from filename to full path
-    available_files = {}
-    for image_file in images_dir.iterdir():
-        if image_file.is_file():
-            available_files[image_file.name] = str(image_file.relative_to(Path("scraped_data")))
-    
-    # Match catalog images with available files
-    image_paths = []
-    for catalog_image in catalog_images:
-        # Extract filename from catalog path (e.g., "NI_CATALOG/.../filename.png" -> "filename.png")
-        filename = Path(catalog_image).name
+    for i, image_catalog_path in enumerate(images):
+        filename = Path(image_catalog_path).name
+        image_path = f"swiggy/listings/{brand_id}/{variation_id}/images/{filename}"
         
-        if filename in available_files:
-            image_paths.append(available_files[filename])
-        else:
-            logger.warning(f"Image file {filename} not found in {images_dir}")
+        statement = select(ProductImage).where(
+            ProductImage.product_id == product.id,
+            ProductImage.filename == image_path
+        )
+        if session.exec(statement).first():
+            continue
+        
+        product_image = ProductImage(
+            product_id=product.id,
+            filename=image_path,
+            order_index=i,
+            is_primary=(i == 0)
+        )
+        session.add(product_image)
     
-    # Add any additional files that weren't in the catalog (just in case)
-    for filename, path in available_files.items():
-        if path not in image_paths:
-            image_paths.append(path)
+    if images:
+        try:
+            session.commit()
+        except IntegrityError as e:
+            session.rollback()
+            logger.error(f"Error committing images for {product.display_name}: {e}")
+
+
+def migrate_nutrition_facts(session: Session, product: Product, ai_data: Dict[str, Any]):
+    """Migrate nutrition facts for a product."""
+    if not ai_data or not ai_data.get("nutrition_info_table"):
+        return
     
-    return image_paths, catalog_images
+    for item in ai_data["nutrition_info_table"]:
+        if not isinstance(item, dict): continue
+        session.add(NutritionFact(
+            product_id=product.id,
+            nutrient=item.get("nutrient", ""),
+            value=safe_float(item.get("value")) or 0.0,
+            unit=item.get("unit", ""),
+            rda_percentage=safe_float(item.get("rda_percentage"))
+        ))
+    try:
+        session.commit()
+    except IntegrityError:
+        session.rollback()
+
+def migrate_ingredients(session: Session, product: Product, ai_data: Dict[str, Any]):
+    """Migrate ingredients for a product."""
+    if not ai_data or not ai_data.get("parsed_ingredients"):
+        return
+
+    for i, item in enumerate(ai_data["parsed_ingredients"]):
+        if not isinstance(item, dict): continue
+        session.add(Ingredient(
+            product_id=product.id,
+            name=item.get("name", ""),
+            percentage=safe_float(item.get("percentage")),
+            is_alarming=item.get("is_alarming", False),
+            alarming_reason=item.get("alarming_reason"),
+            order_index=i,
+            ins_numbers=json.dumps(item.get("ins_numbers", [])) if item.get("ins_numbers") else None,
+            additives=json.dumps(item.get("additives", [])) if item.get("additives") else None
+        ))
+    try:
+        session.commit()
+    except IntegrityError:
+        session.rollback()
 
 
 def migrate_scraped_data():
     """Main migration function."""
     logger.info("Starting data migration...")
-    
-    # Create tables
     create_db_and_tables()
     
     scraped_data_dir = Path("scraped_data")
@@ -367,114 +385,113 @@ def migrate_scraped_data():
         logger.error("scraped_data directory not found!")
         return
     
-    migrated_brands = 0
-    migrated_products = 0
-    skipped_products = 0
-    errors = 0
+    stats = {"brands": 0, "products": 0, "skipped": 0, "errors": 0}
     seen_barcodes: Set[str] = set()
     
     with Session(engine) as session:
-        # Iterate through brand directories
-        for brand_dir in scraped_data_dir.iterdir():
-            if not brand_dir.is_dir():
-                continue
-                
+        super_category_map = migrate_super_categories(session)
+        category_map = migrate_categories_and_build_map(session, super_category_map)
+        
+        listings_dir = scraped_data_dir / "swiggy" / "listings"
+        if not listings_dir.exists():
+            logger.error("swiggy/listings directory not found!")
+            return
+        
+        for brand_dir in listings_dir.iterdir():
+            if not brand_dir.is_dir(): continue
+            
             try:
-                # Load brand info
-                brand_info_file = brand_dir / "brand_info.json"
-                if not brand_info_file.exists():
-                    logger.warning(f"No brand_info.json found in {brand_dir}")
-                    continue
+                brand_info = load_json_file(brand_dir / "brand_info.json")
+                if not brand_info: continue
+
+                brand = migrate_brand(session, brand_info)
+                if not brand: continue
+                stats["brands"] += 1
                 
-                brand_data = load_json_file(brand_info_file)
-                if not brand_data:
-                    continue
-                
-                # Migrate brand
-                brand = migrate_brand(session, brand_data)
-                migrated_brands += 1
-                
-                # Load products list
-                products_list_file = brand_dir / "products_list.json"
-                if not products_list_file.exists():
-                    logger.warning(f"No products_list.json found in {brand_dir}")
-                    continue
-                
-                products_list = load_json_file(products_list_file)
-                products_info = products_list.get("products_info", {})
-                
-                # Iterate through product variations
                 for variation_dir in brand_dir.iterdir():
-                    if not variation_dir.is_dir() or variation_dir.name in ["images"]:
-                        continue
+                    if not variation_dir.is_dir(): continue
                     
                     try:
-                        # Load variation data
                         data_file = variation_dir / "data.json"
                         ai_file = variation_dir / "parsed_ai.json"
-                        
-                        if not data_file.exists():
-                            logger.warning(f"No data.json found in {variation_dir}")
-                            continue
-                        
+                        if not data_file.exists(): continue
+
                         variation_data = load_json_file(data_file)
                         ai_data = load_json_file(ai_file) if ai_file.exists() else {}
+                        if not isinstance(variation_data, dict): continue
                         
-                        # Get parent product info
-                        parent_product = variation_data.get("parent_product", {})
-                        product_id = parent_product.get("product_id")
+                        variation = variation_data.get("variation", {})
+                        product_category_name = variation.get("super_category")
                         
-                        if not product_id or product_id not in products_info:
-                            logger.warning(f"Product ID {product_id} not found in products_info")
+                        if not product_category_name:
+                            logger.warning(f"No 'super_category' field for {variation_dir}. Skipping.")
+                            stats["skipped"] += 1
                             continue
-                        
-                        product_info = products_info[product_id]
-                        
-                        # Get image data
-                        image_paths, catalog_images = get_image_data(variation_dir, variation_data)
-                        
-                        # Check if product already exists
-                        statement = select(Product).where(Product.original_product_id == product_id)
-                        existing_product = session.exec(statement).first()
-                        
-                        if existing_product:
-                            logger.info(f"Product {product_id} already exists, skipping...")
+
+                        category = category_map.get(product_category_name)
+                        super_category = None
+
+                        if category:
+                            super_category = session.get(SuperCategory, category.super_category_id)
+                        else:
+                            logger.warning(f"Category '{product_category_name}' not in map. Assigning to 'Uncategorized'.")
+                            uncategorized_sc_name = "Uncategorized"
+                            super_category = super_category_map.get(uncategorized_sc_name)
+                            if not super_category:
+                                super_category = SuperCategory(name=uncategorized_sc_name)
+                                session.add(super_category)
+                                try:
+                                    session.commit()
+                                    session.refresh(super_category)
+                                    super_category_map[uncategorized_sc_name] = super_category
+                                except IntegrityError:
+                                    session.rollback()
+                                    super_category = session.exec(select(SuperCategory).where(SuperCategory.name == uncategorized_sc_name)).one()
+                            
+                            category = session.exec(select(Category).where(Category.name == product_category_name, Category.super_category_id == super_category.id)).first()
+                            if not category:
+                                category = Category(name=product_category_name, super_category_id=super_category.id)
+                                session.add(category)
+                                try:
+                                    session.commit()
+                                    session.refresh(category)
+                                    category_map[product_category_name] = category
+                                except IntegrityError:
+                                    session.rollback()
+                                    category = session.exec(select(Category).where(Category.name == product_category_name, Category.super_category_id == super_category.id)).one()
+
+                        if not super_category or not category:
+                            logger.error(f"Could not determine category/super-category for {variation_dir}. Skipping.")
+                            stats["skipped"] += 1
                             continue
-                        
-                        # Migrate product
+
                         product = migrate_product(
-                            session, product_info, variation_data, ai_data, brand, image_paths, catalog_images, seen_barcodes
+                            session, variation_data, ai_data, brand, super_category, category, seen_barcodes
                         )
                         
                         if product:
-                            migrated_products += 1
-                            
-                            # Migrate nutrition facts and ingredients
-                            if ai_data:
-                                is_update = hasattr(product, '_is_updated') and product._is_updated
-                                migrate_nutrition_facts(session, product, ai_data, is_update)
-                                migrate_ingredients(session, product, ai_data, is_update)
+                            stats["products"] += 1
+                            migrate_product_images(session, product, variation_data, brand_dir.name, variation_dir.name)
+                            migrate_nutrition_facts(session, product, ai_data)
+                            migrate_ingredients(session, product, ai_data)
                         else:
-                            skipped_products += 1
+                            stats["skipped"] += 1
                         
                     except Exception as e:
-                        logger.error(f"Error processing variation {variation_dir}: {e}")
-                        errors += 1
-                        continue
-                
+                        logger.error(f"Error processing variation {variation_dir}: {e}", exc_info=True)
+                        stats["errors"] += 1
+            
             except Exception as e:
-                logger.error(f"Error processing brand {brand_dir}: {e}")
-                errors += 1
-                continue
-    
+                logger.error(f"Error processing brand {brand_dir}: {e}", exc_info=True)
+                stats["errors"] += 1
+
     logger.info("\nMigration completed!")
-    logger.info(f"Brands migrated: {migrated_brands}")
-    logger.info(f"Products migrated: {migrated_products}")
-    logger.info(f"Products skipped (duplicate barcode): {skipped_products}")
-    logger.info(f"Errors: {errors}")
-    
-    if skipped_products > 0:
-        logger.warning(f"⚠️  {skipped_products} products were skipped due to duplicate barcodes. Check logs above for details.")
+    logger.info(f"Super categories: {len(super_category_map)}")
+    logger.info(f"Categories: {len(category_map)}")
+    logger.info(f"Brands migrated: {stats['brands']}")
+    logger.info(f"Products migrated: {stats['products']}")
+    logger.info(f"Products skipped: {stats['skipped']}")
+    logger.info(f"Errors: {stats['errors']}")
 
 
 if __name__ == "__main__":

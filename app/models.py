@@ -2,7 +2,18 @@
 from typing import Optional, List
 from datetime import datetime
 from sqlmodel import SQLModel, Field, Relationship
+from sqlalchemy import UniqueConstraint
 from enum import Enum
+
+
+class DataSource(str, Enum):
+    """Data source enumeration for tracking where data comes from."""
+    SWIGGY = "SWIGGY"
+    BIGBASKET = "BIGBASKET"
+    ZOMATO = "ZOMATO"
+    AMAZON_FRESH = "AMAZON_FRESH"
+    GROFERS = "GROFERS"
+    UNKNOWN = "UNKNOWN"
 
 
 class VegStatus(str, Enum):
@@ -21,183 +32,369 @@ class ProcessingLevel(str, Enum):
     ULTRA_PROCESSED = "ULTRA_PROCESSED"
 
 
+# Base models for DRY
+class TimestampMixin(SQLModel):
+    """Mixin for timestamp fields - only for core entities that track changes."""
+    created_at: datetime = Field(default_factory=datetime.utcnow)
+    updated_at: datetime = Field(default_factory=datetime.utcnow)
+
+
+class BaseResponse(SQLModel):
+    """Base response model with common fields."""
+    id: int
+
+
 # User models
-class UserBase(SQLModel):
-    """Base user model."""
-    username: str = Field(index=True, unique=True)
-    email: str = Field(index=True, unique=True)
+class User(TimestampMixin, table=True):
+    """User table model."""
+    __table_args__ = (UniqueConstraint("username"), UniqueConstraint("email"))
+    
+    id: Optional[int] = Field(default=None, primary_key=True)
+    username: str = Field(index=True)
+    email: str = Field(index=True)
     full_name: Optional[str] = None
+    hashed_password: str
     is_active: bool = Field(default=True)
 
 
-class User(UserBase, table=True):
-    """User table model."""
-    id: Optional[int] = Field(default=None, primary_key=True)
-    hashed_password: str
-    created_at: datetime = Field(default_factory=datetime.utcnow)
-
-
-class UserCreate(UserBase):
+class UserCreate(SQLModel):
     """User creation model."""
+    username: str
+    email: str
+    full_name: Optional[str] = None
     password: str
 
 
-class UserPublic(UserBase):
-    """User public model."""
-    id: int
-    created_at: datetime
+class UserResponse(BaseResponse):
+    """User response model."""
+    username: str
+    email: str
+    full_name: Optional[str] = None
+    is_active: bool
+
+
+# Category models
+class SuperCategory(TimestampMixin, table=True):
+    """Super category table model."""
+    __table_args__ = (UniqueConstraint("name"),)
+    
+    id: Optional[int] = Field(default=None, primary_key=True)
+    name: str = Field(index=True)
+    image_filename: Optional[str] = None
+    taxonomy_type: Optional[str] = None
+    
+    # Relationships
+    categories: List["Category"] = Relationship(back_populates="super_category")
+    products: List["Product"] = Relationship(back_populates="super_category")
+
+
+class Category(TimestampMixin, table=True):
+    """Category table model."""
+    __table_args__ = (UniqueConstraint("name", "super_category_id"),)
+    
+    id: Optional[int] = Field(default=None, primary_key=True)
+    name: str = Field(index=True)
+    image_filename: Optional[str] = None
+    super_category_id: int = Field(foreign_key="supercategory.id", index=True)
+    product_count: int = Field(default=0)
+    age_consent_required: bool = Field(default=False)
+    
+    # Relationships
+    super_category: SuperCategory = Relationship(back_populates="categories")
+    products: List["Product"] = Relationship(back_populates="category")
+
+
+class SuperCategoryResponse(BaseResponse):
+    """Super category response model."""
+    name: str
+    image_filename: Optional[str] = None
+    taxonomy_type: Optional[str] = None
+    product_count: Optional[int] = None
+
+
+class CategoryResponse(BaseResponse):
+    """Category response model."""
+    name: str
+    image_filename: Optional[str] = None
+    product_count: int
+    age_consent_required: bool
+
+
+class SuperCategoryDetail(SuperCategoryResponse):
+    """Detailed super category with categories."""
+    categories: List[CategoryResponse] = []
 
 
 # Brand models
-class BrandBase(SQLModel):
-    """Base brand model."""
-    name: str = Field(index=True)
-    original_brand_id: str = Field(index=True, unique=True)
-
-
-class Brand(BrandBase, table=True):
+class Brand(TimestampMixin, table=True):
     """Brand table model."""
+    __table_args__ = (UniqueConstraint("name"),)
+    
     id: Optional[int] = Field(default=None, primary_key=True)
-    created_at: datetime = Field(default_factory=datetime.utcnow)
+    name: str = Field(index=True)
     
     # Relationships
     products: List["Product"] = Relationship(back_populates="brand")
 
 
-class BrandPublic(BrandBase):
-    """Brand public model."""
-    id: int
+class BrandResponse(BaseResponse):
+    """Brand response model."""
+    name: str
     product_count: Optional[int] = None
 
 
-# Product models
-class ProductBase(SQLModel):
-    """Base product model."""
-    name: str = Field(index=True)
-    display_name: str = Field(index=True)
-    original_product_id: str = Field(index=True, unique=True)
+# Product model - matches actual data structure
+class Product(TimestampMixin, table=True):
+    """Product table model - contains all product information from data.json and parsed_ai.json."""
+    __table_args__ = (
+        UniqueConstraint("primary_source", "primary_external_id", "primary_external_variation_id"),
+        UniqueConstraint("barcode"),
+    )
     
-    # Pricing
-    mrp: Optional[float] = None
-    store_price: Optional[float] = None
-    offer_price: Optional[float] = None
-    discount_value: Optional[float] = None
+    id: Optional[int] = Field(default=None, primary_key=True)
     
-    # Product details
-    quantity: Optional[str] = None
-    unit_of_measure: Optional[str] = None
-    weight_in_grams: Optional[float] = None
+    # Basic product info from data.json
+    name: str = Field(index=True)  # product_name_without_brand
+    display_name: str = Field(index=True)  # variation.display_name
     
-    # Categories
-    category: Optional[str] = Field(index=True)
-    super_category: Optional[str] = Field(index=True)
+    # Primary data source
+    primary_source: DataSource = Field(index=True)
+    primary_external_id: str = Field(index=True)  # variation.id
+    primary_external_variation_id: Optional[str] = Field(index=True)  # parent_product.product_id
+    
+    # References
+    brand_id: int = Field(foreign_key="brand.id", index=True)
+    super_category_id: int = Field(foreign_key="supercategory.id", index=True)
+    category_id: int = Field(foreign_key="category.id", index=True)
+    
+    # Category hierarchy from data.json
     sub_category_l3: Optional[str] = Field(index=True)
     sub_category_l4: Optional[str] = Field(index=True)
     sub_category_l5: Optional[str] = Field(index=True)
     
-    # Nutritional & AI Info
-    barcode: Optional[str] = Field(index=True, unique=True)
-    net_quantity_value: Optional[float] = None
-    net_quantity_unit: Optional[str] = None
-    veg_status: Optional[VegStatus] = Field(index=True)
+    # Pricing from data.json -> variation.price
+    mrp: Optional[float] = None
+    store_price: Optional[float] = None
+    offer_price: Optional[float] = None
+    discount_value: Optional[float] = None
+    unit_level_price: Optional[str] = None
+    
+    # Measurements from data.json -> variation
+    quantity: Optional[str] = None
+    unit_of_measure: Optional[str] = None
+    weight_in_grams: Optional[float] = None
+    volumetric_weight: Optional[float] = None
+    sku_quantity_with_combo: Optional[str] = None
+    
+    # Product metadata from data.json -> variation
+    product_type: Optional[str] = None  # scm_item_type
+    filters_tag: Optional[str] = None
+    
+    # Health info from parsed_ai.json
+    barcode: Optional[str] = Field(index=True)
+    veg_status: Optional[VegStatus] = Field(index=True)  # veg_non_veg
     health_rating: Optional[int] = Field(index=True, ge=0, le=100)
     processing_level: Optional[ProcessingLevel] = Field(index=True)
     country_of_origin: Optional[str] = None
     
-    # JSON fields for complex data
-    ingredients_string: Optional[str] = None
-    allergens: Optional[str] = None  # JSON string
-    certifications: Optional[str] = None  # JSON string
-    positive_health_aspects: Optional[str] = None  # JSON string
-    negative_health_aspects: Optional[str] = None  # JSON string
-    storage_instructions: Optional[str] = None
-    cooking_instructions: Optional[str] = None
-    
-    # Nutrition info
+    # Nutrition info from parsed_ai.json
+    net_quantity_value: Optional[float] = None
+    net_quantity_unit: Optional[str] = None
     nutrition_serving_value: Optional[float] = None
     nutrition_serving_unit: Optional[str] = None
     approx_serves_per_pack: Optional[int] = None
+    ingredients_string: Optional[str] = None
     
-    # Image paths
-    image_paths: Optional[str] = None  # JSON string of actual file paths
-    catalog_images: Optional[str] = None  # JSON string of original catalog image names
-
-
-class Product(ProductBase, table=True):
-    """Product table model."""
-    id: Optional[int] = Field(default=None, primary_key=True)
-    brand_id: int = Field(foreign_key="brand.id", index=True)
-    created_at: datetime = Field(default_factory=datetime.utcnow)
-    updated_at: datetime = Field(default_factory=datetime.utcnow)
+    # Instructions from parsed_ai.json
+    storage_instructions: Optional[str] = None
+    cooking_instructions: Optional[str] = None
+    
+    # JSON fields for arrays from parsed_ai.json (simple approach)
+    allergens: Optional[str] = None  # JSON array
+    certifications: Optional[str] = None  # JSON array
+    positive_health_aspects: Optional[str] = None  # JSON array
+    negative_health_aspects: Optional[str] = None  # JSON array
+    preservatives: Optional[str] = None  # JSON array
+    ins_numbers_found: Optional[str] = None  # JSON array
+    additives: Optional[str] = None  # JSON array
+    alarming_ingredients: Optional[str] = None  # JSON array
     
     # Relationships
     brand: Brand = Relationship(back_populates="products")
+    super_category: SuperCategory = Relationship(back_populates="products")
+    category: Category = Relationship(back_populates="products")
     nutrition_facts: List["NutritionFact"] = Relationship(back_populates="product")
     ingredients: List["Ingredient"] = Relationship(back_populates="product")
+    source_mappings: List["ProductSourceMapping"] = Relationship(back_populates="product")
+    images: List["ProductImage"] = Relationship(back_populates="product")
 
 
-class ProductPublic(ProductBase):
-    """Product public model."""
-    id: int
-    brand: BrandPublic
-    created_at: datetime
-
-
-class ProductDetail(ProductPublic):
-    """Detailed product model with nutrition and ingredients."""
-    nutrition_facts: List["NutritionFactPublic"] = []
-    ingredients: List["IngredientPublic"] = []
+# Simple product details - embedded in main product table to match data structure
+class ProductImage(SQLModel, table=True):
+    """Product images - simple table without timestamps."""
+    __table_args__ = (UniqueConstraint("product_id", "filename"),)
     
-    class Config:
-        from_attributes = True
+    id: Optional[int] = Field(default=None, primary_key=True)
+    product_id: int = Field(foreign_key="product.id", index=True)
+    filename: str
+    order_index: int = Field(default=0)
+    is_primary: bool = Field(default=False)
+    
+    # Relationship
+    product: "Product" = Relationship(back_populates="images")
 
 
-# Nutrition models
-class NutritionFactBase(SQLModel):
-    """Base nutrition fact model."""
+# Source mapping table
+class ProductSourceMapping(TimestampMixin, table=True):
+    """Track external source mappings for products across platforms."""
+    __table_args__ = (UniqueConstraint("source", "external_id", "external_variation_id"),)
+    
+    id: Optional[int] = Field(default=None, primary_key=True)
+    product_id: int = Field(foreign_key="product.id", index=True)
+    source: DataSource = Field(index=True)
+    external_id: str = Field(index=True)
+    external_variation_id: Optional[str] = Field(index=True)
+    external_brand_id: Optional[str] = None
+    external_category_id: Optional[str] = None
+    last_synced: datetime = Field(default_factory=datetime.utcnow)
+    is_active: bool = Field(default=True)
+    
+    # Relationship
+    product: Product = Relationship(back_populates="source_mappings")
+
+
+# Nutrition models - simple, no timestamps needed
+class NutritionFact(SQLModel, table=True):
+    """Nutrition fact table model - from parsed_ai.json -> nutrition_info_table."""
+    __table_args__ = (UniqueConstraint("product_id", "nutrient"),)
+    
+    id: Optional[int] = Field(default=None, primary_key=True)
+    product_id: int = Field(foreign_key="product.id", index=True)
     nutrient: str = Field(index=True)
     value: float
     unit: str
     rda_percentage: Optional[float] = None
-
-
-class NutritionFact(NutritionFactBase, table=True):
-    """Nutrition fact table model."""
-    id: Optional[int] = Field(default=None, primary_key=True)
-    product_id: int = Field(foreign_key="product.id", index=True)
     
     # Relationships
     product: Product = Relationship(back_populates="nutrition_facts")
 
 
-class NutritionFactPublic(NutritionFactBase):
-    """Nutrition fact public model."""
+class NutritionFactResponse(SQLModel):
+    """Nutrition fact response model."""
     id: int
+    nutrient: str
+    value: float
+    unit: str
+    rda_percentage: Optional[float] = None
 
 
-# Ingredient models
-class IngredientBase(SQLModel):
-    """Base ingredient model."""
-    name: str = Field(index=True)
-    percentage: Optional[float] = None
-    ins_numbers: Optional[str] = None  # JSON string
-    additives: Optional[str] = None  # JSON string
-    is_alarming: bool = Field(default=False, index=True)
-    alarming_reason: Optional[str] = None
-
-
-class Ingredient(IngredientBase, table=True):
-    """Ingredient table model."""
+# Ingredient models - simple, no timestamps needed  
+class Ingredient(SQLModel, table=True):
+    """Ingredient table model - from parsed_ai.json -> parsed_ingredients."""
     id: Optional[int] = Field(default=None, primary_key=True)
     product_id: int = Field(foreign_key="product.id", index=True)
+    name: str = Field(index=True)
+    percentage: Optional[float] = None
+    is_alarming: bool = Field(default=False, index=True)
+    alarming_reason: Optional[str] = None
+    order_index: int = Field(default=0)
+    
+    # JSON fields for arrays (simpler than separate tables)
+    ins_numbers: Optional[str] = None  # JSON array
+    additives: Optional[str] = None  # JSON array
     
     # Relationships
     product: Product = Relationship(back_populates="ingredients")
 
 
-class IngredientPublic(IngredientBase):
-    """Ingredient public model."""
+class IngredientResponse(SQLModel):
+    """Ingredient response model."""
     id: int
+    name: str
+    percentage: Optional[float] = None
+    ins_numbers: List[str] = []
+    additives: List[str] = []
+    is_alarming: bool
+    alarming_reason: Optional[str] = None
+
+
+# Response models - using inheritance to avoid duplication
+class ProductListItem(SQLModel):
+    """Product list item for search results."""
+    id: int
+    name: str
+    display_name: str
+    brand: BrandResponse
+    veg_status: Optional[VegStatus] = None
+    health_rating: Optional[int] = None
+    processing_level: Optional[ProcessingLevel] = None
+    
+    # Pricing (from ProductPricing)
+    mrp: Optional[float] = None
+    store_price: Optional[float] = None
+    offer_price: Optional[float] = None
+    discount_value: Optional[float] = None
+    
+    # Measurements (from ProductMeasurement)
+    quantity: Optional[str] = None
+    weight_in_grams: Optional[float] = None
+    unit_of_measure: Optional[str] = None
+    
+    # Categories
+    sub_category_l3: Optional[str] = None
+    sub_category_l4: Optional[str] = None
+    sub_category_l5: Optional[str] = None
+    
+    # Images
+    primary_image: Optional[str] = None
+
+
+class ProductDetail(ProductListItem):
+    """Complete product details - extends ProductListItem."""
+    primary_source: DataSource
+    primary_external_id: str
+    primary_external_variation_id: Optional[str] = None
+    super_category: SuperCategoryResponse
+    category: CategoryResponse
+    
+    # Extended pricing
+    unit_level_price: Optional[str] = None
+    
+    # Extended measurements
+    volumetric_weight: Optional[float] = None
+    sku_quantity_with_combo: Optional[str] = None
+    
+    # All images
+    images: List[str] = []
+    
+    # Additional info
+    barcode: Optional[str] = None
+    country_of_origin: Optional[str] = None
+    
+    # Nutrition
+    net_quantity_value: Optional[float] = None
+    net_quantity_unit: Optional[str] = None
+    nutrition_serving_value: Optional[float] = None
+    nutrition_serving_unit: Optional[str] = None
+    approx_serves_per_pack: Optional[int] = None
+    ingredients_string: Optional[str] = None
+    
+    # Health & safety
+    storage_instructions: Optional[str] = None
+    cooking_instructions: Optional[str] = None
+    
+    # Related data
+    ingredients: List[IngredientResponse] = []
+    nutrition_facts: List[NutritionFactResponse] = []
+    allergens: List[str] = []
+    certifications: List[str] = []
+    positive_health_aspects: List[str] = []
+    negative_health_aspects: List[str] = []
+    tags: List[str] = []
+    
+    # Timestamps
+    created_at: datetime
+    updated_at: datetime
 
 
 # Authentication models
@@ -213,42 +410,43 @@ class TokenData(SQLModel):
 
 
 # Search and filter models
-class ProductSearchParams(SQLModel):
-    """Product search parameters."""
+class ProductSearchFilter(SQLModel):
+    """Product search and filter parameters."""
     query: Optional[str] = None
     brand_name: Optional[str] = None
-    category: Optional[str] = None
-    super_category: Optional[str] = None
+    barcode: Optional[str] = None
+    super_category_id: Optional[int] = None
+    category_id: Optional[int] = None
+    sub_category_l3: Optional[str] = None
+    sub_category_l4: Optional[str] = None
+    sub_category_l5: Optional[str] = None
     veg_status: Optional[VegStatus] = None
     min_health_rating: Optional[int] = Field(None, ge=0, le=100)
     max_health_rating: Optional[int] = Field(None, ge=0, le=100)
     processing_level: Optional[ProcessingLevel] = None
+    min_price: Optional[float] = None
+    max_price: Optional[float] = None
     sort_by: Optional[str] = Field("name", regex="^(name|price|health_rating|created_at)$")
     sort_order: Optional[str] = Field("asc", regex="^(asc|desc)$")
     limit: int = Field(20, le=100)
     offset: int = Field(0, ge=0)
 
 
-class CategoryInfo(SQLModel):
-    """Category information model."""
-    name: str
-    count: int
-    super_categories: Optional[List[str]] = None
-
-
-class ProductListResponse(SQLModel):
-    """Product list response model."""
-    products: List[ProductPublic]
+class ProductSearchResponse(SQLModel):
+    """Product search response model."""
+    products: List[ProductListItem]
     total: int
     limit: int
     offset: int
+    filters_applied: Optional[ProductSearchFilter] = None
 
 
 class ImageInfo(SQLModel):
     """Image information model."""
     url: str
     filename: str
-    catalog_name: Optional[str] = None
+    path: str
+    is_primary: bool = False
 
 
 class ProductImagesResponse(SQLModel):

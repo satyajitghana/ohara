@@ -5,20 +5,21 @@ from fastapi import APIRouter, Depends, HTTPException, status
 from fastapi.security import OAuth2PasswordRequestForm
 
 from ..database import SessionDep
-from ..models import Token, UserCreate, UserPublic
+from ..models import Token, UserCreate, UserResponse
 from ..auth import (
     ACCESS_TOKEN_EXPIRE_MINUTES,
     authenticate_user,
     create_access_token,
     create_user,
-    get_current_active_user
+    get_current_active_user,
+    get_current_user
 )
 
 
 router = APIRouter(prefix="/auth", tags=["authentication"])
 
 
-@router.post("/register", response_model=UserPublic)
+@router.post("/register", response_model=UserResponse)
 def register_user(user: UserCreate, session: SessionDep):
     """Register a new user."""
     db_user = create_user(
@@ -51,9 +52,21 @@ def login_for_access_token(
     return Token(access_token=access_token, token_type="bearer")
 
 
-@router.get("/me", response_model=UserPublic)
-def read_users_me(
-    current_user: Annotated[UserPublic, Depends(get_current_active_user)],
+@router.post("/refresh", response_model=Token)
+async def refresh_access_token(
+    current_user: Annotated[UserResponse, Depends(get_current_user)],
+):
+    """Refresh access token using existing valid token."""
+    access_token_expires = timedelta(minutes=ACCESS_TOKEN_EXPIRE_MINUTES)
+    access_token = create_access_token(
+        data={"sub": current_user.username}, expires_delta=access_token_expires
+    )
+    return Token(access_token=access_token, token_type="bearer")
+
+
+@router.get("/me", response_model=UserResponse)
+async def read_users_me(
+    current_user: Annotated[UserResponse, Depends(get_current_active_user)],
 ):
     """Get current user information."""
     return current_user

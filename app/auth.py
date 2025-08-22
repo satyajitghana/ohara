@@ -10,7 +10,7 @@ import jwt
 from jwt.exceptions import InvalidTokenError
 
 from .database import SessionDep
-from .models import User, UserPublic, TokenData
+from .models import User, UserResponse, TokenData
 
 
 # Configuration

@@ -7,8 +7,9 @@ from fastapi import APIRouter, HTTPException, Response, Depends
 from fastapi.responses import FileResponse
 
 from ..database import SessionDep
-from ..models import Product, ProductImagesResponse, ImageInfo
+from ..models import Product, ProductImagesResponse, ImageInfo, ProductImage
 from ..auth import get_current_active_user
+from sqlmodel import select
 
 router = APIRouter(prefix="/images", tags=["images"])
 
@@ -68,33 +69,17 @@ def get_product_images(
     if not product:
         raise HTTPException(status_code=404, detail="Product not found")
     
+    # Get product images from the ProductImage table
+    image_statement = select(ProductImage).where(ProductImage.product_id == product_id).order_by(ProductImage.order_index)
+    product_images = session.exec(image_statement).all()
+    
     images = []
-    
-    # Parse image paths and catalog images
-    image_paths = []
-    catalog_images = []
-    
-    if product.image_paths:
-        try:
-            image_paths = json.loads(product.image_paths)
-        except json.JSONDecodeError:
-            pass
-    
-    if product.catalog_images:
-        try:
-            catalog_images = json.loads(product.catalog_images)
-        except json.JSONDecodeError:
-            pass
-    
-    # Create image info objects
-    for i, image_path in enumerate(image_paths):
-        filename = Path(image_path).name
-        catalog_name = catalog_images[i] if i < len(catalog_images) else None
-        
+    for img in product_images:
         images.append(ImageInfo(
-            url=f"/images/{image_path}",
-            filename=filename,
-            catalog_name=catalog_name
+            url=f"/images/{img.filename}",
+            filename=img.filename,
+            path=img.filename,  # Using filename as path since we store the relative path
+            is_primary=img.is_primary
         ))
     
     return ProductImagesResponse(
