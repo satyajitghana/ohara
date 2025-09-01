@@ -82,7 +82,19 @@ CRITICAL INSTRUCTIONS:
         - `alarming_reason`: Detailed explanation of health concerns
 
 5.  **Health Rating System - GRANULAR 1-POINT SCORING**:
-    *   **START WITH BASE SCORE: 100 POINTS** (then add/deduct based on specific ingredients and nutritional content)
+    *   **CRITICAL - ALWAYS START WITH THE BASE SCORE**: The first step of your explanation MUST state the starting score based on the NOVA classification below. Do not start all products at 100.
+    *   **BASE SCORE BASED ON PROCESSING (NOVA Classification)**:
+        - **NOVA Group 1 (Unprocessed/Minimally Processed)**: Start with 100 points (e.g., fresh vegetables, whole grains).
+        - **NOVA Group 2 (Processed Culinary Ingredients)**: Start with 95 points (e.g., oils, butter, sugar).
+        - **NOVA Group 3 (Processed Foods)**: Start with 90 points (e.g., canned foods, simple breads, cheese).
+        - **NOVA Group 4 (Ultra-Processed Foods)**: Start with 80 points (e.g., sodas, sugary cereals, pre-packaged meals).
+        *   Then add/deduct from this base score.
+    
+    *   **CRITICAL SCORING RULE FOR PROCESSED FOODS**: For **NOVA Group 3 and 4 foods**, bonuses for *lacking* negative attributes (e.g., low sugar, low sodium, low fat) are **halved**. These products are avoiding harm, not providing positive nutrition. Bonuses for the *presence* of beneficial ingredients (e.g., high fiber, protein, vitamins, whole grains) remain at full value.
+    
+    *   **HARD CAP & REDEMPTION CLAUSE**: 
+        - If a product contains **3 or more** distinct additives from the 'HARMFUL INGREDIENT DEDUCTIONS' or 'ARTIFICIAL SWEETENER DEDUCTIONS' lists, the final score is **capped at 59 (Poor)**. This rule *also* includes flavor enhancers (E621, E635) and industrial acidity regulators (E510, E338). 
+        - **Redemption**: The score can be redeemed to a maximum of **69 (Fair)** ONLY IF the product has **outstanding nutritional properties**: (e.g., >10g protein AND >10g fiber, OR is certified Organic, OR >50% content is whole foods like nuts/grains).
     
     *   **MAJOR CARCINOGEN DEDUCTIONS (-20 to -40 points)**:
         - Sodium Nitrite (E250): -25 points
@@ -108,8 +120,7 @@ CRITICAL INSTRUCTIONS:
         - **Vanaspati**: -15 points
         - **Partially Hydrogenated Oils**: -20 points
         - **Monosodium Glutamate (MSG)**: -6 points
-        - **Artificial Vanilla/Vanillin**: -3 points
-        - **Artificial Flavors (general)**: -4 points
+        - **Artificial / Natural / Nature-Identical Flavors**: -5 points (treat all non-spice flavorings as a sign of processing)
         - **Corn Syrup**: -8 points
         - **Glucose-Fructose Syrup**: -9 points
         - **Invert Sugar**: -7 points
@@ -164,6 +175,7 @@ CRITICAL INSTRUCTIONS:
         - **Sodium >1200mg**: -20 points
     
     *   **SATURATED FAT DEDUCTIONS (per 100g)**:
+        - **NUANCE**: For traditional fats like **Ghee, Butter, and Cold-Pressed Oils**, these deductions are **halved**.
         - **Saturated Fat 3-5g**: -1 point
         - **Saturated Fat 5-10g**: -3 points
         - **Saturated Fat 10-15g**: -6 points
@@ -181,6 +193,7 @@ CRITICAL INSTRUCTIONS:
         - **Ultra-pasteurized**: -3 points
     
     *   **ENERGY DENSITY ASSESSMENT (per 100g)** - Critical for Weight Management:
+        - **NUANCE**: If the high energy density is primarily from **whole food sources** like nuts, seeds, or cold-pressed oils, the point deduction is **halved**.
         - **Very Low Energy (0-80 kcal)**: +8 points (vegetables, low-cal products)
         - **Low Energy (80-160 kcal)**: +4 points (lean proteins, some fruits)
         - **Moderate Energy (160-280 kcal)**: +1 point (balanced foods)
@@ -191,6 +204,7 @@ CRITICAL INSTRUCTIONS:
     *   **BENEFICIAL INGREDIENT ADDITIONS**:
         - **Organic Certification**: +8 points
         - **Whole Grains (durum wheat, multigrain)**: +6 points (like pasta examples)
+        - **A2 Ghee / Bilona Ghee**: +4 points (marker of higher quality ghee)
         - **Omega-3 fatty acids**: +7 points
         - **Omega-6 fatty acids (balanced)**: +3 points
         - **Probiotics (live cultures)**: +5 points
