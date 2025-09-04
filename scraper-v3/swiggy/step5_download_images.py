@@ -16,6 +16,12 @@ from typing import Dict, Any, List, Optional
 from PIL import Image
 import io
 
+from rich.console import Console
+from rich.progress import Progress, TaskID, BarColumn, TextColumn, TimeElapsedColumn, TimeRemainingColumn
+from rich.table import Table
+from rich.panel import Panel
+from rich.text import Text
+
 # Add the current directory to Python path for imports
 sys.path.append(str(Path(__file__).parent))
 
@@ -29,13 +35,14 @@ from utils.common import (
 class ImageDownloader:
     """Handles downloading and validation of product images."""
     
-    def __init__(self):
+    def __init__(self, console: Console):
         config = load_config()
         self.base_url = config['api']['media_assets_base_url']
         self.session = None
         self.downloaded_count = 0
         self.failed_count = 0
         self.skipped_count = 0
+        self.console = console
         
     async def __aenter__(self):
         """Async context manager entry."""
@@ -93,8 +100,7 @@ class ImageDownloader:
             img = Image.open(io.BytesIO(image_data))
             img.verify()  # Verify the image integrity
             return True
-        except Exception as e:
-            print(f"    ❌ Image validation failed: {e}")
+        except Exception:
             return False
     
     async def download_image(self, image_path: str, save_path: Path) -> bool:
@@ -103,7 +109,6 @@ class ImageDownloader:
         Returns True if successful, False otherwise.
         """
         if save_path.exists():
-            print(f"    ⏭️ Image already exists: {save_path.name}")
             self.skipped_count += 1
             return True
         
@@ -111,14 +116,12 @@ class ImageDownloader:
         url = f"{self.base_url}{image_path}"
         
         try:
-            print(f"    📥 Downloading: {url}")
             async with self.session.get(url) as response:
                 if response.status == 200:
                     image_data = await response.read()
                     
                     # Validate the image
                     if not self.validate_image(image_data):
-                        print(f"    ❌ Invalid image data from: {url}")
                         self.failed_count += 1
                         return False
                     
@@ -126,20 +129,17 @@ class ImageDownloader:
                     async with aiofiles.open(save_path, 'wb') as f:
                         await f.write(image_data)
                     
-                    print(f"    ✅ Saved: {save_path.name}")
                     self.downloaded_count += 1
                     return True
                 else:
-                    print(f"    ❌ HTTP {response.status} for: {url}")
                     self.failed_count += 1
                     return False
                     
-        except Exception as e:
-            print(f"    ❌ Error downloading {url}: {e}")
+        except Exception:
             self.failed_count += 1
             return False
     
-    async def download_product_images(self, product_data: Dict[str, Any], product_dir: Path) -> Dict[str, Any]:
+    async def download_product_images(self, product_data: Dict[str, Any], product_dir: Path, progress: Progress, task_id: TaskID) -> Dict[str, Any]:
         """
         Download all images for a product and update the data.
         Returns updated product data with local image paths.
@@ -148,7 +148,6 @@ class ImageDownloader:
         images = product_data.get('images', [])
         
         if not images:
-            print(f"  ℹ️ No images found for product {product_id}")
             return product_data
         
         # Create images directory
@@ -170,8 +169,9 @@ class ImageDownloader:
             if success:
                 downloaded_images.append(filename)
                 successful_downloads += 1
-            else:
-                print(f"    ⚠️ Failed to download image {i+1}/{len(images)}")
+            
+            # Update progress
+            progress.update(task_id, advance=1)
         
         # Update product data with local image paths
         updated_data = product_data.copy()
@@ -183,7 +183,6 @@ class ImageDownloader:
             'failed_images': len(images) - successful_downloads
         }
         
-        print(f"  📊 Images: {successful_downloads}/{len(images)} downloaded successfully")
         return updated_data
 
 
@@ -197,7 +196,7 @@ def load_product_data(product_file: Path) -> Optional[Dict[str, Any]]:
         return None
 
 
-async def process_single_product(product_dir: Path, downloader: ImageDownloader) -> bool:
+async def process_single_product(product_dir: Path, downloader: ImageDownloader, progress: Progress, task_id: TaskID, console: Console) -> bool:
     """
     Process a single product directory to download images.
     Returns True if processing was successful.
@@ -206,7 +205,7 @@ async def process_single_product(product_dir: Path, downloader: ImageDownloader)
     data_file = product_dir / "data.json"
     
     if not data_file.exists():
-        print(f"⚠️ No data.json found for product {product_id}")
+        console.log(f"[yellow]⚠️ No data.json found for product {product_id}[/yellow]")
         return False
     
     # Load product data
@@ -216,18 +215,15 @@ async def process_single_product(product_dir: Path, downloader: ImageDownloader)
     
     # Check if images already fetched (resumable)
     if product_data.get('images_fetched', False):
-        print(f"⏭️ Images already fetched for product {product_id}")
         downloader.skipped_count += len(product_data.get('images', []))
+        progress.update(task_id, advance=len(product_data.get('images', [])))
         return True
     
-    print(f"🖼️ Processing images for product {product_id}")
-    
     # Download images and update data
-    updated_data = await downloader.download_product_images(product_data, product_dir)
+    updated_data = await downloader.download_product_images(product_data, product_dir, progress, task_id)
     
     # Save updated data
     save_json(updated_data, data_file)
-    print(f"💾 Updated data.json for product {product_id}")
     
     return True
 
@@ -236,8 +232,10 @@ async def process_all_products(products_dir: Path, max_concurrent: int = 5) -> D
     """
     Process all products to download images with concurrency control.
     """
+    console = Console()
+    
     if not products_dir.exists():
-        print(f"❌ Products directory not found: {products_dir}")
+        console.print(f"[red]❌ Products directory not found: {products_dir}[/red]")
         return {}
     
     # Get all product directories
@@ -245,44 +243,69 @@ async def process_all_products(products_dir: Path, max_concurrent: int = 5) -> D
     total_products = len(product_dirs)
     
     if total_products == 0:
-        print("❌ No products found with data.json files")
+        console.print("[red]❌ No products found with data.json files[/red]")
         return {}
     
-    print(f"📁 Found {total_products} products to process")
+    console.print(f"[green]📁 Found {total_products} products to process[/green]")
     
-    # Process products with concurrency control
-    async with ImageDownloader() as downloader:
-        semaphore = asyncio.Semaphore(max_concurrent)
-        
-        async def process_with_semaphore(product_dir):
-            async with semaphore:
-                return await process_single_product(product_dir, downloader)
-        
-        # Process all products
-        results = await asyncio.gather(
-            *[process_with_semaphore(product_dir) for product_dir in product_dirs],
-            return_exceptions=True
-        )
-        
-        # Calculate statistics
-        successful_products = sum(1 for result in results if result is True)
-        failed_products = total_products - successful_products
-        
-        stats = {
-            'total_products': total_products,
-            'successful_products': successful_products,
-            'failed_products': failed_products,
-            'total_images_downloaded': downloader.downloaded_count,
-            'total_images_failed': downloader.failed_count,
-            'total_images_skipped': downloader.skipped_count
-        }
-        
-        return stats
+    # Calculate total images to download
+    total_images = 0
+    for product_dir in product_dirs:
+        data_file = product_dir / "data.json"
+        product_data = load_product_data(data_file)
+        if product_data and not product_data.get('images_fetched', False):
+            total_images += len(product_data.get('images', []))
+    
+    console.print(f"[cyan]🖼️ Total images to download: {total_images}[/cyan]")
+    
+    # Process products with concurrency control and progress bar
+    async with ImageDownloader(console) as downloader:
+        with Progress(
+            TextColumn("[progress.description]{task.description}"),
+            BarColumn(),
+            TextColumn("[progress.percentage]{task.percentage:>3.0f}%"),
+            TextColumn("({task.completed}/{task.total})"),
+            TimeElapsedColumn(),
+            TimeRemainingColumn(),
+            console=console
+        ) as progress:
+            
+            # Create progress task
+            task_id = progress.add_task("Downloading images...", total=total_images)
+            
+            semaphore = asyncio.Semaphore(max_concurrent)
+            
+            async def process_with_semaphore(product_dir):
+                async with semaphore:
+                    return await process_single_product(product_dir, downloader, progress, task_id, console)
+            
+            # Process all products
+            results = await asyncio.gather(
+                *[process_with_semaphore(product_dir) for product_dir in product_dirs],
+                return_exceptions=True
+            )
+            
+            # Calculate statistics
+            successful_products = sum(1 for result in results if result is True)
+            failed_products = total_products - successful_products
+            
+            stats = {
+                'total_products': total_products,
+                'successful_products': successful_products,
+                'failed_products': failed_products,
+                'total_images_downloaded': downloader.downloaded_count,
+                'total_images_failed': downloader.failed_count,
+                'total_images_skipped': downloader.skipped_count
+            }
+            
+            return stats
 
 
 def main():
     """Main function to download images for all products."""
-    print("🚀 Starting Image Download (Step 5)...")
+    console = Console()
+    
+    console.print(Panel.fit("🚀 Starting Image Download (Step 5)", style="bold blue"))
     
     try:
         # Load configuration
@@ -291,32 +314,38 @@ def main():
         products_dir = responses_dir / "products"
         
         if not products_dir.exists():
-            print(f"❌ Products directory not found: {products_dir}")
-            print("   Please run step4_extract_products.py first.")
+            console.print(f"[red]❌ Products directory not found: {products_dir}[/red]")
+            console.print("[yellow]   Please run step4_extract_products.py first.[/yellow]")
             return 1
         
         # Start processing
-        print(f"📁 Processing products from: {products_dir}")
+        console.print(f"[green]📁 Processing products from: {products_dir}[/green]")
         stats = asyncio.run(process_all_products(products_dir, max_concurrent=5))
         
         if not stats:
             return 1
         
-        # Print final summary
-        print(f"\n🎉 Image download completed!")
-        print(f"📊 Final Statistics:")
-        print(f"   Products processed: {stats['successful_products']}/{stats['total_products']}")
-        print(f"   Images downloaded: {stats['total_images_downloaded']}")
-        print(f"   Images failed: {stats['total_images_failed']}")
-        print(f"   Images skipped: {stats['total_images_skipped']}")
+        # Create final summary table
+        table = Table(title="📊 Final Statistics", show_header=True, header_style="bold magenta")
+        table.add_column("Metric", style="cyan", no_wrap=True)
+        table.add_column("Value", style="white")
+        
+        table.add_row("Products processed", f"{stats['successful_products']}/{stats['total_products']}")
+        table.add_row("Images downloaded", f"{stats['total_images_downloaded']:,}")
+        table.add_row("Images failed", f"{stats['total_images_failed']:,}")
+        table.add_row("Images skipped", f"{stats['total_images_skipped']:,}")
         
         if stats['failed_products'] > 0:
-            print(f"⚠️  Failed products: {stats['failed_products']}")
+            table.add_row("Failed products", f"[red]{stats['failed_products']}[/red]")
+        
+        console.print("\n")
+        console.print(table)
+        console.print(Panel.fit("🎉 Image download completed!", style="bold green"))
         
         return 0
         
     except Exception as e:
-        print(f"❌ Unexpected error: {e}")
+        console.print(f"[red]❌ Unexpected error: {e}[/red]")
         import traceback
         traceback.print_exc()
         return 1
