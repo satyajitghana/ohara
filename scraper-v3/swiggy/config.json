@@ -3,7 +3,8 @@
 		"base_url": "https://www.swiggy.com/api/instamart",
 		"home_endpoint": "/home/v2",
 		"category_listing_endpoint": "/category-listing",
-		"category_listing_filter_endpoint": "/category-listing/filter"
+		"category_listing_filter_endpoint": "/category-listing/filter",
+		"media_assets_base_url": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/"
 	},
 	"stores": {
 		"default": {
