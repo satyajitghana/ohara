@@ -1,0 +1,112 @@
+{
+	"api": {
+		"base_url": "https://www.swiggy.com/api/instamart",
+		"home_endpoint": "/home/v2",
+		"category_listing_endpoint": "/category-listing",
+		"category_listing_filter_endpoint": "/category-listing/filter"
+	},
+	"stores": {
+		"default": {
+			"store_id": "1392080",
+			"primary_store_id": "1392080",
+			"secondary_store_id": "1396284",
+			"layout_id": "4987"
+		},
+		"bangalore_hsr": {
+			"store_id": "1392080",
+			"primary_store_id": "1392080",
+			"secondary_store_id": "1396284",
+			"layout_id": "4987",
+			"description": "HSR Layout, Bangalore"
+		}
+	},
+	"scraping": {
+		"max_concurrent_categories": 20,
+		"max_concurrent_filters": 10,
+		"max_retries": 15,
+		"max_category_retries": 5,
+		"max_filter_retries": 10,
+		"max_scroll_loops": 20,
+		"retry_delay_seconds": 3,
+		"category_retry_delay_seconds": 5,
+		"filter_retry_delay_seconds": 5,
+		"batch_delay_seconds": 5,
+		"filter_batch_delay_seconds": 20,
+		"scroll_delay_seconds": 3,
+		"api_wait_seconds": 4,
+		"final_wait_seconds": 2
+	},
+	"timeouts": {
+		"page_load_timeout": 60000,
+		"initial_state_timeout": 30000,
+		"api_request_timeout": 30
+	},
+	"output": {
+		"base_directory": "responses-v4",
+		"categories_subdirectory": "categories",
+		"home_api_filename": "playwright-swiggy-home.json",
+		"raw_home_api_filename": "playwright-swiggy-home-raw.json"
+	},
+	"headers": {
+		"accept": "*/*",
+		"accept-language": "en-US,en;q=0.9",
+		"content-type": "application/json",
+		"if-none-match": "W/\"164b5-oWiVsm21fZmyX1LgyDJsBPspc3A\"",
+		"matcher": "acb7f8ecdf99dbe79bg9c8b",
+		"priority": "u=1, i",
+		"referer": "https://www.swiggy.com/instamart",
+		"sec-fetch-dest": "empty",
+		"sec-fetch-mode": "cors",
+		"sec-fetch-site": "same-origin",
+		"user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+		"x-build-version": "2.292.0"
+	},
+	"cookies": {
+		"__SW": "q2ozkEoBpNOUZGtU2zOzErGUlW5fJX49",
+		"_device_id": "a6d1fc28-603d-a959-7185-dc042f63e01e",
+		"fontsLoaded": "1",
+		"_gcl_au": "1.1.304394544.1756804512",
+		"_gid": "GA1.2.584754363.1756804512",
+		"dadl": "true",
+		"application_name": "",
+		"category": "",
+		"x-channel": "",
+		"x-theme": "",
+		"_swuid": "a6d1fc28-603d-a959-7185-dc042f63e01e",
+		"_ga_34JYJ0BCRN": "GS2.1.s1756804512$o1$g1$t1756804539$j33$l0$h0",
+		"_ga_YE38MFJRBZ": "GS2.1.s1756804512$o1$g1$t1756804539$j33$l0$h0",
+		"deliveryAddressId": "",
+		"deviceId": "s%3Aa6d1fc28-603d-a959-7185-dc042f63e01e.6HZLM5jn8OjHX%2FYfrs8hPanxyoluYsnKrWzPaWf8WK8",
+		"tid": "s%3A090e3d33-18ec-4656-b66a-0b3f790cf1b9.kllo01piwvWwaZ0nVennWDyK9qsysll9TOUJpo62pF0",
+		"versionCode": "1200",
+		"platform": "web",
+		"statusBarHeight": "0",
+		"bottomOffset": "0",
+		"genieTrackOn": "false",
+		"ally-on": "false",
+		"isNative": "false",
+		"strId": "",
+		"openIMHP": "false",
+		"lat": "s%3A12.9110344.e9lmVysp87FnZ0lB3AWtxWOAY8BMM8lvVj3uVRKsFK0",
+		"lng": "s%3A77.6307796.DBFQyCGUQGExTPxJokHfTZnJaC3Q%2FSh7U%2Fiw%2BZnR0RI",
+		"address": "s%3AGround%20Floor%2C%20Site%20No.%2071%2C%202%20%26%2071%2F2A%2C%203rd%20Main%20Rd%2C.faH9NrbWswNmkpVzQDPHl3X60Ba3Gtj%2FB3k2Pzs2fu8",
+		"addressId": "s%3A.4Wx2Am9WLolnmzVcU32g6YaFDw0QbIBFRj2nkO7P25s",
+		"LocSrc": "s%3AswgyUL.Dzm1rLPIhJmB3Tl2Xs6141hVZS0ofGP7LGmLXgQOA7Y",
+		"_fbp": "fb.1.1756804554438.620488998775308354",
+		"sid": "s%3Amn22bc5f-8300-4eff-9c7d-b1c06f9bc973.HxJgwL%2BYenDSQt%2FqwqLoPDnfKN%2BJnWRQpPNDLzlnEe0",
+		"subplatform": "mweb",
+		"_guest_tid": "51220a95-395d-4164-92f3-61aeaa48cbe7",
+		"_is_logged_in": "",
+		"_sid": "mn7bb846-ff7f-48b4-baeb-e4485b94d8cd",
+		"AMP_TOKEN": "%24NOT_FOUND",
+		"_ga_X3K3CELKLV": "GS2.1.s1756821263$o2$g0$t1756821264$j59$l0$h0",
+		"userLocation": "%7B%22address%22%3A%22Ground%20Floor%2C%20Site%20No.%2071%2C%202%20%26%2071%2F2A%2C%203rd%20Main%20Rd%2C%20Phase%203%2C%207th%20Sector%2C%20HSR%20Layout%2C%20Bengaluru%2C%20Karnataka%20560102%2C%20India%22%2C%22lat%22%3A12.9110344%2C%22lng%22%3A77.6307796%2C%22id%22%3A%22%22%2C%22annotation%22%3A%22%22%2C%22name%22%3A%22%22%7D",
+		"_ga": "GA1.1.1791705685.1756804512",
+		"isImBottomBarXpEnabled": "s%3Atrue.e48T%2B1OIqhnOplwfDLfBpm6ciWJemq9CxKQOhhXd4VA",
+		"webBottomBarHeight": "64",
+		"_ga_VEG1HFE5VZ": "GS2.1.s1756814614$o2$g1$t1756822646$j52$l0$h0",
+		"_ga_0XZC5MS97H": "GS2.1.s1756814614$o2$g1$t1756822646$j52$l0$h0",
+		"_ga_8N8XRG907L": "GS2.1.s1756814614$o2$g1$t1756822646$j52$l0$h0",
+		"aws-waf-token": "ce88556a-3204-4b78-99d9-0c51074aa9b6:HgoAgGRje0IBAQAA:la3bhbtNNhYwO2foPDJ3CLn6jag7KEkr2fqRq8WQYU/xLZR7wrKstsP57uyrRXXtMmJj60lkVNoiJ/JBlnMn6ABGdd29V2XWTFHORUTdccjFvcs1XbYXoyvHS6sqiU9MYAdkvuSVGwbHA8w17x5YQNki2361Tvg8C0pyYp+5mGCXaM7+MzJelr0nSpmACeHqrQsBeTinrCMijKnHw9fHBZ2eWlC2CBtSR3PgX9tqHI2lhXUSYrMaSrA3awNJAzY="
+	}
+}

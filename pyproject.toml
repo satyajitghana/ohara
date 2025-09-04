@@ -5,10 +5,12 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12, <3.13"
 dependencies = [
+    "beautifulsoup4>=4.13.5",
     "fastapi[standard]>=0.116.1",
     "google-genai>=1.31.0",
     "httpx[socks]>=0.28.1",
     "passlib>=1.7.4",
+    "playwright>=1.55.0",
     "pydantic>=2.11.7",
     "pyjwt>=2.10.1",
     "pytesseract>=0.3.13",

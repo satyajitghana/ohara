@@ -1,0 +1,80 @@
+{
+	"gemini_api_key": "AIzaSyAgLB6adBbLViKckDPoTnDMj1P3MDvLsvg",
+	"swiggy": {
+		"api": {
+			"base_url": "https://www.swiggy.com/api/instamart",
+			"image_base_url": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/",
+			"headers": {
+				"accept": "*/*",
+				"accept-language": "en-GB,en;q=0.9,en-US;q=0.8,hi;q=0.7",
+				"cache-control": "no-cache",
+				"content-type": "application/json",
+				"dnt": "1",
+				"matcher": "cfa978ecdeaedbb8a9g8bgf",
+				"pragma": "no-cache",
+				"priority": "u=1, i",
+				"referer": "https://www.swiggy.com/instamart/category-listing",
+				"sec-fetch-dest": "empty",
+				"sec-fetch-mode": "cors",
+				"sec-fetch-site": "same-origin",
+				"user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1",
+				"x-build-version": "2.292.0",
+				"cookie": "_device_id=fbdc0509-56de-ad55-b73e-27f6093d1f9f; __SW=jqjr2sWFbgPaKRHn45ozwj7tpgC7m8tf; _swuid=fbdc0509-56de-ad55-b73e-27f6093d1f9f; _cid=MTEzNzk0NDA%3D; fontsLoaded=1; _gcl_au=1.1.64566381.1755607930; deviceId=s%3Afbdc0509-56de-ad55-b73e-27f6093d1f9f.59m%2FBNnESZPfi8UWx0plBXN3PBV%2FKJn3aO32eu2daMo; versionCode=1200; platform=web; statusBarHeight=0; bottomOffset=0; genieTrackOn=false; isNative=false; openIMHP=false; addressId=s%3A.4Wx2Am9WLolnmzVcU32g6YaFDw0QbIBFRj2nkO7P25s; _session_tid=8d26b32ac31d9664456ff0fb865cd47d7f03b393bad498a520863873220d630ff2c83457eb37a5d6e877cab98ac5becabf1ca5e771f8e498591a891722aa7b81d8db44da036dbc3fbdbde365cb99c6371b87fd177c3855d2fa1b2cbef16a4350c77ca6824301ebe9e5c1141c4789e123; tid=s%3Ab73445a6-aae3-4f89-9ab3-880d4198b6dc.cJQJm1L8iN4bAq7TpWZM31SIWkqd3uT2rprVrjx79Ps; isImBottomBarXpEnabled=s%3Atrue.e48T%2B1OIqhnOplwfDLfBpm6ciWJemq9CxKQOhhXd4VA; _is_logged_in=1; _gid=GA1.2.910753999.1756724337; dadl=true; ally-on=false; strId=; lat=s%3A12.9108466.418HfZNQLve4nx%2Bsru31cLn724QwXKgb8%2FHwuoNznxc; lng=s%3A77.63088080000001.HM1OsRmRZl7Cc7O7EvmNzA5BWN4%2FuS6WkIgseZ5c2RQ; address=s%3APhase%203%2C%20HSR%20Layout%2C%20Bengaluru%2C%20Karnataka%2C%20India.7uTm6YOkCiZ9u%2BhLZO9wIsIQxINkqexleYl0AGxyx1k; LocSrc=s%3AswgyUL.Dzm1rLPIhJmB3Tl2Xs6141hVZS0ofGP7LGmLXgQOA7Y; sid=s%3Ammk79355-8303-4aa8-b496-d8baa0145e17.rGpIO%2FeoaY1sZLO1bhhhQR677epZroJdbP9o5IHVLNc; _sid=mmk79355-8303-4aa8-b496-d8baa0145e17; subplatform=mweb; userLocation=%7B%22address%22%3A%22Phase%203%2C%20HSR%20Layout%2C%20Bengaluru%2C%20Karnataka%2C%20India%22%2C%22lat%22%3A12.9108466%2C%22lng%22%3A77.63088080000001%2C%22id%22%3A%22%22%2C%22annotation%22%3A%22%22%2C%22name%22%3A%22%22%7D; webBottomBarHeight=64; _ga_YE38MFJRBZ=GS2.1.s1756737554$o4$g1$t1756737565$j49$l0$h0; _ga_34JYJ0BCRN=GS2.1.s1756737554$o4$g1$t1756737565$j49$l0$h0; _ga=GA1.1.1900939893.1755607930; aws-waf-token=b0cdc2bb-e8c9-4129-9490-295a562e2229:HgoAtjZm/EQuAAAA:9Rvt0Gp29YLNFa4u024kJ6wXG3NCPOXrTo2wgDeiyPlnjtfFacksTs8ums46d9R0xiEy4kSBf5oULqgxflIO3t1Z0oxGT8oog7PysU/8sDHTn5VLe3AOIgvLNkTTmhlZQEwzrximTXRpqjFWbWaHYCMDAQv/1bEkVhdKr6Jic+bR7J+adlcIyWOhYsDe+8s3NzEHmm11GwNHX4KKa1v4Nq6WkFgiXlC4TAMMzlkJqjuGNjipzqsaSEMsUC0=; _ga_8N8XRG907L=GS2.1.s1756737552$o5$g1$t1756737637$j60$l0$h0; _ga_0XZC5MS97H=GS2.1.s1756737552$o5$g1$t1756737637$j60$l0$h0; _ga_VEG1HFE5VZ=GS2.1.s1756737552$o5$g1$t1756737637$j60$l0$h0"
+			},
+			"timeout": 30.0,
+			"download_timeout": 20.0,
+			"concurrency_limit": 10
+		},
+		"default_params": {
+			"offset": "1",
+			"layoutId": "4987",
+			"storeId": "1313712",
+			"primaryStoreId": "1313712",
+			"secondaryStoreId": "",
+			"clientId": "INSTAMART-APP"
+		},
+		"directories": {
+			"responses": "responses",
+			"raw": "responses/raw",
+			"listings": "responses/listings",
+			"errors": "responses/errors",
+			"scraped_data": "scraped_data-v2"
+		},
+		"categories_to_process": [
+			"Biscuits_and_Cakes.json",
+			"Cereals_and_Breakfast.json",
+			"Chips_and_Namkeens.json",
+			"Chocolates.json",
+			"Cold_Drinks_and_Juices.json",
+			"Dairy,_Bread_and_Eggs.json",
+			"Dry_Fruits_and_Seeds_Mix.json",
+			"Frozen_Food.json",
+			"Ice_Creams_and_Frozen_Desserts.json",
+			"Meat_and_Seafood.json",
+			"Masalas.json",
+			"Noodles,_Pasta,_Vermicelli.json",
+			"Oils_and_Ghee.json",
+			"Protein_and_Supplements.json",
+			"Sauces_and_Spreads.json",
+			"Sweets.json",
+			"Tea,_Coffee_and_Milk_drinks.json"
+		]
+	},
+	"ai_processor": {
+		"api": {
+			"model": "gemini-2.5-flash",
+			"max_retries": 3,
+			"timeout": 30
+		},
+		"processing": {
+			"num_processes": 50,
+			"skip_existing": true,
+			"enable_ocr": false
+		},
+		"directories": {
+			"scraped_data": "scraped_data",
+			"ai_output": "ai_processed",
+			"logs": "logs"
+		}
+	}
+}
